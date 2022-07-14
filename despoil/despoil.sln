@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "despoil", "despoil.csproj", "{E175DCA6-DABF-4543-B5F8-AF14C90E1AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E175DCA6-DABF-4543-B5F8-AF14C90E1AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E175DCA6-DABF-4543-B5F8-AF14C90E1AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E175DCA6-DABF-4543-B5F8-AF14C90E1AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E175DCA6-DABF-4543-B5F8-AF14C90E1AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB7846B8-22D1-46E7-9A89-4F5CBA67ECF4}
+	EndGlobalSection
+EndGlobal
