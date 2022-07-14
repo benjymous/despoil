@@ -11,9 +11,26 @@ setCustomStyle = function (customStyle) {
   document.head.appendChild(lk);
 };
 
+showAll = function() {
+  setAllIssues(true)
+}
+
+showNone = function() {
+  setAllIssues(false)
+}
+
+setAllIssues = function(enabled) {
+  const boxes = document.getElementsByClassName("check_issue")
+  for (const box of boxes)
+  {
+    box.checked = enabled
+    const name = box.id.replace("check_issue_","");
+    setChecked("check_issue_",name);
+  }
+}
+
 setChecked = function (prefix, name) {
   const checkBox = document.getElementById(prefix + name);
-  //console.log(checkBox, checkBox.checked)
   const boxes = document.getElementsByClassName(name);
   for (const box of boxes) {
     if (checkBox.checked) {
@@ -37,7 +54,6 @@ setChecked = function (prefix, name) {
 
 setPushed = function (name) {
   const checkBox = document.getElementById("check_" + name);
-  //console.log(checkBox, checkBox.checked)
   const boxes = document.getElementsByClassName(name);
   for (const box of boxes) {
     if (checkBox.checked) {
@@ -52,10 +68,7 @@ setPushed = function (name) {
 
 setChildren = function (name) {
   const checkBox = document.getElementById("check_" + name);
-  console.log(checkBox, checkBox.checked)
-  console.log(checkBox.dataset.children)
   const items = checkBox.dataset.children.split(",")
-  console.log(items)
 
   for (const item in items) {
     const child = document.getElementById("check_thread_" + items[item])
@@ -66,23 +79,18 @@ setChildren = function (name) {
 
 setParents = function (name) {
   const rootChecks = document.getElementsByClassName("checkroot")
-  console.log(rootChecks)
 
   for (const checkBox of rootChecks) {
-    //const checkBox = rootChecks[checkIdx]
     const childNames = checkBox.dataset.children.split(",")
     if (childNames.indexOf(name) != -1) {
-      console.log("==>", checkBox, name)
 
       var checkCount = 0
       for (const child of childNames) {
-        console.log(child)
         const childCheck = document.getElementById("check_thread_" + child)
         if (childCheck.checked) {
           checkCount++;
         }
       }
-      console.log(checkCount, "children checked")
 
       if (checkCount == childNames.length) {
         checkBox.indeterminate = false

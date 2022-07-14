@@ -7,10 +7,10 @@ Vol  1: Preludes and Nocturnes, Book 1
 # <Unity Kincaid> falls deep asleep
 ## 1920: <John Hathaway> commits suicide 
 ## 1926: <Alexander Burgess> learns <Dream>'s identity
-## 1930: <Ruthven Sykes> trades <Dream>'s <Helm> with a demon for a magical <Amulet>
-## 1936: <Ruthven Sykes> and <Ethel Cripps> steal <Dream>'s remailing artefacts, and the <Amulet>
-# <Ruthven Sykes> dies
-## 1939.1: <Unity Kincaid> gives birth - the baby is adopted
+## 1930: <Ruthven Sykes> trades <Dream>'s <Helm|Helmet of Dreams> with a demon for a magical <Amulet>
+## 1936: <Sykes|Ruthven Sykes> and <Ethel Cripps> steal <Dream>'s remailing artefacts, and the <Amulet>
+# <Sykes> dies
+## 1939.1: <Unity|Unity Kincaid> gives birth - the baby is adopted
 # <Wesley Dodds> - Golden age Sandman
 ## 1947: <Roderick Burgess> dies
 ## 1955: <Unity Kincaid> put into a nursing home when her parents die
@@ -21,7 +21,7 @@ Vol  1: Preludes and Nocturnes, Book 1
 ## 1978: <Alexander Burgess> tells <Dream> he hasn't had a good night's sleep in decades
 ## 1982: <Alexander Burgess> threatens <Dream>
 ## 1988: <Alexander Burgess> accidentally releases <Dream>
-# <Unity Kincaid> awakens
+# <Unity> awakens
 # <Dream> curses <Alexander Burgess> with Eternal Waking
 
 
@@ -30,7 +30,7 @@ Master of Dreams
 2. Imperfect Hosts
 February 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1988: <Gregory> finds <Dream> and takes him to <Cain> and <Abel>
+## 1988.1: <Gregory> finds <Dream> and takes him to <Cain> and <Abel>
 # <Ethel Dee|Ethel Cripps> visits <John Dee> at Arkham Asylum
 # <Goldie> hatches
 # <Dream> visits the <Three Witches> who tell him the wearabouts locations of his missing artefacts
@@ -41,9 +41,9 @@ Master of Dreams
 3. Dream a Little Dream of Me
 March 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1988: <Mad Hettie> warns <John Constantine> that <Dream> has returned
+## 1988.2: <Mad Hettie> warns <John Constantine> that <Dream> has returned
 ## 1741 : <Mad Hettie> is born 
-## 1988: <Dream> recovers the <Sand Pouch> with help from <John Constantine>
+## 1988.3: <Dream> recovers the <Sand Pouch> with help from <John Constantine>
 
 
 Sandman #4
@@ -51,7 +51,7 @@ Master of Dreams
 4. A Hope in Hell
 April 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1988: <Dream> visits <Lucifer> in hell, and recovers his <Helm> from <Choronzon>
+## 1988.4: <Dream> visits <Lucifer> in hell, and recovers his <Helm> from <Choronzon>
 # <John Dee> recieves the <Amulet>
 
 
@@ -61,7 +61,7 @@ Master of Dreams
 May 1989
 Vol  1: Preludes and Nocturnes, Book 1
 ## 1961: <Doctor Destiny|John Dee> uses Dream's <Ruby> to affect people's dreams and make nightmares real.
-## 1998: <Dream> locates the <Ruby> with help of the JLA
+## 1988.5: <Dream> locates the <Ruby> with help of the JLA
 # <John Dee> escapes <Arkham Asylum> and retakes Dream's <Ruby>
 
 
@@ -70,7 +70,7 @@ Master of Dreams
 6. 24 Hours
 June 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1988.4: <Judy> calls <Rose|Rose Walker> trying to reach <Donna|Foxglove>
+## 1988.6: <Judy> calls <Rose|Rose Walker> trying to reach <Donna|Foxglove>
 # After 24 hours, <Dream> finds <John Dee>, who has caused the death of everyone else in the diner
 
 
@@ -79,7 +79,7 @@ Master of Dreams
 7. Sound and Fury
 July 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1988.4:  <John Dee> creates madness across the world using the <Ruby>
+## 1988.7:  <John Dee> creates madness across the world using the <Ruby>
 # <Dream> spurs <John Dee> to destroy the <Ruby>, freeing its power
 # <Dream> returns <John Dee> to <Arkham Asylum>
 
@@ -89,6 +89,7 @@ Master of Dreams
 8. The Sound of Her Wings
 August 1989
 Vol  1: Preludes and Nocturnes, Vol  2: The Doll's House, Book 1, Death
+## 1988.9: The Sound of Her Wings
 
 
 Sandman #9
@@ -104,10 +105,10 @@ The Doll's House
 1. The Doll's House
 November 1989
 Vol  2: The Doll's House, Book 1
-## 1989.8: <Desire> discusses with <Despair> its plan to ensnare <Dream> again with a new <Vortex>
+## 1989.2: <Desire> discusses with <Despair> its plan to ensnare <Dream> again with a new <Vortex>
 # <Rose Walker> and <Miranda Walker> fly to England to meet <Unity Kincaid>
 # <Rose|Rose Walker> Dreams of <Lucien> performing a census in <The Dreaming>. 
-# <Lucian> and <Dream> observe the <Vortex>, <Rose>
+# <Lucien> and <Dream> observe the <Vortex>, <Rose>
 # <Rose> and <Miranda|Miranda Walker> meet <Unity|Unity Kincaid> who reveals that she's Rose's grandmother
 # <Rose> encounters the <Three Witches> who warn her that she is at a crossroads
 # In Texas, <The Corinthian> kills in a motel
@@ -118,7 +119,7 @@ The Doll's House
 2. Moving in
 December 1989
 Vol  2: The Doll's House, Book 1
-## 1989.9: Back in America, <Rose> moves in to a new house, with landlord <Hal Carter>, <Barbie> and <Ken>, the spider women <Chantal> and <Zelda>, and <Gilbert|Fiddler's Green>.
+## 1989.3: Back in America, <Rose> moves in to a new house, with landlord <Hal Carter>, <Barbie> and <Ken>, the spider women <Chantal> and <Zelda>, and <Gilbert|Fiddler's Green>.
 # <Matthew> watches from the window
 # Trapped in a basement, <Jed> dreams of adventures with <Hector Hall>, <Hippolyta Hall>, <Brute> and <Glob>
 # <Rose> is rescued by <Gilbert> while walking home late from one of <Hal|Hal Carter>'s shows
@@ -133,8 +134,8 @@ The Doll's House
 3. Playing House
 January 1990
 Vol  2: The Doll's House, Book 1
-## 1989.9: <Dream> and <Hector> fight within <Jed>'s dream, 
-# <Lyta> questions her reality
+## 1989.4: <Dream> and <Hector|Hector Hall> fight within <Jed>'s dream, 
+# <Lyta|Hippolyta Hall> questions her reality
 # <Rose> and <Gilbert> break down in the middle of nowhere, and walk to a motel
 # <Dream> defeats <Hector>, releasing <Brute>, <Glob>, <Lyta> and what remains of <Hector>
 # <Dream> banishes <Brute> and <Glob> to <The Darkness>
@@ -148,13 +149,13 @@ The Doll's House
 4. Men of Good Fortune
 March 1990
 Vol  2: The Doll's House, Book 1
-## 1389.7: <Dream> and <Death> meet <Robert Gadling>.   <Dream> proposes they meet again in 100 years
-## 1489.7: <Dream> and <Hob|Robert Gadling> meet a second time.  <Hob> questions if he has unwittingly made a bargain with the devil
-## 1589.7: <Dream> and <Hob>, now Sir Robert Gadlen, meet a third time.  <Dream> makes a proposal to <William Shakespeare>
-## 1689.7: <Dream> and <Hob>, drunk and destitute meet a fourth time.  Hob's wife and child died, and he was accused of witchcraft and nearly drowned 
-## 1789.7: <Dream> and <Hob> meet a fifth time. The pair are confronted by <Lady Johanna Constantine>
-## 1889.7: <Dream> and <Hob> meet a sixth time
-## 1989.7: <Dream> and <Hob> meet a seventh time.
+## 1389: <Dream> and <Death> meet <Robert Gadling>.   <Dream> proposes they meet again in 100 years
+## 1489: <Dream> and <Hob|Robert Gadling> meet a second time.  <Hob> questions if he has unwittingly made a bargain with the devil
+## 1589: <Dream> and <Hob>, now Sir Robert Gadlen, meet a third time.  <Dream> makes a proposal to <William Shakespeare>
+## 1689: <Dream> and <Hob>, drunk and destitute meet a fourth time.  Hob's wife and child died, and he was accused of witchcraft and nearly drowned 
+## 1789: <Dream> and <Hob> meet a fifth time. The pair are confronted by <Lady Johanna Constantine>
+## 1889: <Dream> and <Hob> meet a sixth time
+## 1989.1: <Dream> and <Hob> meet a seventh time.
 ? Does this last meeting occur during the events of The Doll's House, or before/after?
 
 
@@ -163,7 +164,7 @@ The Doll's House
 5. Collectors
 March 1990
 Vol  2: The Doll's House, Book 1
-## 1989.9: ...
+## 1989.5: ...
 
 
 Sandman #15
@@ -171,7 +172,7 @@ The Doll's House
 6. Into the Night
 April 1990
 Vol  2: The Doll's House, Book 1
-## 1989.9: ...
+## 1989.6: ...
 
 
 Sandman #16
@@ -179,7 +180,7 @@ The Doll's House
 7. Lost Hearts
 June 1990
 Vol  2: The Doll's House, Book 1
-## 1989.9: ...
+## 1989.7: ...
 
 
 Sandman #17
@@ -220,6 +221,8 @@ Books of Magic Miniseries
 The Invisible Labyrinth
 November 1990
 Books of Magic 
+## November 1990: <Tim Hunter> meets the <Phantom Stranger>, <John Constantine>, <Doctor Occult> and <Mr E>
+# The <Phantom Stranger> introduces <Tim|Tim Hunter> to the history of magic
 ## -100000000000 | beginning of time: War in the Silver City.  <Lucifer> falls to <Hell>
 ## -50000 | fifty thousand years ago: End of Atlantis
 
@@ -243,20 +246,22 @@ Books of Magic Miniseries
 The Shadow World
 December 1990
 Books of Magic 
+## November 1990.1: <John Constantine> takes <Tim> around the present world 
 
 
 Sandman #22
 Season of Mists
 Season of Mists: Chapter 1
 January 1991
-Vol  4: Season of Mists, Book 2
+Vol  4: Season of Mists, Book 
 
 
 Books of Magic #3
 Books of Magic Miniseries
 The Land of Summer's Twilight
 January 1991
-Books of Magic 
+Books of Magic
+## November 1990.2: <Doctor Occult> takes <Tim> on a trip around mystic realms
 
 
 Sandman #23
@@ -271,6 +276,7 @@ Books of Magic Miniseries
 The Road to Nowhere
 February 1991
 Books of Magic 
+## November 1990.3: <Mr E> takes <Tim> to see a possible future
 ## 6000 | sixtieth century: Earth segregated from the rest of the universe
 ## 2000000 | in millions of years time: Only 50000 'people' remain.  Science and Magic have lost all meaning.
 ## 100000000000 | end of time: Terminus at the End of Time
@@ -469,9 +475,9 @@ March 1993
 Death
 ## June 1991: <Mad Hettie> Learns of <Death>'s imminent visits
 ## July 1991: <Sexton Furnival> writes a suicide note to huis mother, <Sylvia Furnival>
-# <Sexton Furnival|Sexton Furnival> is rescued by <Didi|Death> from a garbage dump
+# <Sexton|Sexton Furnival> is rescued by <Didi|Death> from a garbage dump
 # <Didi> takes <Sexton> back to her home, above <Mrs Robbins>' shop
-# <Mad Hettie> asks <Didi> to find her <Heart>
+# <Mad Hettie> asks <Didi> to find her <Heart|Mad Hettie's Heart>
 
 
 Sandman #47
@@ -493,8 +499,8 @@ The High Cost of Living
 A Night to Remember
 April 1993
 Death
-## July 1991: <Mr E> and <Theo> track <Didi>
-# <Sexton Furnival> and <Didi> meet <Hazel> and <Foxglove> at <The Undercut>
+## July 1991.1: <Mr E> and <Theo> track <Didi>
+# <Sexton> and <Didi> meet <Hazel> and <Foxglove> at <The Undercut>
 # <Theo> traps <Sexton> and <Didi>
 # <Mr E> takes <Didi>'s <Ankh> and kills <Theo>
 
@@ -511,7 +517,7 @@ The High Cost of Living
 The High Cost of Living
 May 1993
 Death
-## July 1991: <Mad Hettie> and <Mrs Robbins> rescue <Didi> and <Sexton>
+## July 1991.2: <Mad Hettie> and <Mrs Robbins> rescue <Didi> and <Sexton>
 # <Mr E> follows <Sexton> and <Didi> to a Cafe, but they escape
 # <Didi> buys a new <Ankh> from a street seller
 # <Didi> dies, leaving <Sexton> with two pennies and a Russian Doll
@@ -693,7 +699,7 @@ Sandman Midnight Theatre
 Sandman Midnight Theatre
 September 1995
 Sandman Deluxe Edition Book 1
-## 1939: <Wesley Dodds> has a brief encounter with <Dream>
+## 1939.2: <Wesley Dodds> has a brief encounter with <Dream>
 
 
 Sandman #72
@@ -735,7 +741,7 @@ Death
 ## 1994.1|February 1994: <Hazel> runs out into the rain carrying <Alvie> 
 ## November 1994: <Foxglove> talks with her manager <Larry> in New York.  He arranges her a 'date'
 # In LA, <Alvie> falls from an upstairs window, but is unhurt
-# <Larry> has a heart attack while on a Parliament
+# <Larry> has a heart attack while on a Plane
 # <Foxglove> encounters <Larry>'s ghost.  He tells her to listen to <Hazel> and do what she says.
 # <Hazel> begs <Foxglove> to come home
 # <Hazel> goes with <Death>
@@ -746,9 +752,9 @@ Death: The Time of Your Life
 Chapter Two: Imaginary Solutions
 May 1996
 Death
-## November 1994: <Foxglove> learns of <Larry>'s death while at a movie premiere
-## 1988.3: <Donna|Foxglove> splits from abusive relationship with <Judy>
-## 1988.5: <Hazel> is the chef at <Sylvia Furnival>'s restaurant, Le Petit Mort
+## November 1994.1: <Foxglove> learns of <Larry>'s death while at a movie premiere
+## 1988.55: <Donna|Foxglove> splits from abusive relationship with <Judy>
+## 1988.8: <Hazel> is the chef at <Sylvia Furnival>'s restaurant, Le Petit Mort
 # <Hazel>'s brother <Johnny> introduces her to <Foxglove>
 
 
@@ -758,7 +764,7 @@ Chapter Three: The Time of Your Life
 June 1996
 Death
 ## 1994.2|February 1994: <Hazel> makes a deal with <Death>
-## November 1994: <Boris> gives up his life
+## November 1994.2: <Boris> gives up his life
 
 
 Winter's Edge #1

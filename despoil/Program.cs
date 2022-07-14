@@ -94,8 +94,11 @@ foreach (var entry in entries)
         entryEvents.Add(issueTitlePlain);
     }
 
+    var dateStr = "&nbsp;";
     foreach (var e in entryEvents)
     {
+        if (e.StartsWith("?")) continue;
+
         var ev = e;
 
         MatchCollection matches = Regex.Matches(e, "<.*?>");
@@ -144,14 +147,15 @@ foreach (var entry in entries)
             entityClasses.Add(entity);
 
             //var resultTag = $"<span class='entity {entity}'>{bareText}</span>";
-            var resultTag = $"<span class='entity'>{bareText}</span>";
+            var title = alias==bareText ? "" : $"title='{alias}'";
+            var resultTag = $"<span {title} class='entity'>{bareText}</span>";
 
             ev = ev.Replace(tag, resultTag);
         }
 
 
         var evBody = "";
-        var dateStr = "&nbsp;";
+        
 
         if (ev.StartsWith("## "))
         {
@@ -178,6 +182,10 @@ foreach (var entry in entries)
                 dateStr = dateStr.Replace("-", "");
                 dateStr += " BC";
             }
+            if (currentDate >= 0 && currentDate < 1000) 
+            {
+                dateStr += " AD";
+            }
 
             evBody = String.Join(":", bits.Skip(1));
         }
@@ -195,7 +203,7 @@ foreach (var entry in entries)
         eventDates.Add((eventDates.Count+1,currentDate));
 
         entriesHtml.Add($"<div class='{threadkey} {issueId} {string.Join(" ", entityClasses)}'>");
-        entriesHtml.Add($"<div class='itemdate'>{dateStr}</div>");
+        entriesHtml.Add($"<div class='itemdate' title='{currentDate}'>{dateStr}</div>");
         entriesHtml.Add($"<div class='itemsubtitle'>{entrylines[3]} - {issueTitle}</div>");
         entriesHtml.Add($"{evBody}");
        
@@ -219,6 +227,7 @@ outputHtml.Add("</span>");
 
 outputHtml.Add("<details open><summary>I have read...</summary>");
 
+outputHtml.Add("<button onclick='showNone()'>Nothing</button> - <button onclick='showAll()'>Everything</button><br>");
 
 outputHtml.Add("<details><summary>Collections</summary>");
 
@@ -299,7 +308,7 @@ foreach (var thread in threads)
     foreach (var issue in thread.Value)
     {
         var checkid = $"{key}_{idx++}";
-        outputHtml.Add($"<input type='checkbox' class='check_{checkid}' id='check_issue_{checkid}' onclick='setChecked(\"check_issue_\", \"{checkid}\")' />");
+        outputHtml.Add($"<input type='checkbox' class='check_issue check_{checkid}' id='check_issue_{checkid}' onclick='setChecked(\"check_issue_\", \"{checkid}\")' />");
         outputHtml.Add($"<label for='check_issue_{checkid}'>{issue}</label><br>");
     }
 
