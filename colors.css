@@ -6,133 +6,139 @@
 }
 .box div.t1
 {
-  border: 2px solid #FF4200;
+  border: 2px solid #FF3F00;
   display: none;
   opacity: 0;
 }
 .box div.t2
 {
-  border: 2px solid #FF8500;
+  border: 2px solid #FF7F00;
   display: none;
   opacity: 0;
 }
 .box div.t3
 {
-  border: 2px solid #FFC700;
+  border: 2px solid #FFBF00;
   display: none;
   opacity: 0;
 }
 .box div.t4
 {
-  border: 2px solid #F3FF00;
+  border: 2px solid #FFFF00;
   display: none;
   opacity: 0;
 }
 .box div.t5
 {
-  border: 2px solid #B1FF00;
+  border: 2px solid #BFFF00;
   display: none;
   opacity: 0;
 }
 .box div.t6
 {
-  border: 2px solid #6EFF00;
+  border: 2px solid #7FFF00;
   display: none;
   opacity: 0;
 }
 .box div.t7
 {
-  border: 2px solid #2CFF00;
+  border: 2px solid #3FFF00;
   display: none;
   opacity: 0;
 }
 .box div.t8
 {
-  border: 2px solid #00FF16;
+  border: 2px solid #00FF00;
   display: none;
   opacity: 0;
 }
 .box div.t9
 {
-  border: 2px solid #00FF58;
+  border: 2px solid #00FF3F;
   display: none;
   opacity: 0;
 }
 .box div.t10
 {
-  border: 2px solid #00FF9B;
+  border: 2px solid #00FF7F;
   display: none;
   opacity: 0;
 }
 .box div.t11
 {
-  border: 2px solid #00FFDD;
+  border: 2px solid #00FFBF;
   display: none;
   opacity: 0;
 }
 .box div.t12
 {
-  border: 2px solid #00DDFF;
+  border: 2px solid #00FFFF;
   display: none;
   opacity: 0;
 }
 .box div.t13
 {
-  border: 2px solid #009BFF;
+  border: 2px solid #00BFFF;
   display: none;
   opacity: 0;
 }
 .box div.t14
 {
-  border: 2px solid #0058FF;
+  border: 2px solid #007FFF;
   display: none;
   opacity: 0;
 }
 .box div.t15
 {
-  border: 2px solid #0016FF;
+  border: 2px solid #003FFF;
   display: none;
   opacity: 0;
 }
 .box div.t16
 {
-  border: 2px solid #2C00FF;
+  border: 2px solid #0000FF;
   display: none;
   opacity: 0;
 }
 .box div.t17
 {
-  border: 2px solid #6E00FF;
+  border: 2px solid #3F00FF;
   display: none;
   opacity: 0;
 }
 .box div.t18
 {
-  border: 2px solid #B100FF;
+  border: 2px solid #7F00FF;
   display: none;
   opacity: 0;
 }
 .box div.t19
 {
-  border: 2px solid #F300FF;
+  border: 2px solid #BF00FF;
   display: none;
   opacity: 0;
 }
 .box div.t20
 {
-  border: 2px solid #FF00C7;
+  border: 2px solid #FF00FF;
   display: none;
   opacity: 0;
 }
 .box div.t21
 {
-  border: 2px solid #FF0085;
+  border: 2px solid #FF00BF;
   display: none;
   opacity: 0;
 }
 .box div.t22
 {
-  border: 2px solid #FF0042;
+  border: 2px solid #FF007F;
+  display: none;
+  opacity: 0;
+}
+.box div.t23
+{
+  border: 2px solid #FF003F;
   display: none;
   opacity: 0;
 }
