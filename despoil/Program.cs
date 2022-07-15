@@ -175,16 +175,17 @@ foreach (var entry in entries)
                 {
                     dateStr = dateStr.Substring(0, (dateStr.IndexOf(".")));
                 }
-            }
+            
 
-            if (dateStr.Contains("-"))
-            {
-                dateStr = dateStr.Replace("-", "");
-                dateStr += " BC";
-            }
-            if (currentDate >= 0 && currentDate < 1000) 
-            {
-                dateStr += " AD";
+                if (dateStr.Contains("-"))
+                {
+                    dateStr = dateStr.Replace("-", "");
+                    dateStr += " BC";
+                }
+                if (currentDate >= 0 && currentDate < 1000) 
+                {
+                    dateStr += " AD";
+                }
             }
 
             evBody = String.Join(":", bits.Skip(1));
@@ -231,7 +232,7 @@ outputHtml.Add("<button onclick='showNone()'>Nothing</button> - <button onclick=
 
 outputHtml.Add("<details><summary>Collections</summary>");
 
-var colnames = collections.Keys.OrderBy(x => x).ToArray();
+var colnames = collections.Keys.OrderBy(x => x, new despoil.CollectionComparer()).ToArray();
 
 foreach (var collection in colnames)
 {
@@ -291,7 +292,7 @@ foreach (var thread in threads)
 
     colourStyles.Add($".box div.{key}");
     colourStyles.Add("{");
-    colourStyles.Add($"  border: 2px solid {despoil.Util.Rainbow(threads.Count, threadIdx++)};");
+    colourStyles.Add($"  border: 2px solid {despoil.Util.Rainbow(threads.Count+5, threadIdx++)};");
     colourStyles.Add($"  display: none;");
     colourStyles.Add($"  opacity: 0;");
     colourStyles.Add("}");
@@ -327,7 +328,7 @@ outputHtml.Add("<details><summary>Characters / Places / Entities</summary>");
 foreach (var entity in entityKey.OrderBy(x => x.Key))
 {
     outputHtml.Add($"<input type='checkbox' id='check_{entity.Value}' onclick='setPushed(\"{entity.Value}\")'>");
-    outputHtml.Add($"<label for='check_c2_{entity.Value}'>{entity.Key}</label><br>");    
+    outputHtml.Add($"<label for='check_c2_{entity.Value}'>{entity.Key}</label><br>");
 }
 
 outputHtml.Add("</details>");

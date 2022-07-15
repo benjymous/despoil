@@ -83,4 +83,27 @@ namespace despoil
             }
         }
     }
+
+
+    public class CollectionComparer : IComparer<string>
+    {
+        static readonly string[] CollectionPrefixes = { "Vol", "Overture", "Death", "Books", "Book", "Absolute", "Deluxe" };
+
+        public int Compare(string? x, string? y)
+        {
+            if (x != null && y != null)
+            {
+                if (x == y) return 0;
+
+                var prefixX = Array.IndexOf(CollectionPrefixes, x.Split(" ").First());
+                var prefixY = Array.IndexOf(CollectionPrefixes, y.Split(" ").First());
+
+                var diff = Comparer<int>.Default.Compare(prefixX, prefixY);
+
+                if (diff != 0) return diff;
+            }
+
+            return Comparer<string>.Default.Compare(x, y);
+        }
+    }
 }

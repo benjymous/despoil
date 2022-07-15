@@ -57,11 +57,13 @@ setPushed = function (name) {
   const boxes = document.getElementsByClassName(name);
   for (const box of boxes) {
     if (checkBox.checked) {
-      box.style.margin = 20
-      box.style.marginLeft = 400;
+      box.style.margin = 5
+      box.style.marginLeft = 250;
+      box.style.zoom = 1.1;
     } else {
       box.style.margin = 2
       box.style.marginLeft = 200;
+      box.style.zoom = 1.0;
     }
   }
 }

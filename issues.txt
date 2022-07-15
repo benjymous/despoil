@@ -89,7 +89,7 @@ Master of Dreams
 8. The Sound of Her Wings
 August 1989
 Vol  1: Preludes and Nocturnes, Vol  2: The Doll's House, Book 1, Death
-## 1988.9: The Sound of Her Wings
+## 1988.9: The Sound of Her Wings **
 
 
 Sandman #9
@@ -140,7 +140,7 @@ Vol  2: The Doll's House, Book 1
 # <Dream> defeats <Hector>, releasing <Brute>, <Glob>, <Lyta> and what remains of <Hector>
 # <Dream> banishes <Brute> and <Glob> to <The Darkness>
 # The ghost of <Hector Hall> disperses
-# <Dream> tells <Lyta> that he will come for her unborn child in time
+# <Dream> tells <Lyta> that he will come for her <unborn child|Daniel> in time
 # <Jed> escapes but is picked up by <The Corinthian>
 
 
@@ -149,7 +149,7 @@ The Doll's House
 4. Men of Good Fortune
 March 1990
 Vol  2: The Doll's House, Book 1
-## 1389: <Dream> and <Death> meet <Robert Gadling>.   <Dream> proposes they meet again in 100 years
+## 1389: <Dream> and <Death> meet <Robert Gadling>.  <Dream> proposes they meet again in 100 years
 ## 1489: <Dream> and <Hob|Robert Gadling> meet a second time.  <Hob> questions if he has unwittingly made a bargain with the devil
 ## 1589: <Dream> and <Hob>, now Sir Robert Gadlen, meet a third time.  <Dream> makes a proposal to <William Shakespeare>
 ## 1689: <Dream> and <Hob>, drunk and destitute meet a fourth time.  Hob's wife and child died, and he was accused of witchcraft and nearly drowned 
@@ -164,7 +164,7 @@ The Doll's House
 5. Collectors
 March 1990
 Vol  2: The Doll's House, Book 1
-## 1989.5: ...
+## 1989.5: Collectors **
 
 
 Sandman #15
@@ -172,7 +172,7 @@ The Doll's House
 6. Into the Night
 April 1990
 Vol  2: The Doll's House, Book 1
-## 1989.6: ...
+## 1989.6: Into the Night **
 
 
 Sandman #16
@@ -180,7 +180,7 @@ The Doll's House
 7. Lost Hearts
 June 1990
 Vol  2: The Doll's House, Book 1
-## 1989.7: ...
+## 1989.7: Lost Hearts **
 
 
 Sandman #17
@@ -198,6 +198,7 @@ Dream Country
 A Dream of a Thousand Cats
 August 1990
 Vol  3: Dream Country, Book 1
+# A Dream of a Thousand Cats **
 
 
 Sandman #19
@@ -207,6 +208,7 @@ September 1990
 Vol  3: Dream Country, Book 1
 ## 1593: <William Shakespeare>'s company perform A Midsummer Night's Dream for <Dream> and a host of Faeries
 # <Robin Goodfellow> stays in the waking world
+? add more detail? **
 
 
 Sandman #20
@@ -214,6 +216,9 @@ Dream Country
 Facade
 October 1990
 Vol  3: Dream Country, Book 1
+# Facade **
+## ~ 1965 | 1960s: <Urania Blackwell> becomes <Element Girl|Urania Blackwell>
+## 1990: <Urania|Urania Blackwell> is visited by <Death> who tells her how to end her life
 
 
 Books of Magic #1
@@ -221,7 +226,7 @@ Books of Magic Miniseries
 The Invisible Labyrinth
 November 1990
 Books of Magic 
-## November 1990: <Tim Hunter> meets the <Phantom Stranger>, <John Constantine>, <Doctor Occult> and <Mr E>
+## October 1990: <Tim Hunter> meets the <Phantom Stranger>, <John Constantine>, <Doctor Occult> and <Mr E>
 # The <Phantom Stranger> introduces <Tim|Tim Hunter> to the history of magic
 ## -100000000000 | beginning of time: War in the Silver City.  <Lucifer> falls to <Hell>
 ## -50000 | fifty thousand years ago: End of Atlantis
@@ -232,13 +237,14 @@ Season of Mists
 Season of Mists: a prologue
 December 1990
 Vol  4: Season of Mists, Book 2
+## 1990.79: Season of Mists: a prologue **
 ## -110000000006 | beginning of time: <Destiny> comes into being
 ## -110000000005 | beginning of time: <Death> comes into being
 ## -110000000004 | beginning of time: <Dream> comes into being
-## -110000000003 | beginning of time: <Destruction> comes into being
 ## -110000000002 | beginning of time: <Desire> comes into being
 ## -110000000001 | beginning of time: <Despair> comes into being
 ## -110000000000 | beginning of time: <Delight> comes into being
+? add more detail? **
 
 
 Books of Magic #2
@@ -246,14 +252,17 @@ Books of Magic Miniseries
 The Shadow World
 December 1990
 Books of Magic 
-## November 1990.1: <John Constantine> takes <Tim> around the present world 
+## 1990.76 | October 1990: <John Constantine> takes <Tim> around the present world 
+? add more detail? **
 
 
 Sandman #22
 Season of Mists
 Season of Mists: Chapter 1
 January 1991
-Vol  4: Season of Mists, Book 
+Vol  4: Season of Mists, Book 2
+## 1990.8: Season of Mists Chapter 1 **
+## 1990.5: <Lyta> gives birth to <Daniel>
 
 
 Books of Magic #3
@@ -261,7 +270,8 @@ Books of Magic Miniseries
 The Land of Summer's Twilight
 January 1991
 Books of Magic
-## November 1990.2: <Doctor Occult> takes <Tim> on a trip around mystic realms
+## 1990.77 | October 1990: <Doctor Occult> takes <Tim> on a trip around mystic realms
+? add more detail? **
 
 
 Sandman #23
@@ -269,6 +279,7 @@ Season of Mists
 Season of Mists: Chapter 2
 February 1991
 Vol  4: Season of Mists, Book 2
+## 1990.85: Season of Mists Chapter 2 **
 
 
 Books of Magic #4
@@ -276,12 +287,13 @@ Books of Magic Miniseries
 The Road to Nowhere
 February 1991
 Books of Magic 
-## November 1990.3: <Mr E> takes <Tim> to see a possible future
+## 1990.78 | October 1990: <Mr E> takes <Tim> to see a possible future
 ## 6000 | sixtieth century: Earth segregated from the rest of the universe
 ## 2000000 | in millions of years time: Only 50000 'people' remain.  Science and Magic have lost all meaning.
 ## 100000000000 | end of time: Terminus at the End of Time
 # <Destiny> is taken by <Death>
 # <Death> locks the place behind her as she leaves
+? add more detail? **
 
 
 Sandman #24
@@ -289,6 +301,7 @@ Season of Mists
 Season of Mists: Chapter 3
 March 1991
 Vol  4: Season of Mists, Book 2
+## 1990.9 : Season of Mists Chapter 3 **
 
 
 Sandman #25
@@ -297,6 +310,7 @@ Season of Mists: Chapter 4
 April 1991
 Vol  4: Season of Mists, Book 2
 ## December 1990: <Charles Rowland> dies, but doesn't follow <Death> into the light
+? add more detail? **
 
 
 Sandman #26
@@ -304,6 +318,7 @@ Season of Mists
 Season of Mists: Chapter 5
 May 1991
 Vol  4: Season of Mists, Book 2
+## 1990.92 : Season of Mists Chapter 5 **
 
 
 Sandman #27
@@ -311,6 +326,7 @@ Season of Mists
 Season of Mists: Chapter 6
 June 1991
 Vol  4: Season of Mists, Book 2
+## 1990.93 : Season of Mists Chapter 6 **
 
 
 Sandman #28
@@ -318,6 +334,7 @@ Season of Mists
 Season of Mists: Epilogue
 July 1991
 Vol  4: Season of Mists, Book 2
+## 1990.94 : Season of Mists Epilogue **
 
 
 Sandman #29
@@ -354,6 +371,7 @@ The Song of Orpheus
 November 1991
 Vol  6: Fables and Reflections, Book 2
 ## ~ -500: <Orpheus> and Eurydice
+? add more detail? **
 
 
 Sandman #32
@@ -361,6 +379,7 @@ A Game of You
 1. Slaughter on Fifth Avenue
 November 1991
 Vol  5: A Game of You, Book 2
+## 1991.8: Slaughter on Fifth Avenue **
 
 
 Sandman #33
@@ -368,6 +387,7 @@ A Game of You
 2. Lullabies of Broadway
 December 1991
 Vol  5: A Game of You, Book 2
+## 1991.81: Lullabies of Broadway **
 
 
 Sandman #34
@@ -375,6 +395,7 @@ A Game of You
 3. Bad Moon Rising
 January 1992
 Vol  5: A Game of You, Book 2
+## 1991.82: Bad Moon Rising **
 
 
 Sandman #35
@@ -382,6 +403,7 @@ A Game of You
 4. Beginning to See the Light
 February 1992
 Vol  5: A Game of You, Book 2
+## 1991.83: Beginning to See the Light **
 
 
 Sandman #36
@@ -389,6 +411,7 @@ A Game of You
 5. Over the Sea to Sky
 April 1992
 Vol  5: A Game of You, Book 2
+## 1991.84: Over the Sea to Sky **
 
 
 Sandman #37
@@ -396,6 +419,7 @@ A Game of You
 6. I Woke Up and One of Us Was Crying
 May 1992
 Vol  5: A Game of You, Book 2
+## 1991.85: I Woke Up and One of Us Was Crying **
 
 
 Sandman #38
@@ -403,6 +427,9 @@ Convergence
 The Hunt
 June 1992
 Vol  6: Fables and Reflections, Book 3
+## 1992: A Grandfather tells a story
+## ~ 1000 | medieval times: A story of princesses and werewolves
+? Unsure how far back the story is set
 
 
 Sandman #39
@@ -410,6 +437,7 @@ Convergence
 Soft Places
 July 1992
 Vol  6: Fables and Reflections, Book 3
+## ~ 1270 | the soft places: <Marco Polo> gets lost in the <Soft Places> and encounters <Fiddler's Green> and <Dream>
 
 
 Sandman #40
@@ -417,6 +445,9 @@ Convergence
 The Parliament of Rooks
 August 1992
 Vol  6: Fables and Reflections, Book 3
+## 1992: <Daniel> visits <The Dreaming> 
+? Daniel is roughly 18 months old
+? add more detail? **
 
 
 Sandman #41
@@ -424,6 +455,9 @@ Brief Lives
 Brief Lives part 1
 September 1992
 Vol  7: Brief Lives, Book 3
+## 1992.2: Brief Lives part 1 **
+## 1760: <Lady Johanna Constantine> is born
+## 1859: <Lady Johanna Constantine> dies
 
 
 Sandman #42
@@ -431,6 +465,7 @@ Brief Lives
 Brief Lives part 2
 October 1992
 Vol  7: Brief Lives, Book 3
+## 1992.21: Brief Lives part 2 **
 
 
 Sandman #43
@@ -438,6 +473,10 @@ Brief Lives
 Brief Lives part 3
 November 1992
 Vol  7: Brief Lives, Book 3
+## 1992.22: Brief Lives part 3 **
+## 1992.22: <Bernie Capax> dies
+## ~ -13000: <Bernie Capax> is born
+## ~ -1900 | Babylonian times: <Pharamond> is born
 
 
 Sandman #44
@@ -445,6 +484,7 @@ Brief Lives
 Brief Lives part 4
 December 1992
 Vol  7: Brief Lives, Book 3
+## 1992.23: Brief Lives part 4 **
 
 
 Vertigo Preview #1
@@ -452,6 +492,7 @@ Vertigo Preview
 Fear of Falling
 December 1992
 Vol  6: Fables and Reflections, Book 3
+## 1992: Fear of Falling **
 
 
 Sandman #45
@@ -459,6 +500,7 @@ Brief Lives
 Brief Lives part 5
 January 1993
 Vol  7: Brief Lives, Book 3
+## 1992.24: Brief Lives part 5 **
 
 
 Sandman #46
@@ -466,6 +508,7 @@ Brief Lives
 Brief Lives part 6
 March 1993
 Vol  7: Brief Lives, Book 3
+## 1992.25: Brief Lives part 6 **
 
 
 Death The High Cost of Living #1
@@ -485,6 +528,12 @@ Brief Lives
 Brief Lives part 7
 March 1993
 Vol  7: Brief Lives, Book 3
+## 1992.26: Brief Lives part 7 **
+## -110000000003 | beginning of time: <Destruction> comes into being
+## ~ 1690: <Destruction> abdicates his role
+## 1850 | some time in the 1800s: <Death> spends a day mortal as a peasant girl by the Yangtze River
+## 1915.9: <Dream> returns in triumph from a far galaxy
+## 1992.85: <Dream in white|Daniel> confronts <The Corinthian>
 
 
 Sandman #48
@@ -492,6 +541,7 @@ Brief Lives
 Brief Lives part 8
 April 1993
 Vol  7: Brief Lives, Book 3
+## 1992.27: Brief Lives part 8 **
 
 
 Death The High Cost of Living #2
@@ -510,6 +560,7 @@ Brief Lives
 Brief Lives part 9
 May 1993
 Vol  7: Brief Lives, Book 3
+## 1992.28: Brief Lives part 9 **
 
 
 Death The High Cost of Living #3
@@ -536,7 +587,8 @@ Sandman #51
 Worlds' End
 1. A Tale of Two Cities
 July 1993
-Vol  8: Worlds' End, Book 3
+Vol  8: Worlds' End, Book 3 
+# A Tale of Two Cities **
 
 
 Sandman #52
@@ -544,6 +596,7 @@ Worlds' End
 2. Cluracan's Tale
 August 1993
 Vol  8: Worlds' End, Book 3
+# Cluracan's Tale **
 
 
 Vertigo Jam #1: 
@@ -551,6 +604,7 @@ Vertigo Jam
 The Castle
 August 1993
 Book 4
+# The Castle **
 
 
 Sandman #53
@@ -558,6 +612,7 @@ Worlds' End
 3. Hob's Leviathan
 September 1993
 Vol  8: Worlds' End, Book 3
+## 1912: Hob's Leviathan **
 
 
 Sandman #54
@@ -565,6 +620,7 @@ Worlds' End
 4. The Golden Boy
 October 1993
 Vol  8: Worlds' End, Book 3
+# The Golden Boy **
 
 
 Sandman #55
@@ -572,6 +628,7 @@ Worlds' End
 5. Cerements
 November 1993
 Vol  8: Worlds' End, Book 3
+# Cerements **
 
 
 Sandman #56
@@ -579,6 +636,7 @@ Worlds' End
 6. Worlds' End
 December 1993
 Vol  8: Worlds' End, Book 3
+# World's End **
 
 
 Death Talks About Life
@@ -594,6 +652,7 @@ The Kindly Ones
 The Kindly Ones: 1
 February 1994
 Vol  9: The Kindly Ones, Book 4
+## 1992.7: The Kindly Ones: 1 **
 
 
 Sandman #58
@@ -601,6 +660,7 @@ The Kindly Ones
 The Kindly Ones: 2
 March 1994
 Vol  9: The Kindly Ones, Book 4
+## 1992.71: The Kindly Ones: 2 **
 
 
 Sandman #59
@@ -608,6 +668,7 @@ The Kindly Ones
 The Kindly Ones: 3
 April 1994
 Vol  9: The Kindly Ones, Book 4
+## 1992.72: The Kindly Ones: 3 **
 
 
 Sandman #60
@@ -615,6 +676,7 @@ The Kindly Ones
 The Kindly Ones: 4
 June 1994
 Vol  9: The Kindly Ones, Book 4
+## 1992.73: The Kindly Ones: 4 **
 
 
 Sandman #61
@@ -622,6 +684,7 @@ The Kindly Ones
 The Kindly Ones: 5
 July 1994
 Vol  9: The Kindly Ones, Book 4
+## 1992.74: The Kindly Ones: 5 **
 
 
 Sandman #62
@@ -629,6 +692,7 @@ The Kindly Ones
 The Kindly Ones: 6
 August 1994
 Vol  9: The Kindly Ones, Book 4
+## 1992.75: The Kindly Ones: 6 **
 
 
 Sandman #63
@@ -636,6 +700,7 @@ The Kindly Ones
 The Kindly Ones: 7
 September 1994
 Vol  9: The Kindly Ones, Book 4
+## 1992.76: The Kindly Ones: 7 **
 
 
 Sandman #64
@@ -643,6 +708,7 @@ The Kindly Ones
 The Kindly Ones: 8
 November 1994
 Vol  9: The Kindly Ones, Book 4
+## 1992.77: The Kindly Ones: 8 **
 
 
 Sandman #65
@@ -650,6 +716,7 @@ The Kindly Ones
 The Kindly Ones: 9
 December 1994
 Vol  9: The Kindly Ones, Book 4
+## 1992.78: The Kindly Ones: 9 **
 
 
 Sandman #66
@@ -657,6 +724,7 @@ The Kindly Ones
 The Kindly Ones: 10
 January 1995
 Vol  9: The Kindly Ones, Book 4
+## 1992.79: The Kindly Ones: 10 **
 
 
 Sandman #67
@@ -664,6 +732,7 @@ The Kindly Ones
 The Kindly Ones: 11
 February 1995
 Vol  9: The Kindly Ones, Book 4
+## 1992.8: The Kindly Ones: 11 **
 
 
 Sandman #68
@@ -671,6 +740,7 @@ The Kindly Ones
 The Kindly Ones: 12
 May 1995
 Vol  9: The Kindly Ones, Book 4
+## 1992.81: The Kindly Ones: 12 **
 
 
 Sandman #69
@@ -678,6 +748,9 @@ The Kindly Ones
 The Kindly Ones: 13
 July 1995
 Vol  9: The Kindly Ones, Book 4
+## 1992.82: The Kindly Ones: 13 **
+# <Dream> dies
+# <Daniel> becomes <Dream (Daniel)|Daniel>
 
 
 Sandman #70
@@ -685,6 +758,7 @@ The Wake
 Chapter 1: Which Occurs in the Wake of What Has Gone Before
 August 1995
 Vol 10: The Wake, Book 4
+## 1992.9: Which Occurs in the Wake of What Has Gone Before **
 
 
 Sandman #71
@@ -692,14 +766,16 @@ The Wake
 Chapter 2: In Which a Wake is Held
 September 1995
 Vol 10: The Wake, Book 4
+## 1992.91: In Which a Wake is Held **
 
 
 Sandman Midnight Theatre
 Sandman Midnight Theatre
 Sandman Midnight Theatre
 September 1995
-Sandman Deluxe Edition Book 1
+Deluxe Edition Book 1
 ## 1939.2: <Wesley Dodds> has a brief encounter with <Dream>
+? add more detail? **
 
 
 Sandman #72
@@ -707,6 +783,7 @@ The Wake
 Chapter 3: In Which We Wake
 November 1995
 Vol 10: The Wake, Book 4
+## 1992.92: In Which We Wake **
 
 
 Sandman #73
@@ -714,6 +791,7 @@ The Wake
 The Wake: An Epilogue - Sunday Mourning
 December 1995
 Vol 10: The Wake, Book 4
+## 1992.93: An Epilogue - Sunday Mourning **
 
 
 Sandman #74
@@ -721,6 +799,7 @@ Epilogue
 Exiles
 January 1996
 Vol 10: The Wake, Book 4
+## -1000 | the soft places: An elderly man in ancient China is exiled from the Empire and wanders into a <Soft Place|Soft Places>.  He encounters <Dream> and <Dream (Daniel)> along the way.
 
 
 Sandman #75
@@ -729,6 +808,7 @@ The Tempest
 March 1996
 Vol 10: The Wake, Book 4
 ## 1610: <William Shakespeare> delivers his final play to <Dream>
+? add more detail? **
 
 
 Death: The Time of Your Life #1
@@ -736,15 +816,16 @@ Death: The Time of Your Life
 Chapter One: Things You Just Do When You're Bored
 April 1996
 Death
-## 1991.7| late 1991: <Hazel> gives birth to <Alvie>
+## 1991.75 | late 1991: <Hazel> gives birth to <Alvie>
 ## 1993: <Foxglove> is the Queen of acoustic rock and roll
-## 1994.1|February 1994: <Hazel> runs out into the rain carrying <Alvie> 
+## 1994.1 | February 1994: <Hazel> runs out into the rain carrying <Alvie> 
 ## November 1994: <Foxglove> talks with her manager <Larry> in New York.  He arranges her a 'date'
 # In LA, <Alvie> falls from an upstairs window, but is unhurt
 # <Larry> has a heart attack while on a Plane
 # <Foxglove> encounters <Larry>'s ghost.  He tells her to listen to <Hazel> and do what she says.
 # <Hazel> begs <Foxglove> to come home
 # <Hazel> goes with <Death>
+? Put this in 1984 due to rough guess at Alvie's age at 2-ish
 
 
 Death: The Time of Your Life #2
@@ -763,8 +844,8 @@ Death: The Time of Your Life
 Chapter Three: The Time of Your Life
 June 1996
 Death
-## 1994.2|February 1994: <Hazel> makes a deal with <Death>
-## November 1994.2: <Boris> gives up his life
+## 1994.11 | February 1994: <Hazel> makes a deal with <Death>
+## 1994.95 | November 1994: <Boris> gives up his life
 
 
 Winter's Edge #1
@@ -772,7 +853,7 @@ Winter's Edge
 Desire - The Flowers of Romance
 January 1998
 Book 2
-## December 1997: The Flowers of Romance (<Desire>)
+## December 1997: The Flowers of Romance (<Desire>) **
 
 
 Winter's Edge #2
@@ -780,7 +861,7 @@ Winter's Edge
 Death - A Winter's Tale
 January 1999
 Book 2
-# A Winter's Tale (<Death>)
+# A Winter's Tale (<Death>) **
 
 
 Winter's Edge #3
@@ -788,7 +869,7 @@ Winter's Edge
 Desire - How They Met Themselves
 January 2000
 Book 2
-## 1862: <Dante Gabriel Rossetti>, <Lizzie Siddal> and< Algernon Charles Swinburne> have a chance encounter with <Desire>
+## 1862: <Dante Gabriel Rossetti>, <Lizzie Siddal> and <Algernon Charles Swinburne> have a chance encounter with <Desire>
 
 
 9-11 #1
@@ -804,6 +885,9 @@ The Sandman Endless Nights
 Chapter 1: Death in Venice
 November 2003
 Vol 11: Endless Nights, Death
+## May 1751: A Venician court live the same day over and over locked away on a small island
+## 1993: <Sergei> Visits a Venician island with his family, and encounters <Death> waiting by a gate
+## 2003: <Sergei> Returns to Venice, and re-encounters <Death> 
 
 
 The Sandman Endless Nights #2
@@ -811,6 +895,7 @@ The Sandman Endless Nights
 Chapter 2: What I've Tasted of Desire
 November 2003
 Vol 11: Endless Nights
+## 30 | pre-roman Britain: A woman makes a deal with <Desire>
 
 
 The Sandman Endless Nights #3
@@ -818,7 +903,7 @@ The Sandman Endless Nights
 Chapter 3: The Heart of a Star
 November 2003
 Vol 11: Endless Nights
-## -4500000000 | 4.5 billion years ago: The Heart of a Star
+## -4500000000 | 4.5 billion years ago: <Dream> and <Killalla of the Glow> visit a conference of the Stars
 
 
 The Sandman Endless Nights #4
@@ -826,6 +911,7 @@ The Sandman Endless Nights
 Chapter 4: Fifteen Portraits of Despair
 November 2003
 Vol 11: Endless Nights
+# Fifteen Portraits of <Despair>
 
 
 The Sandman Endless Nights #5
@@ -833,6 +919,7 @@ The Sandman Endless Nights
 Chapter 5: Going Inside
 November 2003
 Vol 11: Endless Nights
+# A group set off to rescue <Delirium>
 
 
 The Sandman Endless Nights #6
@@ -840,6 +927,7 @@ The Sandman Endless Nights
 Chapter 6: On the Peninsula
 November 2003
 Vol 11: Endless Nights
+# An archaeologist encounters <Destruction> whilst investigating future artefacts on a dig.  <Destruction> watches over <Delirium> after her rescue.
 
 
 The Sandman Endless Nights #7
@@ -847,6 +935,8 @@ The Sandman Endless Nights
 Chapter 7: Endless Nights
 November 2003
 Vol 11: Endless Nights
+## 1992.75: <Destiny> takes a walk in his garden
+? Apparently set during 'The Kindly ones'?
 
 
 The Sandman Overture #1
@@ -880,7 +970,7 @@ September 2014
 Overture
 ## -1000000000 | millennia ago: Two gods fled their homeland and declare themselves True Lords of the Dreaming
 # <Dream> is imprisoned.
-# <Delight> becomes <Delerium>
+# <Delight> becomes <Delirium>
 # <Desire> creates <Alianora> who helps <Dream> escape and destroy the gods
 # <Dream> creates the Gates of Horn and Ivory and his Helm from the horns and bones of the dead gods
 # <Dream> creates <The Land> for <Alianora>

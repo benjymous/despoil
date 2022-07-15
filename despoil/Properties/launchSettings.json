@@ -2,7 +2,7 @@
   "profiles": {
     "despoil": {
       "commandName": "Project",
-      "workingDirectory": "C:\\Users\\Richard.Munn\\Desktop\\itemordertest"
+      "workingDirectory": "..\\"
     }
   }
 }
