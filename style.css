@@ -29,13 +29,14 @@ span.entity {
 }
 
 .box div {
+  background-color: #fff;
   border-radius: 10px;
   padding: 30px 15px 15px 15px;
   margin: 2px;
   width: 400px;
   margin-left: 200px;
 
-  transition: all 0.25s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
 
 .box div.itemdate {

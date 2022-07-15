@@ -59,11 +59,15 @@ setPushed = function (name) {
     if (checkBox.checked) {
       box.style.margin = 5
       box.style.marginLeft = 250;
-      box.style.zoom = 1.1;
+      box.style.borderWidth = 5;
+      box.style.borderRadius = 15;
+      box.style.boxShadow = "rgb(170 170 170) 5px 5px 10px 0px";
     } else {
       box.style.margin = 2
       box.style.marginLeft = 200;
-      box.style.zoom = 1.0;
+      box.style.borderWidth = 2;
+      box.style.borderRadius = 10;
+      box.style.boxShadow = null;
     }
   }
 }

@@ -28,7 +28,7 @@ var outputHtml = new List<string>
 };
 
 double currentDate = 0;
-const double day = 1 / 365.0;
+const double Increment = 0.0001;
 
 var eventDates = new List<(int,double)>();
 
@@ -194,11 +194,16 @@ foreach (var entry in entries)
         {
             evBody = ev.Substring(2);
 
-            currentDate += day;
+            currentDate += Increment;
         }
         else
         {
             evBody = ev;
+        }
+
+        if (evBody.Contains("++"))
+        {
+            evBody = evBody.Substring(0, evBody.IndexOf("++"));
         }
 
         eventDates.Add((eventDates.Count+1,currentDate));
