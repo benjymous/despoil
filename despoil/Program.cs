@@ -148,7 +148,7 @@ foreach (var entry in entries)
 
             //var resultTag = $"<span class='entity {entity}'>{bareText}</span>";
             var title = alias==bareText ? "" : $"title='{alias}'";
-            var resultTag = $"<span {title} class='entity'>{bareText}</span>";
+            var resultTag = $"<span {title} class='entity {entity}' onclick='togglePush(\"{entity}\")'>{bareText}</span>";
 
             ev = ev.Replace(tag, resultTag);
         }
