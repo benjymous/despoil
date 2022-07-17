@@ -18,6 +18,9 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore despoil
     - name: Build
-      run: dotnet dotnet build despoil --no-restore
+      run: dotnet build despoil --no-restore
+
+    - name: Run
+      run: dotnet run --project ./despoil/despoil.csproj
