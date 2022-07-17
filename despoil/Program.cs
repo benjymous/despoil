@@ -211,7 +211,7 @@ foreach (var entry in entries)
         entriesHtml.Add($"<div class='{threadkey} {issueId} {string.Join(" ", entityClasses)}'>");
         entriesHtml.Add($"<div class='itemdate' title='{currentDate}'>{dateStr}</div>");
         entriesHtml.Add($"<div class='itemsubtitle'>{entrylines[3]} - {issueTitle}</div>");
-        entriesHtml.Add($"{evBody}");
+        entriesHtml.Add($"<span class='itembody'>{evBody}</span>");
        
         entriesHtml.Add("</div>");
     }

@@ -16,11 +16,16 @@ span.itemtitle {
   margin-left: 25px;
 }
 
+span.itembody {
+  line-height: 24px;
+}
+
 span.entity {
   background: #ddf;
   padding: 2px;
   margin: 1px;
   border-radius: 5px;
+  white-space:nowrap;
 }
 
 span.entity:hover {
