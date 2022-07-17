@@ -10,7 +10,7 @@ Vol  1: Preludes and Nocturnes, Book 1
 ## 1930: <Ruthven Sykes> trades <Dream>'s <Helm|Helmet of Dreams> with a demon for a magical <Amulet> ++ <Choronzon>
 ## 1936: <Sykes|Ruthven Sykes> and <Ethel Cripps> steal <Dream>'s remailing artefacts, and the <Amulet>
 # <Sykes> dies
-## 1939.1: <Unity|Unity Kincaid> gives birth - the baby is adopted ++ <Miranda Walker>
+## 1939.1: <Unity|Unity Kincaid> gives birth - the <baby|Miranda Walker> is adopted
 # <Wesley Dodds> - Golden age Sandman
 ## 1947: <Roderick Burgess> dies
 ## 1955: <Unity Kincaid> put into a nursing home when her parents die
@@ -277,7 +277,7 @@ Vol  4: Season of Mists, Book 2
 ## 1990.8: <Lucien> tells <Matthew> about the <Library of Dreams>
 # <Dream> tells everyone in <The Dreaming> that he must return to <Hell> to rescue <Nada>
 # <Cain> is sent to <Hell> as a messenger ++ <Lucifer> <Mazikeen> 
-## 1990.7: <Lyta> gives birth to her child ++ <Daniel>
+## 1990.7: <Lyta> gives birth to her <child|Daniel>
 ## 1990.806: <Dream> visits <Lyta> and names the child <Daniel>
 # <Dream> visits <Hob> within a dream and gives him a gift
 # <Cain> returns and <Dream> heads off to <Hell>

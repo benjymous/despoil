@@ -31,14 +31,14 @@ setAllIssues = function(enabled) {
 
 setChecked = function (prefix, name) {
   const checkBox = document.getElementById(prefix + name);
-  const boxes = document.getElementsByClassName(name);
+  const boxes = document.getElementsByClassName(name+"_outer");
   for (const box of boxes) {
     if (checkBox.checked) {
-      box.style.display = 'block';
-      setTimeout(function(){ box.style.opacity = 1; }, 0);
+      box.classList.add('displayblock')     
+      setTimeout(function(){ box.classList.add('opacity1') }, 0);
     } else {
-      box.style.opacity = 0
-      setTimeout(function(){ box.style.display = 'none'; }, 260);
+      box.classList.remove('opacity1')
+      setTimeout(function(){  box.classList.remove('displayblock') }, 500);
     }
   }
 
@@ -64,24 +64,18 @@ setPushed = function (name) {
   for (const box of boxes) {
     if (box.nodeName == 'DIV') {
       if (checkBox.checked) {
-        box.style.margin = 5
-        box.style.marginLeft = 250;
-        box.style.borderWidth = 5;
-        box.style.borderRadius = 15;
-        box.style.boxShadow = "rgb(170 170 170) 5px 5px 10px 0px";
+        box.classList.add("event_highlight")
       } else {
-        box.style.margin = 2
-        box.style.marginLeft = 200;
-        box.style.borderWidth = 2;
-        box.style.borderRadius = 10;
-        box.style.boxShadow = null;
+        box.classList.remove("event_highlight")
       }
     } else if (box.nodeName == 'SPAN') {
       if (checkBox.checked) {
-        box.style.background = "black"
-        box.style.color = "white"
+        box.classList.add("entity_active")
+        //box.style.background = "black"
+        //box.style.color = "white"
       } else {
-        box.style = null;
+        //box.style = null;
+        box.classList.remove("entity_active")
       }
     }
   }

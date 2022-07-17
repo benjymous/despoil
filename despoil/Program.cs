@@ -18,6 +18,7 @@ var outputHtml = new List<string>
 {
     "<html>",
     "<head>",
+    "  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
     "  <link href='style.css' rel='stylesheet'>",
     "  <link href='colors.css' rel='stylesheet'>",
     "  <link href='order0.css' rel='stylesheet' id='orderStyle'>",
@@ -208,11 +209,14 @@ foreach (var entry in entries)
 
         eventDates.Add((eventDates.Count+1,currentDate));
 
-        entriesHtml.Add($"<div class='{threadkey} {issueId} {string.Join(" ", entityClasses)}'>");
+        entriesHtml.Add($"<div class='itemrow {issueId}_outer hidden'>");
         entriesHtml.Add($"<div class='itemdate' title='{currentDate}'>{dateStr}</div>");
+        entriesHtml.Add($"<div class='event {threadkey} {issueId} {string.Join(" ", entityClasses)}'>");
+        
         entriesHtml.Add($"<div class='itemsubtitle'>{entrylines[3]} - {issueTitle}</div>");
         entriesHtml.Add($"<span class='itembody'>{evBody}</span>");
        
+        entriesHtml.Add("</div>");
         entriesHtml.Add("</div>");
     }
 
@@ -220,7 +224,9 @@ foreach (var entry in entries)
 
 int threadIdx = 0;
 
-outputHtml.Add("<div class='menu'>");
+outputHtml.Add("<div class='row'>");
+
+outputHtml.Add("<div class='col-menu'>");
 
 outputHtml.Add("<span>");
 outputHtml.Add("Publication date ");
@@ -295,12 +301,15 @@ foreach (var thread in threads)
     }
     outputHtml.Add("</details>");
 
-    colourStyles.Add($".box div.{key}");
+    colourStyles.Add($".{key}");
     colourStyles.Add("{");
     colourStyles.Add($"  border: 2px solid {despoil.Util.Rainbow(threads.Count+5, threadIdx++)};");
-    colourStyles.Add($"  display: none;");
-    colourStyles.Add($"  opacity: 0;");
     colourStyles.Add("}");
+    // colourStyles.Add($".{key}_outer");
+    // colourStyles.Add("{");
+    // colourStyles.Add($"  display: none;");
+    // colourStyles.Add($"  opacity: 0;");
+    // colourStyles.Add("}");
 }
 outputHtml.Add("</details>");
 
@@ -346,6 +355,8 @@ outputHtml.Add("</div>");
 outputHtml.Add("<div class='box'>");
 
 outputHtml.AddRange(entriesHtml);
+
+outputHtml.Add("</div>");
 
 outputHtml.Add("</div>");
 
