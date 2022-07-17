@@ -52,22 +52,37 @@ setChecked = function (prefix, name) {
   setParents(name)
 }
 
+togglePush = function (name) {
+  const checkBox = document.getElementById("check_" + name);
+  checkBox.checked = !checkBox.checked
+  setPushed(name)
+}
+
 setPushed = function (name) {
   const checkBox = document.getElementById("check_" + name);
   const boxes = document.getElementsByClassName(name);
   for (const box of boxes) {
-    if (checkBox.checked) {
-      box.style.margin = 5
-      box.style.marginLeft = 250;
-      box.style.borderWidth = 5;
-      box.style.borderRadius = 15;
-      box.style.boxShadow = "rgb(170 170 170) 5px 5px 10px 0px";
-    } else {
-      box.style.margin = 2
-      box.style.marginLeft = 200;
-      box.style.borderWidth = 2;
-      box.style.borderRadius = 10;
-      box.style.boxShadow = null;
+    if (box.nodeName == 'DIV') {
+      if (checkBox.checked) {
+        box.style.margin = 5
+        box.style.marginLeft = 250;
+        box.style.borderWidth = 5;
+        box.style.borderRadius = 15;
+        box.style.boxShadow = "rgb(170 170 170) 5px 5px 10px 0px";
+      } else {
+        box.style.margin = 2
+        box.style.marginLeft = 200;
+        box.style.borderWidth = 2;
+        box.style.borderRadius = 10;
+        box.style.boxShadow = null;
+      }
+    } else if (box.nodeName == 'SPAN') {
+      if (checkBox.checked) {
+        box.style.background = "black"
+        box.style.color = "white"
+      } else {
+        box.style = null;
+      }
     }
   }
 }

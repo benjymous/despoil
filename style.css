@@ -17,7 +17,15 @@ span.itemtitle {
 }
 
 span.entity {
-  font-weight: bold;
+  background: #ddf;
+  padding: 2px;
+  margin: 1px;
+  border-radius: 5px;
+}
+
+span.entity:hover {
+  background: #33f;
+  color: white;
 }
 
 .box {
