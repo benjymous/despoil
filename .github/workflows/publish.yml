@@ -1,0 +1,5 @@
+- name: Setup .NET Core SDK
+  uses: actions/setup-dotnet@v2.1.0
+  with:
+    dotnet-version: '6.0.x'
+- run: dotnet build despoil
