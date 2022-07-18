@@ -14,6 +14,8 @@ var collections = new Dictionary<string, List<(string,string)>>();
 var entriesHtml = new List<string>();
 var colourStyles = new List<string>();
 
+var seenDates = new HashSet<double>();
+
 var outputHtml = new List<string>
 {
     "<html>",
@@ -35,6 +37,9 @@ var eventDates = new List<(int,double)>();
 
 foreach (var entry in entries)
 {
+
+    int eventCount = 0;
+
     var entrylines = entry.Split("\n");
     if (entrylines.Length < 4)
     {
@@ -156,7 +161,7 @@ foreach (var entry in entries)
 
 
         var evBody = "";
-        
+       
 
         if (ev.StartsWith("## "))
         {
@@ -206,6 +211,32 @@ foreach (var entry in entries)
         {
             evBody = evBody.Substring(0, evBody.IndexOf("++"));
         }
+
+        while (seenDates.Contains(currentDate))
+        {
+            currentDate += Increment;
+        }
+
+
+        if (eventCount == 0)
+        {
+            // Add dummy entry for issue
+            seenDates.Add(currentDate);
+            eventDates.Add((eventDates.Count+1,currentDate));
+
+            entriesHtml.Add($"<div class='itemrow {issueId}_outer'>");
+            entriesHtml.Add($"<button class='top issueToggle {threadkey} {issueId}' onclick='toggleIssue(\"{issueId}\")'>");
+            
+            entriesHtml.Add($"{entrylines[3]} - {issueTitle}");
+            
+            entriesHtml.Add("</button>");
+            entriesHtml.Add("</div>");
+        }
+
+        eventCount++;
+
+
+        seenDates.Add(currentDate);
 
         eventDates.Add((eventDates.Count+1,currentDate));
 

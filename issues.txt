@@ -337,6 +337,7 @@ Season of Mists
 Season of Mists: Chapter 4
 April 1991
 Vol  4: Season of Mists, Book 2
+## December 1990: Over the Christmas holiday, the dead return at an English boarding school
 ## 1914: <Edwin Paine> dies ++ <Death>
 ## December 1990: <Charles Rowland> dies, but doesn't follow <Death> into the light ++ <Edwin Paine>
 # <Charles|Charles Rowland> and <Paine|Edwin Paine> decide to see what life has to offer
@@ -633,6 +634,7 @@ Worlds' End
 July 1993
 Vol  8: Worlds' End, Book 3 
 # A Tale of Two Cities **
+## <Cluracan> 
 
 
 Sandman #52
@@ -989,7 +991,7 @@ Chapter One
 December 2013
 Overture
 ## -500000100 | long ago: Red furred humanoids, sapient plants and insect swarms dream ++ <Dream>
-## 1915: An aspect of <Dream> dies, a hundred galaxies away, but transfer is interrupted
+## 1915.1: An aspect of <Dream> dies, a hundred galaxies away, but transfer is interrupted
 # <Dream> confronts <The Corinthian> at his London office
 # <Dream> is pulled halfway across the universe
 
@@ -1001,7 +1003,7 @@ April 2014
 Overture
 ## 2015: <Dream (Daniel)> retrieves the <Saeculum> from <Mad Hettie>'s hiding place
 ## ~ 1760.1: <Mad Hettie> steals the <Saeculum> from <Dream>
-## 1915: <Dream> meets with his other aspects from across the universe
+## 1915.2: <Dream> meets with his other aspects from across the universe
 # <Dream> meets with <Glory> of the First Circle
 # <Glory> reveals that a star has gone mad, and the madness is spreading ++ <Dream>
 ## -500000050 | half a billion years ago: A <Vortex> was allowed to live ++ <Dream>
@@ -1027,15 +1029,15 @@ February 2015
 Overture
 ## -150000000000 | before the beginning: Before the beginning was the <Night>
 ## -120000000000 | in the beginning: In beginning there was <Time>
-## 1914 | all times: <Dream> asks his father <Time> for help
+## 1915.3 | all times: <Dream> asks his father <Time> for help
 ## 1760 | before 1760: <Dream> borrows the <Saeculum>
-## 1914: <Dream> visits the City of the Stars and is allowed in by <Formalhaut>
+## 1915.3: <Dream> visits the City of the Stars and is allowed in by <Formalhaut>
 ## -500000070 | half a billion years ago: <Dream> tried to understand a <Vortex> on a small blue world in the centre of the galaxy
 ## -500000060 | half a billion years ago: <Dream> destroyed the world, but did not put out the sun
 ## 2015 | all times: <Dream (Daniel)> returns the <Saeculum> to <Time>
-## 1915 | all times: <Time> shows <Dream> his spread of cards
-## 1915 | all times: <Time> thanks <Dream> for returning the <Saeculum>
-## 1915 | no time: <Formalhaut> traps <Dream> inside a black holetime flies
+## 1915.3 | all times: <Time> shows <Dream> his spread of cards
+## 1915.3 | all times: <Time> thanks <Dream> for returning the <Saeculum>
+## 1915.3 | no time: <Formalhaut> traps <Dream> inside a black holetime flies
 
 
 The Sandman Overture #5
@@ -1043,10 +1045,10 @@ The Sandman Overture
 Chapter Five
 July 2015
 Overture
-## 1915 | inside the black hole: <Dusk> takes <Dream> to his mother <Night>
-## 1915: An unexpected <Sailing Ship> appears in <Destiny>'s garden
-## 1915.2: <Dream (cat)> collects a thousand lives
-## 1915.2: <Destiny> rescues <Dream> from the black hole
+## 1915.4 | inside the black hole: <Dusk> takes <Dream> to his mother <Night>
+## 1915.5: An unexpected <Sailing Ship> appears in <Destiny>'s garden
+## 1915.5: <Dream (cat)> collects a thousand lives
+## 1915.5: <Destiny> rescues <Dream> from the black hole
 
 
 The Sandman Overture #6
@@ -1054,6 +1056,6 @@ The Sandman Overture
 Chapter Six
 November 2015
 Overture
-## 1915.1: <Dream (cat)> Takes <Saeculum> and uses it to 'get involved'.  Leaves it in <Mad Hettie>'s hiding place
-## 1915.4: The thousand dreams restart the universe.  Only <Dream> remembers.
+## 1915.45: <Dream (cat)> Takes <Saeculum> and uses it to 'get involved'.  Leaves it in <Mad Hettie>'s hiding place
+## 1915.6: The thousand dreams restart the universe.  Only <Dream> remembers.
 ## -500000045 | (or): A <Vortex> was destroyed ++ <Dream>

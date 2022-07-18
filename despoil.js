@@ -25,20 +25,26 @@ setAllIssues = function(enabled) {
   {
     box.checked = enabled
     const name = box.id.replace("check_issue_","");
-    setChecked("check_issue_",name);
+    setChecked("check_issue_",name, true);
   }
 }
 
-setChecked = function (prefix, name) {
+setChecked = function (prefix, name, noScroll) {
   const checkBox = document.getElementById(prefix + name);
   const boxes = document.getElementsByClassName(name+"_outer");
+
+  if (!noScroll && checkBox.checked) {
+    setTimeout(function(){ boxes[0].scrollIntoView({behavior: "smooth"}) }, 10);
+  }
+
   for (const box of boxes) {
     if (checkBox.checked) {
-      box.classList.add('displayblock')     
+      box.classList.add('displayblock')
+      setTimeout(function(){ box.classList.add('expanded') }, 0);
       setTimeout(function(){ box.classList.add('opacity1') }, 0);
     } else {
       box.classList.remove('opacity1')
-      setTimeout(function(){  box.classList.remove('displayblock') }, 500);
+      setTimeout(function(){  box.classList.remove('displayblock') }, 100);
     }
   }
 
@@ -50,6 +56,12 @@ setChecked = function (prefix, name) {
   }
 
   setParents(name)
+}
+
+toggleIssue = function (name) {
+  const box = document.getElementById("check_issue_"+name)
+  box.checked = !box.checked;
+  setChecked("check_issue_", name)
 }
 
 togglePush = function (name) {
@@ -125,3 +137,4 @@ changeOrder = function () {
   const checkBox = document.getElementById("order");
   setCustomStyle( checkBox.checked ? "order1" : "order0")
 }
+
