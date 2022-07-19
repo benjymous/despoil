@@ -77,6 +77,10 @@ span.entity {
   transition: all 0.25s ease-in-out;
 }
 
+.entity_hidden {
+  display: none
+}
+
 .entity_active {
   background: black !important;
   color: white;
@@ -117,6 +121,16 @@ span.entity:hover {
   border-left-width: 0px !important;
 }
 
+.dateMarker {
+  width: 75%;
+  margin-left: 12%;
+  margin-bottom: 3px;
+  margin-top: 15px;
+  border-top-width: 0px !important;
+  border-left-width: 0px !important;
+  font-weight: bolder;
+}
+
 .event_highlight {
   border-width: 5px !important;
   border-radius: 25px;
@@ -127,6 +141,12 @@ span.entity:hover {
 
 .itemrow {
   transition: all 0.5s ease-in-out;
+}
+
+.itemrow_highlight {
+  background: #e0dee9;
+  padding: 1px;
+  margin: 1px;
 }
 
 .itemdate {

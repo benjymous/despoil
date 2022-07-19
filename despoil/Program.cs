@@ -8,6 +8,7 @@ var threads = new Dictionary<string, List<string>>();
 var threadKey = new Dictionary<string, string>();
 var entityKey = new Dictionary<string, string>();
 var entityAlias = new Dictionary<string, string>();
+var entityAppearence = new Dictionary<string, HashSet<string>>();
 
 var collections = new Dictionary<string, List<(string,string)>>();
 
@@ -15,6 +16,9 @@ var entriesHtml = new List<string>();
 var colourStyles = new List<string>();
 
 var seenDates = new HashSet<double>();
+
+var dateMarkers = new Dictionary<long, string>();
+var dateAppearence = new Dictionary<long, HashSet<string>>();
 
 var outputHtml = new List<string>
 {
@@ -25,6 +29,7 @@ var outputHtml = new List<string>
     "  <link href='colors.css' rel='stylesheet'>",
     "  <link href='order0.css' rel='stylesheet' id='orderStyle'>",
     "  <script src='despoil.js'></script>",
+    "  <title>Despoil - The (hopefully) less spoilery Sandman Universe timeline</title>",
     "</head>",
 
     "<body>"
@@ -150,7 +155,13 @@ foreach (var entry in entries)
                 entity = entityKey[alias];
             }
 
+            if (!entityAppearence.ContainsKey(entity))
+            {
+                entityAppearence[entity] = new HashSet<string>();
+            }
+
             entityClasses.Add(entity);
+            entityAppearence[entity].Add(issueId);
 
             //var resultTag = $"<span class='entity {entity}'>{bareText}</span>";
             var title = alias==bareText ? "" : $"title='{alias}'";
@@ -217,6 +228,48 @@ foreach (var entry in entries)
             currentDate += Increment;
         }
 
+        int centuryKey = int.MinValue;
+        int decadeKey = int.MinValue;;
+
+        if (currentDate > 0 && currentDate < 3000)
+        {
+            int century = 1 + ((int)currentDate / 100);
+            centuryKey = (century-1)*100;
+
+            if (!dateMarkers.ContainsKey(centuryKey))
+            {
+                dateMarkers.Add(centuryKey, $"{despoil.Util.NumberOrdinal(century)} century");
+            }
+
+            if (currentDate >= 1900 && currentDate < 3000)
+            {
+                decadeKey = ((int)currentDate / 10)*10;
+
+                if (!dateMarkers.ContainsKey(decadeKey))
+                {
+                    dateMarkers.Add(decadeKey, $"{decadeKey}s");
+                }
+            }
+        }
+
+        if (centuryKey != int.MinValue)
+        {
+            if (!dateAppearence.ContainsKey(centuryKey))
+            {
+                dateAppearence[centuryKey] = new HashSet<string>();
+            }
+            dateAppearence[centuryKey].Add(issueId);
+        }
+
+        if (decadeKey != int.MinValue)
+        {
+            if (!dateAppearence.ContainsKey(decadeKey))
+            {
+                dateAppearence[decadeKey] = new HashSet<string>();
+            }
+            dateAppearence[decadeKey].Add(issueId);
+        }
+
 
         if (eventCount == 0)
         {
@@ -250,7 +303,20 @@ foreach (var entry in entries)
         entriesHtml.Add("</div>");
         entriesHtml.Add("</div>");
     }
+}
 
+
+foreach (var marker in dateMarkers)
+{
+    Console.WriteLine($"{marker.Key} => {marker.Value}");
+    eventDates.Add((eventDates.Count+1,marker.Key));
+    entriesHtml.Add($"<div class='dateMarker hidden {String.Join(" ", dateAppearence[marker.Key].Select(x => "entityissue_"+x))}'>");
+    entriesHtml.Add($"<div>");
+    
+    entriesHtml.Add(marker.Value);
+    
+    entriesHtml.Add("</div>");
+    entriesHtml.Add("</div>");
 }
 
 int threadIdx = 0;
@@ -367,13 +433,17 @@ outputHtml.Add("</details>");
 
 outputHtml.Add("<details open><summary>Highlight...</summary>");
 
+outputHtml.Add("<button onclick='highlightNone()'>Clear Highlights</button>");
 
 outputHtml.Add("<details><summary>Characters / Places / Entities</summary>");
 
 foreach (var entity in entityKey.OrderBy(x => x.Key))
 {
-    outputHtml.Add($"<input type='checkbox' id='check_{entity.Value}' onclick='setPushed(\"{entity.Value}\")'>");
+    outputHtml.Add($"<div class='entity_hidden {string.Join(" ", entityAppearence[entity.Value].Select(x => "entityissue_"+x))}'>");
+    outputHtml.Add($"<input type='checkbox' class='check_entity' id='check_{entity.Value}' onclick='setPushed(\"{entity.Value}\")'>");
     outputHtml.Add($"<label for='check_c2_{entity.Value}'>{entity.Key}</label><br>");
+    outputHtml.Add($"</div>");
+
 }
 
 outputHtml.Add("</details>");

@@ -82,6 +82,30 @@ namespace despoil
                 return double.Parse(date);
             }
         }
+    
+        public static string NumberOrdinal(int number)
+        {
+            int lastPair = number % 100;
+
+            if (lastPair >10 && lastPair < 20)
+            {
+                return $"{number}th";
+            }
+
+            int lastDigit = number % 10;
+
+            switch(lastDigit)
+            {
+                case 1: return $"{number}st";
+
+                case 2: return $"{number}nd";
+
+                case 3: return $"{number}rd";
+
+                default: return $"{number}th";
+            }
+        } 
+
     }
 
 

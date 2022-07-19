@@ -139,7 +139,6 @@ Vol  2: The Doll's House, Book 1
 # <Rose> and <Gilbert> break down in the middle of nowhere, and walk to a motel
 # <Dream> defeats <Hector>, releasing <Brute>, <Glob>, <Lyta> and what remains of <Hector>
 # <Dream> banishes <Brute> and <Glob> to <The Darkness>
-# The ghost of <Hector Hall>  ++ <Dream> <Lyta>
 # <Dream> tells <Lyta> that he will come for her <unborn child|Daniel> in time
 # <Jed> escapes but is picked up by <The Corinthian>
 
@@ -337,7 +336,7 @@ Season of Mists
 Season of Mists: Chapter 4
 April 1991
 Vol  4: Season of Mists, Book 2
-## December 1990: Over the Christmas holiday, the dead return at an English boarding school
+## December 1990: Over the Christmas holidays, the dead return at an English boarding school ++ <Edwin Paine> <Charles Rowland>
 ## 1914: <Edwin Paine> dies ++ <Death>
 ## December 1990: <Charles Rowland> dies, but doesn't follow <Death> into the light ++ <Edwin Paine>
 # <Charles|Charles Rowland> and <Paine|Edwin Paine> decide to see what life has to offer
@@ -473,7 +472,7 @@ The Hunt
 June 1992
 Vol  6: Fables and Reflections, Book 3
 ## 1992: A Grandfather tells a story
-## ~ 1000 | medieval times: A story of princesses and werewolves
+## ~ 1000.1 | medieval times: A story of princesses and werewolves
 ? Unsure how far back the story is set
 
 

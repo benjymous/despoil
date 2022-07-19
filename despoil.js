@@ -37,14 +37,27 @@ setChecked = function (prefix, name, noScroll) {
     setTimeout(function(){ boxes[0].scrollIntoView({behavior: "smooth"}) }, 10);
   }
 
+  const styleid ='style_'+name
   for (const box of boxes) {
     if (checkBox.checked) {
       box.classList.add('displayblock')
       setTimeout(function(){ box.classList.add('expanded') }, 0);
       setTimeout(function(){ box.classList.add('opacity1') }, 0);
+
+      
+      if (document.getElementById('style_'+name) == null) {
+        var style = document.createElement('style')
+        style.id = styleid
+        style.innerHTML = '.entityissue_'+name+' { display: block !important; }';
+        document.getElementsByTagName('head')[0].appendChild(style);
+      }
+
     } else {
       box.classList.remove('opacity1')
       setTimeout(function(){  box.classList.remove('displayblock') }, 100);
+
+      var style = document.getElementById('style_'+name);
+      if (style != null) style.remove()
     }
   }
 
@@ -77,19 +90,30 @@ setPushed = function (name) {
     if (box.nodeName == 'DIV') {
       if (checkBox.checked) {
         box.classList.add("event_highlight")
+        box.parentElement.classList.add("itemrow_highlight")
       } else {
         box.classList.remove("event_highlight")
+        box.parentElement.classList.remove("itemrow_highlight")
       }
+
     } else if (box.nodeName == 'SPAN') {
       if (checkBox.checked) {
         box.classList.add("entity_active")
-        //box.style.background = "black"
-        //box.style.color = "white"
       } else {
         //box.style = null;
         box.classList.remove("entity_active")
       }
     }
+  }
+}
+
+highlightNone = function () {
+  const boxes = document.getElementsByClassName("check_entity")
+  for (const box of boxes)
+  {
+    box.checked = false
+    const name = box.id.replace("check_","");
+    setPushed(name);
   }
 }
 
@@ -136,5 +160,28 @@ setParents = function (name) {
 changeOrder = function () {
   const checkBox = document.getElementById("order");
   setCustomStyle( checkBox.checked ? "order1" : "order0")
+
+  const issues = document.getElementsByClassName("issueToggle");
+
+  for (const box of issues) {
+    if (checkBox.checked) {
+      box.classList.add('hidden')
+    } else {
+      box.classList.remove('hidden')
+    }
+  }
+
+  const dateMarkers = document.getElementsByClassName("dateMarker");
+
+  for (const box of dateMarkers) {
+    if (!checkBox.checked) {
+      box.classList.remove('entity_hidden')
+      box.classList.add('hidden')
+    } else {
+      box.classList.remove('hidden')
+      box.classList.add('entity_hidden')
+    }
+  }
+
 }
 
