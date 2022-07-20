@@ -450,7 +450,7 @@ outputHtml.Add("<details open><summary>Highlight...</summary>");
 
 outputHtml.Add("<button onclick='highlightNone()'>Clear Highlights</button>");
 
-outputHtml.Add("<details><summary>Characters / Places / Entities</summary>");
+outputHtml.Add("<details open><summary>Characters / Places / Entities</summary>");
 
 
 foreach (var entity in entityKey.OrderBy(x => x.Key))
