@@ -134,6 +134,8 @@ setChildren = function (name) {
     child.checked = checkBox.checked
     setChecked("check_thread_", items[item])
   }
+
+  updateMarkers();
 }
 
 setParents = function (name) {
@@ -195,7 +197,10 @@ changeOrder = function () {
 
 var markerEvent = null
 updateMarkers = function () {
-  console.log("markers?")
+
+  var scrollMarker = document.querySelector('.scroll-marker');
+  scrollMarker.replaceChildren();
+
   if (markerEvent != null) {
     clearTimeout(markerEvent);
     markerEvent = null;

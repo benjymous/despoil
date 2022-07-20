@@ -262,6 +262,7 @@ details {
   width: 16px;
   background-color: #8383bab8;
   border-radius: 3px;
+  min-height: 6px;
 }
 
 
