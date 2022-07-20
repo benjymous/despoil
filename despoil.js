@@ -1,3 +1,9 @@
+
+
+window.addEventListener('resize', function(event) {
+  updateMarkers();
+}, true);
+
 setCustomStyle = function (customStyle) {
 
   /** Replace custom stylesheet */
@@ -11,57 +17,58 @@ setCustomStyle = function (customStyle) {
   document.head.appendChild(lk);
 };
 
-showAll = function() {
+showAll = function () {
   setAllIssues(true)
 }
 
-showNone = function() {
+showNone = function () {
   setAllIssues(false)
 }
 
-setAllIssues = function(enabled) {
+setAllIssues = function (enabled) {
   const boxes = document.getElementsByClassName("check_issue")
-  for (const box of boxes)
-  {
+  for (const box of boxes) {
     box.checked = enabled
-    const name = box.id.replace("check_issue_","");
-    setChecked("check_issue_",name, true);
+    const name = box.id.replace("check_issue_", "");
+    setChecked("check_issue_", name, true);
   }
+
+  updateMarkers();
 }
 
 setChecked = function (prefix, name, noScroll) {
   const checkBox = document.getElementById(prefix + name);
-  const boxes = document.getElementsByClassName(name+"_outer");
+  const boxes = document.getElementsByClassName(name + "_outer");
 
   if (!noScroll && checkBox.checked) {
-    setTimeout(function(){ boxes[0].scrollIntoView({behavior: "smooth"}) }, 10);
+    setTimeout(function () { boxes[0].scrollIntoView({ behavior: "smooth" }) }, 10);
   }
 
-  const styleid ='style_'+name
+  const styleid = 'style_' + name
   for (const box of boxes) {
     if (checkBox.checked) {
       box.classList.add('displayblock')
-      setTimeout(function(){ box.classList.add('expanded') }, 0);
-      setTimeout(function(){ box.classList.add('opacity1') }, 0);
+      setTimeout(function () { box.classList.add('expanded') }, 0);
+      setTimeout(function () { box.classList.add('opacity1') }, 0);
 
-      
-      if (document.getElementById('style_'+name) == null) {
+
+      if (document.getElementById('style_' + name) == null) {
         var style = document.createElement('style')
         style.id = styleid
-        style.innerHTML = '.entityissue_'+name+' { display: block !important; }';
+        style.innerHTML = '.entityissue_' + name + ' { display: block !important; }';
         document.getElementsByTagName('head')[0].appendChild(style);
       }
 
     } else {
       box.classList.remove('opacity1')
-      setTimeout(function(){  box.classList.remove('displayblock') }, 100);
+      setTimeout(function () { box.classList.remove('displayblock') }, 100);
 
-      var style = document.getElementById('style_'+name);
+      var style = document.getElementById('style_' + name);
       if (style != null) style.remove()
     }
   }
 
-  var cousins = document.getElementsByClassName("check_"+name)
+  var cousins = document.getElementsByClassName("check_" + name)
   for (const cousin of cousins) {
     if (cousin != checkBox) {
       cousin.checked = checkBox.checked;
@@ -72,9 +79,10 @@ setChecked = function (prefix, name, noScroll) {
 }
 
 toggleIssue = function (name) {
-  const box = document.getElementById("check_issue_"+name)
+  const box = document.getElementById("check_issue_" + name)
   box.checked = !box.checked;
   setChecked("check_issue_", name)
+  updateMarkers();
 }
 
 togglePush = function (name) {
@@ -105,14 +113,14 @@ setPushed = function (name) {
       }
     }
   }
+  updateMarkers();
 }
 
 highlightNone = function () {
   const boxes = document.getElementsByClassName("check_entity")
-  for (const box of boxes)
-  {
+  for (const box of boxes) {
     box.checked = false
-    const name = box.id.replace("check_","");
+    const name = box.id.replace("check_", "");
     setPushed(name);
   }
 }
@@ -159,7 +167,7 @@ setParents = function (name) {
 
 changeOrder = function () {
   const checkBox = document.getElementById("order");
-  setCustomStyle( checkBox.checked ? "order1" : "order0")
+  setCustomStyle(checkBox.checked ? "order1" : "order0")
 
   const issues = document.getElementsByClassName("issueToggle");
 
@@ -185,3 +193,58 @@ changeOrder = function () {
 
 }
 
+var markerEvent = null
+updateMarkers = function () {
+  console.log("markers?")
+  if (markerEvent == null) {
+
+    markerEvent = setTimeout(() => {
+      addScrollMarkers();
+    }, 0)
+
+  }
+}
+
+// from https://stackoverflow.com/a/57634867/1073843
+addScrollMarkers = function () {
+
+  markerEvent = null;
+
+  var container = document.querySelector('.container');
+  var containerInner = document.querySelector('.box');
+
+  var containerHeight = container.offsetHeight;
+  var containerScrollHeight = containerInner.scrollHeight;
+
+  var scrollMarker = document.querySelector('.scroll-marker');
+  scrollMarker.replaceChildren();
+
+  var colorfulStuff = document.querySelectorAll('.itemrow_highlight'); // highlighted entries
+
+  colorfulStuff.forEach(function (span) { // loop to create each marker
+
+    var spanTop = span.offsetTop;
+    var spanBottom = spanTop + span.offsetHeight;
+
+    var markerTop = Math.ceil(spanTop * containerHeight / containerScrollHeight);
+    var markerBottom = Math.ceil(spanBottom * containerHeight / containerScrollHeight);
+
+    if (markerBottom == markerTop) return;
+
+    /*
+    if (span.className === "red") { // choose the correct color
+        var markerColor = '#f65e5a';
+    } else if (span.className === "yellow") {
+        var markerColor = '#fec740';
+    } else if (span.className === "blue") {
+        var markerColor = '#2985d0';
+    }*/
+
+    var markerElement = document.createElement("span"); // create the marker, set color and position and put it there
+    //markerElement.style.backgroundColor = markerColor;
+    markerElement.style.top = markerTop + "px"
+    markerElement.style.height = (markerBottom - markerTop) + "px"
+    scrollMarker.appendChild(markerElement);
+
+  })
+}

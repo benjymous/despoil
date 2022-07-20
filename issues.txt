@@ -31,7 +31,7 @@ Master of Dreams
 February 1989
 Vol  1: Preludes and Nocturnes, Book 1
 ## 1988.1: <Gregory> finds <Dream> and takes him to <Cain> and <Abel>
-# <Ethel Dee|Ethel Cripps> visits <John Dee> at Arkham Asylum
+# <Ethel Dee|Ethel Cripps> visits <John Dee> at <Arkham Asylum>
 # <Goldie> hatches  ++ <Cain> <Abel>
 # <Dream> visits the <Three Witches> who tell him the wearabouts locations of his missing artefacts
 
@@ -52,7 +52,7 @@ Master of Dreams
 April 1989
 Vol  1: Preludes and Nocturnes, Book 1
 ## 1988.4: <Dream> visits <Lucifer> in hell, and recovers his <Helm> from <Choronzon> ++ <Cain> <Azazel> <Beelzebub> <Nada>
-# <John Dee> recieves the <Amulet>
+# <John Dee> recieves the <Amulet> ++ <Arkham Asylum>
 
 
 Sandman #5
@@ -97,7 +97,7 @@ Master of Dreams
 8. Tales in the Sand
 September 1989
 Vol  2: The Doll's House, Book 1
-## ~ -8000: <Nada> is condemned to Hell by <Dream>
+## ~ -8000: <Nada> is condemned to <Hell> by <Dream>
 
 
 Sandman #10
@@ -287,7 +287,7 @@ Books of Magic Miniseries
 The Land of Summer's Twilight
 January 1991
 Books of Magic
-## 1990.77 | October 1990: <Doctor Occult> takes <Tim> on a trip around mystic realms
+## 1990.77 | October 1990: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Faerie> <Lady Titania>
 ? add more detail? **
 
 
@@ -632,7 +632,9 @@ Worlds' End
 1. A Tale of Two Cities
 July 1993
 Vol  8: Worlds' End, Book 3 
-# A Tale of Two Cities **
+## June 1993:  <Brant|Brant Tucker> and <Charlene|Charlene Mooney> have a car accident in an unseasonable stowstomrm and wind up at the <World's End> inn
+## ~ 1970: A man gets lost within a <Dream> of a city that he knew
+? No easy way to put this one anywhere particular date-wise, other than being presumably 20th century, pre-computers
 
 
 Sandman #52
@@ -640,7 +642,8 @@ Worlds' End
 2. Cluracan's Tale
 August 1993
 Vol  8: Worlds' End, Book 3
-# Cluracan's Tale **
+## ~ 1990: <Lady Titania> sends <Cluracan> to visit the <Lords Carnal> in the city of <Aurelia of the Plains> ++ <Faerie> <Nuala> <Dream> <The Dreaming>
+? occurs somewhere between end of Season of Mists and beginning of Kindly Ones
 
 
 Vertigo Jam #1: 
@@ -648,7 +651,8 @@ Vertigo Jam
 The Castle
 August 1993
 Book 4
-# The Castle **
+# <Lucien> mistakes a dreamer for a visiting dignitary and gives him a tour of <The Castle> ++ <Merv> <Nuala> <Matthew> <Cain> <Abel> <Goldie> <Dream> <The Dreaming>
+? occurs somewhere between end of Season of Mists and beginning of Kindly Ones
 
 
 Sandman #53
@@ -656,7 +660,9 @@ Worlds' End
 3. Hob's Leviathan
 September 1993
 Vol  8: Worlds' End, Book 3
-## 1912: Hob's Leviathan **
+## 1899: <Jim> is born
+## 1912: <Jim>, aged 13 runs away to sea, and meets <Hob> and <The Stowaway>
+## -100 | Long ago: An <Indian King|The Stowaway> is given an Apple of immortality
 
 
 Sandman #54
@@ -664,7 +670,8 @@ Worlds' End
 4. The Golden Boy
 October 1993
 Vol  8: Worlds' End, Book 3
-# The Golden Boy **
+## 1972 | an alternate timeline: A boy called <Prez|Prez Rickard> becomes President
+? Clinton is President, so puts Brant and Charlene's thread in the 1993-2001 period.  Assuming 1993
 
 
 Sandman #55
@@ -672,7 +679,17 @@ Worlds' End
 5. Cerements
 November 1993
 Vol  8: Worlds' End, Book 3
-# Cerements **
+## ~ 1800 | approx 19th century: Burial rites, then stories from the <Necropolis Litharge> ++ <Petrefax> <Hermas> <Mig> <Scroyle>
+## ~ 1750 | approx 18th century: <Billy Scutt> the hangman escapes the gallows ++ <Mig>
+## ~ 1790 | approx 18th century: <Scroyle> meets <Destruction> who tells him a tale about the <First Necropolis>
+## -1100000001 | millennia ago: The Endless arrive at the <First Necropolis> seeking the <Cerements> and the <Books of Ritual>.  <Destiny> destroys the city.
+## -1100000000 | millennia ago: The village of <Litharge|Necropolis Litharge> gains a charter to become a Necropolis
+## ~ 1800 | approx 19th century: <Petrefax> tells a tale of Mistress <Veltis>
+## ~ 1700 | approx 18th century: A young <Veltis> accidentally encounters a room deep in the catacombs containing the <Cerements> and the <Books of Ritual>
+? Billy was a 'Resurrectionist' - https://en.wikipedia.org/wiki/Resurrectionists_in_the_United_Kingdom so 17th or 18th century.  Assuming 17th based on costume
+? wandering Destruction makes an appearence, so the Litharge thread is set some time after 1690
+? Billy was Mig's grandfather, so Litharge thread ~50 years later
+? Not clear if it is Delight or Delirium who visited the First Necropolis
 
 
 Sandman #56
@@ -680,7 +697,10 @@ Worlds' End
 6. Worlds' End
 December 1993
 Vol  8: Worlds' End, Book 3
-# World's End **
+## 1992.96: A funeral procession across the sky. ++ <Destiny> <Despair> <Delirium> <Death> <Desire> <Bast> <Odin> <Thor> <Merv>
+## 1993.5: The storm passes, and the Inn's visitors disperse.  <Charlene> chooses to stay behind, and <Petrefax> chooses to travel
+## 1993.9: <Brant> tells his story in a bar.  No evidence <Charlene> ever existed
+? need to identify who else is in the procession
 
 
 Death Talks About Life
@@ -810,7 +830,7 @@ The Wake
 Chapter 2: In Which a Wake is Held
 September 1995
 Vol 10: The Wake, Book 4
-## 1992.91: In Which a Wake is Held **
+## 1992.93: In Which a Wake is Held **
 
 
 Sandman Midnight Theatre
@@ -827,7 +847,7 @@ The Wake
 Chapter 3: In Which We Wake
 November 1995
 Vol 10: The Wake, Book 4
-## 1992.92: In Which We Wake **
+## 1992.95: In Which We Wake **
 
 
 Sandman #73
@@ -835,7 +855,7 @@ The Wake
 The Wake: An Epilogue - Sunday Mourning
 December 1995
 Vol 10: The Wake, Book 4
-## 1992.93: An Epilogue - Sunday Mourning **
+## 1992.97: An Epilogue - Sunday Mourning **
 
 
 Sandman #74

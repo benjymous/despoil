@@ -20,6 +20,8 @@ var seenDates = new HashSet<double>();
 var dateMarkers = new Dictionary<long, string>();
 var dateAppearence = new Dictionary<long, HashSet<string>>();
 
+var allIssues = new HashSet<string>();
+
 var outputHtml = new List<string>
 {
     "<html>",
@@ -48,8 +50,7 @@ foreach (var entry in entries)
     var entrylines = entry.Split("\n");
     if (entrylines.Length < 4)
     {
-        Console.WriteLine("Error with " + entrylines[0]);
-        return;
+        throw new Exception("Error with " + entrylines[0]);
     }
 
     for (int i=5; i< entrylines.Length; i++)
@@ -57,9 +58,7 @@ foreach (var entry in entries)
 
         if (!(entrylines[i].StartsWith('#') || entrylines[i].StartsWith("?")))
         {
-            Console.WriteLine("Error with " + entrylines[0]);
-            Console.WriteLine($"{entrylines[i]}' should start with #");
-            return;
+            throw new Exception($"Error with {entrylines[0]}\n{entrylines[i]}' should start with #");
         }
     }
    
@@ -76,6 +75,8 @@ foreach (var entry in entries)
 
     var threadkey = threadKey[thread];
     var issueId = $"{threadkey}_{threads[thread].Count}";
+
+    allIssues.Add(issueId);
 
     threads[thread].Add(issueTitle);
     issues.Add(issueTitlePlain);
@@ -308,8 +309,7 @@ foreach (var entry in entries)
 
 foreach (var marker in dateMarkers)
 {
-    Console.WriteLine($"{marker.Key} => {marker.Value}");
-    eventDates.Add((eventDates.Count+1,marker.Key));
+    eventDates.Add((eventDates.Count+1,marker.Key-0.00001));
     entriesHtml.Add($"<div class='dateMarker hidden {String.Join(" ", dateAppearence[marker.Key].Select(x => "entityissue_"+x))}'>");
     entriesHtml.Add($"<div>");
     
@@ -420,7 +420,7 @@ foreach (var thread in threads)
     foreach (var issue in thread.Value)
     {
         var checkid = $"{key}_{idx++}";
-        outputHtml.Add($"<input type='checkbox' class='check_issue check_{checkid}' id='check_issue_{checkid}' onclick='setChecked(\"check_issue_\", \"{checkid}\")' />");
+        outputHtml.Add($"<input type='checkbox' class='check_issue checkybox check_{checkid}' id='check_issue_{checkid}' onclick='setChecked(\"check_issue_\", \"{checkid}\")' />");
         outputHtml.Add($"<label for='check_issue_{checkid}'>{issue}</label><br>");
     }
 
@@ -430,6 +430,10 @@ outputHtml.Add("</details>");
 
 outputHtml.Add("</details>");
 
+//////////////////////////////////////////
+// Highlights selector
+
+outputHtml.Add($"<div class='entity_hidden {String.Join(" ",allIssues.Select(x => "entityissue_"+x))}'>");
 
 outputHtml.Add("<details open><summary>Highlight...</summary>");
 
@@ -437,11 +441,13 @@ outputHtml.Add("<button onclick='highlightNone()'>Clear Highlights</button>");
 
 outputHtml.Add("<details><summary>Characters / Places / Entities</summary>");
 
+
 foreach (var entity in entityKey.OrderBy(x => x.Key))
 {
     outputHtml.Add($"<div class='entity_hidden {string.Join(" ", entityAppearence[entity.Value].Select(x => "entityissue_"+x))}'>");
     outputHtml.Add($"<input type='checkbox' class='check_entity' id='check_{entity.Value}' onclick='setPushed(\"{entity.Value}\")'>");
-    outputHtml.Add($"<label for='check_c2_{entity.Value}'>{entity.Key}</label><br>");
+    outputHtml.Add($"<label for='check_{entity.Value}'>{entity.Key}</label><br>");
+
     outputHtml.Add($"</div>");
 
 }
@@ -450,12 +456,22 @@ outputHtml.Add("</details>");
 
 outputHtml.Add("</details>");
 
+outputHtml.Add("</div>");
+
+//////////////////////////////////////////
+
 
 outputHtml.Add("</div>");
+
+outputHtml.Add("<div class='container'>");
+
+outputHtml.Add("<div class='scroll-marker'></div>");
 
 outputHtml.Add("<div class='box'>");
 
 outputHtml.AddRange(entriesHtml);
+
+outputHtml.Add("</div>");
 
 outputHtml.Add("</div>");
 
