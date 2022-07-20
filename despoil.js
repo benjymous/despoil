@@ -15,6 +15,8 @@ setCustomStyle = function (customStyle) {
   lk.setAttribute('rel', 'stylesheet');
   lk.setAttribute('href', `${customStyle}.css`);
   document.head.appendChild(lk);
+
+  updateMarkers();
 };
 
 showAll = function () {
@@ -208,7 +210,7 @@ updateMarkers = function () {
 
   markerEvent = setTimeout(() => {
     addScrollMarkers();
-  }, 0)
+  }, 1000)
 
   
 }

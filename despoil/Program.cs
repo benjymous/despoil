@@ -38,6 +38,7 @@ var outputHtml = new List<string>
     "<body>",
 
     "<div class='topnav'>",
+    "  <img src='icon.png'>",
     "  <a href='#home'><i><b>De</b>spoil</i> - The (hopefully) less spoilery Sandman Universe timeline</a>",
 
     "  <a href='javascript:void(0);' class='icon' onclick='toggleMenu()'>",

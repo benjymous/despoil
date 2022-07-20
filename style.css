@@ -130,7 +130,7 @@ span.entity:hover {
   border-right: 25px !important;
   border-left: 25px !important;
 
-  transition: all 0.5s ease-in-out;
+  transition: all 0.25s ease-in-out;
 }
 
 .issueToggle {
@@ -157,7 +157,7 @@ span.entity:hover {
 }
 
 .itemrow {
-  transition: all 0.5s ease-in-out;
+  transition: all 0.25s ease-in-out;
 }
 
 .itemrow_highlight {
@@ -210,7 +210,7 @@ details {
 /* Style the navigation menu */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #664d7b;
   position: relative;
   margin-bottom: 10px;
 }
@@ -225,8 +225,14 @@ details {
   color: white;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
   display: block;
+}
+
+.topnav img {
+  float: left;
+  max-height: 40px;
+  padding: 4px;
 }
 
 /* Style the hamburger menu */
@@ -260,7 +266,7 @@ details {
   /* markers */
   position: absolute;
   width: 16px;
-  background-color: #8383bab8;
+  background-color: #8383ba80;
   border-radius: 3px;
   min-height: 6px;
 }
