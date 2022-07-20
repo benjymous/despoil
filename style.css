@@ -125,7 +125,7 @@ span.entity:hover {
   border-radius: 10px;
   padding: 30px 15px 15px 15px;
   margin: 2px;
-  width: 70%;
+  width: calc(75% - 70px);
 
   border-right: 25px !important;
   border-left: 25px !important;

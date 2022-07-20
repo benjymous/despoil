@@ -196,13 +196,16 @@ changeOrder = function () {
 var markerEvent = null
 updateMarkers = function () {
   console.log("markers?")
-  if (markerEvent == null) {
-
-    markerEvent = setTimeout(() => {
-      addScrollMarkers();
-    }, 0)
-
+  if (markerEvent != null) {
+    clearTimeout(markerEvent);
+    markerEvent = null;
   }
+
+  markerEvent = setTimeout(() => {
+    addScrollMarkers();
+  }, 0)
+
+  
 }
 
 // from https://stackoverflow.com/a/57634867/1073843
