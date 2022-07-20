@@ -30,11 +30,22 @@ var outputHtml = new List<string>
     "  <link href='style.css' rel='stylesheet'>",
     "  <link href='colors.css' rel='stylesheet'>",
     "  <link href='order0.css' rel='stylesheet' id='orderStyle'>",
+    "  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>",
     "  <script src='despoil.js'></script>",
     "  <title>Despoil - The (hopefully) less spoilery Sandman Universe timeline</title>",
     "</head>",
 
-    "<body>"
+    "<body>",
+
+    "<div class='topnav'>",
+    "  <a href='#home'><i><b>De</b>spoil</i> - The (hopefully) less spoilery Sandman Universe timeline</a>",
+
+    "  <a href='javascript:void(0);' class='icon' onclick='toggleMenu()'>",
+    "    <i class='fa fa-bars'></i>",
+    "  </a>",
+    "</div>",
+
+
 };
 
 double currentDate = 0;
@@ -323,7 +334,7 @@ int threadIdx = 0;
 
 outputHtml.Add("<div class='row'>");
 
-outputHtml.Add("<div class='col-menu'>");
+outputHtml.Add("<div class='col-menu' id='menu'>");
 
 outputHtml.Add("<span>");
 outputHtml.Add("Publication date ");

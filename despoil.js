@@ -248,3 +248,12 @@ addScrollMarkers = function () {
 
   })
 }
+
+toggleMenu = function () {
+  const menu = document.getElementById("menu")
+  if(menu.classList.contains("menu-collapsed")) {
+    menu.classList.remove("menu-collapsed");
+  } else {
+    menu.classList.add("menu-collapsed");
+  }
+}

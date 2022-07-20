@@ -1,4 +1,10 @@
+/* body {
+  overflow: hidden;
+} */
 
+.row {
+  height: calc(100% - 70px);
+}
 
 .row::after {
   content: "";
@@ -8,55 +14,62 @@
 
 
 .col-menu {
+  background: white;
   font-size: smaller;
   float: right;
   width: 25%;
-  height: 95%;
+  min-width: 300px;
+  height: 100%;
   overflow-y: scroll;
-  padding-top:10px;
+  padding-top: 10px;
   padding-left: 25px;
+}
+
+.menu-collapsed {
+  width: 0px !important;
+  display: none;
 }
 
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
-  [class*="col-"] {
-    width: 100%;
-    float: none;
-    height: auto;
-    overflow-y: auto;
+
+  .col-menu {
+    position: absolute;
+    right: 0;
+    top: 56;
+    width: 300px;
+    height: calc(100% - 70px);
+    z-index: 100;
+    box-shadow: -8px 0px 27px 0px rgba(0, 0, 0, 0.46)
   }
 
-  .box {
+
+  /* .box {
     overflow-y: auto !important;
     height: auto !important;
-  }
+  } */
 }
 
-.hidden
-{
+.hidden {
   display: none;
   opacity: 0;
   height: 0;
 }
 
-.displayblock
-{
+.displayblock {
   display: block;
 }
 
-.expanded
-{
+.expanded {
   height: 100%;
 }
 
-.opacity1
-{
+.opacity1 {
   opacity: 1;
   /*margin-top: 0 !important;*/
 }
 
-.top 
-{
+.top {
   z-order: 1000;
 }
 
@@ -77,7 +90,7 @@ span.entity {
   padding: 2px;
   margin: 1px;
   border-radius: 5px;
-  white-space:nowrap;
+  white-space: nowrap;
 
   transition: all 0.25s ease-in-out;
 }
@@ -96,14 +109,12 @@ span.entity:hover {
   color: white;
 }
 
-.container {
-  width: 75%;
-}
+.container {}
 
 .box {
   display: flex;
   flex-direction: column;
-  height: 95%;
+  height: 100%;
   overflow-y: scroll;
   content-visibility: auto;
 }
@@ -194,6 +205,44 @@ details {
 
 
 
+
+
+/* Style the navigation menu */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks {
+  display: none;
+}
+
+/* Style navigation menu links */
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+
+
+
+
+
 /* scroll markers */
 
 .scroll-marker {
@@ -229,7 +278,7 @@ details {
   top: -4px;
 }
 
-.switch input { 
+.switch input {
   opacity: 0;
   width: 0;
   height: 0;
@@ -259,15 +308,15 @@ details {
   transition: .4s;
 }
 
-input:checked + .slider {
+input:checked+.slider {
   background-color: #2196F3;
 }
 
-input:focus + .slider {
+input:focus+.slider {
   box-shadow: 0 0 1px #2196F3;
 }
 
-input:checked + .slider:before {
+input:checked+.slider:before {
   -webkit-transform: translateX(26px);
   -ms-transform: translateX(26px);
   transform: translateX(26px);
@@ -295,17 +344,17 @@ input:checked + .slider:before {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #f1f1f1; 
-  border-radius: 20px; 
+  background: #f1f1f1;
+  border-radius: 20px;
 }
- 
+
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #aaa; 
-  border-radius: 20px; 
+  background: #aaa;
+  border-radius: 20px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #555; 
+  background: #555;
 }
