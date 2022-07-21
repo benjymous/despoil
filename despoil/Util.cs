@@ -109,12 +109,10 @@ namespace despoil
 
         public static string MoveThe(string text)
         {
-            Console.Write($"'{text}'");
             if (text.StartsWith("The "))
             {
                 text = text.Substring(4) + ", the";
             }
-            Console.WriteLine($" => '{text}'");
             return text;
         }
 
