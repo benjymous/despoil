@@ -3,12 +3,12 @@ Master of Dreams
 1. Sleep of the Just
 January 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1916: <Roderick Burgess> captures <Dream> ++ <Alexander Burgess> <John Hathaway> <Ruthven Sykes>
+## 1916: <Roderick Burgess> captures <Dream> ++ <Alexander Burgess> <John Hathaway> <Ruthven Sykes> <Ruby|The Materioptikon> <Sand Pouch> <Helm|Helmet of Dreams>
 # <Unity Kincaid> falls deep asleep
 ## 1920: <John Hathaway> commits suicide 
 ## 1926: <Alexander Burgess> learns <Dream>'s identity
-## 1930: <Ruthven Sykes> trades <Dream>'s <Helm|Helmet of Dreams> with a demon for a magical <Amulet> ++ <Choronzon>
-## 1936: <Sykes|Ruthven Sykes> and <Ethel Cripps> steal <Dream>'s remailing artefacts, and the <Amulet>
+## 1930: <Ruthven Sykes> trades <Dream>'s <Helm> with a demon for a magical <Amulet> ++ <Choronzon>
+## 1936: <Sykes|Ruthven Sykes> and <Ethel Cripps> steal <Dream>'s remailing artefacts, and the <Amulet> ++ <Ruby> <Sand Pouch>
 # <Sykes> dies
 ## 1939.1: <Unity|Unity Kincaid> gives birth - the <baby|Miranda Walker> is adopted
 # <Wesley Dodds> - Golden age Sandman
@@ -60,8 +60,8 @@ Master of Dreams
 5. Passengers
 May 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1961: <Doctor Destiny|John Dee> uses Dream's <Ruby|The Materioptikon> to affect people's dreams and make nightmares real.
-## 1988.5: <Dream> locates the <Ruby> with help of the JLA
+## 1961: <Doctor Destiny|John Dee> uses Dream's <Ruby> to affect people's dreams and make nightmares real.
+## 1988.5: <Dream> locates the <Ruby> with help of the JLA ++ <Scott Free> <Martian Manhunter>
 # <John Dee> escapes <Arkham Asylum> and retakes Dream's <Ruby>
 
 
@@ -174,7 +174,7 @@ The Doll's House
 April 1990
 Vol  2: The Doll's House, Book 1
 ## 1989.6: <Rose> returns home. 
-# The housemates dream ++ <Rose> <Ken> <Barbie> <Zelda> <Chantal> <Hal> <The Land> <Martin Tenbones> <Cuckoo>
+# The housemates dream ++ <Rose> <Ken> <Barbie> <Zelda> <Chantal> <Hal> <The Land> <Martin Tenbones> <The Cuckoo>
 # <Gilbert> visits <Jed> in hospital
 # <Dream> watches the <Vortex> begin
 # <Unity> is dying
@@ -663,8 +663,8 @@ Worlds' End
 September 1993
 Vol  8: Worlds' End, Book 3
 ## 1899: <Jim> is born
-## 1912: <Jim>, aged 13 runs away to sea, and meets <Hob> and <The Stowaway>
-## -100 | long ago: An <Indian King|The Stowaway> is given an Apple of immortality
+## 1912: <Jim>, aged 13 runs away to sea, and meets <Hob> and <The Stowaway|Bhartari>
+## 550 | long ago: An <Indian King|Bhartari> is given an Apple of immortality
 
 
 Sandman #54
@@ -699,7 +699,7 @@ Worlds' End
 6. Worlds' End
 December 1993
 Vol  8: Worlds' End, Book 3
-## 1992.94: A funeral procession across the sky. ++ <Destiny> <Despair> <Delirium> <Death> <Desire> <Bast> <Odin> <Thor> <Merv>
+## 1992.94: A funeral procession across the sky. ++ <Destiny> <Despair> <Delirium> <Death> <Desire> <Lady Bast> <Odin> <Thor> <Merv>
 ## 1993.5: The storm passes, and the Inn's visitors disperse.  <Charlene> chooses to stay behind, and <Petrefax> chooses to travel
 ## 1993.9: <Brant> tells his story in a bar.  No evidence <Charlene> ever existed
 ? need to identify who else is in the procession
@@ -815,7 +815,7 @@ The Kindly Ones: 13
 July 1995
 Vol  9: The Kindly Ones, Book 4
 ## 1992.82: The Kindly Ones: 13 **
-# <Dream> dies
+# The first <Dream> comes to an end
 # <Daniel> becomes <Dream (Daniel)|Daniel>
 
 
@@ -824,7 +824,11 @@ The Wake
 Chapter 1: Which Occurs in the Wake of What Has Gone Before
 August 1995
 Vol 10: The Wake, Book 4
-## 1992.9: Which Occurs in the Wake of What Has Gone Before **
+## 1992.9: The Endless gather at the <Necropolis Litharge> ++ <Destiny> <Despair> <Death> <Desire> <Delirium> <Barnabas> <The Sithcundman> 
+# They create <Eblis O'Shaughnessy> out of mud, who fetches the <Cerements> and <Books of Ritual> ++  <Necropolis Litharge> <Destiny> <Despair> <Death> <Desire> <Delirium> <Barnabas>
+# At <Dream (Daniel)> begins a process of recreation ++ <Cain> <Abel> <The Corinthian> <Merv> <Gilbert>
+# In <Eve>'s cave <Matthew> sulks
+# As the Endless make their way from the <Necropolis Litharge>, the influence of <Destiny> is felt ++ <Despair> <Death> <Desire> <Delirium> <Barnabas> <Eblis O'Shaughnessy> <Nuala> <Rose> <Richard Madoc> <Lyta> <Alexander Burgess> <Hob> <Lady Titania> <Duma> <Lady Bast> <The Dreaming>
 
 
 Sandman #71
@@ -832,11 +836,10 @@ The Wake
 Chapter 2: In Which a Wake is Held
 September 1995
 Vol 10: The Wake, Book 4
-## 1992.93: The Endless gather at the <Necropolis Litharge> ++ <Destiny> <Despair> <Death> <Desire> <Delirium> <Barnabas> <The Sithcundman> 
-# They create <Eblis O'Shaughnessy> out of mud, who fetches the <Cerements> and <Books of Ritual> ++  <Necropolis Litharge> <Destiny> <Despair> <Death> <Desire> <Delirium> <Barnabas>
-# At <Dream (Daniel)> begins a process of recreation ++ <Cain> <Abel> <The Corinthian> <Merv> <Gilbert>
-# In <Eve>'s cave <Matthew> sulks
-# As the Endless make their way from the <Necropolis Litharge>, the influence of <Destiny> is felt ++ <Despair> <Death> <Desire> <Delirium> <Barnabas> <Eblis O'Shaughnessy> <Nuala> <Rose> <Richard Madoc> <Lyta> <Alexander Burgess> <Hob> <Lady Titania> <Duma> <Lady Bast>
+## 1992.93: The Endless build a house of remembrance, <Dream (Daniel)> worries while everyone remembers, and <Matthew> makes peace ++ <The Dreaming> <Despair> <Death> <Desire> <Delirium> <Eblis O'Shaughnessy> <Lucien> <Cain> <Abel> <Calliope> <Merv> <Mad Hettie> <Cluracan> <Nuala> <Nemesis> <Lady Titania> <Lyta> <Rose> <Jed> <Eve> <Bhartari> <Thessaly> <Clark Kent> <Batman> <Martian Manhunter> <Phantom Stranger> <John Constantine> <Chiron> <The Fashion Thing> <Doctor Occult> <Hob> <Barnabas> <The Griffon> <The Wyvern> <The Hippogriff>
+## 1992: <Dream> invites <Thessaly> to stay in <The Dreaming>
+## 1992.205: <Thessaly> leaves <The Dreaming> after realising she never really loved <Dream>
+?  Who else is pictured?
 
 
 Sandman Midnight Theatre
@@ -853,7 +856,7 @@ The Wake
 Chapter 3: In Which We Wake
 November 1995
 Vol 10: The Wake, Book 4
-## 1992.95: In Which We Wake **
+## 1992.95: While eulogies are given, <Dream (Daniel)> recieves a visitor, and is recieved in turn by his siblings ++ <The Dreaming> <Duma> <Delirium> <Death> <Despair> <Desire> <Eblis O'Shaughnessy> <The Cerements> <Mad Hettie> <Hob> <The Griffon> <The Wyvern> <The Hippogriff> <Destruction> <Lady Bast> <Rose> <Jed> <Wesley Dodds> <Barnabas> <Mazikeen> <Lucifer> <Odin> <Shivering Jemmy> <Lucien> <Lyta> <Alexander Burgess> <Paul McGuire> <Nuala> <Richard Madoc> <Hob>
 
 
 Sandman #73
@@ -861,7 +864,7 @@ The Wake
 The Wake: An Epilogue - Sunday Mourning
 December 1995
 Vol 10: The Wake, Book 4
-## 1992.97: An Epilogue - Sunday Mourning **
+## 1992.97: <Hob> has a miserable time at a Renaissance Festival, and turns down <Death>'s offer
 
 
 Sandman #74
@@ -877,7 +880,7 @@ Epilogue
 The Tempest
 March 1996
 Vol 10: The Wake, Book 4
-## 1610: <William Shakespeare> delivers his final play to <Dream>
+## November 1610: <William Shakespeare> completes his final play, and visits <Dream> in his castle. ++ <The Dreaming>
 ? add more detail? **
 
 

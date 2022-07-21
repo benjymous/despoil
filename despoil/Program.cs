@@ -204,7 +204,10 @@ foreach (var entry in entries)
 
     if (evBody.Contains("++"))
     {
+      var additional =  evBody.Substring(evBody.IndexOf("++")+2).Trim();
+      
       evBody = evBody.Substring(0, evBody.IndexOf("++"));
+      evBody += $"<span class='extras'><details><summary>..including..</summary>{additional}</details></span>";
     }
 
     while (seenDates.Contains(currentDate))
@@ -348,10 +351,11 @@ foreach (var thread in threads)
   int idx = 0;
   issueData.AddRange(thread.Value.Select(issue => new Issue { id = $"{threadKey[thread.Key]}_{idx++}", body = issue }));
 }
-entityData.AddRange(entityKey.OrderBy(x => x.Key).Select(entity => new Entity
+
+entityData.AddRange(entityKey.OrderBy(x => Util.MoveThe(x.Key)).Select(entity => new Entity
 {
   id = entity.Value,
-  name = entity.Key,
+  name = Util.MoveThe(entity.Key),
   issues = string.Join(" ", entityAppearence[entity.Value].Select(x => "entityissue_" + x))
 }));
 

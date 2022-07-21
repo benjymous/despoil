@@ -95,11 +95,13 @@ button {
     box-shadow: -3px 10px 8px 0px rgb(0 0 0 / 50%);
   }
 
-
-  /* .box {
-    overflow-y: auto !important;
-    height: auto !important;
-  } */
+  .menufooter {
+    width: 100%;
+    position: relative;
+    bottom: 43px;
+    right: 10px;
+    text-align: center;
+  }
 }
 
 .hidden {
@@ -203,6 +205,7 @@ span.entity:hover {
 }
 
 .event_highlight {
+  width: calc(75% - 57px);
   border-width: 5px !important;
   border-radius: 8px;
   margin: 8px;
@@ -238,6 +241,20 @@ span.entity:hover {
   padding: 0px;
   margin-left: 0px;
   margin-top: -25px;
+}
+
+.extras {
+  font-size: 10px;
+  position: relative;
+  bottom: -11px;
+  line-height: 17px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.extras summary {
+  margin-left: 0px;
+  line-height: 0px;
 }
 
 summary {
