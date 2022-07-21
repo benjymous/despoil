@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text.RegularExpressions;
 
 namespace despoil
 {
@@ -104,9 +100,15 @@ namespace despoil
 
                 default: return $"{number}th";
             }
-        } 
+        }
+
+        public static string RemoveEmptyLines(string lines)
+        {
+            return Regex.Replace(lines, @"^\s*$\n|\r", string.Empty, RegexOptions.Multiline).TrimEnd();
+        }
 
     }
+
 
 
     public class CollectionComparer : IComparer<string>

@@ -1,6 +1,9 @@
-/* body {
+body {
+  background: #f2f0ff;
+  margin: 0px;
   overflow: hidden;
-} */
+  font-family: 'Quicksand',Helvetica,Century Gothic,sans-serif !important;
+} 
 
 .row {
   height: calc(100% - 70px);
@@ -23,11 +26,61 @@
   overflow-y: scroll;
   padding-top: 10px;
   padding-left: 25px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
 }
 
 .menu-collapsed {
   width: 0px !important;
+  min-width: 0px !important;
+  margin: 0px;
+  padding: 0px;
+  background: none;
   display: none;
+}
+
+.menufooter {
+  position: absolute;
+  bottom: 26px;
+  right: 16px;
+}
+
+.spacer {
+  height: 64px;
+}
+
+button {
+  font-family: 'Quicksand',Helvetica,Century Gothic,sans-serif !important;
+}
+
+.blockbtn {
+  border: none;
+  border-radius: 8px;
+  background-color: #2196F3;
+  color: white;
+  font-weight: 700 !important;
+  padding: 10px;
+  box-shadow: 1px 1px 0px rgb(0 0 0 / 20%);
+  text-decoration: none !important;
+  margin: 2px;
+}
+
+.blockbtn img {
+  position: relative;
+  top: 4px;
+  max-width: 24px;
+  max-height: 18px;
+  margin-right: 3px;
+}
+
+.blockbtn a {
+  text-decoration: none !important;
+}
+
+.blockbtn:hover {
+	opacity: .85;
+	color: #f5f5f5 !important;
+	text-decoration: none !important
 }
 
 @media only screen and (max-width: 768px) {
@@ -36,11 +89,10 @@
   .col-menu {
     position: absolute;
     right: 0;
-    top: 56;
     width: 300px;
     height: calc(100% - 70px);
     z-index: 100;
-    box-shadow: -8px 0px 27px 0px rgba(0, 0, 0, 0.46)
+    box-shadow: -3px 10px 8px 0px rgb(0 0 0 / 50%);
   }
 
 
@@ -75,7 +127,6 @@
 
 span.itemtitle {
   font-weight: bold;
-  word-break: break-all;
   display: list-item;
   list-style-type: none;
   margin-left: 25px;
@@ -115,7 +166,7 @@ span.entity:hover {
   display: flex;
   flex-direction: column;
   height: 100%;
-  overflow-y: scroll;
+  overflow-y: overlay;
   content-visibility: auto;
 }
 
@@ -124,11 +175,13 @@ span.entity:hover {
   background-color: #fff;
   border-radius: 10px;
   padding: 30px 15px 15px 15px;
-  margin: 2px;
+  margin: 4px;
   width: calc(75% - 70px);
 
   border-right: 25px !important;
   border-left: 25px !important;
+
+  box-shadow: 1px 1px 8px 0px rgb(0 0 0 / 50%);
 
   transition: all 0.25s ease-in-out;
 }
@@ -136,8 +189,9 @@ span.entity:hover {
 .issueToggle {
   width: 90%;
   margin: 15px 5% 3px 5%;
-  border-top-width: 0px !important;
   border-left-width: 0px !important;
+  border-right-width: 0px !important;
+  background: #e5e1f9;
 }
 
 .dateMarker {
@@ -150,10 +204,9 @@ span.entity:hover {
 
 .event_highlight {
   border-width: 5px !important;
-  border-radius: 25px;
-  /*margin: 5px;*/
-  box-shadow: rgb(170 170 170) 5px 5px 10px 0px;
-  /*padding: 40px 15px 20px 15px;*/
+  border-radius: 8px;
+  margin: 8px;
+  box-shadow: 5px 5px 8px 4px rgb(0 0 0 / 50%);
 }
 
 .itemrow {
@@ -162,8 +215,9 @@ span.entity:hover {
 
 .itemrow_highlight {
   background: #e0dee9;
-  padding: 1px;
-  margin: 1px;
+  padding: 0px;
+  margin: 2px 8px 2px 8px;
+  border-radius: 8px;
 }
 
 .itemdate {
@@ -194,7 +248,7 @@ summary {
 }
 
 details {
-  margin-left: 20px;
+  margin-left: 8px;
 }
 
 
@@ -213,20 +267,21 @@ details {
   background-color: #664d7b;
   position: relative;
   margin-bottom: 10px;
+
+  box-shadow: 0px 2px 8px 0px rgb(0 0 0 / 50%);
 }
 
-/* Hide the links inside the navigation menu (except for logo/home) */
-.topnav #myLinks {
-  display: none;
-}
 
 /* Style navigation menu links */
 .topnav a {
   color: white;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 18px;
   display: block;
+  white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .topnav img {
@@ -237,11 +292,15 @@ details {
 
 /* Style the hamburger menu */
 .topnav a.icon {
-  background: black;
+  background-color: #664d7b;
   display: block;
   position: absolute;
   right: 0;
   top: 0;
+}
+
+.topnav a.icon:hover{
+  background-color: #7a5c92;
 }
 
 
@@ -259,7 +318,6 @@ details {
   top: 0;
   right: 13px;
   position: relative;
-  z-index: 1;
 }
 
 .scroll-marker span {
@@ -344,24 +402,16 @@ input:checked+.slider:before {
 
 /* scrollbars */
 
-/* width */
 ::-webkit-scrollbar {
   width: 10px;
 }
-
-/* Track */
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
   border-radius: 20px;
 }
-
-/* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #aaa;
+  background: rgba(0, 0, 0, 0.2);
   border-radius: 20px;
 }
-
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: rgba(0, 0, 0, 0.5);
 }
