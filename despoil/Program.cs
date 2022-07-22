@@ -359,12 +359,16 @@ entityData.AddRange(entityKey.OrderBy(x => Util.MoveThe(x.Key)).Select(entity =>
   issues = string.Join(" ", entityAppearence[entity.Value].Select(x => "entityissue_" + x))
 }));
 
-File.WriteAllLines(@"out/colors.css", colourStyles);
+var outpath = Path.Combine(Directory.GetCurrentDirectory(), "out");
+
+Console.WriteLine($"Writing to {outpath}");
+
+File.WriteAllLines(Path.Combine(outpath, "colors.css"), colourStyles);
 
 var sortedDates = eventDates.Select(x => x.Item2).OrderBy(i => i).ToArray();
 
-File.WriteAllLines(@"out/order0.css", eventDates.Select(x => $".box :nth-child({x.Item1}) {{ order: {x.Item1} }}"));
-File.WriteAllLines(@"out/order1.css", eventDates.Select(x => $".box :nth-child({x.Item1}) {{ order: {Array.IndexOf(sortedDates, x.Item2) + 1} }}"));
+File.WriteAllLines(Path.Combine(outpath, "order0.css"), eventDates.Select(x => $".box :nth-child({x.Item1}) {{ order: {x.Item1} }}"));
+File.WriteAllLines(Path.Combine(outpath, "order1.css"), eventDates.Select(x => $".box :nth-child({x.Item1}) {{ order: {Array.IndexOf(sortedDates, x.Item2) + 1} }}"));
 
 //////////////////////////////////////
 
@@ -393,7 +397,7 @@ if (parser.TryParse(source, out var template, out var error))
 {
   var context = new TemplateContext(model, options);
 
-  File.WriteAllText(@"out/index.html", Util.RemoveEmptyLines(template.Render(context)));
+  File.WriteAllText(Path.Combine(outpath, "index.html"), Util.RemoveEmptyLines(template.Render(context)));
 }
 else
 {
