@@ -437,7 +437,7 @@ The Hunt
 June 1992
 Vol  6: Fables and Reflections, Book 3
 ## 1992: A Grandfather tells a story
-## ~ 1000.1 | medieval times: A story of princesses and werewolves
+## ~ 1000.1 | medieval times: A story of princesses and werewolves ++ <Lucien> <Baba Yaga> <Dream>
 ? Unsure how far back the story is set
 
 
@@ -454,7 +454,11 @@ Convergence
 The Parliament of Rooks
 August 1992
 Vol  6: Fables and Reflections, Book 3
-## 1992: <Daniel> visits <The Dreaming> 
+## 1992: <Daniel> visits <The Dreaming> ++ <Lyta> <Gregory> <Matthew> <Eve> <Cain> <Abel> <Goldie>
+## -30002 | early man: <Adam>'s first wife <Lilith> is expelled from <Eden>
+## -30001 | early man: <Adam> rejects his second wife ++ <Eden>
+## -30000 | early man: <Adam> and his third wife, <Eve> eat from the <Tree of Knowledge> and are expelled from <Eden>
+## -29000 | early man: <Eve> retreats to her cave
 ? Daniel is roughly 18 months old
 ? add more detail? **
 
