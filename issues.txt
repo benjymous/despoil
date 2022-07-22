@@ -455,10 +455,10 @@ The Parliament of Rooks
 August 1992
 Vol  6: Fables and Reflections, Book 3
 ## 1992: <Daniel> visits <The Dreaming> ++ <Lyta> <Gregory> <Matthew> <Eve> <Cain> <Abel> <Goldie>
-## -30002 | early man: <Adam>'s first wife <Lilith> is expelled from <Eden>
-## -30001 | early man: <Adam> rejects his second wife ++ <Eden>
-## -30000 | early man: <Adam> and his third wife, <Eve> eat from the <Tree of Knowledge> and are expelled from <Eden>
-## -29000 | early man: <Eve> retreats to her cave
+## -300002 | early man: <Adam>'s first wife <Lilith> is expelled from <Eden>
+## -300001 | early man: <Adam> rejects his second wife ++ <Eden>
+## -300000 | early man: <Adam> and his third wife, <Eve> eat from the <Tree of Knowledge> and are expelled from <Eden>
+## -299000 | early man: <Eve> retreats to her cave
 ? Daniel is roughly 18 months old
 ? add more detail? **
 
