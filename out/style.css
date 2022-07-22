@@ -45,6 +45,17 @@ body {
   right: 16px;
 }
 
+.footerdate {
+  float: right;
+  font-size: x-small;
+  text-align: right;
+  position: relative;
+  top: 20px;
+  right: 0px;
+  color: #bbb;
+  font-variant: small-caps;
+}
+
 .spacer {
   height: 64px;
 }
