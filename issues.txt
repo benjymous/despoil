@@ -468,7 +468,8 @@ Brief Lives
 Brief Lives part 1
 September 1992
 Vol  7: Brief Lives, Book 3
-## 1992.2: Brief Lives part 1 **
+## 1992.2: <Orpheus> sings to the sunrise, <Delirium> gatecrashes a party, and visits <Despair> by way of <Desire>
+## 1665: <Despire> and <Destruction> in the Great plague of London
 ## 1760: <Lady Johanna Constantine> is born
 ## 1859: <Lady Johanna Constantine> dies
 
@@ -478,7 +479,8 @@ Brief Lives
 Brief Lives part 2
 October 1992
 Vol  7: Brief Lives, Book 3
-## 1992.21: Brief Lives part 2 **
+## 1992.21: It rains for a week, <Delirium> comes to visit and <Dream> consults with <Desire> ++ <Lucien> <Nuala> <Merv> <Matthew> <Abel> <Goldie> <The Griffon> <The Wyvern> <The Hippogriff> <Taramis>, <The Fashion Thing>
+## -900000000 | aeons ago: <Destruction> tells <Delirium> that things are changing 
 
 
 Sandman #43
@@ -486,10 +488,9 @@ Brief Lives
 Brief Lives part 3
 November 1992
 Vol  7: Brief Lives, Book 3
-## 1992.22: Brief Lives part 3 **
-## 1992.22: <Bernie Capax> dies
+## 1992.22: <Bernie Capax>'s time is up, <Pharamond> organises transport, <Etain of the Second Look> escapes an explosion and <Destruction> gets an early warning ++ <Barnabas> <Ruby DeLonge> 
 ## ~ -13000 | stone age: <Bernie Capax> is born
-## ~ -1900 | bronze age: <Pharamond> is born
+## ~ -1900 | bronze age: <Dream> saves <Pharamond>'s life
 ? Pharamound date is a guess based on "drinking in Babylon" putting him pre-the founding of Babylon
 
 
@@ -498,7 +499,8 @@ Brief Lives
 Brief Lives part 4
 December 1992
 Vol  7: Brief Lives, Book 3
-## 1992.23: Brief Lives part 4 **
+## 1992.23: <The Alderman> bites off his shadow, <Bernie Capax> is missed, <Etain|Etain of the Second Look> goes into hiding and <Ruby DeLonge> is lost ++ <Tiffany>, <Ishtar>, <Lucien>
+## 1685: <Dream> answers <Destruction>'s call and <The Corinthian> has a snack ++  <Invisible College>
 
 
 Vertigo Preview #1
@@ -514,7 +516,8 @@ Brief Lives
 Brief Lives part 5
 January 1993
 Vol  7: Brief Lives, Book 3
-## 1992.24: Brief Lives part 5 **
+## 1992.24: <Ishtar> makes <Tiffany> breakfast, <Matthew> gives <Delirium> driving lessons and <Ishtar> dances ++ <Nancy> <Desire>
+## -500 | ancient near east: Sacred Prostitution ++ <Ishtar> 
 
 
 Sandman #46
@@ -522,7 +525,7 @@ Brief Lives
 Brief Lives part 6
 March 1993
 Vol  7: Brief Lives, Book 3
-## 1992.25: Brief Lives part 6 **
+## 1992.25: <Dream> fills <Pharamond> in, speaks with <Lady Bast> and is put straight by <Death> ++ <Nuala> <Delirium> <Lucien> <Merv>
 
 
 Death The High Cost of Living #1
@@ -542,7 +545,7 @@ Brief Lives
 Brief Lives part 7
 March 1993
 Vol  7: Brief Lives, Book 3
-## 1992.26: Brief Lives part 7 **
+## 1992.26: <Dream> and <Delirium> traverse the maze of <Destiny>, while <Destruction> readies dinner ++ <Barnabas> <Andros> <Kris>
 ## -110000000003 | beginning of time: <Destruction> comes into being
 ## ~ 1690: <Destruction> abdicates his role
 ## 1850 | some time in the 1800s: <Death> spends a day mortal as a peasant girl by the Yangtze River
@@ -555,7 +558,8 @@ Brief Lives
 Brief Lives part 8
 April 1993
 Vol  7: Brief Lives, Book 3
-## 1992.27: Brief Lives part 8 **
+## 1992.27: Dinner isn't eaten, <Destruction> packs up and <Barnabas> is left behind ++ <Delirium> 
+## -1500000000 | aeons ago: <Death> helps <Destruction> feel less insignificant
 
 
 Death The High Cost of Living #2
@@ -574,7 +578,9 @@ Brief Lives
 Brief Lives part 9
 May 1993
 Vol  7: Brief Lives, Book 3
-## 1992.28: Brief Lives part 9 **
+## 1992.28: <Dream> makes good on his word to <Orpheus> ++ <Delirium> <Barnabas> <Despair> <Desire> <Andros> <The Griffon> <The Wyvern> <The Hippogriff> <Nuala> <Lucien> <Merv> 
+## -1000000010 | aeons ago: Three gods saught to ursurp <Dream> ++ <The Dreaming>
+## -1000000000 | aeons ago: <Dream> creates the <Gates of Horn and Ivory> and his <Helm>
 
 
 Death The High Cost of Living #3
@@ -1017,11 +1023,9 @@ The Sandman Overture
 Chapter Three
 September 2014
 Overture
-## -1000000000 | aeons ago: Two gods fled their homeland and declare themselves True Lords of <The Dreaming> ++ <Dream>
-# <Dream> is imprisoned.
+## -1000000005 | aeons ago: <Dream> is imprisoned.
 # <Delight> becomes <Delirium>
-# <Desire> creates <Alianora> who helps <Dream> escape and destroy the gods
-# <Dream> creates the <Gates of Horn and Ivory> and his <Helm> from the horns and bones of the dead gods
+# <Desire> creates <Alianora> who helps <Dream> escape and destroy the gods from the horns and bones of the dead gods
 # <Dream> creates <The Land> for <Alianora>
 
 
