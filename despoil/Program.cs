@@ -207,7 +207,7 @@ foreach (var entry in entries)
       var additional =  evBody.Substring(evBody.IndexOf("++")+2).Trim();
       
       evBody = evBody.Substring(0, evBody.IndexOf("++"));
-      evBody += $"<span class='extras'><details><summary>..including..</summary>{additional}</details></span>";
+      evBody += $"<span class='extras'><details><summary>..involving..</summary>{additional}</details></span>";
     }
 
     while (seenDates.Contains(currentDate))
