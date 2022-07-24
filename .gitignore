@@ -8,6 +8,8 @@ out/index.html
 out/order*.css
 out/colors.css
 
+notes/*
+
 # User-specific files
 *.rsuser
 *.suo

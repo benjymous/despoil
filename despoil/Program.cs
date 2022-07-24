@@ -148,7 +148,7 @@ foreach (var entry in entries)
       entityClasses.Add(entity);
       entityAppearence[entity].Add(issueId);
 
-      var title = alias == bareText ? "" : $"title='{alias}'";
+      var title = alias == bareText ? "" : $"title='{alias.Replace("'","&apos;")}'";
       var resultTag = $"<span {title} class='entity {entity}' onclick='togglePush(\"{entity}\")'>{bareText}</span>";
 
       ev = ev.Replace(tag, resultTag);

@@ -3,7 +3,7 @@ Master of Dreams
 1. Sleep of the Just
 January 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1916: <Roderick Burgess> captures <Dream> ++ <Alexander Burgess> <John Hathaway> <Ruthven Sykes> <Ruby|The Materioptikon> <Sand Pouch> <Helm|Helmet of Dreams>
+## 1916: <Roderick Burgess> captures <Dream> ++ <Alexander Burgess> <John Hathaway> <Ruthven Sykes> <Ruby|The Materioptikon> <Sand Pouch> <Helm|Helmet of Dreams> <Wych Cross> <Fawny Rig> <Magdelene Grimoire> 
 # <Unity Kincaid> falls deep asleep
 ## 1920: <John Hathaway> commits suicide 
 ## 1926: <Alexander Burgess> learns <Dream>'s identity
@@ -12,17 +12,17 @@ Vol  1: Preludes and Nocturnes, Book 1
 # <Sykes> dies
 ## 1939.1: <Unity|Unity Kincaid> gives birth - the <baby|Miranda Walker> is adopted
 # <Wesley Dodds> - Golden age Sandman
-## 1947: <Roderick Burgess> dies
+## 1947: <Roderick Burgess> dies ++ <Fawny Rig> <Wych Cross>
 ## 1955: <Unity Kincaid> put into a nursing home when her parents die
-# <Alexander Burgess> fails to bargain with <Dream>
-## 1968: <Alexander Burgess> and <Paul McGuire> host parties 
-## 1970: <Alexander Burgess> abandons cult
-## 1972: <Alexander Burgess> again fails to bargain with <Dream>
-## 1978: <Alexander Burgess> tells <Dream> he hasn't had a good night's sleep in decades
-## 1982: <Alexander Burgess> threatens <Dream>
-## 1988: <Alexander Burgess> accidentally releases <Dream>
+# <Alexander Burgess> fails to bargain with <Dream> ++ <Fawny Rig> <Wych Cross>
+## 1968: <Alexander Burgess> and <Paul McGuire> host parties ++ <Fawny Rig> <Wych Cross>
+## 1970: <Alexander Burgess> abandons the order ++ <Fawny Rig> <Wych Cross>
+## 1972: <Alexander Burgess> again fails to bargain with <Dream> ++ <Fawny Rig> <Wych Cross>
+## 1978: <Alexander Burgess> tells <Dream> he hasn't had a good night's sleep in decades ++ <Fawny Rig> <Wych Cross>
+## 1982: <Alexander Burgess> threatens <Dream> ++ <Fawny Rig> <Wych Cross>
+## 1988: <Alexander Burgess> accidentally releases <Dream> ++ <Fawny Rig> <Wych Cross>
 # <Unity> awakens
-# <Dream> curses <Alexander Burgess> with Eternal Waking
+# <Dream> curses <Alexander Burgess> with Eternal Waking ++ <Fawny Rig> <Wych Cross>
 
 
 Sandman #2
@@ -96,7 +96,7 @@ The Doll's House
 1. The Doll's House
 November 1989
 Vol  2: The Doll's House, Book 1
-## 1989.2: <Desire> plots, <Rose Walker> travels, <Dream> observes, <Unity|Unity Kincaid> reveals, and <The Corinthian> kills again ++ <Miranda Walker> <Lucien> <The Dream> <Vortex>
+## 1989.2: <Desire> plots, <Rose Walker> travels, <Dream> observes, <Unity|Unity Kincaid> reveals, and <The Corinthian> kills again ++ <Miranda Walker> <Lucien> <The Dreaming> <Vortex>
 
 
 Sandman #11
@@ -312,7 +312,7 @@ Distant Mirrors
 Thermidor
 August 1991
 Vol  6: Fables and Reflections, Book 2
-## 1794: <Dream> makes a deal with <Lady Johanna Constantine>
+## 1794: <Dream> makes a deal with <Lady Johanna Constantine> ++ <Wych Cross>
 # <Lady Johanna Constantine> Recovers the head of <Orpheus> and delivers him back to the Priests in Naxos
 
 
@@ -676,7 +676,7 @@ The Kindly Ones
 The Kindly Ones: 3
 April 1994
 Vol  9: The Kindly Ones, Book 4
-## 1993.92: <Daniel> enters the fire, <Hob> comes out of the cold, <Destiny> sees himself, <Desire> sees no one else, and <Lyta> tries to stay strong ++ <Puck> <Loki> <Despair> <Delirium> <Eric> <Carla> <Pinkerton> <Fellowes>
+## 1993.92: <Daniel> enters the fire, <Hob> comes out of the cold, <Destiny> sees himself, <Desire> sees no one else, and <Lyta> tries to stay strong ++ <Puck> <Loki> <Dream> <Despair> <Delirium> <Eric> <Carla> <Pinkerton|Loki> <Fellowes|Puck> <Swartalfheim>
 ? Hob is ~630 years old
 
 
@@ -685,7 +685,7 @@ The Kindly Ones
 The Kindly Ones: 4
 June 1994
 Vol  9: The Kindly Ones, Book 4
-## 1993.93: The Kindly Ones: 4 **
+## 1993.93: <Remiel> makes an offer, <Lyta> goes on a walk, <Rose> is watched, <Matthew> misses <Nuala>, <The Corinthian> reawakes ++ <Mazikeen> <Lux> <Lucifer> <Duma> <Hell> <Abel> <Dream> <Merv> <Abudah> <Lucien>
 
 
 Sandman #61
@@ -693,7 +693,7 @@ The Kindly Ones
 The Kindly Ones: 5
 July 1994
 Vol  9: The Kindly Ones, Book 4
-## 1993.94: The Kindly Ones: 5 **
+## 1993.94: <Rose> visits a friend and recieves a message, <Dream> sends <The Corinthian> and <Matthew> on an errand, <Nuala> returns home, <Carla> visits the police and is visited by <Loki> ++ <Lyta> <Zelda> <Lady Titania> <Boggart> <Pinkerton>
 
 
 Sandman #62
@@ -701,7 +701,7 @@ The Kindly Ones
 The Kindly Ones: 6
 August 1994
 Vol  9: The Kindly Ones, Book 4
-## 1993.95: The Kindly Ones: 6 **
+## 1993.95: <Rose> returns to England, <Alexander Burgess> still sleeps ++ <Jack Holdaway> <Paul McGuire>
 
 
 Sandman #63
@@ -709,7 +709,8 @@ The Kindly Ones
 The Kindly Ones: 7
 September 1994
 Vol  9: The Kindly Ones, Book 4
-## 1993.96: The Kindly Ones: 7 **
+## 1993.96: <Thessaly> tracks down <Lyta>, and <Lyta> tracks down <The Furies|Three Witches>.  <Odin> confronts <Dream> and <Delirium> asks for help. <Gilbert> expresses his concern ++ <The Griffon> <The Wyvern> <The Hippogriff> <Rose> <Destiny>
+? Dream's statue matches the one in final Destiny story
 
 
 Sandman #64
@@ -717,7 +718,7 @@ The Kindly Ones
 The Kindly Ones: 8
 November 1994
 Vol  9: The Kindly Ones, Book 4
-## 1993.97: The Kindly Ones: 8 **
+## 1993.97: <Dream> goes about his duties but is visited by <Delirium>.  <Rose> and <Jack|Jack Holdaway> get close, <Matthew> and <The Corinthian> make a discovery, <The Gryphon> comes to an end and <The Kindly Ones|Three Witches> give some advice ++ <Odin>, <The Griffon> <The Wyvern> <The Hippogriff>, <Lucifer>, <Mazikeen>, <Lux>, <Thessaly>, <Lyta>, <Nuala>, <Cain> <Abel> <Merv>, <Ruthven>, <Borghal Rantipole>
 
 
 Sandman #65
@@ -725,7 +726,7 @@ The Kindly Ones
 The Kindly Ones: 9
 December 1994
 Vol  9: The Kindly Ones, Book 4
-## 1993.98: The Kindly Ones: 9 **
+## 1993.98: <Rose> regains her heart while visiting <Paul|Paul McGuire>, <The Corinthian> sees through a God's eyes, <The Furies> cause some damage, and <Dream> visits <Thessaly> ++ <Fawny Rig> <Desire> <Swartalfheim> <Gilbert> <Daniel> 
 
 
 Sandman #66
@@ -733,7 +734,7 @@ The Kindly Ones
 The Kindly Ones: 10
 January 1995
 Vol  9: The Kindly Ones, Book 4
-## 1993.99: The Kindly Ones: 10 **
+## 1993.99: <Puck> goes away, <Loki> returns, <The Furies> continue, <Nuala breaks> convention, <Rose> flies home, and <Dream> leaves ++ <Swartalfheim> <The Corinthian> <Daniel> <Odin> <Thor> <Sigyn> <Abel> <Faerie> <Cluracan> <Lady Titania> <Ruthven> <Merv> <Abudah> <Lucien> <Delirium> <Borghal Rantipole>
 
 
 Sandman #67
@@ -741,7 +742,7 @@ The Kindly Ones
 The Kindly Ones: 11
 February 1995
 Vol  9: The Kindly Ones, Book 4
-## 1994.0: The Kindly Ones: 11 **
+## 1994.0: <The Corinthian> brings <Daniel> home, <Nuala> is sorry, <Rose> is late, <Dream> receives his scars, Angels keep their faith ++ <Cain> <The Wyvern> <The Hippogriff> <Goldie> <Lucien> <Destiny> <Lyta> <The Furies> <Remiel> <Duma> <Lux> <Mazikeen> <Thessaly> 
 
 
 Sandman #68
@@ -749,7 +750,7 @@ The Kindly Ones
 The Kindly Ones: 12
 May 1995
 Vol  9: The Kindly Ones, Book 4
-## 1994.01: The Kindly Ones: 12 **
+## 1994.01: <Dream> and <Daniel> speak, <Borghal Rantipole> swims, and <Matthew> helps. ++ <Eagle Stone> <Delirium> <Lux> <Mazikeen> <Lucifer> <Vixen|Hal> <The Corinthian> <Lucien> <The Furies> <Death>
 
 
 Sandman #69
@@ -757,9 +758,7 @@ The Kindly Ones
 The Kindly Ones: 13
 July 1995
 Vol  9: The Kindly Ones, Book 4
-## 1994.02: The Kindly Ones: 13 **
-# The first <Dream> comes to an end
-# <Daniel> becomes <Dream (Daniel)|Daniel>
+## 1994.02: <Death> makes some pigeons, The first <Dream> comes to an end, <Delirium> finds a friend, <Lucifer> calls it a day (again), <Hal> is late, and <Alexander Burgess>, <Lyta> and <Daniel> all awake ++ <Matthew> <The Corinthian> <Lucien> <Lyta> <Delirium> <Nuala> <Loki> <Lady Titania> <Cluracan> <Puck> <Barnabas> <Lucifer> <Mazikeen> <Lux>
 
 
 Sandman #70
@@ -769,7 +768,7 @@ August 1995
 Vol 10: The Wake, Book 4
 ## 1994.10: The Endless gather at the <Necropolis Litharge> ++ <Destiny> <Despair> <Death> <Desire> <Delirium> <Barnabas> <The Sithcundman> 
 # They create <Eblis O'Shaughnessy> out of mud, who fetches the <Cerements> and <Books of Ritual> ++  <Necropolis Litharge> <Destiny> <Despair> <Death> <Desire> <Delirium> <Barnabas>
-# <Dream (Daniel)> begins a process of recreation ++ <Cain> <Abel> <The Corinthian> <Merv> <Gilbert>
+# <Dream (Daniel)|Daniel> begins a process of recreation ++ <Cain> <Abel> <The Corinthian> <Merv> <Gilbert>
 # In <Eve>'s cave <Matthew> sulks
 # As the Endless make their way from the <Necropolis Litharge>, the influence of <Destiny> is felt ++ <Despair> <Death> <Desire> <Delirium> <Barnabas> <Eblis O'Shaughnessy> <Nuala> <Rose> <Richard Madoc> <Lyta> <Alexander Burgess> <Hob> <Lady Titania> <Duma> <Lady Bast> <The Dreaming>
 
@@ -958,8 +957,8 @@ The Sandman Endless Nights
 Chapter 7: Endless Nights
 November 2003
 Vol 11: Endless Nights
-## 1993.95: <Destiny> takes a walk in his garden
-? Apparently set during 'The Kindly ones'?
+## 1993.961: <Destiny> takes a walk in his garden
+? Dream's statue matches one seen in Kindly Ones
 
 
 The Sandman Overture #1
