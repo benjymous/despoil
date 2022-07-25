@@ -205,6 +205,7 @@ span.entity:hover {
   border-left-width: 0px !important;
   border-right-width: 0px !important;
   background: #e5e1f9;
+  box-shadow: 1px 1px 5px 0px rgb(0 0 0 / 50%);
 }
 
 .dateMarker {
@@ -230,7 +231,7 @@ span.entity:hover {
 .itemrow_highlight {
   background: #e0dee9;
   padding: 0px;
-  margin: 2px 8px 2px 8px;
+  margin: 2px 0px 2px 12px;
   border-radius: 8px;
 }
 
@@ -241,6 +242,11 @@ span.entity:hover {
   text-align: right;
   font-size: smaller;
   padding: 30px 20px 0px 20px;
+  font-weight: lighter;
+}
+
+.knowndate {
+  font-weight: bold;
 }
 
 .box div.itemsubtitle {
@@ -344,14 +350,15 @@ details {
   width: 12px;
   pointer-events: none;
   top: 0;
-  right: 13px;
+  right: 9px;
   position: relative;
+  z-index: 10;
 }
 
 .scroll-marker span {
   /* markers */
   position: absolute;
-  width: 16px;
+  width: 8px;
   background-color: #8383ba80;
   border-radius: 3px;
   min-height: 6px;
@@ -432,9 +439,11 @@ input:checked+.slider:before {
 
 ::-webkit-scrollbar {
   width: 10px;
+  border: 5px black;
 }
 ::-webkit-scrollbar-track {
   border-radius: 20px;
+  border: 5px black;
 }
 ::-webkit-scrollbar-thumb {
   background: rgba(0, 0, 0, 0.2);

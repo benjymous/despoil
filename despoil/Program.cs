@@ -148,7 +148,7 @@ foreach (var entry in entries)
       entityClasses.Add(entity);
       entityAppearence[entity].Add(issueId);
 
-      var title = alias == bareText ? "" : $"title='{alias.Replace("'","&apos;")}'";
+      var title = alias == bareText ? "" : $"title='{alias.Replace("'", "&apos;")}'";
       var resultTag = $"<span {title} class='entity {entity}' onclick='togglePush(\"{entity}\")'>{bareText}</span>";
 
       ev = ev.Replace(tag, resultTag);
@@ -157,11 +157,19 @@ foreach (var entry in entries)
 
     var evBody = "";
 
+    bool knownDate = false;
 
     if (ev.StartsWith("## "))
     {
       var bits = ev.Split(':');
       dateStr = bits[0].Substring(2);
+
+      if (dateStr.Contains("*"))
+      {
+        dateStr = dateStr.Replace("*", "");
+        knownDate = true;
+      }
+
       currentDate = Util.ParseDate(dateStr);
 
       if (dateStr.Contains("|"))
@@ -204,8 +212,8 @@ foreach (var entry in entries)
 
     if (evBody.Contains("++"))
     {
-      var additional =  evBody.Substring(evBody.IndexOf("++")+2).Trim();
-      
+      var additional = evBody.Substring(evBody.IndexOf("++") + 2).Trim();
+
       evBody = evBody.Substring(0, evBody.IndexOf("++"));
       evBody += $"<span class='extras'><details><summary>..involving..</summary>{additional}</details></span>";
     }
@@ -288,6 +296,7 @@ foreach (var entry in entries)
       threadkey = threadkey,
       dateval = currentDate,
       date = dateStr,
+      dateclass = knownDate ? "itemdate knowndate" : "itemdate",
       entities = string.Join(" ", entityClasses),
     });
   }

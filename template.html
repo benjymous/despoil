@@ -142,7 +142,7 @@
         {% when "Item" %}
 
         <div class='itemrow {{item.id}}_outer hidden'>
-          <div class='itemdate' title='{{item.dateval}}'>{{item.date}}</div>
+          <div class='{{item.dateclass}}' title='{{item.dateval}}'>{{item.date}}</div>
           <div class='event {{item.threadkey}} {{item.id}} {{item.entities}}'>
             <div class='itemsubtitle'>{{item.subtitle}}</div>
             <span class='itembody'>{{item.body}}</span>
