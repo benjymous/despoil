@@ -20,9 +20,9 @@ Vol  1: Preludes and Nocturnes, Book 1
 ## 1972: <Alexander Burgess> again fails to bargain with <Dream> ++ <Fawny Rig> <Wych Cross>
 ## 1978: <Alexander Burgess> tells <Dream> he hasn't had a good night's sleep in decades ++ <Fawny Rig> <Wych Cross>
 ## 1982: <Alexander Burgess> threatens <Dream> ++ <Fawny Rig> <Wych Cross>
-## 1988: <Alexander Burgess> accidentally releases <Dream> ++ <Fawny Rig> <Wych Cross>
+## 1988: <Alexander Burgess> accidentally releases <Dream> ++ <Fawny Rig> <Wych Cross> <The Dreaming>
 # <Unity> awakens
-# <Dream> curses <Alexander Burgess> with Eternal Waking ++ <Fawny Rig> <Wych Cross>
+# <Dream> curses <Alexander Burgess> with Eternal Waking ++ <Fawny Rig> <Wych Cross> <The Dreaming>
 
 
 Sandman #2
@@ -30,7 +30,7 @@ Master of Dreams
 2. Imperfect Hosts
 February 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1988.22: <Dream> is found, <John Dee> recieves a visitor, <Goldie> hatches and the <Three Witches> provide some assistance ++  <Gregory> <Cain> <Abel> <Ethel Dee|Ethel Cripps> <Lucien> <Eve> <The Fashion Thing>
+## 1988.22: <Dream> is found, <John Dee> recieves a visitor, <Goldie> hatches and the <Three Witches> provide some assistance ++ <The Dreaming> <Gregory> <Cain> <Abel> <Ethel Dee|Ethel Cripps> <Lucien> <Eve> <The Fashion Thing>
 
 
 Sandman #3
@@ -72,7 +72,7 @@ Master of Dreams
 7. Sound and Fury
 July 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1988.27:  <John Dee>'s madness spreads, but releasing the power leads to him returning back home ++ <24 Hours All Nite Diner> <Ruby> <Eve> <Cain> <Abel> <Goldie> <Gregory> <Destiny> <Arkham Asylum> <The Scarecrow>
+## 1988.27:  <John Dee>'s madness spreads, but releasing the power leads to him returning back home ++ <24 Hours All Nite Diner> <Ruby> <Eve> <Cain> <Abel> <Goldie> <Gregory> <The Dreaming> <Destiny> <Arkham Asylum> <The Scarecrow>
 
 
 Sandman #8
@@ -341,7 +341,7 @@ The Song of Orpheus
 The Song of Orpheus
 November 1991
 Vol  6: Fables and Reflections, Book 2
-## ~ -500: <Orpheus> ventures to the underworld to try and bring back his wife ++ <Eurydice> <Dream> <Aristaeus> <Calliope> <Death> <Delirium> <Destiny> <Desire> <Despair> <Destruction> <The Griffon> <The Wyvern> <The Hippogriff>
+## ~ -500: <Orpheus> ventures to the underworld to try and bring back his wife ++ <Eurydice> <Dream> <Aristaeus> <Calliope> <Death> <Delirium> <Destiny> <Desire> <The Dreaming><Despair> <Destruction> <The Griffon> <The Wyvern> <The Hippogriff>
 ? add more detail? **
 
 
@@ -350,7 +350,7 @@ A Game of You
 1. Slaughter on Fifth Avenue
 November 1991
 Vol  5: A Game of You, Book 2
-## 1991.8: <Wanda> borrows some milk from <Hazel> and <Foxglove>. <Martin Tenbones> delivers <The Porpentine> to <Princess Barbara|Barbie>.  <The Cuckoo> begins its influence using <George> ++ <Prinado> <Luz> <Wilkinson> <The Land> <The Dreaming> <Dream> <Matthew> <Thessaly> 
+## 1991.8: <Wanda> borrows some milk, <Martin Tenbones> makes a delivery, and  <The Cuckoo> begins its influence ++ <Prinado> <Luz> <Wilkinson> <The Land> <The Dreaming> <Barbie> <Hazel> <Foxglove> <The Porpentine> <Dream> <Matthew> <George> <Thessaly> 
 
 
 Sandman #33
@@ -358,7 +358,7 @@ A Game of You
 2. Lullabies of Broadway
 December 1991
 Vol  5: A Game of You, Book 2
-## 1991.81: <Hazel> makes a revelation, <Barbie> gets a warning from <Nuala> before entering <The Land> and strange dreams are had by all.  <Thessaly> confronts <George> ++ <The Porpentine> <The Cuckoo> <Wanda> <Foxglove> <Wilkinson> <Luz> <Prinado>
+## 1991.81: <Hazel> makes a revelation, <Barbie> gets a warning, <Thessaly> confronts <George>, and strange dreams are had by all ++ <The Dreaming> <The Land> <The Porpentine> <The Cuckoo> <Wanda> <Foxglove> <Nuala>< Wilkinson> <Luz> <Prinado> <Judy>
 
 
 Sandman #34
@@ -366,7 +366,7 @@ A Game of You
 3. Bad Moon Rising
 January 1992
 Vol  5: A Game of You, Book 2
-## 1991.82: Bad dreams continue, <George> does some explaining, <Thessaly> calls down <The Moon>, <Wanda> gets left behind ++ <The Cuckoo> <Barbie> <Hazel> <Foxglove> <The Porpentine>
+## 1991.82: Bad dreams continue, <George> does some explaining, <Thessaly> calls down <The Moon>, and <Wanda> gets left behind ++ <The Cuckoo> <Barbie> <Hazel> <Foxglove> <The Porpentine>
 
 
 Sandman #35
@@ -374,7 +374,7 @@ A Game of You
 4. Beginning to See the Light
 February 1992
 Vol  5: A Game of You, Book 2
-## 1991.83: <Princess Barbara> travels in <The Land>, <Dream> consults some maps, <Nuala> did the right things, <Wanda> has issues with <The Moon>, <Luz> makes a betrayal ++ <Wilkinson> <Prinado> <The Dreaming> <Lucien> <The Porpentine>
+## 1991.83: <Princess Barbara> travels, <Dream> consults some maps, <Nuala> did the right thing, <Wanda> has issues with <The Moon>, and <Luz> makes a betrayal ++ <The Land> <Wilkinson> <Prinado> <The Dreaming> <Lucien> <The Porpentine>
 
 
 Sandman #36
@@ -382,7 +382,7 @@ A Game of You
 5. Over the Sea to Sky
 April 1992
 Vol  5: A Game of You, Book 2
-## 1991.84: <Princess Barbara> confronts <The Cuckoo>, <Thessaly>'s group reach <The Land>, <Wanda> braves the storm, <Dream> arrives by the terms of the compact and says goodbye to <Alianora> ++ <Wilkinson> <Foxglove> <Hazel> <George> <Luz> <The Land> <The Dreaming> <The Porpentine>
+## 1991.84: <Princess Barbara> confronts <The Cuckoo>, <Thessaly>'s group reach their destination, <Wanda> braves the storm, <Dream> arrives by the terms of the compact and says goodbye to <Alianora> ++ <Wilkinson> <Foxglove> <Hazel> <George> <Luz> <The Land> <The Dreaming> <The Porpentine>
 
 
 Sandman #37
@@ -390,7 +390,7 @@ A Game of You
 6. I Woke Up and One of Us Was Crying
 May 1992
 Vol  5: A Game of You, Book 2
-## 1991.85: <Princess Barbara> allows <The Cuckoo> to fly, <Dream> remembers <Rose>, and sends the visitors home, after giving some advice. ++ <Thessaly> <Foxglove> <Hazel> <The Land> <The Dreaming>
+## 1991.85: <Princess Barbara> allows <The Cuckoo> to fly, and <Dream> sends the visitors home, after giving some advice. ++ <Thessaly> <Foxglove> <Hazel> <The Land> <The Dreaming> <Rose>
 ## 1991.95: <Barbie> says goodbye to <Wanda> and dreams of her perfection ++ <Death>
 ## ~ -250 | in the day of greatest darkness, in the year the bear totem was shattered: <Thessaly> is born
 
@@ -418,12 +418,14 @@ Convergence
 The Parliament of Rooks
 August 1992
 Vol  6: Fables and Reflections, Book 3
-## 1992: <Daniel> visits <The Dreaming> ++ <Lyta> <Gregory> <Matthew> <Eve> <Cain> <Abel> <Goldie>
+## 1992.1: <Daniel> visits <The Dreaming> and hears some mysteries and secrets ++ <Lyta> <Gregory> <Matthew> <Eve> <Cain> <Goldie> <Abel> 
 ## -300002 | early man: <Adam>'s first wife <Lilith> is expelled from <Eden>
 ## -300001 | early man: <Adam> rejects his second wife ++ <Eden>
 ## -300000 | early man: <Adam> and his third wife, <Eve> eat from the <Tree of Knowledge> and are expelled from <Eden>
 ## -299000 | early man: <Eve> retreats to her cave
+## -10000000000 | the oldest story: <Cain> and <Abel> come to <The Dreaming> ++ <Dream> <Death> <The Wyvern> <The Hippogriff>
 ? Daniel is roughly 18 months old
+? happens after Thessaly invited
 ? add more detail? **
 
 
@@ -992,10 +994,10 @@ The Sandman Overture
 Chapter Three
 September 2014
 Overture
-## -1000000005 | aeons ago: <Dream> is imprisoned.
+## -1000000005 | aeons ago: <Dream> is imprisoned. ++ <The Dreaming>
 # <Delight> becomes <Delirium>
-# <Desire> creates <Alianora> who helps <Dream> escape and destroy the gods from the horns and bones of the dead gods
-# <Dream> creates <The Land> for <Alianora>
+# <Desire> creates <Alianora> who helps <Dream> escape and destroy the gods from the horns and bones of the dead gods ++ <The Dreaming>
+# <Dream> creates <The Land> for <Alianora> ++ <The Dreaming>
 
 
 The Sandman Overture #4
