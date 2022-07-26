@@ -39,7 +39,8 @@ Master of Dreams
 March 1989
 Vol  1: Preludes and Nocturnes, Book 1
 ## 1988.23: <John Constantine> recieves a warning, then helps <Dream> recover what was lost ++ <Mad Hettie> <Sand Pouch>
-## 1741 : <Mad Hettie> is born 
+## 1742 : <Mad Hettie> is born 
+? Hettie is 247
 
 
 Sandman #4
@@ -499,11 +500,9 @@ The High Cost of Living
 The Spirit of the Stairway
 March 1993
 Death
-## June 1991: <Mad Hettie> performs a ritual
-## July 1991: <Sexton Furnival> writes a suicide note to his mother, <Sylvia Furnival>
-# <Sexton|Sexton Furnival> is rescued by <Didi|Death> from a garbage dump
-# <Didi> takes <Sexton> back to her home, above <Mrs Robbins>' shop
-# <Mad Hettie> asks <Didi> to find her <Heart|Mad Hettie's Heart>
+## June 1992: <Mad Hettie> performs a ritual
+## July 1992: <Sexton Furnival> tries to say goodbye, but found by <Didi|Death>.  <Mad Hettie> comes to visit ++ <Sylvia Furnival> <Mrs Robbins>
+? Mad Hettie is 250, so date ~1992
 
 
 Sandman #47
@@ -533,10 +532,8 @@ The High Cost of Living
 A Night to Remember
 April 1993
 Death
-## July 1991.1: <Mr E> and <Theo> track <Didi>
-# <Sexton> and <Didi> meet <Hazel> and <Foxglove> at <The Undercut>
-# <Theo> traps <Sexton> and <Didi>
-# <Mr E> takes <Didi>'s <Ankh> and kills <Theo>
+## July 1992: <Mr E> and <Theo> are on the hunt.  <Sexton> and <Didi> encounter <Hazel>, <Foxglove>, <Mr E> and <Didi>
+? Hazel's baby due any day
 
 
 Sandman #49
@@ -554,11 +551,7 @@ The High Cost of Living
 The High Cost of Living
 May 1993
 Death
-## July 1991.2: <Mad Hettie> and <Mrs Robbins> rescue <Didi> and <Sexton>
-# <Mr E> follows <Sexton> and <Didi> to a Cafe, but they escape
-# <Didi> buys a new <Ankh> from a street seller
-# <Didi> dies, leaving <Sexton> with two pennies and a Russian Doll
-# <Mad Hettie> retrieves her <Heart> from the Russian Doll
+## July 1992: <Mad Hettie> comes to the rescue, <Mr E> makes another appearence, <Didi> makes an exit, and <Mad Hettie> finds her heart ++ <Mrs Robbins> <Didi> <Sexton>
 
 
 Sandman #50
@@ -574,7 +567,7 @@ Worlds' End
 1. A Tale of Two Cities
 July 1993
 Vol  8: Worlds' End, Book 3 
-## June 1993:  <Brant|Brant Tucker> and <Charlene|Charlene Mooney> have a car accident in an unseasonable snowstorm and wind up at the <World's End> inn
+## June 1993:  <Brant|Brant Tucker> and <Charlene|Charlene Mooney> wind up at the <World's End> inn
 ## ~ 1970: A man gets lost within a <Dream> of a city that he knew
 ? No easy way to put this one anywhere particular date-wise, other than being presumably 20th century, pre-computers
 
@@ -593,7 +586,7 @@ Vertigo Jam
 The Castle
 August 1993
 Book 4
-## 1992.5: <Lucien> mistakes a dreamer for a visiting dignitary and gives him a tour of <The Castle> ++ <Merv> <Nuala> <Matthew> <Cain> <Abel> <Goldie> <Dream> <The Dreaming>
+## 1992.5: <Lucien> gives a tour by mistake ++ <Merv> <Nuala> <Matthew> <Cain> <Abel> <Goldie> <Dream> <The Dreaming>
 ? occurs somewhere between end of Season of Mists and beginning of Kindly Ones
 
 
@@ -602,8 +595,7 @@ Worlds' End
 3. Hob's Leviathan
 September 1993
 Vol  8: Worlds' End, Book 3
-## 1899: <Jim> is born
-## 1912: <Jim>, aged 13 runs away to sea, and meets <Hob> and <The Stowaway|Bhartari>
+## 1912: <Jim>, aged runs away to sea, and meets some old souls ++ <Hob> <The Stowaway|Bhartari>
 ## 550 | long ago: An <Indian King|Bhartari> is given an Apple of immortality
 
 
@@ -835,15 +827,9 @@ Death: The Time of Your Life
 Chapter One: Things You Just Do When You're Bored
 April 1996
 Death
-## 1991.75 | late 1991: <Hazel> gives birth to <Alvie>
+## 1992.75 | July 1992: <Hazel> gives birth to <Alvie>
 ## 1993: <Foxglove> is the Queen of acoustic rock and roll
-## 1996.1 | February 1996: <Hazel> runs out into the rain carrying <Alvie> 
-## November 1996: <Foxglove> talks with her manager <Larry> in New York.  He arranges her a 'date'
-# In LA, <Alvie> falls from an upstairs window, but is unhurt
-# <Larry> has a heart attack while on a Plane
-# <Foxglove> encounters <Larry>'s ghost.  He tells her to listen to <Hazel> and do what she says.
-# <Hazel> begs <Foxglove> to come home
-# <Hazel> goes with <Death>
+## November 1995: <Foxglove> gets a blind date, <Alvie> has an escape, <Larry> has a message, <Hazel> goes with <Death>
 
 
 Death: The Time of Your Life #2
@@ -851,10 +837,9 @@ Death: The Time of Your Life
 Chapter Two: Imaginary Solutions
 May 1996
 Death
-## November 1996.1: <Foxglove> learns of <Larry>'s death while at a movie premiere
+## November 1995: <Foxglove> hears the news ++ <Boris> <Larry> <Death> <Hazel>
 ## 1988.255: <Donna|Foxglove> splits from abusive relationship with <Judy>
-## 1988.8: <Hazel> is the chef at <Sylvia Furnival>'s restaurant, Le Petit Mort
-# <Hazel>'s brother <Johnny> introduces her to <Foxglove>
+## 1988.8: <Hazel> meets <Foxglove> ++ <Sylvia Furnival>'s restaurant, Le Petit Mort
 
 
 Death: The Time of Your Life #3
@@ -862,8 +847,8 @@ Death: The Time of Your Life
 Chapter Three: The Time of Your Life
 June 1996
 Death
-## 1996.11 | February 1996: <Hazel> makes a deal with <Death> ++ <Alvie>
-## 1996.95 | November 1996: <Boris> gives up his life
+## February 1995: <Hazel> makes a deal with <Death> ++ <Alvie>
+## November 1995: <Boris> doesn't come back ++ <Foxglove> <Hazel> <Death>
 
 
 Winter's Edge #1
@@ -912,7 +897,7 @@ Chapter 1: Death in Venice
 November 2003
 Vol 11: Endless Nights, Death
 ## May 1751: A Venician court live the same day over and over locked away on a small island
-## 1993: <Sergei> Visits a Venician island with his family, and encounters <Death> waiting by a gate
+## 1993: <Sergei> has a brush with <Death> on a Venician island
 ## 2003: <Sergei> Returns to Venice, and re-encounters <Death> 
 
 
@@ -953,7 +938,7 @@ The Sandman Endless Nights
 Chapter 6: On the Peninsula
 November 2003
 Vol 11: Endless Nights
-# An archaeologist encounters <Destruction> whilst investigating future artefacts on a dig.  <Destruction> watches over <Delirium> after her rescue.
+# An archaeologist encounters <Destruction> whilst investigating the future.  <Delirium> is kept safe
 
 
 The Sandman Endless Nights #7
@@ -1027,6 +1012,15 @@ Overture
 ## 1915.5: An unexpected <Sailing Ship> appears in <Destiny>'s garden
 ## 1915.5: <Dream (cat)> collects a thousand lives
 ## 1915.5: <Destiny> rescues <Dream> from the black hole
+
+
+The Children's Crusade
+The Children's Crusade
+The Children's Crusade
+October 2015
+Free Country A Tale of The Children's Crusade
+## 1993: The Children's Crusade
+? not sure whether to put this in one place as published in 2015, or in three places, with the original publishing dates of the "bookends"
 
 
 The Sandman Overture #6
