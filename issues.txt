@@ -1001,7 +1001,7 @@ Overture
 ## -50000000000 | before the beginning: Before the beginning was the <Night>
 ## -20000000000 | in the beginning: In beginning there was <Time>
 ## 1915.3 | all times: <Dream> asks his father <Time> for help
-## 1760 | before 1760: <Dream> borrows the <Saeculum>
+## 1755 | before 1760: <Dream> borrows the <Saeculum>
 ## 1915.3: <Dream> visits the City of the Stars and is allowed in by <Formalhaut>
 ## -500000070 | half a billion years ago: <Dream> tried to understand a <Vortex> on a small blue world in the centre of the galaxy
 ## -500000060 | half a billion years ago: <Dream> destroyed the world, but did not put out the sun
@@ -1022,13 +1022,30 @@ Overture
 ## 1915.5: <Destiny> rescues <Dream> from the black hole
 
 
-The Children's Crusade
+The Children's Crusade Act 1
 The Children's Crusade
 The Children's Crusade
 October 2015
 Free Country A Tale of The Children's Crusade
-## 1993: The Children's Crusade
-? not sure whether to put this in one place as published in 2015, or in three places, with the original publishing dates of the "bookends"
+## 1993.65: The children of <Flaxdown> disappear.  <Charles Rowland> and <Edwin Paine> begin their investigation.  ++ <Tim Hunter> <Free Country>
+## 1213: Fifty thousand children sail away to the Crusades, never to be seen again
+## 1284: The piper of St. Cecile
+
+
+The Children's Crusade Act 2
+The Children's Crusade
+The Children's Crusade
+October 2015
+Free Country A Tale of The Children's Crusade
+## 1993.65: The Children's Crusade Act 2 ++ <Charles Rowland> <Edwin Paine> <Free Country>
+
+
+The Children's Crusade Act 3
+The Children's Crusade
+The Children's Crusade
+October 2015
+Free Country A Tale of The Children's Crusade
+## 1993.65: The Children's Crusade Act 3 ++ <Charles Rowland> <Edwin Paine> <Free Country>
 
 
 The Sandman Overture #6
