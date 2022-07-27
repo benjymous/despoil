@@ -3,26 +3,26 @@ Master of Dreams
 1. Sleep of the Just
 January 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## * June 1916: <Roderick Burgess> captures <Dream> ++ <Alexander Burgess> <John Hathaway> <Ruthven Sykes> <Ruby|The Materioptikon> <Sand Pouch> <Helm|Helmet of Dreams> <Wych Cross> <Fawny Rig> <Magdelene Grimoire> 
-## 1916: <Unity Kincaid> falls deep asleep
-## 1920: <John Hathaway> commits suicide 
-## 1926: <Alexander Burgess> learns <Dream>'s identity
-## 1930: <Ruthven Sykes> trades <Dream>'s <Helm> with a demon for a magical <Amulet> ++ <Choronzon>
-## 1936: <Sykes|Ruthven Sykes> and <Ethel Cripps> steal <Dream>'s remailing artefacts, and the <Amulet> ++ <Ruby> <Sand Pouch>
-# <Sykes> dies
-## 1939.1: <Unity|Unity Kincaid> gives birth - the <baby|Miranda Walker> is adopted
+## * June 1916: <Roderick Burgess> captures <Dream> ++ <Alexander Burgess> <John Hathaway> <Ruthven Sykes> <Ruby|The Materioptikon> <Sand Pouch> <Helm|Helmet of Dreams> <Wych Cross> <Fawny Rig> <Magdalene Grimoire> 
+# <Unity Kincaid> falls deep asleep
+## * June 1920: <John Hathaway> commits suicide 
+## * August 1926: <Alexander Burgess> learns <Dream>'s identity
+## * 1930: <Ruthven Sykes> trades <Dream>'s <Helm> with a demon for a magical <Amulet> ++ <Choronzon>
+## * 1936: <Ethel Cripps> steal <Dream>'s remaining artefacts, and the <Amulet>, leaving <Sykes|Ruthven Sykes> unprotected ++ <Ruby> <Sand Pouch>
+## * 1939.1: <Unity|Unity Kincaid> gives birth - the <baby|Miranda Walker> is adopted
 # <Wesley Dodds> - Golden age Sandman
-## 1947: <Roderick Burgess> dies ++ <Fawny Rig> <Wych Cross>
-## 1955: <Unity Kincaid> put into a nursing home when her parents die
+## * 1947: <Roderick Burgess> dies ++ <Fawny Rig> <Wych Cross>
+## * 1955: <Unity Kincaid> put into a nursing home when her parents die
 # <Alexander Burgess> fails to bargain with <Dream> ++ <Fawny Rig> <Wych Cross>
-## 1968: <Alexander Burgess> and <Paul McGuire> host parties ++ <Fawny Rig> <Wych Cross>
-## 1970: <Alexander Burgess> abandons the order ++ <Fawny Rig> <Wych Cross>
-## 1972: <Alexander Burgess> again fails to bargain with <Dream> ++ <Fawny Rig> <Wych Cross>
-## 1978: <Alexander Burgess> tells <Dream> he hasn't had a good night's sleep in decades ++ <Fawny Rig> <Wych Cross>
-## 1982: <Alexander Burgess> threatens <Dream> ++ <Fawny Rig> <Wych Cross>
-## 1988: <Alexander Burgess> accidentally releases <Dream> ++ <Fawny Rig> <Wych Cross> <The Dreaming>
+## * 1968: <Alexander Burgess> and <Paul McGuire> host parties ++ <Fawny Rig> <Wych Cross>
+## * 1970: <Alexander Burgess> abandons the order ++ <Fawny Rig> <Wych Cross>
+## * 1972: <Alexander Burgess> again fails to bargain with <Dream> ++ <Fawny Rig> <Wych Cross>
+## * 1978: <Alexander Burgess> tells <Dream> he hasn't had a good night's sleep in decades ++ <Fawny Rig> <Wych Cross>
+## * 1982: <Alexander Burgess> threatens <Dream> ++ <Fawny Rig> <Wych Cross>
+## * September 1988: <Alexander Burgess> accidentally releases <Dream> ++ <Fawny Rig> <Wych Cross> <The Dreaming>
+? September 1988 is the date on the newspaper
 # <Unity> awakens
-# <Dream> curses <Alexander Burgess> with Eternal Waking ++ <Fawny Rig> <Wych Cross> <The Dreaming>
+# <Dream> curses <Alexander Burgess> with Eternal Waking ++ <Fawny Rig> <Wych Cross> <The Dreaming> <Paul McGuire>
 
 
 Sandman #2
@@ -30,7 +30,7 @@ Master of Dreams
 2. Imperfect Hosts
 February 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1988.22: <Dream> is found, <John Dee> recieves a visitor, <Goldie> hatches and the <Three Witches> provide some assistance ++ <The Dreaming> <Gregory> <Cain> <Abel> <Ethel Dee|Ethel Cripps> <Lucien> <Eve> <The Fashion Thing>
+## 1988.7: <Dream> is found, <John Dee> receives a visitor, <Goldie> hatches and the <Three Witches> provide some assistance ++ <The Dreaming> <Gregory> <Cain> <Abel> <Ethel Dee|Ethel Cripps> <Lucien> <Eve> <The Fashion Thing>
 
 
 Sandman #3
@@ -38,7 +38,7 @@ Master of Dreams
 3. Dream a Little Dream of Me
 March 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1988.23: <John Constantine> recieves a warning, then helps <Dream> recover what was lost ++ <Mad Hettie> <Sand Pouch>
+## 1988.8: <John Constantine> receives a warning, then helps <Dream> recover what was lost ++ <Mad Hettie> <Sand Pouch>
 ## 1742 : <Mad Hettie> is born 
 ? Hettie is 247
 
@@ -48,7 +48,7 @@ Master of Dreams
 4. A Hope in Hell
 April 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1988.24: <Dream> visits <Lucifer Morningstar> in <Hell> to recover his <Helm>.  <John Dee> recieves a gift  ++ <Etrigan> <Nada> <Beelzebub> <Azazel> <Choronzon> <Amulet> <Arkham Asylum> 
+## 1989.2: <Dream> visits <Lucifer Morningstar> in <Hell> to recover his <Helm>.  <John Dee> receives a gift  ++ <Etrigan> <Nada> <Beelzebub> <Azazel> <Choronzon> <Amulet> <Arkham Asylum> 
 
 
 Sandman #5
@@ -57,7 +57,8 @@ Master of Dreams
 May 1989
 Vol  1: Preludes and Nocturnes, Book 1
 ## 1961: <Doctor Destiny|John Dee> uses Dream's <Ruby> to affect people's dreams and make nightmares real. 
-## * April 1988: <Dream> tracks the <Ruby>, but <John Dee> gets hold of it ++ <Arkham Asylum> <The Scarecrow> <Scott Free> <Martian Manhunter> <Merv Pumpkin Head> <All Nite Diner>
+## * April 1989: <Dream> tracks the <Ruby>, but <John Dee> gets hold of it ++ <Arkham Asylum> <The Scarecrow> <Scott Free> <Martian Manhunter> <Merv Pumpkin Head> <All Nite Diner>
+? Announced to be April 1 in first panel
 
 
 Sandman #6
@@ -65,7 +66,7 @@ Master of Dreams
 6. 24 Hours
 June 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1988.26: <Judy> makes some phonecalls, <John Dee> doesn't leave any survivors ++ <All Nite Diner> <Rose|Rose Walker> <Donna|Foxglove> <Dream>
+## 1989.26: <Judy> makes some phone calls, <John Dee> doesn't leave any survivors ++ <All Nite Diner> <Rose|Rose Walker> <Donna|Foxglove> <Dream>
 
 
 Sandman #7
@@ -73,7 +74,7 @@ Master of Dreams
 7. Sound and Fury
 July 1989
 Vol  1: Preludes and Nocturnes, Book 1
-## 1988.27:  <John Dee>'s madness spreads, but releasing the power leads to him returning back home ++ <24 Hours All Nite Diner> <Ruby> <Eve> <Cain> <Abel> <Goldie> <Gregory> <The Dreaming> <Destiny> <Arkham Asylum> <The Scarecrow>
+## 1989.27:  <John Dee>'s madness spreads, but releasing the power leads to him returning back home ++ <24 Hours All Nite Diner> <Ruby> <Eve> <Cain> <Abel> <Goldie> <Gregory> <The Dreaming> <Destiny> <Arkham Asylum> <The Scarecrow>
 
 
 Sandman #8
@@ -81,12 +82,12 @@ Master of Dreams
 8. The Sound of Her Wings
 August 1989
 Vol  1: Preludes and Nocturnes, Vol  2: The Doll's House, Book 1, Death
-## 1988.5: <Dream> is lost, and spends a day thinking about <Death>
+## 1989.5: <Dream> is lost, and spends a day thinking about <Death>
 
 
 Sandman #9
 Master of Dreams
-8. Tales in the Sand
+9. Tales in the Sand
 September 1989
 Vol  2: The Doll's House, Book 1
 ## ~ -8000: <Nada> is condemned to <Hell> by <Dream>
@@ -137,8 +138,8 @@ The Doll's House
 5. Collectors
 March 1990
 Vol  2: The Doll's House, Book 1
-## 1989.75: <Rose> and <Jed> are rescued.  <The Corinthian> is unmade ++ <Gilbert> <Dream> 
-? Late autumn
+## 1989.75 | late autumn 1989: <Rose> and <Jed> are rescued.  <The Corinthian> is unmade ++ <Gilbert> <Dream> 
+? "Late autumn wind"
 ? Rose is 21, Jed is 12.  Not seen each other in 7 years
 
 
@@ -166,7 +167,7 @@ Calliope
 July 1990
 Vol  3: Dream Country, Book 1
 ## * May 1986: <Richard Madoc> makes a deal with <Felix Garrison> for <Calliope>
-## 1927: <Calliope> is captured by <Felix Garrison>
+## * 1927.2: <Calliope> is captured by <Felix Garrison>
 ## * March 1990: <Dream> convinces <Richard Madoc> to release <Calliope>
 
 
@@ -183,7 +184,7 @@ Dream Country
 A Midsummer Night's Dream
 September 1990
 Vol  3: Dream Country, Book 1
-## 1593: <William Shakespeare>'s company perform A Midsummer Night's Dream for <Dream> and a host of Faeries ++ <Auberon> <Lady Titania> <Robin Goodfellow> 
+## * June 1593: <William Shakespeare>'s company perform A Midsummer Night's Dream for <Dream> and a host of Faeries ++ <Auberon> <Lady Titania> <Robin Goodfellow> 
 # <Robin Goodfellow> stays in the waking world
 ? add more detail? **
 
@@ -214,12 +215,12 @@ Season of Mists: a prologue
 December 1990
 Vol  4: Season of Mists, Book 2
 ## 1990.79: <Destiny> meets the <Grey Ladies|Three Witches> and calls a family meeting.  <Desire> stirs up trouble ++ <Destiny's Garden> <Death> <Dream> <Despair> <Delirium>
-## -110000000006 | beginning of time: <Destiny> comes into being
-## -110000000005 | beginning of time: <Death> comes into being
-## -110000000004 | beginning of time: <Dream> comes into being
-## -110000000002 | beginning of time: <Desire> comes into being
-## -110000000001 | beginning of time: <Despair> comes into being
-## -110000000000 | beginning of time: <Delight|Delirium> comes into being
+## -15000000000 | beginning of time: <Destiny> comes into being
+## -14000000000 | beginning of time: <Death> comes into being
+## -14000000000 | beginning of time: <Dream> comes into being
+## -12000000000 | beginning of time: <Desire> comes into being
+## -12000000000 | beginning of time: <Despair> comes into being
+## -11000000000 | beginning of time: <Delight|Delirium> comes into being
 
 
 Books of Magic #2
@@ -238,6 +239,7 @@ January 1991
 Vol  4: Season of Mists, Book 2
 ## 1990.8: <Dream> prepares to say goodbye again, <Cain> has an unhappy time playing messenger, <Lyta>'s child is given a name, and <Hob> is given a parting gift ++ <Hell> <Lucifer|Lucifer Morningstar> <Lucien> <Matthew> <The Dreaming> <The Fashion Thing> <Merv|Merv Pumpkin Head> <Mazikeen> <Nada> <Daniel>
 ## -10000000000 | ten billion years ago: <Lucifer> falls to <Hell>
+? Daniel is a week old
 
 
 Books of Magic #3
@@ -247,6 +249,7 @@ January 1991
 Books of Magic
 ## 1990.77 | October 1990: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Faerie> <Lady Titania>
 ? add more detail? **
+? October because it's a halloween party - assuming all four volumes occur within a few days
 
 
 Sandman #23
@@ -254,7 +257,7 @@ Season of Mists
 Season of Mists: Chapter 2
 February 1991
 Vol  4: Season of Mists, Book 2
-## 1990.85: <Dream> arrives in <Hell> only to find it empty.  <Lucifer> hands over ownership. ++ Mazikeen> <The Key to Hell>
+## 1990.85: <Dream> arrives in <Hell> only to find it empty.  <Lucifer> hands over ownership. ++ <Mazikeen> <The Key to Hell>
 
 
 Books of Magic #4
@@ -282,7 +285,7 @@ Season of Mists
 Season of Mists: Chapter 4
 April 1991
 Vol  4: Season of Mists, Book 2
-## December 1990: The dead return for Christmas.  <Charles Rowland> dies, but doesn't go into the light, choosing to stay with <Edwin Paine> and see what life has to offer. ++ <Dream> <Death>
+## * December 1990: The dead return for Christmas.  <Charles Rowland> dies, but doesn't go into the light, choosing to stay with <Edwin Paine> and see what life has to offer. ++ <Dream> <Death>
 ## 1914: <Edwin Paine> dies ++ <Death>
 
 
@@ -315,7 +318,7 @@ Distant Mirrors
 Thermidor
 August 1991
 Vol  6: Fables and Reflections, Book 2
-## 1794: <Dream> makes a deal with <Lady Johanna Constantine> ++ <Wych Cross> <Orpheus> <Jessamy> <Naxos>
+## * 1794: <Dream> makes a deal with <Lady Johanna Constantine> ++ <Wych Cross> <Orpheus> <Jessamy> <Naxos>
 
 
 Sandman #30
@@ -332,9 +335,9 @@ Three Septembers and a January
 October 1991
 Vol  6: Fables and Reflections, Book 2
 ## September 1859: <Despair> challenges <Dream> to redeem <Joshua Norton> 
-## September 1864: Emperor <Joshua Norton> makes <Mark Twain> the offical storyteller of America ++ <Dream> <Delirium>
-## September 1875: <Desire> fails to tempt <Joshua Norton> ++ <Dream>
-## January 1880: <Joshua Norton> dies, but never despaired ++ <Despair> <Dream> <Death>
+## * September 1864: Emperor <Joshua Norton> makes <Mark Twain> the official storyteller of America ++ <Dream> <Delirium>
+## * September 1875: <Desire> fails to tempt <Joshua Norton> ++ <Dream>
+## * January 1880: <Joshua Norton> dies, but never despaired ++ <Despair> <Dream> <Death>
 
 
 Sandman Special
@@ -342,7 +345,7 @@ The Song of Orpheus
 The Song of Orpheus
 November 1991
 Vol  6: Fables and Reflections, Book 2
-## ~ -500: <Orpheus> ventures to the underworld to try and bring back his wife ++ <Eurydice> <Dream> <Aristaeus> <Calliope> <Death> <Delirium> <Destiny> <Desire> <The Dreaming><Despair> <Destruction> <The Griffon> <The Wyvern> <The Hippogriff>
+## ~ -500: <Orpheus> ventures to the underworld to try and bring back his wife ++ <Eurydice> <Dream> <Aristaeus> <Calliope> <Death> <Delirium> <Destiny> <Desire> <Death's House> <The Dreaming> <Despair> <Destruction> <The Griffon> <The Wyvern> <The Hippogriff>
 ? add more detail? **
 
 
@@ -351,7 +354,7 @@ A Game of You
 1. Slaughter on Fifth Avenue
 November 1991
 Vol  5: A Game of You, Book 2
-## 1991.8: <Wanda> borrows some milk, <Martin Tenbones> makes a delivery, and  <The Cuckoo> begins its influence ++ <Prinado> <Luz> <Wilkinson> <The Land> <The Dreaming> <Barbie> <Hazel> <Foxglove> <The Porpentine> <Dream> <Matthew> <George> <Thessaly> 
+## 1991.6: <Wanda> borrows some milk, <Martin Tenbones> makes a delivery, and  <The Cuckoo> begins its influence ++ <Prinado> <Luz> <Wilkinson> <The Land> <The Dreaming> <Barbie> <Hazel> <Foxglove> <The Porpentine> <Dream> <Matthew> <George> <Thessaly> 
 
 
 Sandman #33
@@ -359,7 +362,7 @@ A Game of You
 2. Lullabies of Broadway
 December 1991
 Vol  5: A Game of You, Book 2
-## 1991.81: <Hazel> makes a revelation, <Barbie> gets a warning, <Thessaly> confronts <George>, and strange dreams are had by all ++ <The Dreaming> <The Land> <The Porpentine> <The Cuckoo> <Wanda> <Foxglove> <Nuala> <Wilkinson> <Luz> <Prinado> <Judy>
+## 1991.61: <Hazel> makes a revelation, <Barbie> gets a warning, <Thessaly> confronts <George>, and strange dreams are had by all ++ <The Dreaming> <The Land> <The Porpentine> <The Cuckoo> <Wanda> <Foxglove> <Nuala> <Wilkinson> <Luz> <Prinado> <Judy>
 
 
 Sandman #34
@@ -367,7 +370,7 @@ A Game of You
 3. Bad Moon Rising
 January 1992
 Vol  5: A Game of You, Book 2
-## 1991.82: Bad dreams continue, <George> does some explaining, <Thessaly> calls down <The Moon>, and <Wanda> gets left behind ++ <The Cuckoo> <Barbie> <Hazel> <Foxglove> <The Porpentine>
+## 1991.62: Bad dreams continue, <George> does some explaining, <Thessaly> calls down <The Moon>, and <Wanda> gets left behind ++ <The Cuckoo> <Barbie> <Hazel> <Foxglove> <The Porpentine>
 
 
 Sandman #35
@@ -375,7 +378,7 @@ A Game of You
 4. Beginning to See the Light
 February 1992
 Vol  5: A Game of You, Book 2
-## 1991.83: <Princess Barbara> travels, <Dream> consults some maps, <Nuala> did the right thing, <Wanda> has issues with <The Moon>, and <Luz> makes a betrayal ++ <The Land> <Wilkinson> <Prinado> <The Dreaming> <Lucien> <The Porpentine>
+## 1991.63: <Princess Barbara> travels, <Dream> consults some maps, <Nuala> did the right thing, <Wanda> has issues with <The Moon>, and <Luz> makes a betrayal ++ <The Land> <Wilkinson> <Prinado> <The Dreaming> <Lucien> <The Porpentine>
 
 
 Sandman #36
@@ -383,7 +386,8 @@ A Game of You
 5. Over the Sea to Sky
 April 1992
 Vol  5: A Game of You, Book 2
-## 1991.84: <Princess Barbara> confronts <The Cuckoo>, <Thessaly>'s group reach their destination, <Wanda> braves the storm, <Dream> arrives by the terms of the compact and says goodbye to <Alianora> ++ <Wilkinson> <Foxglove> <Hazel> <George> <Luz> <The Land> <The Dreaming> <The Porpentine>
+## 1991.64: <Princess Barbara> confronts <The Cuckoo>, <Thessaly>'s group reach their destination, <Wanda> braves the storm, <Dream> arrives by the terms of the compact and says goodbye to <Alianora> ++ <Wilkinson> <Foxglove> <Hazel> <George> <Luz> <The Land> <The Dreaming> <The Porpentine>
+? hurricane season, so September ish
 
 
 Sandman #37
@@ -391,9 +395,10 @@ A Game of You
 6. I Woke Up and One of Us Was Crying
 May 1992
 Vol  5: A Game of You, Book 2
-## 1991.85: <Princess Barbara> allows <The Cuckoo> to fly, and <Dream> sends the visitors home, after giving some advice. ++ <Thessaly> <Foxglove> <Hazel> <The Land> <The Dreaming> <Rose>
-## 1991.95: <Barbie> says goodbye to <Wanda> and dreams of her perfection ++ <Death>
+## 1991.65: <Princess Barbara> allows <The Cuckoo> to fly, and <Dream> sends the visitors home, after giving some advice. ++ <Thessaly> <Foxglove> <Hazel> <The Land> <The Dreaming> <Rose>
+## 1991.75: <Barbie> says goodbye to <Wanda> and dreams of her perfection ++ <Death>
 ## ~ -250 | in the day of greatest darkness, in the year the bear totem was shattered: <Thessaly> is born
+? Wanda's gravestone says 1991, so that's the best date anchor
 
 
 Sandman #38
@@ -402,8 +407,8 @@ The Hunt
 June 1992
 Vol  6: Fables and Reflections, Book 3
 ## 1992: A Grandfather tells a story
-## ~ 1000.1 | medieval times: A story of princesses and werewolves ++ <Lucien> <Baba Yaga> <Dream>
-? Unsure how far back the story is set
+## ~ 1650 | medieval times: A story of princesses and werewolves ++ <Lucien> <Baba Yaga> <Dream>
+? Unsure how far back the story is set - says 500 years ago, but mention of Tokay puts it at roughly 1650
 
 
 Sandman #39
@@ -435,10 +440,11 @@ Brief Lives
 Brief Lives part 1
 September 1992
 Vol  7: Brief Lives, Book 3
-## 1992.2: <Orpheus> sings to the sunrise, <Delirium> gatecrashes a party, and visits <Despair> by way of <Desire> ++ <The Threshold>
-## 1665: <Despair> and <Destruction> visit London during the plague
+## 1992.3 | spring 1992: <Orpheus> sings to the sunrise, <Delirium> gatecrashes a party, and visits <Despair> by way of <Desire> ++ <Naxos> <Andros> <Kris> <The Threshold> <Despair's Realm>
+## ~ 1665: <Despair> and <Destruction> visit London during the plague
 ## 1760: <Lady Johanna Constantine> is born
 ## 1859: <Lady Johanna Constantine> dies
+? Mentions it's a Spring day
 
 
 Sandman #42
@@ -446,8 +452,8 @@ Brief Lives
 Brief Lives part 2
 October 1992
 Vol  7: Brief Lives, Book 3
-## 1992.21: It rains for a week, <Delirium> comes to visit and <Dream> consults with <Desire> ++ <Lucien> <Nuala> <Merv> <Matthew> <Abel> <Goldie> <The Griffon> <The Wyvern> <The Hippogriff> <Taramis>, <The Fashion Thing>
-## -900000000 | aeons ago: <Destruction> tells <Delirium> that things are changing 
+## 1992.46: It rains for a week, <Delirium> comes to visit and <Dream> consults with <Desire> ++ <The Dreaming> <Lucien> <Nuala> <Merv> <Matthew> <Abel> <Goldie> <The Griffon> <The Wyvern> <The Hippogriff> <Taramis>, <The Fashion Thing> <The Threshold>
+## -300000000 | the dawn days of Earth: <Destruction> tells <Delirium> that things are changing 
 
 
 Sandman #43
@@ -455,7 +461,7 @@ Brief Lives
 Brief Lives part 3
 November 1992
 Vol  7: Brief Lives, Book 3
-## 1992.22: <Bernie Capax>'s time is up, <Pharamond> organises transport, <Etain of the Second Look> escapes an explosion and <Destruction> gets an early warning ++ <Barnabas> <Ruby DeLonge> 
+## 1992.48: <Bernie Capax>'s time is up, <Pharamond> organizes transport, <Etain of the Second Look> escapes an explosion and <Destruction> gets an early warning ++ <Barnabas> <Ruby DeLonge> 
 ## ~ -13000 | stone age: <Bernie Capax> is born
 ## ~ -1900 | bronze age: <Dream> saves <Pharamond>'s life
 ? Pharamound date is a guess based on "drinking in Babylon" putting him pre-the founding of Babylon
@@ -466,8 +472,9 @@ Brief Lives
 Brief Lives part 4
 December 1992
 Vol  7: Brief Lives, Book 3
-## 1992.23: <The Alderman> bites off his shadow, <Bernie Capax> is missed, <Etain|Etain of the Second Look> goes into hiding and <Ruby DeLonge> is lost ++ <Tiffany>, <Ishtar>, <Lucien>
-## 1685: <Dream> answers <Destruction>'s call and <The Corinthian> has a snack ++  <Invisible College>
+## 1992.5 | midsummer 1992: <The Alderman> bites off his shadow, <Bernie Capax> is missed, <Etain|Etain of the Second Look> goes into hiding and <Ruby DeLonge> is lost ++ <Tiffany>, <Ishtar>, <Lucien>
+## 1685: <Dream> answers <Destruction>'s call and <The Corinthian> has a snack ++ <Invisible College>
+? Midsummer
 
 
 Vertigo Preview #1
@@ -483,7 +490,7 @@ Brief Lives
 Brief Lives part 5
 January 1993
 Vol  7: Brief Lives, Book 3
-## 1992.24: <Ishtar> makes <Tiffany> breakfast, <Matthew> gives <Delirium> driving lessons and <Ishtar> dances ++ <Nancy> <Desire>
+## 1992.52: <Ishtar> makes <Tiffany> breakfast, <Matthew> gives <Delirium> driving lessons and <Ishtar> dances ++ <Nancy> <Desire>
 ## -500 | ancient near east: Sacred Prostitution ++ <Ishtar> 
 
 
@@ -492,7 +499,7 @@ Brief Lives
 Brief Lives part 6
 March 1993
 Vol  7: Brief Lives, Book 3
-## 1992.25: <Dream> fills <Pharamond> in, speaks with <Lady Bast> and is put straight by <Death> ++ <Nuala> <Delirium> <Lucien> <Merv>
+## 1992.56: <Dream> fills <Pharamond> in, speaks with <Lady Bast> and is put straight by <Death> ++ <Nuala> <Delirium> <Lucien> <Merv> <Delirium's Realm>
 
 
 Death The High Cost of Living #1
@@ -510,12 +517,13 @@ Brief Lives
 Brief Lives part 7
 March 1993
 Vol  7: Brief Lives, Book 3
-## 1992.26: <Dream> and <Delirium> traverse the maze of <Destiny>, while <Destruction> readies dinner ++ <Barnabas> <Andros> <Kris>
-## -110000000003 | beginning of time: <Destruction> comes into being
+## 1992.58: <Dream> and <Delirium> traverse the maze of <Destiny>, while <Destruction> readies dinner ++ <Barnabas> <Naxos> <Andros> <Kris> <Destiny's Garden>
+## -13000000000 | beginning of time: <Destruction> comes into being 
 ## ~ 1690: <Destruction> abdicates his role
 ## 1850 | some time in the 1800s: <Death> spends a day mortal as a peasant girl by the Yangtze River
 ## 1915.9: <Dream> returns in triumph from a far galaxy
 ## 1994.025: <Dream in white|Daniel> stands before <The Corinthian>
+? Destruction was over 10 billion years old when he abdicated
 
 
 Sandman #48
@@ -523,7 +531,7 @@ Brief Lives
 Brief Lives part 8
 April 1993
 Vol  7: Brief Lives, Book 3
-## 1992.27: Dinner isn't eaten, <Destruction> packs up and <Barnabas> is left behind ++ <Delirium> 
+## 1992.6: Dinner isn't eaten, <Destruction> packs up and <Barnabas> is left behind ++ <Delirium> 
 ## -1500000000 | aeons ago: <Death> helps <Destruction> feel less insignificant
 
 
@@ -541,8 +549,8 @@ Brief Lives
 Brief Lives part 9
 May 1993
 Vol  7: Brief Lives, Book 3
-## 1992.28: <Dream> makes good on his word to <Orpheus> ++ <Delirium> <Barnabas> <Despair> <Desire> <Andros> <The Griffon> <The Wyvern> <The Hippogriff> <Nuala> <Lucien> <Merv> 
-## -1000000010 | aeons ago: Three gods saught to ursurp <Dream> ++ <The Dreaming>
+## 1992.62: <Dream> makes good on his word to <Orpheus> ++ <Delirium> <Barnabas> <Naxos> <Despair> <Desire> <Naxos> <Andros> <The Griffon> <The Wyvern> <The Hippogriff> <Nuala> <Lucien> <Merv> <Despair's Realm> <Ruthven> <The Threshold>
+## -1000000010 | aeons ago: Three gods sought to usurp <Dream> ++ <The Dreaming>
 ## -1000000000 | aeons ago: <Dream> creates the <Gates of Horn and Ivory> and his <Helm>
 
 
@@ -551,7 +559,7 @@ The High Cost of Living
 The High Cost of Living
 May 1993
 Death
-## July 1992: <Mad Hettie> comes to the rescue, <Mr E> makes another appearence, <Didi> makes an exit, and <Mad Hettie> finds her heart ++ <Mrs Robbins> <Didi> <Sexton>
+## July 1992: <Mad Hettie> comes to the rescue, <Mr E> makes another appearance, <Didi> makes an exit, and <Mad Hettie> finds her heart ++ <Mrs Robbins> <Didi> <Sexton>
 
 
 Sandman #50
@@ -586,7 +594,7 @@ Vertigo Jam
 The Castle
 August 1993
 Book 4
-## 1992.5: <Lucien> gives a tour by mistake ++ <Merv> <Nuala> <Matthew> <Cain> <Abel> <Goldie> <Dream> <The Dreaming>
+## 1992.25: <Lucien> gives a tour by mistake ++ <Merv> <Nuala> <Matthew> <Cain> <Abel> <Goldie> <Dream> <The Dreaming>
 ? occurs somewhere between end of Season of Mists and beginning of Kindly Ones
 
 
@@ -616,12 +624,12 @@ Vol  8: Worlds' End, Book 3
 ## ~ 1800 | approx 19th century: Burial rites, then stories from the <Necropolis Litharge> ++ <Petrefax> <Hermas> <Mig> <Scroyle>
 ## ~ 1750 | approx 18th century: <Billy Scutt> the hangman escapes the gallows ++ <Mig>
 ## ~ 1790 | approx 18th century: <Scroyle> meets <Destruction> who tells him a tale about the <First Necropolis>
-## -1100000001 | millennia ago: The Endless arrive at the <First Necropolis> seeking the <Cerements> and the <Books of Ritual>.  <Destiny> destroys the city. ++ <Death> <Dream> <Destruction> <Delirium> <Desire>
-## -1100000000 | millennia ago: The village of <Litharge|Necropolis Litharge> gains a charter to become a Necropolis
+## -1100000001 | aeons ago: The Endless arrive at the <First Necropolis> seeking the <Cerements> and the <Books of Ritual>.  <Destiny> destroys the city. ++ <Death> <Dream> <Destruction> <Delirium> <Desire>
+## -1100000000 | aeons ago: The village of <Litharge|Necropolis Litharge> gains a charter to become a Necropolis
 ## ~ 1800 | approx 19th century: <Petrefax> tells a tale of Mistress <Veltis>
 ## ~ 1700 | approx 18th century: A young <Veltis> accidentally encounters a room deep in the catacombs containing the <Cerements> and the <Books of Ritual>
 ? Billy was a 'Resurrectionist' - https://en.wikipedia.org/wiki/Resurrectionists_in_the_United_Kingdom so 17th or 18th century.  Assuming 17th based on costume
-? wandering Destruction makes an appearence, so the Litharge thread is set some time after 1690
+? wandering Destruction makes an appearance, so the Litharge thread is set some time after 1690
 ? Billy was Mig's grandfather, so Litharge thread ~50 years later
 ? Not clear if it is Delight or Delirium who visited the First Necropolis
 
@@ -650,7 +658,7 @@ The Kindly Ones
 The Kindly Ones: 1
 February 1994
 Vol  9: The Kindly Ones, Book 4
-## 1993.9: <Three Witches> make a start, <Matthew> makes enquiries, <Dream> remakes <The Corinthian>, <Lyta> is made a job offer, and <Daniel> makes a dissapearance ++ <Carla> <Eric> <The Griffon> <The Wyvern> <The Hippogriff> <Merv> <Nuala> <Lucien> <Eve> <Lux> <Mazikeen> <Lucifer>
+## 1993.9: <Three Witches> make a start, <Matthew> makes enquiries, <Dream> remakes <The Corinthian>, <Lyta> is made a job offer, and <Daniel> makes a disappearance ++ <Carla> <Eric> <The Griffon> <The Wyvern> <The Hippogriff> <Merv> <Nuala> <Lucien> <Eve> <Lux> <Mazikeen> <Lucifer>
 ## ~ 1960: <Lyta> is born
 ## 1987: <Hector Hall> dies
 ## 1988: <Lyta> and <Hector Hall> marry
@@ -671,7 +679,7 @@ The Kindly Ones
 The Kindly Ones: 3
 April 1994
 Vol  9: The Kindly Ones, Book 4
-## 1993.92: <Daniel> enters the fire, <Hob> comes out of the cold, <Destiny> sees himself, <Desire> sees no one else, and <Lyta> tries to stay strong ++ <The Threshold> <Puck> <Loki> <Dream> <Despair> <Delirium> <Eric> <Carla> <Pinkerton|Loki> <Fellowes|Puck> <Swartalfheim>
+## 1993.92: <Daniel> enters the fire, <Hob> comes out of the cold, <Destiny> sees himself, <Desire> sees no one else, and <Lyta> tries to stay strong ++ <The Threshold> <Despair's Realm> <Destiny's Garden> <Puck> <Loki> <Dream> <Despair> <Delirium> <Eric> <Carla> <Pinkerton|Loki> <Fellowes|Puck> <Swartalfheim>
 ? Hob is ~630 years old
 
 
@@ -680,7 +688,7 @@ The Kindly Ones
 The Kindly Ones: 4
 June 1994
 Vol  9: The Kindly Ones, Book 4
-## 1993.93: <Remiel> makes an offer, <Lyta> goes on a walk, <Rose> is watched, <Matthew> misses <Nuala>, <The Corinthian> reawakes ++ <Mazikeen> <Lux> <Lucifer> <Duma> <Hell> <Abel> <Dream> <Merv> <Abudah> <Lucien> <Vixen LaBitch|Hal Carter>
+## 1993.93: <Remiel> makes an offer, <Lyta> goes on a walk, <Rose> is watched, <Matthew> misses <Nuala>, <The Corinthian> reawakens ++ <Mazikeen> <Lux> <Lucifer> <Duma> <Hell> <Abel> <Dream> <Merv> <Abudah> <Lucien> <Vixen LaBitch|Hal Carter>
 
 
 Sandman #61
@@ -688,7 +696,7 @@ The Kindly Ones
 The Kindly Ones: 5
 July 1994
 Vol  9: The Kindly Ones, Book 4
-## 1993.94: <Rose> visits a friend and recieves a message, <Dream> sends <The Corinthian> and <Matthew> on an errand, <Nuala> returns home, <Carla> visits the police and is visited by <Loki> ++ <Lyta> <Zelda> <Lady Titania> <Boggart> <Pinkerton>
+## 1993.94: <Rose> visits a friend and receives a message, <Dream> sends <The Corinthian> and <Matthew> on an errand, <Nuala> returns home, <Carla> visits the police and is visited by <Loki> ++ <Lyta> <Zelda> <Lady Titania> <Boggart> <Pinkerton>
 
 
 Sandman #62
@@ -704,7 +712,7 @@ The Kindly Ones
 The Kindly Ones: 7
 September 1994
 Vol  9: The Kindly Ones, Book 4
-## 1993.96: <Thessaly> tracks down <Lyta>, and <Lyta> tracks down <The Furies|Three Witches>.  <Odin> confronts <Dream> and <Delirium> asks for help. <Gilbert> expresses his concern ++ <The Griffon> <The Wyvern> <The Hippogriff> <Rose> <Destiny>
+## 1993.96: <Thessaly> tracks down <Lyta>, and <Lyta> tracks down <The Furies|Three Witches>.  <Odin> confronts <Dream> and <Delirium> asks for help. <Gilbert> expresses his concern ++ <The Griffon> <The Wyvern> <The Hippogriff> <Rose> <Destiny> <Destiny's Garden>
 ? Dream's statue matches the one in final Destiny story
 
 
@@ -738,7 +746,7 @@ The Kindly Ones
 The Kindly Ones: 11
 February 1995
 Vol  9: The Kindly Ones, Book 4
-## 1994.0: <The Corinthian> brings <Daniel> home, <Nuala> is sorry, <Rose> is late, <Dream> receives his scars, Angels keep their faith ++ <Cain> <The Wyvern> <The Hippogriff> <Goldie> <Lucien> <Destiny> <Lyta> <The Furies> <Remiel> <Duma> <Lux> <Mazikeen> <Thessaly> 
+## 1994.0: <The Corinthian> brings <Daniel> home, <Nuala> is sorry, <Rose> is late, <Dream> receives his scars, Angels keep their faith ++ <Cain> <The Wyvern> <The Hippogriff> <Goldie> <Lucien> <Destiny> <Destiny's Garden> <Lyta> <The Furies> <Remiel> <Duma> <Lux> <Mazikeen> <Thessaly> 
 
 
 Sandman #68
@@ -776,7 +784,7 @@ September 1995
 Vol 10: The Wake, Book 4
 ## 1994.11: The Endless build a house of remembrance, <Dream (Daniel)> worries while everyone remembers, and <Matthew> makes peace ++ <The Dreaming> <Despair> <Death> <Desire> <Delirium> <Eblis O'Shaughnessy> <Lucien> <Cain> <Abel> <Calliope> <Merv> <Mad Hettie> <Cluracan> <Nuala> <Nemesis> <Lady Titania> <Lyta> <Rose> <Jed> <Eve> <Bhartari> <Thessaly> <Clark Kent> <Batman> <Martian Manhunter> <Phantom Stranger> <John Constantine> <Chiron> <The Fashion Thing> <Doctor Occult> <Hob> <Barnabas> <The Griffon> <The Wyvern> <The Hippogriff>
 ## 1992: <Dream> invites <Thessaly> to stay in <The Dreaming>
-## 1992.205: <Thessaly> leaves <The Dreaming> after realising she never really loved <Dream>
+## 1992.46: <Thessaly> leaves <The Dreaming> after realising she never really loved <Dream>
 ?  Who else is pictured?
 
 
@@ -794,7 +802,7 @@ The Wake
 Chapter 3: In Which We Wake
 November 1995
 Vol 10: The Wake, Book 4
-## 1994.12: While eulogies are given, <Dream (Daniel)> recieves a visitor, and is recieved in turn by his siblings ++ <The Dreaming> <Duma> <Delirium> <Death> <Despair> <Desire> <Eblis O'Shaughnessy> <The Cerements> <Mad Hettie> <Hob> <The Griffon> <The Wyvern> <The Hippogriff> <Destruction> <Lady Bast> <Rose> <Jed> <Wesley Dodds> <Barnabas> <Mazikeen> <Lucifer> <Odin> <Shivering Jemmy> <Lucien> <Lyta> <Alexander Burgess> <Paul McGuire> <Nuala> <Richard Madoc> <Hob>
+## 1994.12: While eulogies are given, <Dream (Daniel)> receives a visitor, and is received in turn by his siblings ++ <The Dreaming> <Duma> <Delirium> <Death> <Despair> <Desire> <Eblis O'Shaughnessy> <The Cerements> <Mad Hettie> <Hob> <The Griffon> <The Wyvern> <The Hippogriff> <Destruction> <Lady Bast> <Rose> <Jed> <Wesley Dodds> <Barnabas> <Mazikeen> <Lucifer> <Odin> <Shivering Jemmy> <Lucien> <Lyta> <Alexander Burgess> <Paul McGuire> <Nuala> <Richard Madoc> <Hob>
 
 
 Sandman #73
@@ -838,8 +846,8 @@ Chapter Two: Imaginary Solutions
 May 1996
 Death
 ## November 1995: <Foxglove> hears the news ++ <Boris> <Larry> <Death> <Hazel>
-## 1988.255: <Donna|Foxglove> splits from abusive relationship with <Judy>
-## 1988.8: <Hazel> meets <Foxglove> ++ <Sylvia Furnival>'s restaurant, Le Petit Mort
+## 1989.255: <Donna|Foxglove> splits from abusive relationship with <Judy>
+## 1989.8: <Hazel> meets <Foxglove> ++ <Sylvia Furnival>'s restaurant, Le Petit Mort
 
 
 Death: The Time of Your Life #3
@@ -888,7 +896,7 @@ Book 2
 The Wheel
 January 2002
 Death
-## October 2001: A boy encounters <Death> and <Destruction> on an abandonned fairground wheel
+## October 2001: A boy encounters <Death> and <Destruction> on an abandoned fairground wheel
 
 
 The Sandman Endless Nights #1
@@ -990,8 +998,8 @@ The Sandman Overture
 Chapter Four
 February 2015
 Overture
-## -150000000000 | before the beginning: Before the beginning was the <Night>
-## -120000000000 | in the beginning: In beginning there was <Time>
+## -50000000000 | before the beginning: Before the beginning was the <Night>
+## -20000000000 | in the beginning: In beginning there was <Time>
 ## 1915.3 | all times: <Dream> asks his father <Time> for help
 ## 1760 | before 1760: <Dream> borrows the <Saeculum>
 ## 1915.3: <Dream> visits the City of the Stars and is allowed in by <Formalhaut>
@@ -1000,7 +1008,7 @@ Overture
 ## 2015 | all times: <Dream (Daniel)> returns the <Saeculum> to <Time>
 ## 1915.3 | all times: <Time> shows <Dream> his spread of cards
 ## 1915.3 | all times: <Time> thanks <Dream> for returning the <Saeculum>
-## 1915.3 | no time: <Formalhaut> traps <Dream> inside a black holetime flies
+## 1915.3 | no time: <Formalhaut> traps <Dream> inside a black hole
 
 
 The Sandman Overture #5
