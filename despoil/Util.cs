@@ -122,7 +122,7 @@ namespace despoil
 
     public class CollectionComparer : IComparer<string>
     {
-        static readonly string[] CollectionPrefixes = { "Vol", "Overture", "Death", "Books", "Free", "Book", "Absolute", "Deluxe" };
+        static readonly string[] CollectionPrefixes = { "Vol", "Overture", "Death", "Books", "Winter's", "Free", "Book", "Absolute", "Deluxe" };
 
         public int Compare(string? x, string? y)
         {

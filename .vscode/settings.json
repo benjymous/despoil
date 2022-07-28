@@ -12,6 +12,7 @@
     "Boggart",
     "Borghal",
     "Capax",
+    "Cecile",
     "Chantal",
     "Chiron",
     "Choronzon",
@@ -24,6 +25,7 @@
     "Etrigan",
     "Fawny",
     "Fellowes",
+    "Flaxdown",
     "Formalhaut",
     "Furnival",
     "Gadlen",
@@ -65,6 +67,7 @@
     "Susano",
     "Swartalfheim",
     "Taramis",
+    "Tefé",
     "Tenbones",
     "Thermidor",
     "Urania",
@@ -72,5 +75,10 @@
     "Venician",
     "Wyvern",
     "Yaga"
+  ],
+  "cSpell.checkOnlyEnabledFileTypes": true,
+  "cSpell.enableFiletypes": [
+    "!*",
+    "txt"
   ]
 }

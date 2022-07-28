@@ -11,7 +11,7 @@ var threads = new Dictionary<string, List<string>>();
 var threadKey = new Dictionary<string, string>();
 var entityKey = new Dictionary<string, string>();
 var entityAlias = new Dictionary<string, string>();
-var entityAppearence = new Dictionary<string, HashSet<string>>();
+var entityAppearance = new Dictionary<string, HashSet<string>>();
 
 var collections = new Dictionary<string, List<(string, string)>>();
 
@@ -20,7 +20,7 @@ var colourStyles = new List<string>();
 var seenDates = new HashSet<double>();
 
 var dateMarkers = new Dictionary<long, string>();
-var dateAppearence = new Dictionary<long, HashSet<string>>();
+var dateAppearance = new Dictionary<long, HashSet<string>>();
 
 var allIssues = new HashSet<string>();
 
@@ -39,25 +39,25 @@ foreach (var entry in entries)
 {
   int eventCount = 0;
 
-  var entrylines = entry.Split("\n");
-  if (entrylines.Length < 4)
+  var entryLines = entry.Split("\n");
+  if (entryLines.Length < 4)
   {
-    throw new Exception("Error with " + entrylines[0]);
+    throw new Exception("Error with " + entryLines[0]);
   }
 
-  for (int i = 5; i < entrylines.Length; i++)
+  for (int i = 5; i < entryLines.Length; i++)
   {
 
-    if (!(entrylines[i].StartsWith('#') || entrylines[i].StartsWith("?")))
+    if (!(entryLines[i].StartsWith('#') || entryLines[i].StartsWith("?")))
     {
-      throw new Exception($"Error with {entrylines[0]}\n{entrylines[i]}' should start with #");
+      throw new Exception($"Error with {entryLines[0]}\n{entryLines[i]}' should start with #");
     }
   }
 
-  var thread = entrylines[1].Trim();
-  var issueTitle = $"<span class='itemissue'>{entrylines[0].Trim()}</span><span class='itemtitle'>{entrylines[2]}</span>";
-  var issueTitlePlain = $"{entrylines[0].Trim()} - {entrylines[2]}";
-  currentDate = Util.ParseDate(entrylines[3]);
+  var thread = entryLines[1].Trim();
+  var issueTitle = $"<span class='itemissue'>{entryLines[0].Trim()}</span><span class='itemtitle'>{entryLines[2]}</span>";
+  var issueTitlePlain = $"{entryLines[0].Trim()} - {entryLines[2]}";
+  currentDate = Util.ParseDate(entryLines[3]);
 
   if (!threads.ContainsKey(thread))
   {
@@ -65,15 +65,15 @@ foreach (var entry in entries)
     threads[thread] = new List<string>();
   }
 
-  var threadkey = threadKey[thread];
-  var issueId = $"{threadkey}_{threads[thread].Count}";
+  var entryThreadKey = threadKey[thread];
+  var issueId = $"{entryThreadKey}_{threads[thread].Count}";
 
   allIssues.Add(issueId);
 
   threads[thread].Add(issueTitle);
   issues.Add(issueTitlePlain);
 
-  var issueCollections = entrylines[4].Split(",").Select(x => x.Trim());
+  var issueCollections = entryLines[4].Split(",").Select(x => x.Trim());
   foreach (var issueCollection in issueCollections)
   {
     if (!collections.ContainsKey(issueCollection))
@@ -84,7 +84,7 @@ foreach (var entry in entries)
     collections[issueCollection].Add((issueTitle, issueId));
   }
 
-  var entryEvents = entrylines.Skip(5).ToList();
+  var entryEvents = entryLines.Skip(5).ToList();
   if (entryEvents.Count == 0)
   {
     entryEvents.Add(issueTitlePlain);
@@ -132,7 +132,7 @@ foreach (var entry in entries)
 
       if (!entityKey.ContainsKey(alias))
       {
-        entity = $"entity_{entityKey.Count}";
+        entity = $"e_{entityKey.Count}";
         entityKey[alias] = entity;
       }
       else
@@ -140,13 +140,13 @@ foreach (var entry in entries)
         entity = entityKey[alias];
       }
 
-      if (!entityAppearence.ContainsKey(entity))
+      if (!entityAppearance.ContainsKey(entity))
       {
-        entityAppearence[entity] = new HashSet<string>();
+        entityAppearance[entity] = new HashSet<string>();
       }
 
       entityClasses.Add(entity);
-      entityAppearence[entity].Add(issueId);
+      entityAppearance[entity].Add(issueId);
 
       var title = alias == bareText ? "" : $"title='{alias.Replace("'", "&apos;")}'";
       var resultTag = $"<span {title} class='entity {entity}' onclick='togglePush(\"{entity}\")'>{bareText}</span>";
@@ -249,20 +249,20 @@ foreach (var entry in entries)
 
     if (centuryKey != int.MinValue)
     {
-      if (!dateAppearence.ContainsKey(centuryKey))
+      if (!dateAppearance.ContainsKey(centuryKey))
       {
-        dateAppearence[centuryKey] = new HashSet<string>();
+        dateAppearance[centuryKey] = new HashSet<string>();
       }
-      dateAppearence[centuryKey].Add(issueId);
+      dateAppearance[centuryKey].Add(issueId);
     }
 
     if (decadeKey != int.MinValue)
     {
-      if (!dateAppearence.ContainsKey(decadeKey))
+      if (!dateAppearance.ContainsKey(decadeKey))
       {
-        dateAppearence[decadeKey] = new HashSet<string>();
+        dateAppearance[decadeKey] = new HashSet<string>();
       }
-      dateAppearence[decadeKey].Add(issueId);
+      dateAppearance[decadeKey].Add(issueId);
     }
 
 
@@ -276,8 +276,8 @@ foreach (var entry in entries)
       {
         type = "Issue",
         id = issueId,
-        threadkey = threadkey,
-        subtitle = $"{entrylines[3]} - {issueTitle}"
+        threadkey = entryThreadKey,
+        subtitle = $"{entryLines[3]} - {issueTitle}"
       });
 
     }
@@ -291,11 +291,11 @@ foreach (var entry in entries)
     {
       type = "Item",
       id = issueId,
-      body = evBody,
-      subtitle = $"{entrylines[3]} - {issueTitle}",
-      threadkey = threadkey,
+      body = evBody.Trim(),
+      subtitle = $"{entryLines[3]} - {issueTitle}",
+      threadkey = entryThreadKey,
       dateval = currentDate,
-      date = dateStr,
+      date = dateStr.Trim(),
       dateclass = knownDate ? "itemdate knowndate" : "itemdate",
       entities = string.Join(" ", entityClasses),
     });
@@ -309,27 +309,29 @@ foreach (var marker in dateMarkers)
   itemData.Add(new Item
   {
     type = "Date",
-    entities = String.Join(" ", dateAppearence[marker.Key].Select(x => "entityissue_" + x)),
+    entities = String.Join(" ", dateAppearance[marker.Key].Select(x => "ei_" + x)),
     body = marker.Value
   });
 }
 
 int threadIdx = 0;
 
-var colnames = collections.Keys.OrderBy(x => x, new CollectionComparer()).ToArray();
+var colNames = collections.Keys.OrderBy(x => x, new CollectionComparer()).ToArray();
 
-foreach (var collection in colnames)
+foreach (var collection in colNames)
 {
-  var coldata = collections[collection];
-  var colidx = Array.IndexOf(colnames, collection);
+  if (collection == "--") continue;
+
+  var colData = collections[collection];
+  var colIndex = Array.IndexOf(colNames, collection);
 
   collectionData.Add(new IssueGroup
   {
-    id = $"col_{colidx}",
+    id = $"col_{colIndex}",
     name = collection,
-    index = colidx,
-    childdata = string.Join(",", coldata.Select(x => x.Item2)),
-    Issues = coldata.Select(x => new Issue { id = x.Item2, body = x.Item1 }).ToArray()
+    index = colIndex,
+    childdata = string.Join(",", colData.Select(x => x.Item2)),
+    Issues = colData.Select(x => new Issue { id = x.Item2, body = x.Item1 }).ToArray()
   });
 }
 
@@ -337,12 +339,9 @@ foreach (var thread in threads)
 {
   var key = threadKey[thread.Key];
 
-  var childkeys = string.Join(",", Enumerable.Range(0, thread.Value.Count).Select(i => $"{key}_{i}"));
+  var childKeys = string.Join(",", Enumerable.Range(0, thread.Value.Count).Select(i => $"{key}_{i}"));
 
-  colourStyles.Add($".{key}");
-  colourStyles.Add("{");
-  colourStyles.Add($"  border: 2px solid {Util.Rainbow(threads.Count + 5, threadIdx++)};");
-  colourStyles.Add("}");
+  colourStyles.Add($".{key} {{ border-color: {Util.Rainbow(threads.Count + 5, threadIdx++)}; }} ");
 
   int idx = 0;
   threadData.Add(new IssueGroup
@@ -350,7 +349,7 @@ foreach (var thread in threads)
     id = key,
     name = thread.Key,
     index = 0,
-    childdata = childkeys,
+    childdata = childKeys,
     Issues = thread.Value.Select(x => new Issue { id = $"{key}_{idx++}", body = x }).ToArray()
   });
 }
@@ -365,19 +364,19 @@ entityData.AddRange(entityKey.OrderBy(x => Util.MoveThe(x.Key)).Select(entity =>
 {
   id = entity.Value,
   name = Util.MoveThe(entity.Key),
-  issues = string.Join(" ", entityAppearence[entity.Value].Select(x => "entityissue_" + x))
+  issues = string.Join(" ", entityAppearance[entity.Value].Select(x => "ei_" + x))
 }));
 
-var outpath = Path.Combine(Directory.GetCurrentDirectory(), "out");
+var outPath = Path.Combine(Directory.GetCurrentDirectory(), "out");
 
-Console.WriteLine($"Writing to {outpath}");
+Console.WriteLine($"Writing to {outPath}");
 
-File.WriteAllLines(Path.Combine(outpath, "colors.css"), colourStyles);
+File.WriteAllLines(Path.Combine(outPath, "colors.css"), colourStyles);
 
 var sortedDates = eventDates.Select(x => x.Item2).OrderBy(i => i).ToArray();
 
-File.WriteAllLines(Path.Combine(outpath, "order0.css"), eventDates.Select(x => $".box :nth-child({x.Item1}) {{ order: {x.Item1} }}"));
-File.WriteAllLines(Path.Combine(outpath, "order1.css"), eventDates.Select(x => $".box :nth-child({x.Item1}) {{ order: {Array.IndexOf(sortedDates, x.Item2) + 1} }}"));
+File.WriteAllLines(Path.Combine(outPath, "order0.css"), eventDates.Select(x => $".box :nth-child({x.Item1}) {{ order: {x.Item1} }}"));
+File.WriteAllLines(Path.Combine(outPath, "order1.css"), eventDates.Select(x => $".box :nth-child({x.Item1}) {{ order: {Array.IndexOf(sortedDates, x.Item2) + 1} }}"));
 
 //////////////////////////////////////
 
@@ -392,7 +391,7 @@ var model = new Model
   Issues = issueData.ToArray(),
   Entities = entityData.ToArray(),
   Items = itemData.ToArray(),
-  AllIssues = string.Join(" ", allIssues.Select(x => "entityissue_" + x))
+  AllIssues = string.Join(" ", allIssues.Select(x => "ei_" + x))
 };
 
 var options = new TemplateOptions();
@@ -406,7 +405,7 @@ if (parser.TryParse(source, out var template, out var error))
 {
   var context = new TemplateContext(model, options);
 
-  File.WriteAllText(Path.Combine(outpath, "index.html"), Util.RemoveEmptyLines(template.Render(context)));
+  File.WriteAllText(Path.Combine(outPath, "index.html"), Util.RemoveEmptyLines(template.Render(context)));
 }
 else
 {

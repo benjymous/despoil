@@ -5,7 +5,6 @@
   <link href='style.css' rel='stylesheet'>
   <link href='colors.css' rel='stylesheet'>
   <link href='order0.css' rel='stylesheet' id='orderStyle'>
-  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
   <script src='despoil.js'></script>
   <title>Despoil - The (hopefully) less spoilery Sandman Universe timeline</title>
 </head>
@@ -15,7 +14,7 @@
     <img src='img/icon.png' title='arwk?'>
     <a href='#home'><i><b>De</b>spoil</i> - The (hopefully) less spoilery Sandman Universe timeline</a>
     <a href='javascript:void(0);' class='icon' onclick='toggleMenu()'>
-      <i class='fa fa-bars'></i>
+      <img src="img/menu.svg" width="12">
     </a>
   </div>
   <div class='row'>
@@ -118,10 +117,13 @@
       <div class="spacer"></div>
 
       <div class="menufooter">
-        <a href="https://ko-fi.com/benjymous" class="blockbtn" target="_blank"><img src="img/kofi.png" alt="Ko-fi donations"> Support </a>
-        <a href="https://github.com/benjymous/despoil" class="blockbtn" target="_blank"><img src="img/github.png" alt="github"> Contribute </a>
-        <br>
-        <div class="footerdate">Last updated: {{ "now" | date: "%Y-%b-%d %H:%M" }}</div>
+        <span>
+          <a href="https://ko-fi.com/benjymous" target="_blank"><img src="img/kofi.svg"></a>
+          <a href="https://twitter.com/benjymous" target="_blank"><img src="img/twitter.svg"></a>
+          <a href="https://www.reddit.com/r/Sandman/" target="_blank"><img src="img/reddit.svg"></a>
+          <a href="https://github.com/benjymous/despoil" target="_blank"><img src="img/github.svg"></a>
+        </span>
+        <div class="footerdate">Last updated: {{ "now" | time_zone: 'Europe/London' | date: "%Y-%b-%d %H:%M" }}</div>
       </div>
 
     </div>
