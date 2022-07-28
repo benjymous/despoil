@@ -1,3 +1,11 @@
+Welcome to Despoil!
+--
+--
+July 2022
+--
+# Hello!  Welcome to [b]De[/b]spoil - The (hopefully) less spoilery Sandman Universe timeline.[br][br]Click any issue title to expand it, or in the menu on the right, expand the [b]'I have read...'[/b] section, and you can tick which collections (books), story threads (arcs) or individual issues of The Sandman (and other spinoffs within The Sandman Universe) that you have read.  You can then choose to see these events in order of publication (the default) or in chronological order.  You can also highlight any event containing a particular character / item / place using the [b]'Highlight'[/b] section, or by clicking any highlighted names within the text, which should help with those [i]"where did I see that character before?"[/i] moments.[br][br]Note that this doesn't take the Audible adaptation or Netflix show into account (yet), but making this friendly to those audiences is high on the todo list![br][br]The intention is, you shouldn't get accidentially spoiled by seeing anything from issues you haven't read, so if you really are a new reader, don't click more than you need to.[br][br]Have fun, and let me know if you have any problems - you can contact me via any of the links at the bottom of the menu. [br][br]-- [i]benjymous[/i] 
+
+
 Sandman #1
 Master of Dreams
 1. Sleep of the Just
@@ -268,7 +276,7 @@ Books of Magic
 ## 1990.78 | October 1990: <Mr E> takes <Tim> to see a possible future
 ## 6000 | sixtieth century: The Earth is segregated from the rest of the universe
 ## 2000000 | in millions of years time: Only 50000 'people' remain.  Science and Magic have lost all meaning.
-## 100000000000 | end of time: At the Terminus at the End of Time, <Death> takes <Destiny>, then locks the place behind her as she leaves
+## 100000000000 | end of time: <Death> locks the place behind her as she leaves ++ <Destiny>
 ? add more detail? **
 
 

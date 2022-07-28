@@ -134,6 +134,11 @@
         {% for item in Items %}
 
         {% case item.type %}
+
+        {% when "Intro" %}
+
+        <span class='intro'>{{item.body}}</span>
+
         {% when "Issue" %}
         <div class='itemrow {{item.id}}_outer'>
           <button class='top issueToggle {{item.threadkey}} {{item.id}}' onclick='toggleIssue("{{item.id}}")'>

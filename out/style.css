@@ -161,6 +161,10 @@ span.entity {
   transition: all 0.25s ease-in-out;
 }
 
+span.intro {
+  margin: 50px;
+}
+
 .entity_hidden {
   display: none
 }
