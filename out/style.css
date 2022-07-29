@@ -163,6 +163,12 @@ span.entity {
 
 span.intro {
   margin: 50px;
+  border: solid 1px #5555552e;
+  padding: 10px;
+}
+
+span.right {
+  float: right;
 }
 
 .entity_hidden {
@@ -295,6 +301,13 @@ details {
   font-weight: bold;
 }
 
+.thread_marker {
+  width: 12px;
+  height: 12px;
+  border-style: solid;
+  float: right;
+  border-radius: 12px;
+}
 
 
 

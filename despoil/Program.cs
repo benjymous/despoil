@@ -299,7 +299,7 @@ foreach (var entry in entries)
         itemData.Add(new Item
         {
             type = thread != "--" ? "Item" : "Intro",
-            id = issueId,
+            id = thread != "--" ? issueId : Util.MakeId(evBody.Trim()),
             body = evBody.Trim(),
             subtitle = $"{entryLines[3]} - {issueTitle}",
             threadkey = entryThreadKey,

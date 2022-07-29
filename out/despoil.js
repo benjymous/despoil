@@ -1,9 +1,4 @@
 
-
-window.addEventListener('resize', function(event) {
-  updateMarkers()
-}, true)
-
 setOrderStyle = function (customStyle) {
   if (document.querySelector('link[id="orderStyle"]')) {
     document.head.removeChild(document.querySelector('link[id="orderStyle"]'))
@@ -250,3 +245,46 @@ toggleMenu = function () {
     menu.classList.add("menu-collapsed")
   }
 }
+
+setCookie = function (c_name, value, exDays) {
+  var exDate = new Date();
+  exDate.setDate(exDate.getDate() + exDays);
+  var c_value = encodeURIComponent(value) + ((exDays == null) ? "" : "; expires=" + exDate.toUTCString());
+  document.cookie = c_name + "=" + c_value;
+}
+
+getCookie = function (c_name) {
+  var i, x, y, ARRcookies = document.cookie.split(";");
+  for (i = 0; i < ARRcookies.length; i++) {
+      x = ARRcookies[i].substring(0, ARRcookies[i].indexOf("="));
+      y = ARRcookies[i].substring(ARRcookies[i].indexOf("=") + 1);
+      x = x.replace(/^\s+|\s+$/g, "");
+      if (x == c_name) {
+          return decodeURIComponent(y);
+      }
+  }
+}
+
+showIntro = function() {
+  var cookie = getCookie("despoil_intro")
+  if (cookie != null) {
+    const introDiv = document.getElementById("intro_" + cookie)
+    if (introDiv != null)
+      introDiv.classList.add('hidden')
+  }
+}
+
+hideIntro = function (cookieId) {
+  const introDiv = document.getElementById("intro_" + cookieId)
+  introDiv.classList.add('hidden')
+  setCookie("despoil_intro", cookieId, 365)
+  updateMarkers()
+}
+
+////////////////////
+
+window.addEventListener('resize', function(event) {
+  updateMarkers()
+}, true)
+
+showIntro()

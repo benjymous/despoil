@@ -1,4 +1,6 @@
-﻿using System.Text.RegularExpressions;
+﻿using System.Text;
+using System.Text.RegularExpressions;
+using System.Security.Cryptography;
 
 namespace despoil
 {
@@ -114,6 +116,12 @@ namespace despoil
                 text = text.Substring(4) + ", the";
             }
             return text;
+        }
+
+        public static string MakeId(string input)
+        {
+            using (var md5 = MD5.Create())
+                return BitConverter.ToString(md5.ComputeHash(Encoding.UTF8.GetBytes(input))).Replace("-", string.Empty);
         }
 
     }

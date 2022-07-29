@@ -5,7 +5,7 @@
   <link href='style.css' rel='stylesheet'>
   <link href='colors.css' rel='stylesheet'>
   <link href='order0.css' rel='stylesheet' id='orderStyle'>
-  <script src='despoil.js'></script>
+  <script src='despoil.js' defer></script>
   <title>Despoil - The (hopefully) less spoilery Sandman Universe timeline</title>
 </head>
 
@@ -62,9 +62,10 @@
 
           <details>
             <summary>
+              
               <input type='checkbox' class='checkroot' id='check_{{thread.id}}' onclick='setChildren("{{thread.id}}")'
                 data-children='{{thread.childdata}}' />
-              <label for='check_{{thread.id}}'>{{thread.name}}</label><br>
+              <label for='check_{{thread.id}}'><div class="{{thread.id}} thread_marker"></div>{{thread.name}}</label><br>
             </summary>
 
             {% for issue in thread.Issues %}
@@ -137,7 +138,7 @@
 
         {% when "Intro" %}
 
-        <span class='intro'>{{item.body}}</span>
+        <span class='intro' id='intro_{{item.id}}'>{{item.body}}<span class='right'><button class="blockbtn" onclick='hideIntro("{{item.id}}")'>Hide</button></span></span>
 
         {% when "Issue" %}
         <div class='itemrow {{item.id}}_outer'>
