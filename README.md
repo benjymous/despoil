@@ -22,6 +22,9 @@ This github repo contains multiple moving parts, the list of comic issues (issue
 
 * **What do all the different colours mean?**  The colours are auto generated from the story arcs - it's intended to make it easier to see when events from different issues end up meshing together in the chronological view.
 
+* **What about the Audible and Netflix versions?**  This is all part of the plan - obviously there will be some continuity differences between the TV show and the original books - notably that it's set in the 2020s rather than the late 1980s, but once the show is out, I hope to add a way that'll let a viewer see which TV episodes map to which comic issues.  Audible should be simpler, as it's a more direct translation from the books.
+
 ## TODO
 
 * Add filtering based on author / artist
+* Include some way of browsing by TV episode, or Audible chapter
