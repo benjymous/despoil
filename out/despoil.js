@@ -115,12 +115,14 @@ setPushed = function (name) {
 }
 
 highlightNone = function () {
-  const boxes = document.getElementsByClassName("check_entity")
-  for (const box of boxes) {
-    box.checked = false
-    const name = box.id.replace("check_", "")
-    setPushed(name)
-  }
+  setTimeout(function () { 
+    const boxes = document.getElementsByClassName("check_entity")
+    for (const box of boxes) {
+      box.checked = false
+      const name = box.id.replace("check_", "")
+      setPushed(name)
+    }
+  }, 0)
 }
 
 setChildren = function (name) {
