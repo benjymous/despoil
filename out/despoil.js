@@ -298,7 +298,9 @@ requestStoreSelection = function () {
 }
 
 restoreSelection = function () {
-  var hashes = getCookie("despoil_checked").split(";")
+  const cookie = getCookie("despoil_checked")
+  if (!cookie) return
+  const hashes = cookie.split(";")
 
   var checks = document.getElementsByClassName("check_issue")
   for (let check of checks) {
