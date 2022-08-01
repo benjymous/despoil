@@ -4,5 +4,6 @@
     {
         public string id { get; set; } = string.Empty;
         public string body { get; set; } = string.Empty;
+        public string hash { get; set; } = string.Empty;
     }
 }

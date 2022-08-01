@@ -29,6 +29,7 @@ setAllIssues = function (enabled) {
   }
 
   updateMarkers()
+  requestStoreSelection()
 }
 
 setChecked = function (prefix, name, noScroll) {
@@ -42,7 +43,7 @@ setChecked = function (prefix, name, noScroll) {
   const styleid = 'style_' + name
   for (const box of boxes) {
     if (checkBox.checked) {
-      box.classList.add('displayblock')
+      box.classList.add('displayBlock')
       setTimeout(function () { box.classList.add('expanded') }, 0)
       setTimeout(function () { box.classList.add('opacity1') }, 0)
 
@@ -56,7 +57,7 @@ setChecked = function (prefix, name, noScroll) {
 
     } else {
       box.classList.remove('opacity1')
-      setTimeout(function () { box.classList.remove('displayblock') }, 100)
+      setTimeout(function () { box.classList.remove('displayBlock') }, 100)
 
       var style = document.getElementById('style_' + name)
       if (style != null) style.remove()
@@ -71,6 +72,9 @@ setChecked = function (prefix, name, noScroll) {
   }
 
   setParents(name)
+  if (!noScroll) {
+    requestStoreSelection()
+  }
 }
 
 toggleIssue = function (name) {
@@ -93,10 +97,10 @@ setPushed = function (name) {
     if (box.nodeName == 'DIV') {
       if (checkBox.checked) {
         box.classList.add("event_highlight")
-        box.parentElement.classList.add("itemrow_highlight")
+        box.parentElement.classList.add("itemRow_highlight")
       } else {
         box.classList.remove("event_highlight")
-        box.parentElement.classList.remove("itemrow_highlight")
+        box.parentElement.classList.remove("itemRow_highlight")
       }
 
     } else if (box.nodeName == 'SPAN') {
@@ -217,7 +221,7 @@ addScrollMarkers = function () {
   var scrollMarker = document.querySelector('.scroll-marker')
   scrollMarker.replaceChildren()
 
-  var highlights = document.querySelectorAll('.itemrow_highlight')
+  var highlights = document.querySelectorAll('.itemRow_highlight')
 
   highlights.forEach(function (span) { 
 
@@ -254,15 +258,52 @@ setCookie = function (c_name, value, exDays) {
 }
 
 getCookie = function (c_name) {
-  var i, x, y, ARRcookies = document.cookie.split(";");
-  for (i = 0; i < ARRcookies.length; i++) {
-      x = ARRcookies[i].substring(0, ARRcookies[i].indexOf("="));
-      y = ARRcookies[i].substring(ARRcookies[i].indexOf("=") + 1);
+  var i, x, y, cookies = document.cookie.split(";");
+  for (i = 0; i < cookies.length; i++) {
+      x = cookies[i].substring(0, cookies[i].indexOf("="));
+      y = cookies[i].substring(cookies[i].indexOf("=") + 1);
       x = x.replace(/^\s+|\s+$/g, "");
       if (x == c_name) {
           return decodeURIComponent(y);
       }
   }
+}
+
+storeSelection = function () {
+  var checks = document.getElementsByClassName("check_issue")
+  var hashes = []
+  for (let check of checks) {
+    if (check.checked) {
+      hashes.push(check.dataset.hash);
+    }
+  }
+  cookieBody = hashes.join(";")
+  setCookie("despoil_checked", cookieBody, 365)
+  console.log("Stored selection state")
+}
+
+var storeEvent = null
+requestStoreSelection = function () {
+
+  if (markerEvent != null) {
+    clearTimeout(storeEvent)
+    storeEvent = null
+  }
+
+  storeEvent = setTimeout(() => {
+    storeSelection()
+  }, 1000)
+}
+
+restoreSelection = function () {
+  var hashes = getCookie("despoil_checked").split(";")
+
+  var checks = document.getElementsByClassName("check_issue")
+  for (let check of checks) {
+    check.checked = hashes.includes(check.dataset.hash)
+    setChecked("check_issue_", check.id.replace("check_issue_",""), true)
+  }
+
 }
 
 showIntro = function() {
@@ -288,3 +329,5 @@ window.addEventListener('resize', function(event) {
 }, true)
 
 showIntro()
+
+setTimeout(function () { restoreSelection() }, 10)

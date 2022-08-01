@@ -1,13 +1,13 @@
 Welcome to Despoil!
 --
 --
-July 2022
+August 2022
 --
-# Hello!  Welcome to [i][b]De[/b]spoil[/i] - The (hopefully) less spoilery Sandman Universe timeline.[br][br]Click any issue title to expand it, or in the menu on the right, expand the [b]'I have read...'[/b] section, and you can tick which collections (books), story threads (arcs) or individual issues of The Sandman (and other spinoffs within The Sandman Universe) that you have read.  You can then choose to see these events in order of publication (the default) or in chronological order.  You can also highlight any event containing a particular character / item / place using the [b]'Highlight'[/b] section, or by clicking any highlighted names within the text, which should help with those [i]"where did I see that character before?"[/i] moments.[br][br]Note that this doesn't take the Audible adaptation or Netflix show into account (yet), but making this friendly to those audiences is high on the todo list![br][br]The intention is, you shouldn't get accidentially spoiled by seeing anything from issues you haven't read, so if you really are a new reader, don't click more than you need to.[br][br]Have fun, and let me know if you have any problems - you can contact me via any of the links at the bottom of the menu. [br][br]-- [i]benjymous[/i] 
+# Hello!  Welcome to [i][b]De[/b]spoil[/i] - The (hopefully) less spoilery Sandman Universe timeline.[br][br]Click any issue title to expand it, or in the menu on the right, expand the [b]'I have read...'[/b] section, and you can tick which collections (books), story threads (arcs) or individual issues of The Sandman (and other spin-offs within The Sandman Universe) that you have read.  You can then choose to see these events in order of publication (the default) or in chronological order.  You can also highlight any event containing a particular character / item / place using the [b]'Highlight'[/b] section, or by clicking any highlighted names within the text, which should help with those [i]"where did I see that character before?"[/i] moments.[br][br]Note that this doesn't take the Audible adaptation or Netflix show into account (yet), but making this friendly to those audiences is high on the todo list![br][br]The intention is, you shouldn't get accidentally spoiled by seeing anything from issues you haven't read, so if you really are a new reader, don't click more than you need to.[br][br]Have fun, and let me know if you have any problems - you can contact me or make a contribution via any of the links at the bottom of the menu. [br][br]-- [i]benjymous[/i] 
 
 
 Sandman #1
-Master of Dreams
+The Sandman: Master of Dreams
 1. Sleep of the Just
 January 1989
 Vol  1: Preludes and Nocturnes, Book 1
@@ -34,7 +34,7 @@ Vol  1: Preludes and Nocturnes, Book 1
 
 
 Sandman #2
-Master of Dreams
+The Sandman: Master of Dreams
 2. Imperfect Hosts
 February 1989
 Vol  1: Preludes and Nocturnes, Book 1
@@ -42,7 +42,7 @@ Vol  1: Preludes and Nocturnes, Book 1
 
 
 Sandman #3
-Master of Dreams
+The Sandman: Master of Dreams
 3. Dream a Little Dream of Me
 March 1989
 Vol  1: Preludes and Nocturnes, Book 1
@@ -52,7 +52,7 @@ Vol  1: Preludes and Nocturnes, Book 1
 
 
 Sandman #4
-Master of Dreams
+The Sandman: Master of Dreams
 4. A Hope in Hell
 April 1989
 Vol  1: Preludes and Nocturnes, Book 1
@@ -60,7 +60,7 @@ Vol  1: Preludes and Nocturnes, Book 1
 
 
 Sandman #5
-Master of Dreams
+The Sandman: Master of Dreams
 5. Passengers
 May 1989
 Vol  1: Preludes and Nocturnes, Book 1
@@ -70,7 +70,7 @@ Vol  1: Preludes and Nocturnes, Book 1
 
 
 Sandman #6
-Master of Dreams
+The Sandman: Master of Dreams
 6. 24 Hours
 June 1989
 Vol  1: Preludes and Nocturnes, Book 1
@@ -78,7 +78,7 @@ Vol  1: Preludes and Nocturnes, Book 1
 
 
 Sandman #7
-Master of Dreams
+The Sandman: Master of Dreams
 7. Sound and Fury
 July 1989
 Vol  1: Preludes and Nocturnes, Book 1
@@ -86,7 +86,7 @@ Vol  1: Preludes and Nocturnes, Book 1
 
 
 Sandman #8
-Master of Dreams
+The Sandman: Master of Dreams
 8. The Sound of Her Wings
 August 1989
 Vol  1: Preludes and Nocturnes, Vol  2: The Doll's House, Book 1, Death
@@ -94,7 +94,7 @@ Vol  1: Preludes and Nocturnes, Vol  2: The Doll's House, Book 1, Death
 
 
 Sandman #9
-Master of Dreams
+The Sandman: Master of Dreams
 9. Tales in the Sand
 September 1989
 Vol  2: The Doll's House, Book 1
@@ -102,7 +102,7 @@ Vol  2: The Doll's House, Book 1
 
 
 Sandman #10
-The Doll's House
+The Sandman: The Doll's House
 1. The Doll's House
 November 1989
 Vol  2: The Doll's House, Book 1
@@ -110,7 +110,7 @@ Vol  2: The Doll's House, Book 1
 
 
 Sandman #11
-The Doll's House
+The Sandman: The Doll's House
 2. Moving in
 December 1989
 Vol  2: The Doll's House, Book 1
@@ -119,7 +119,7 @@ Vol  2: The Doll's House, Book 1
 
 
 Sandman #12
-The Doll's House
+The Sandman: The Doll's House
 3. Playing House
 January 1990
 Vol  2: The Doll's House, Book 1
@@ -127,7 +127,7 @@ Vol  2: The Doll's House, Book 1
 
 
 Sandman #13
-The Doll's House
+The Sandman: The Doll's House
 4. Men of Good Fortune
 March 1990
 Vol  2: The Doll's House, Book 1
@@ -142,7 +142,7 @@ Vol  2: The Doll's House, Book 1
 
 
 Sandman #14
-The Doll's House
+The Sandman: The Doll's House
 5. Collectors
 March 1990
 Vol  2: The Doll's House, Book 1
@@ -152,7 +152,7 @@ Vol  2: The Doll's House, Book 1
 
 
 Sandman #15
-The Doll's House
+The Sandman: The Doll's House
 6. Into the Night
 April 1990
 Vol  2: The Doll's House, Book 1
@@ -160,7 +160,7 @@ Vol  2: The Doll's House, Book 1
 
 
 Sandman #16
-The Doll's House
+The Sandman: The Doll's House
 7. Lost Hearts
 June 1990
 Vol  2: The Doll's House, Book 1
@@ -170,7 +170,7 @@ Vol  2: The Doll's House, Book 1
 
 
 Sandman #17
-Dream Country
+The Sandman: Dream Country
 Calliope
 July 1990
 Vol  3: Dream Country, Book 1
@@ -180,7 +180,7 @@ Vol  3: Dream Country, Book 1
 
 
 Sandman #18
-Dream Country
+The Sandman: Dream Country
 A Dream of a Thousand Cats
 August 1990
 Vol  3: Dream Country, Book 1
@@ -188,7 +188,7 @@ Vol  3: Dream Country, Book 1
 
 
 Sandman #19
-Dream Country
+The Sandman: Dream Country
 A Midsummer Night's Dream
 September 1990
 Vol  3: Dream Country, Book 1
@@ -198,7 +198,7 @@ Vol  3: Dream Country, Book 1
 
 
 Sandman #20
-Dream Country
+The Sandman: Dream Country
 Facade
 October 1990
 Vol  3: Dream Country, Book 1
@@ -207,7 +207,7 @@ Vol  3: Dream Country, Book 1
 
 
 Books of Magic #1
-Books of Magic Miniseries
+Books of Magic: Miniseries
 The Invisible Labyrinth
 November 1990
 Books of Magic 
@@ -218,7 +218,7 @@ Books of Magic
 
 
 Sandman #21
-Season of Mists
+The Sandman: Season of Mists
 Season of Mists: a prologue
 December 1990
 Vol  4: Season of Mists, Book 2
@@ -232,7 +232,7 @@ Vol  4: Season of Mists, Book 2
 
 
 Books of Magic #2
-Books of Magic Miniseries
+Books of Magic: Miniseries
 The Shadow World
 December 1990
 Books of Magic 
@@ -241,7 +241,7 @@ Books of Magic
 
 
 Sandman #22
-Season of Mists
+The Sandman: Season of Mists
 Season of Mists: Chapter 1
 January 1991
 Vol  4: Season of Mists, Book 2
@@ -251,7 +251,7 @@ Vol  4: Season of Mists, Book 2
 
 
 Books of Magic #3
-Books of Magic Miniseries
+Books of Magic: Miniseries
 The Land of Summer's Twilight
 January 1991
 Books of Magic
@@ -261,7 +261,7 @@ Books of Magic
 
 
 Sandman #23
-Season of Mists
+The Sandman: Season of Mists
 Season of Mists: Chapter 2
 February 1991
 Vol  4: Season of Mists, Book 2
@@ -269,7 +269,7 @@ Vol  4: Season of Mists, Book 2
 
 
 Books of Magic #4
-Books of Magic Miniseries
+Books of Magic: Miniseries
 The Road to Nowhere
 February 1991
 Books of Magic 
@@ -281,7 +281,7 @@ Books of Magic
 
 
 Sandman #24
-Season of Mists
+The Sandman: Season of Mists
 Season of Mists: Chapter 3
 March 1991
 Vol  4: Season of Mists, Book 2
@@ -289,7 +289,7 @@ Vol  4: Season of Mists, Book 2
 
 
 Sandman #25
-Season of Mists
+The Sandman: Season of Mists
 Season of Mists: Chapter 4
 April 1991
 Vol  4: Season of Mists, Book 2
@@ -298,7 +298,7 @@ Vol  4: Season of Mists, Book 2
 
 
 Sandman #26
-Season of Mists
+The Sandman: Season of Mists
 Season of Mists: Chapter 5
 May 1991
 Vol  4: Season of Mists, Book 2
@@ -306,7 +306,7 @@ Vol  4: Season of Mists, Book 2
 
 
 Sandman #27
-Season of Mists
+The Sandman: Season of Mists
 Season of Mists: Chapter 6
 June 1991
 Vol  4: Season of Mists, Book 2
@@ -314,7 +314,7 @@ Vol  4: Season of Mists, Book 2
 
 
 Sandman #28
-Season of Mists
+The Sandman: Season of Mists
 Season of Mists: Epilogue
 July 1991
 Vol  4: Season of Mists, Book 2
@@ -322,7 +322,7 @@ Vol  4: Season of Mists, Book 2
 
 
 Sandman #29
-Distant Mirrors
+The Sandman: Distant Mirrors
 Thermidor
 August 1991
 Vol  6: Fables and Reflections, Book 2
@@ -330,7 +330,7 @@ Vol  6: Fables and Reflections, Book 2
 
 
 Sandman #30
-Distant Mirrors
+The Sandman: Distant Mirrors
 August
 September 1991
 Vol  6: Fables and Reflections, Book 2
@@ -338,7 +338,7 @@ Vol  6: Fables and Reflections, Book 2
 
 
 Sandman #31
-Distant Mirrors
+The Sandman: Distant Mirrors
 Three Septembers and a January
 October 1991
 Vol  6: Fables and Reflections, Book 2
@@ -349,7 +349,7 @@ Vol  6: Fables and Reflections, Book 2
 
 
 Sandman Special
-The Song of Orpheus
+The Sandman: The Song of Orpheus
 The Song of Orpheus
 November 1991
 Vol  6: Fables and Reflections, Book 2
@@ -358,7 +358,7 @@ Vol  6: Fables and Reflections, Book 2
 
 
 Sandman #32
-A Game of You
+The Sandman: A Game of You
 1. Slaughter on Fifth Avenue
 November 1991
 Vol  5: A Game of You, Book 2
@@ -366,7 +366,7 @@ Vol  5: A Game of You, Book 2
 
 
 Sandman #33
-A Game of You
+The Sandman: A Game of You
 2. Lullabies of Broadway
 December 1991
 Vol  5: A Game of You, Book 2
@@ -374,7 +374,7 @@ Vol  5: A Game of You, Book 2
 
 
 Sandman #34
-A Game of You
+The Sandman: A Game of You
 3. Bad Moon Rising
 January 1992
 Vol  5: A Game of You, Book 2
@@ -382,7 +382,7 @@ Vol  5: A Game of You, Book 2
 
 
 Sandman #35
-A Game of You
+The Sandman: A Game of You
 4. Beginning to See the Light
 February 1992
 Vol  5: A Game of You, Book 2
@@ -390,7 +390,7 @@ Vol  5: A Game of You, Book 2
 
 
 Sandman #36
-A Game of You
+The Sandman: A Game of You
 5. Over the Sea to Sky
 April 1992
 Vol  5: A Game of You, Book 2
@@ -399,7 +399,7 @@ Vol  5: A Game of You, Book 2
 
 
 Sandman #37
-A Game of You 
+The Sandman: A Game of You 
 6. I Woke Up and One of Us Was Crying
 May 1992
 Vol  5: A Game of You, Book 2
@@ -410,7 +410,7 @@ Vol  5: A Game of You, Book 2
 
 
 Sandman #38
-Convergence
+The Sandman: Convergence
 The Hunt
 June 1992
 Vol  6: Fables and Reflections, Book 3
@@ -420,7 +420,7 @@ Vol  6: Fables and Reflections, Book 3
 
 
 Sandman #39
-Convergence
+The Sandman: Convergence
 Soft Places
 July 1992
 Vol  6: Fables and Reflections, Book 3
@@ -428,7 +428,7 @@ Vol  6: Fables and Reflections, Book 3
 
 
 Sandman #40
-Convergence
+The Sandman: Convergence
 The Parliament of Rooks
 August 1992
 Vol  6: Fables and Reflections, Book 3
@@ -438,25 +438,25 @@ Vol  6: Fables and Reflections, Book 3
 ## -300000 | early man: <Adam> and his third wife, <Eve> eat from the <Tree of Knowledge> and are expelled from <Eden>
 ## -299000 | early man: <Eve> retreats to her cave
 ## -10000000000 | the oldest story: <Cain> and <Abel> come to <The Dreaming> ++ <Dream> <Death> <The Wyvern> <The Hippogriff>
-? Daniel is roughly 18 months old
+? Daniel is roughly 18 months old, so early 1992 if born late 1990 (#22)
 ? happens after Thessaly invited
 ? add more detail? **
 
 
 Sandman #41
-Brief Lives
+The Sandman: Brief Lives
 Brief Lives part 1
 September 1992
 Vol  7: Brief Lives, Book 3
 ## 1992.3 | spring 1992: <Orpheus> sings to the sunrise, <Delirium> gatecrashes a party, and visits <Despair> by way of <Desire> ++ <Naxos> <Andros> <Kris> <The Threshold> <Despair's Realm>
 ## ~ 1665: <Despair> and <Destruction> visit London during the plague
-## 1760: <Lady Johanna Constantine> is born
-## 1859: <Lady Johanna Constantine> dies
+## * 1760: <Lady Johanna Constantine> is born
+## * 1859: <Lady Johanna Constantine> dies
 ? Mentions it's a Spring day
 
 
 Sandman #42
-Brief Lives
+The Sandman: Brief Lives
 Brief Lives part 2
 October 1992
 Vol  7: Brief Lives, Book 3
@@ -465,18 +465,18 @@ Vol  7: Brief Lives, Book 3
 
 
 Sandman #43
-Brief Lives
+The Sandman: Brief Lives
 Brief Lives part 3
 November 1992
 Vol  7: Brief Lives, Book 3
 ## 1992.48: <Bernie Capax>'s time is up, <Pharamond> organizes transport, <Etain of the Second Look> escapes an explosion and <Destruction> gets an early warning ++ <Barnabas> <Ruby DeLonge> 
 ## ~ -13000 | stone age: <Bernie Capax> is born
-## ~ -1900 | bronze age: <Dream> saves <Pharamond>'s life
-? Pharamound date is a guess based on "drinking in Babylon" putting him pre-the founding of Babylon
+## ~ -540 | bronze age: <Dream> suggest that <Pharamond> should take up a new form of employment
+? Pharamound date roughly fall of Babylon
 
 
 Sandman #44
-Brief Lives
+The Sandman: Brief Lives
 Brief Lives part 4
 December 1992
 Vol  7: Brief Lives, Book 3
@@ -494,7 +494,7 @@ Vol  6: Fables and Reflections, Book 3
 
 
 Sandman #45
-Brief Lives
+The Sandman: Brief Lives
 Brief Lives part 5
 January 1993
 Vol  7: Brief Lives, Book 3
@@ -503,7 +503,7 @@ Vol  7: Brief Lives, Book 3
 
 
 Sandman #46
-Brief Lives
+The Sandman: Brief Lives
 Brief Lives part 6
 March 1993
 Vol  7: Brief Lives, Book 3
@@ -511,7 +511,7 @@ Vol  7: Brief Lives, Book 3
 
 
 Death The High Cost of Living #1
-The High Cost of Living
+Death: The High Cost of Living
 The Spirit of the Stairway
 March 1993
 Death
@@ -521,7 +521,7 @@ Death
 
 
 Sandman #47
-Brief Lives
+The Sandman: Brief Lives
 Brief Lives part 7
 March 1993
 Vol  7: Brief Lives, Book 3
@@ -535,7 +535,7 @@ Vol  7: Brief Lives, Book 3
 
 
 Sandman #48
-Brief Lives
+The Sandman: Brief Lives
 Brief Lives part 8
 April 1993
 Vol  7: Brief Lives, Book 3
@@ -544,7 +544,7 @@ Vol  7: Brief Lives, Book 3
 
 
 Death The High Cost of Living #2
-The High Cost of Living
+Death: The High Cost of Living
 A Night to Remember
 April 1993
 Death
@@ -553,7 +553,7 @@ Death
 
 
 Sandman #49
-Brief Lives
+The Sandman: Brief Lives
 Brief Lives part 9
 May 1993
 Vol  7: Brief Lives, Book 3
@@ -563,7 +563,7 @@ Vol  7: Brief Lives, Book 3
 
 
 Death The High Cost of Living #3
-The High Cost of Living
+Death: The High Cost of Living
 The High Cost of Living
 May 1993
 Death
@@ -571,7 +571,7 @@ Death
 
 
 Sandman #50
-Distant Mirrors
+The Sandman: Distant Mirrors
 Ramadan
 June 1993
 Vol  6: Fables and Reflections, Book 3
@@ -579,7 +579,7 @@ Vol  6: Fables and Reflections, Book 3
 
 
 Sandman #51
-Worlds' End
+The Sandman: Worlds' End
 1. A Tale of Two Cities
 July 1993
 Vol  8: Worlds' End, Book 3 
@@ -589,7 +589,7 @@ Vol  8: Worlds' End, Book 3
 
 
 Sandman #52
-Worlds' End
+The Sandman: Worlds' End
 2. Cluracan's Tale
 August 1993
 Vol  8: Worlds' End, Book 3
@@ -607,7 +607,7 @@ Book 4
 
 
 Sandman #53
-Worlds' End
+The Sandman: Worlds' End
 3. Hob's Leviathan
 September 1993
 Vol  8: Worlds' End, Book 3
@@ -616,7 +616,7 @@ Vol  8: Worlds' End, Book 3
 
 
 Sandman #54
-Worlds' End
+The Sandman: Worlds' End
 4. The Golden Boy
 October 1993
 Vol  8: Worlds' End, Book 3
@@ -625,7 +625,7 @@ Vol  8: Worlds' End, Book 3
 
 
 Sandman #55
-Worlds' End
+The Sandman: Worlds' End
 5. Cerements
 November 1993
 Vol  8: Worlds' End, Book 3
@@ -643,7 +643,7 @@ Vol  8: Worlds' End, Book 3
 
 
 Sandman #56
-Worlds' End
+The Sandman: Worlds' End
 6. Worlds' End
 December 1993
 Vol  8: Worlds' End, Book 3
@@ -654,7 +654,7 @@ Vol  8: Worlds' End, Book 3
 
 
 Death Talks About Life
-Death Talks About Life
+Death: Death Talks About Life
 Death Talks About Life
 January 1994
 Death
@@ -662,7 +662,7 @@ Death
 
 
 Sandman #57
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 1
 February 1994
 Vol  9: The Kindly Ones, Book 4
@@ -673,7 +673,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #58
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 2
 March 1994
 Vol  9: The Kindly Ones, Book 4
@@ -683,7 +683,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #59
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 3
 April 1994
 Vol  9: The Kindly Ones, Book 4
@@ -692,7 +692,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #60
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 4
 June 1994
 Vol  9: The Kindly Ones, Book 4
@@ -700,7 +700,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #61
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 5
 July 1994
 Vol  9: The Kindly Ones, Book 4
@@ -708,7 +708,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #62
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 6
 August 1994
 Vol  9: The Kindly Ones, Book 4
@@ -716,7 +716,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #63
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 7
 September 1994
 Vol  9: The Kindly Ones, Book 4
@@ -725,7 +725,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #64
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 8
 November 1994
 Vol  9: The Kindly Ones, Book 4
@@ -734,7 +734,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #65
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 9
 December 1994
 Vol  9: The Kindly Ones, Book 4
@@ -742,7 +742,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #66
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 10
 January 1995
 Vol  9: The Kindly Ones, Book 4
@@ -750,7 +750,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #67
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 11
 February 1995
 Vol  9: The Kindly Ones, Book 4
@@ -758,7 +758,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #68
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 12
 May 1995
 Vol  9: The Kindly Ones, Book 4
@@ -766,7 +766,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #69
-The Kindly Ones
+The Sandman: The Kindly Ones
 The Kindly Ones: 13
 July 1995
 Vol  9: The Kindly Ones, Book 4
@@ -774,7 +774,7 @@ Vol  9: The Kindly Ones, Book 4
 
 
 Sandman #70
-The Wake
+The Sandman: The Wake
 Chapter 1: Which Occurs in the Wake of What Has Gone Before
 August 1995
 Vol 10: The Wake, Book 4
@@ -786,7 +786,7 @@ Vol 10: The Wake, Book 4
 
 
 Sandman #71
-The Wake
+The Sandman: The Wake
 Chapter 2: In Which a Wake is Held
 September 1995
 Vol 10: The Wake, Book 4
@@ -806,7 +806,7 @@ Deluxe Edition Book 1
 
 
 Sandman #72
-The Wake
+The Sandman: The Wake
 Chapter 3: In Which We Wake
 November 1995
 Vol 10: The Wake, Book 4
@@ -814,7 +814,7 @@ Vol 10: The Wake, Book 4
 
 
 Sandman #73
-The Wake
+The Sandman: The Wake
 The Wake: An Epilogue - Sunday Mourning
 December 1995
 Vol 10: The Wake, Book 4
@@ -822,7 +822,7 @@ Vol 10: The Wake, Book 4
 
 
 Sandman #74
-Epilogue
+The Sandman: Epilogue
 Exiles
 January 1996
 Vol 10: The Wake, Book 4
@@ -830,7 +830,7 @@ Vol 10: The Wake, Book 4
 
 
 Sandman #75
-Epilogue
+The Sandman: Epilogue
 The Tempest
 March 1996
 Vol 10: The Wake, Book 4
@@ -872,7 +872,7 @@ Winter's Edge
 Desire - The Flowers of Romance
 January 1998
 Book 2, Winter's Edge #1
-## December 1997: The Flowers of Romance (<Desire>) **
+## * December 1997: <Desire> fulfils a request for an elderly satyr
 
 
 Winter's Edge #2
@@ -880,13 +880,34 @@ Winter's Edge
 Death - A Winter's Tale
 January 1999
 Book 2, Winter's Edge #2
-# A Winter's Tale (<Death>) **
+# <Death> tells how she has changed after lessons learnt
+
+
+The Sandman Presents: Lucifer #1
+Lucifer: The Morningstar Option
+The Morningstar Option, Part 1
+March 1999
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  1: Devil in the Gateway
+
+
+The Sandman Presents: Lucifer #2
+Lucifer: The Morningstar Option
+The Morningstar Option, Part 2
+April 1999
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  1: Devil in the Gateway
+
+
+The Sandman Presents: Lucifer #3
+Lucifer: The Morningstar Option
+The Morningstar Option, Part 3
+May 1999
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  1: Devil in the Gateway
 
 
 Dream Hunters
+The Sandman: Dream Hunters
 Dream Hunters
-Dream Hunters
-1999
+October 1999
 Vol 12: Dream Hunters
 ## -1 | ancient Japan : Dream Hunters **
 
@@ -907,6 +928,139 @@ Winter's Edge #3
 ## December 1999: <Edwin Paine> and <Charles Rowland> fail to track down <Tim Hunter> at the <Worlds' End> inn
 
 
+Lucifer #1
+Lucifer: A Six Card Spread
+A Six Card Spread, Part 1 of 3
+June 2000
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  1: Devil in the Gateway
+
+
+Lucifer #2
+Lucifer: A Six Card Spread
+A Six Card Spread, Part 2 of 3
+July 2000
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  1: Devil in the Gateway
+
+
+Lucifer #3
+Lucifer: A Six Card Spread
+A Six Card Spread, Part 3 of 3
+August 2000
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  1: Devil in the Gateway
+
+
+Lucifer #4
+Lucifer
+Born with the Dead
+September 2000
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  1: Devil in the Gateway
+
+
+Lucifer #5
+Lucifer: The House of Windowless Rooms
+The House of Windowless Rooms: Part One
+October 2000
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  2: Children and Monsters
+
+
+Lucifer #6
+Lucifer: The House of Windowless Rooms
+The House of Windowless Rooms: Part Two
+November 2000
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  2: Children and Monsters
+
+
+Lucifer #7
+Lucifer: The House of Windowless Rooms
+The House of Windowless Rooms, Part 3 of 4
+December 2000
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  2: Children and Monsters
+
+
+Lucifer #8
+Lucifer: The House of Windowless Rooms
+The House of Windowless Rooms, Part 4 of 4
+January 2001
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  2: Children and Monsters
+
+
+Lucifer #9
+Lucifer: Children and Monsters
+Children and Monsters Prelude
+February 2001
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  2: Children and Monsters
+
+
+Lucifer #10
+Children and Monsters
+Children and Monsters, Part 1 of 4
+March 2001
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  2: Children and Monsters
+
+
+Lucifer #11
+Lucifer: Children and Monsters
+Children and Monsters, Part 2 of 4
+April 2001
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  2: Children and Monsters
+
+
+Lucifer #12
+Lucifer: Children and Monsters
+Children and Monsters, Part 3 of 4
+May 2001
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  2: Children and Monsters
+
+
+Lucifer #13
+Lucifer: Children and Monsters
+Children and Monsters, Part 4 of 4
+June 2001
+Lucifer Book 1, Lucifer Omnibus 1, Lucifer Vol  2: Children and Monsters
+
+
+Lucifer #14
+Lucifer
+The Seeds of Time
+July 2001
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  3: A Dalliance with the Damned
+
+
+Lucifer #15
+Lucifer
+The Two-Edged Sword
+August 2001
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  3: A Dalliance with the Damned
+
+
+Lucifer #16
+Lucifer
+The Ancestral Deed
+September 2001
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  3: A Dalliance with the Damned
+
+
+Lucifer #17
+Lucifer: A Dalliance with the Damned
+A Dalliance with the Damned, Part 1 of 3
+October 2001
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  3: A Dalliance with the Damned
+
+
+Lucifer #18
+Lucifer: A Dalliance with the Damned
+A Dalliance with the Damned, Part 2 of 3
+November 2001
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  3: A Dalliance with the Damned
+
+
+Lucifer #19
+Lucifer: A Dalliance with the Damned
+A Dalliance with the Damned, Part 3 of 3
+December 2001
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  3: A Dalliance with the Damned
+
+
 9-11 #1
 9-11
 The Wheel
@@ -915,8 +1069,169 @@ Death
 ## October 2001: A boy encounters <Death> and <Destruction> on an abandoned fairground wheel
 
 
+Lucifer #20
+Lucifer
+The Thunder Sermon
+January 2002
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  3: A Dalliance with the Damned
+
+
+Lucifer #21
+Lucifer: Paradiso
+Paradiso, Part 1 of 3
+February 2002
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  4: The Divine Comedy
+
+
+Lucifer #22
+Lucifer: Paradiso
+Paradiso, Part 2 of 3
+March 2002
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  4: The Divine Comedy
+
+
+Lucifer #23
+Lucifer: Paradiso
+Paradiso, Part 3 of 3
+April 2002
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  4: The Divine Comedy
+
+
+Lucifer #24
+Lucifer
+The Writing on the Wall
+May 2002
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  4: The Divine Comedy
+
+
+Lucifer #25
+Lucifer: Purgatorio
+Purgatorio, Part 1 of 3
+June 2002
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  4: The Divine Comedy
+
+
+Lucifer #26
+Lucifer: Purgatorio
+Purgatorio, Part 2 of 3
+July 2002
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  4: The Divine Comedy
+
+
+Lucifer #27
+Lucifer: Purgatorio
+Purgatorio, Part 3 of 3
+August 2002
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  4: The Divine Comedy
+
+
+Lucifer Nirvana
+Lucifer: Nirvana
+Lucifer Nirvana
+August 2002
+Lucifer Omnibus 1, Lucifer Vol 11: Evensong
+
+
+Lucifer #28
+Lucifer
+Breaking & Entering
+September 2002
+Lucifer Book 2, Lucifer Omnibus 1, Lucifer Vol  4: The Divine Comedy
+
+
+Lucifer #29
+Lucifer: Inferno
+Inferno, Part 1 of 4
+October 2002
+Lucifer Book 3, Lucifer Omnibus 1, Lucifer Vol  5: Inferno
+
+
+Lucifer #30
+Lucifer: Inferno
+Inferno, Part 2 of 4
+November 2002
+Lucifer Book 3, Lucifer Omnibus 1, Lucifer Vol  5: Inferno
+
+
+Lucifer #31
+Lucifer: Inferno
+Inferno, Part 3 of 4
+December 2002
+Lucifer Book 3, Lucifer Omnibus 1, Lucifer Vol  5: Inferno
+
+
+Lucifer #32
+Lucifer: Inferno
+Inferno, Part 4 of 4
+January 2003
+Lucifer Book 3, Lucifer Omnibus 1, Lucifer Vol  5: Inferno
+
+
+Lucifer #33
+Lucifer
+Bearing Gifts
+February 2003
+Lucifer Book 3, Lucifer Omnibus 1, Lucifer Vol  5: Inferno
+
+
+Lucifer #34
+Lucifer: Come to Judgment
+Come to Judgment, Part 1 of 2
+March 2003
+Lucifer Book 3, Lucifer Omnibus 1, Lucifer Vol  5: Inferno
+
+
+Lucifer #35
+Lucifer: Come to Judgment
+Come to Judgment, Part 2 of 2
+April 2003
+Lucifer Book 3, Lucifer Omnibus 1, Lucifer Vol  5: Inferno
+
+
+Lucifer #36
+Lucifer: Naglfar
+Naglfar, Part 1 of 5: The Muster
+May 2003
+Lucifer Book 3, Lucifer Omnibus 2, Lucifer Vol  6: Mansions of the Silence 
+
+
+Lucifer #37
+Lucifer: Naglfar
+Naglfar, Part 2 of 5: The Voyage Out
+June 2003
+Lucifer Book 3, Lucifer Omnibus 2, Lucifer Vol  6: Mansions of the Silence
+
+
+Lucifer #38
+Lucifer: Naglfar
+Naglfar, Part 3 of 5: The Wrack
+July 2003
+Lucifer Book 3, Lucifer Omnibus 2, Lucifer Vol  6: Mansions of the Silence
+
+
+Lucifer #39
+Lucifer: Naglfar
+Naglfar, Part 4 of 5: The Deep
+August 2003
+Lucifer Book 3, Lucifer Omnibus 2, Lucifer Vol  6: Mansions of the Silence
+
+
+Lucifer #40
+Lucifer: Naglfar
+Naglfar, Conclusion: Full Fathom Five
+September 2003
+Lucifer Book 3, Lucifer Omnibus 2, Lucifer Vol  6: Mansions of the Silence
+
+
+Lucifer #41
+Lucifer
+Sisters of Mercy
+October 2003
+Lucifer Book 3, Lucifer Omnibus 2, Lucifer Vol  6: Mansions of the Silence
+
+
 The Sandman Endless Nights #1
-The Sandman Endless Nights
+The Sandman: Endless Nights
 Chapter 1: Death in Venice
 November 2003
 Vol 11: Endless Nights, Death
@@ -926,7 +1241,7 @@ Vol 11: Endless Nights, Death
 
 
 The Sandman Endless Nights #2
-The Sandman Endless Nights
+The Sandman: Endless Nights
 Chapter 2: What I've Tasted of Desire
 November 2003
 Vol 11: Endless Nights
@@ -934,7 +1249,7 @@ Vol 11: Endless Nights
 
 
 The Sandman Endless Nights #3
-The Sandman Endless Nights
+The Sandman: Endless Nights
 Chapter 3: The Heart of a Star
 November 2003
 Vol 11: Endless Nights
@@ -942,7 +1257,7 @@ Vol 11: Endless Nights
 
 
 The Sandman Endless Nights #4
-The Sandman Endless Nights
+The Sandman: Endless Nights
 Chapter 4: Fifteen Portraits of Despair
 November 2003
 Vol 11: Endless Nights
@@ -950,7 +1265,7 @@ Vol 11: Endless Nights
 
 
 The Sandman Endless Nights #5
-The Sandman Endless Nights
+The Sandman: Endless Nights
 Chapter 5: Going Inside
 November 2003
 Vol 11: Endless Nights
@@ -958,7 +1273,7 @@ Vol 11: Endless Nights
 
 
 The Sandman Endless Nights #6
-The Sandman Endless Nights
+The Sandman: Endless Nights
 Chapter 6: On the Peninsula
 November 2003
 Vol 11: Endless Nights
@@ -966,7 +1281,7 @@ Vol 11: Endless Nights
 
 
 The Sandman Endless Nights #7
-The Sandman Endless Nights
+The Sandman: Endless Nights
 Chapter 7: Endless Nights
 November 2003
 Vol 11: Endless Nights
@@ -975,7 +1290,7 @@ Vol 11: Endless Nights
 
 
 The Sandman Overture #1
-The Sandman Overture
+The Sandman: Overture
 Chapter One
 December 2013
 Overture
@@ -985,8 +1300,246 @@ Overture
 # <Dream> is pulled halfway across the universe
 
 
+Lucifer #42
+Lucifer: Brothers in Arms
+Brothers in Arms, Part 1 of 3
+November 2003
+Lucifer Book 3, Lucifer Omnibus 2, Lucifer Vol  7: Exodus
+
+
+Lucifer #43
+Lucifer: Brothers in Arms
+Brothers in Arms, Part 2 of 3
+December 2003
+Lucifer Book 3, Lucifer Omnibus 2, Lucifer Vol  7: Exodus
+
+
+Lucifer #44
+Lucifer: Brothers in Arms
+Brothers in Arms, Part 3 of 3
+January 2004
+Lucifer Book 3, Lucifer Omnibus 2, Lucifer Vol  7: Exodus
+
+
+Lucifer #45
+Lucifer
+Neutral Ground
+February 2004
+Lucifer Book 3, Lucifer Omnibus 2, Lucifer Vol  8: The Wolf Beneath the Tree
+
+
+Lucifer #46
+Lucifer: Stitchglass Slide / Wire, Briar, Limber Lock
+Stitchglass Slide I - The Weaving
+March 2004
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  7: Exodus
+
+
+Lucifer #47
+Lucifer: Stitchglass Slide / Wire, Briar, Limber Lock
+Wire, Briar, Limber Lock I - The Winnowing
+April 2004
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  7: Exodus
+
+
+Lucifer #48
+Lucifer: Stitchglass Slide / Wire, Briar, Limber Lock
+Stitchglass Slide II - The War
+May 2004
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  7: Exodus
+
+
+Lucifer #49
+Lucifer: Stitchglass Slide / Wire, Briar, Limber Lock
+Wire, Briar, Limber Lock II - The Widow
+June 2004
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  7: Exodus
+
+
+Lucifer #50
+Lucifer
+Lilith
+July 2004
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  8: The Wolf Beneath the Tree
+
+
+Lucifer #51
+Lucifer: The Wolf Beneath the Tree
+The Wolf Beneath the Tree: Part 1 of 4
+August 2004
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  8: The Wolf Beneath the Tree
+
+
+Lucifer #52
+Lucifer: The Wolf Beneath the Tree
+The Wolf Beneath the Tree: Part 2 of 4
+September 2004
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  8: The Wolf Beneath the Tree
+
+
+Lucifer #53
+Lucifer: The Wolf Beneath the Tree
+The Wolf Beneath the Tree: Part 3 of 4
+October 2004
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  8: The Wolf Beneath the Tree
+
+
+Lucifer #54
+Lucifer: The Wolf Beneath the Tree
+The Wolf Beneath the Tree: Part 4 of 4
+November 2004
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  8: The Wolf Beneath the Tree
+
+
+Lucifer #55
+Lucifer
+The Eighth Sin
+December 2004
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  9: Crux
+
+
+Lucifer #56
+Lucifer: Crux
+Crux, Part 1 of 2
+January 2005
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  9: Crux
+
+
+Lucifer #57
+Lucifer: Crux
+Crux, Part 2 of 2
+February 2005
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  9: Crux
+
+
+Lucifer #58
+Lucifer
+The Yahweh Dance
+March 2005
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  9: Crux
+
+
+Lucifer #59
+Lucifer: The Breach
+The Breach, Part 1 of 3
+April 2005
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  9: Crux
+
+
+Lucifer #60
+Lucifer: The Breach
+The Breach, Part 2 of 3
+May 2005
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  9: Crux
+
+
+Lucifer #61
+Lucifer: The Breach
+The Breach, Part 3 of 3
+June 2005
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol  9: Crux
+
+
+Lucifer #62
+Lucifer
+The Wheels of God
+July 2005
+Lucifer Book 5, Lucifer Omnibus 2, Lucifer Vol 10: Morningstar
+
+
+Lucifer #63
+Lucifer: Morningstar
+Morningstar, Part 1 of 6
+August 2005
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 10: Morningstar
+
+
+Lucifer #64
+Lucifer: Morningstar
+Morningstar, Part 2 of 6
+September 2005
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 10: Morningstar
+
+
+Lucifer #65
+Lucifer: Morningstar
+Morningstar, Part 3 of 6
+October 2005
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 10: Morningstar
+
+
+Lucifer #66
+Lucifer
+The Beast Can't Take Your Call Right Now
+November 2005
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 10: Morningstar
+
+
+Lucifer #67
+Lucifer: Morningstar
+Morningstar, Part 4 of 6
+December 2005
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 10: Morningstar
+
+
+Lucifer #68
+Lucifer: Morningstar
+Morningstar, Part 5 of 6
+January 2006
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 10: Morningstar
+
+
+Lucifer #69
+Lucifer: Morningstar
+Morningstar, Part 6 of 6
+February 2006
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 10: Morningstar
+
+
+Lucifer #70
+Lucifer
+Fireside Tales
+March 2006
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 11: Evensong
+
+
+Lucifer #71
+Lucifer: Evensong
+Evensong, Part 1 of 2
+April 2006
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 11: Evensong
+
+
+Lucifer #72
+Lucifer: Evensong
+Evensong, Part 2 of 2
+May 2006
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 11: Evensong
+
+
+Lucifer #73
+Lucifer
+The Gaudium Option
+June 2006
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 11: Evensong
+
+
+Lucifer #74
+Lucifer
+Eve
+July 2006
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 11: Evensong
+
+
+Lucifer #75
+Lucifer
+All We Need of Hell
+August 2006
+Lucifer Book 4, Lucifer Omnibus 2, Lucifer Vol 11: Evensong
+
+
 The Sandman Overture #2
-The Sandman Overture
+The Sandman: Overture
 Chapter Two
 April 2014
 Overture
@@ -999,7 +1552,7 @@ Overture
 
 
 The Sandman Overture #3
-The Sandman Overture
+The Sandman: Overture
 Chapter Three
 September 2014
 Overture
@@ -1010,7 +1563,7 @@ Overture
 
 
 The Sandman Overture #4
-The Sandman Overture
+The Sandman: Overture
 Chapter Four
 February 2015
 Overture
@@ -1028,7 +1581,7 @@ Overture
 
 
 The Sandman Overture #5
-The Sandman Overture
+The Sandman: Overture
 Chapter Five
 July 2015
 Overture
@@ -1049,7 +1602,7 @@ Free Country A Tale of The Children's Crusade
 
 
 The Sandman Overture #6
-The Sandman Overture
+The Sandman: Overture
 Chapter Six
 November 2015
 Overture

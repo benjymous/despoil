@@ -22,10 +22,10 @@ var seenDates = new HashSet<double>();
 var dateMarkers = new Dictionary<long, string>();
 var dateAppearance = new Dictionary<long, HashSet<string>>();
 
-var allIssues = new HashSet<string>();
+var issueOrder = new List<string>();
 
 var collectionData = new List<IssueGroup>();
-var threadData = new List<IssueGroup>();
+var threadData = new Dictionary<string, List<IssueGroup>>();
 var issueData = new List<Issue>();
 var entityData = new List<Entity>();
 var itemData = new List<Item>();
@@ -54,8 +54,15 @@ foreach (var entry in entries)
         }
     }
 
+    var entryEvents = entryLines.Skip(5).ToList();
+    if (entryEvents.Count == 0)
+    {
+        Console.WriteLine($"Skipping {entryLines[0]} - {entryLines[2]}");
+        continue;
+    }
+
     var thread = entryLines[1].Trim();
-    var issueTitle = $"<span class='itemissue'>{entryLines[0].Trim()}</span><span class='itemtitle'>{entryLines[2]}</span>";
+    var issueTitle = $"<span class='itemIssue'>{entryLines[0].Trim()}</span><span class='itemTitle'>{entryLines[2]}</span>";
     var issueTitlePlain = $"{entryLines[0].Trim()} - {entryLines[2]}";
     currentDate = Util.ParseDate(entryLines[3]);
 
@@ -68,7 +75,10 @@ foreach (var entry in entries)
     var entryThreadKey = threadKey[thread];
     var issueId = $"{entryThreadKey}_{threads[thread].Count}";
 
-    allIssues.Add(issueId);
+    if (thread != "--")
+    {
+        issueOrder.Add(issueId);
+    }
 
     threads[thread].Add(issueTitle);
     issues.Add(issueTitlePlain);
@@ -84,11 +94,7 @@ foreach (var entry in entries)
         collections[issueCollection].Add((issueTitle, issueId));
     }
 
-    var entryEvents = entryLines.Skip(5).ToList();
-    if (entryEvents.Count == 0)
-    {
-        entryEvents.Add(issueTitlePlain);
-    }
+
 
     var dateStr = "&nbsp;";
     foreach (var e in entryEvents)
@@ -294,7 +300,7 @@ foreach (var entry in entries)
         eventCount++;
 
         seenDates.Add(currentDate);
-        eventDates.Add((eventDates.Count + 1, currentDate));
+        eventDates.Add((eventDates.Count + 1, currentDate));        
 
         itemData.Add(new Item
         {
@@ -305,7 +311,7 @@ foreach (var entry in entries)
             threadkey = entryThreadKey,
             dateval = currentDate,
             date = dateStr.Trim(),
-            dateclass = knownDate ? "itemdate knowndate" : "itemdate",
+            dateclass = knownDate ? "itemDate knownDate" : "itemDate",
             entities = string.Join(" ", entityClasses),
         });
     }
@@ -344,9 +350,17 @@ foreach (var collection in colNames)
     });
 }
 
+
 foreach (var thread in threads)
 {
     if (thread.Key == "--") continue;
+
+    string groupName = thread.Key.Contains(":") ? thread.Key.Split(':')[0] : thread.Key;
+
+    if (!threadData.ContainsKey(groupName))
+    {
+        threadData[groupName] = new List<IssueGroup>();
+    }
 
     var key = threadKey[thread.Key];
 
@@ -355,10 +369,10 @@ foreach (var thread in threads)
     colourStyles.Add($".{key} {{ border-color: {Util.Rainbow(threads.Count + 5, threadIdx++)}; }} ");
 
     int idx = 0;
-    threadData.Add(new IssueGroup
+    threadData[groupName].Add(new IssueGroup
     {
         id = key,
-        name = thread.Key,
+        name = thread.Key.Contains(":") ? thread.Key.Split(":")[1] : thread.Key,
         index = 0,
         childdata = childKeys,
         Issues = thread.Value.Select(x => new Issue { id = $"{key}_{idx++}", body = x }).ToArray()
@@ -369,8 +383,10 @@ foreach (var thread in threads)
 {
     if (thread.Key == "--") continue;
     int idx = 0;
-    issueData.AddRange(thread.Value.Select(issue => new Issue { id = $"{threadKey[thread.Key]}_{idx++}", body = issue }));
+    issueData.AddRange(thread.Value.Select(issue => new Issue { id = $"{threadKey[thread.Key]}_{idx++}", body = issue, hash = Util.MakeId(issue).Substring(0, 8) }));
 }
+
+issueData = issueOrder.Join(issueData, i => i, d => d.id, (i, d) => d).ToList();
 
 entityData.AddRange(entityKey.OrderBy(x => Util.MoveThe(x.Key)).Select(entity => new Entity
 {
@@ -399,15 +415,16 @@ var source = File.ReadAllText("template.html");
 var model = new Model
 {
     Collections = collectionData.ToArray(),
-    Threads = threadData.ToArray(),
+    Threads = threadData.Select(x => new ThreadGroup { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
     Issues = issueData.ToArray(),
     Entities = entityData.ToArray(),
     Items = itemData.ToArray(),
-    AllIssues = string.Join(" ", allIssues.Select(x => "ei_" + x))
+    AllIssues = string.Join(" ", issueOrder.Select(x => "ei_" + x))
 };
 
 var options = new TemplateOptions();
 options.MemberAccessStrategy.Register<Model>();
+options.MemberAccessStrategy.Register<ThreadGroup>();
 options.MemberAccessStrategy.Register<IssueGroup>();
 options.MemberAccessStrategy.Register<Issue>();
 options.MemberAccessStrategy.Register<Entity>();

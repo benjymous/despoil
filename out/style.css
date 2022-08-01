@@ -1,5 +1,5 @@
 body {
-  background: #f2f0ff;
+  background: #EDE7F6;
   margin: 0px;
   overflow: hidden;
   font-family: 'Quicksand',Helvetica,Century Gothic,sans-serif !important;
@@ -39,19 +39,19 @@ body {
   display: none;
 }
 
-.menufooter {
+.menuFooter {
   position: absolute;
   bottom: 8px;
   right: 8px;
   text-align: right;
 }
 
-.menufooter img {
+.menuFooter img {
   width: 32px;
   height: 32px;
 }
 
-.footerdate {
+.footerDate {
   font-size: x-small;
   color: #bbb;
   font-variant: small-caps;
@@ -66,10 +66,10 @@ button {
   font-family: 'Quicksand',Helvetica,Century Gothic,sans-serif !important;
 }
 
-.blockbtn {
+.blockButton {
   border: none;
   border-radius: 8px;
-  background-color: #2196F3;
+  background-color: #5E35B1;
   color: white;
   font-weight: 700 !important;
   padding: 10px;
@@ -78,19 +78,7 @@ button {
   margin: 2px;
 }
 
-.blockbtn img {
-  position: relative;
-  top: 4px;
-  max-width: 24px;
-  max-height: 18px;
-  margin-right: 3px;
-}
-
-.blockbtn a {
-  text-decoration: none !important;
-}
-
-.blockbtn:hover {
+.blockButton:hover {
 	opacity: .85;
 	color: #f5f5f5 !important;
 	text-decoration: none !important
@@ -108,7 +96,7 @@ button {
     box-shadow: -3px 10px 8px 0px rgb(0 0 0 / 50%);
   }
 
-  .menufooter {
+  .menuFooter {
     width: 100%;
     position: relative;
     bottom: 43px;
@@ -123,7 +111,7 @@ button {
   height: 0;
 }
 
-.displayblock {
+.displayBlock {
   display: block;
 }
 
@@ -140,14 +128,14 @@ button {
   z-order: 1000;
 }
 
-span.itemtitle {
+span.itemTitle {
   font-weight: bold;
   display: list-item;
   list-style-type: none;
   margin-left: 25px;
 }
 
-span.itembody {
+span.itemBody {
   line-height: 24px;
 }
 
@@ -214,7 +202,7 @@ span.entity:hover {
 .issueToggle {
   width: 90%;
   margin: 15px 5% 3px 5%;
-  background: #e5e1f9;
+  background: #D1C4E9;
   box-shadow: 10px 10px 15px 0px rgb(0 0 0 / 25%);
 }
 
@@ -234,18 +222,18 @@ span.entity:hover {
   box-shadow: 5px 5px 8px 4px rgb(0 0 0 / 50%);
 }
 
-.itemrow {
+.itemRow {
   transition: all 0.25s ease-in-out;
 }
 
-.itemrow_highlight {
+.itemRow_highlight {
   background: #e0dee9;
   padding: 0px;
   margin: 2px 0px 2px 12px;
   border-radius: 8px;
 }
 
-.itemdate {
+.itemDate {
   float: left;
   width: 15%;
   border: 0px;
@@ -255,11 +243,11 @@ span.entity:hover {
   font-weight: lighter;
 }
 
-.knowndate {
+.knownDate {
   font-weight: bold;
 }
 
-.box div.itemsubtitle {
+.box div.itemSubtitle {
   /*width: 400px;*/
   text-align: right;
   font-size: 10px;
@@ -295,12 +283,6 @@ details {
   margin-left: 8px;
 }
 
-
-.entityhint {
-  margin-top: 5px;
-  font-weight: bold;
-}
-
 .thread_marker {
   width: 12px;
   height: 12px;
@@ -309,13 +291,10 @@ details {
   border-radius: 12px;
 }
 
-
-
-
 /* Style the navigation menu */
-.topnav {
+.topNavigation {
   overflow: hidden;
-  background-color: #664d7b;
+  background-color: #4A148C;
   position: relative;
   margin-bottom: 10px;
 
@@ -324,7 +303,7 @@ details {
 
 
 /* Style navigation menu links */
-.topnav a {
+.topNavigation a {
   color: white;
   padding: 14px 16px;
   text-decoration: none;
@@ -335,23 +314,23 @@ details {
     text-overflow: ellipsis;
 }
 
-.topnav img {
+.topNavigation img {
   float: left;
   max-height: 40px;
   padding: 4px;
 }
 
 /* Style the hamburger menu */
-.topnav a.icon {
-  background-color: #664d7b;
+.topNavigation a.icon {
+  background-color: #6A1B9A;
   display: block;
   position: absolute;
   right: 0;
   top: 0;
 }
 
-.topnav a.icon:hover{
-  background-color: #7a5c92;
+.topNavigation a.icon:hover{
+  background-color: #7B1FA2;
 }
 
 
@@ -408,7 +387,7 @@ details {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #19c477;
+  background-color: #673AB7;
   -webkit-transition: .4s;
   transition: .4s;
 }
@@ -423,14 +402,6 @@ details {
   background-color: white;
   -webkit-transition: .4s;
   transition: .4s;
-}
-
-input:checked+.slider {
-  background-color: #2196F3;
-}
-
-input:focus+.slider {
-  box-shadow: 0 0 1px #2196F3;
 }
 
 input:checked+.slider:before {
