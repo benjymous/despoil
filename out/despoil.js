@@ -13,11 +13,11 @@ setOrderStyle = function (customStyle) {
 }
 
 showAll = function () {
-  setAllIssues(true)
+  setTimeout(function () { setAllIssues(true) }, 0)
 }
 
 showNone = function () {
-  setAllIssues(false)
+  setTimeout(function () { setAllIssues(false) }, 0)
 }
 
 setAllIssues = function (enabled) {
