@@ -2,6 +2,7 @@ body {
   background: #EDE7F6;
   margin: 0px;
   overflow: hidden;
+  height: 100vh;
   font-family: 'Quicksand',Helvetica,Century Gothic,sans-serif !important;
 } 
 

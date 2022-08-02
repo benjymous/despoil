@@ -37,7 +37,7 @@ setChecked = function (prefix, name, noScroll) {
   const boxes = document.getElementsByClassName(name + "_outer")
 
   if (!noScroll && checkBox.checked) {
-    setTimeout(function () { boxes[0].scrollIntoView({ behavior: "smooth" }) }, 10)
+    //setTimeout(function () { boxes[0].scrollIntoView({ behavior: "smooth" }) }, 10)
   }
 
   const styleid = 'style_' + name
