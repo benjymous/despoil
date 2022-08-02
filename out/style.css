@@ -30,6 +30,7 @@ body {
   padding-left: 25px;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
+  scrollbar-width: thin;
 }
 
 .menu-collapsed {
@@ -44,7 +45,7 @@ body {
 .menuFooter {
   position: absolute;
   bottom: 8px;
-  right: 24px;
+  right: 16px;
   text-align: right;
 }
 
@@ -189,6 +190,7 @@ span.entity:hover {
   height: 90%;
   overflow-y: auto;
   overflow-y: overlay;
+  scrollbar-width: thin;
   content-visibility: auto;
 }
 
@@ -357,7 +359,7 @@ details {
   width: 12px;
   pointer-events: none;
   top: 0;
-  right: 9px;
+  right: 8px;
   position: relative;
   z-index: 10;
 }
@@ -439,7 +441,7 @@ input:checked+.slider:before {
 /* scrollbars */
 
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 8px;
   border: 5px black;
 }
 ::-webkit-scrollbar-track {
