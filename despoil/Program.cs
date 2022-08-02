@@ -12,6 +12,7 @@ var threadKey = new Dictionary<string, string>();
 var entityKey = new Dictionary<string, string>();
 var entityAlias = new Dictionary<string, string>();
 var entityAppearance = new Dictionary<string, HashSet<string>>();
+var entityCount = new Dictionary<string, int>();
 
 var collections = new Dictionary<string, List<(string, string)>>();
 
@@ -57,7 +58,7 @@ foreach (var entry in entries)
     var entryEvents = entryLines.Skip(5).ToList();
     if (entryEvents.Count == 0)
     {
-        Console.WriteLine($"Skipping {entryLines[0]} - {entryLines[2]}");
+        //Console.WriteLine($"Skipping {entryLines[0]} - {entryLines[2]}");
         continue;
     }
 
@@ -94,11 +95,12 @@ foreach (var entry in entries)
         collections[issueCollection].Add((issueTitle, issueId));
     }
 
-
-
     var dateStr = "&nbsp;";
+    bool knownDate = false;
     foreach (var e in entryEvents)
     {
+        HashSet<string> entryEntities = new HashSet<string>();
+
         if (e.StartsWith("?")) continue;
 
         var ev = e;
@@ -149,9 +151,21 @@ foreach (var entry in entries)
             if (!entityAppearance.ContainsKey(entity))
             {
                 entityAppearance[entity] = new HashSet<string>();
+                entityCount[entity] = 0;
             }
+            entityCount[entity]++;
 
             entityClasses.Add(entity);
+
+            if (entryEntities.Contains(bareText)) 
+            {
+                Console.WriteLine($"Duplicate entity {bareText} in {issueTitlePlain} #{eventCount}");
+            }
+            else
+            {
+                entryEntities.Add(bareText);
+            }
+
             entityAppearance[entity].Add(issueId);
 
             var title = alias == bareText ? "" : $"title='{alias.Replace("'", "&apos;")}'";
@@ -162,7 +176,7 @@ foreach (var entry in entries)
 
         var evBody = "";
 
-        bool knownDate = false;
+        
 
         if (ev.StartsWith("## "))
         {
@@ -173,6 +187,10 @@ foreach (var entry in entries)
             {
                 dateStr = dateStr.Replace("*", "");
                 knownDate = true;
+            }
+            else
+            {
+                knownDate = false;
             }
 
             currentDate = Util.ParseDate(dateStr);
@@ -189,7 +207,6 @@ foreach (var entry in entries)
                 {
                     dateStr = dateStr.Substring(0, (dateStr.IndexOf(".")));
                 }
-
 
                 if (dateStr.Contains("-"))
                 {
@@ -392,6 +409,7 @@ entityData.AddRange(entityKey.OrderBy(x => Util.MoveThe(x.Key)).Select(entity =>
 {
     id = entity.Value,
     name = Util.MoveThe(entity.Key),
+    count = entityCount[entity.Value],
     issues = string.Join(" ", entityAppearance[entity.Value].Select(x => "ei_" + x))
 }));
 

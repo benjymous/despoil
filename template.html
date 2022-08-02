@@ -117,7 +117,7 @@
 
             <div class='entity_hidden {{entity.issues}}'>
               <input type='checkbox' class='check_entity' id='check_{{entity.id}}' onclick='setPushed("{{entity.id}}")'>
-              <label for='check_{{entity.id}}'>{{entity.name}}</label><br>
+              <label for='check_{{entity.id}}'>{{entity.name}} <span class="small">({{entity.count}})</span></label><br>
             </div>
 
             {% endfor %}

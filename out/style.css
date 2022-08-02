@@ -160,6 +160,11 @@ span.entity {
   transition: all 0.25s ease-in-out;
 }
 
+.small {
+  font-size: smaller;
+  color: #999;
+}
+
 span.intro {
   margin: 50px;
   border: solid 1px #5555552e;
