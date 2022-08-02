@@ -326,12 +326,19 @@ hideIntro = function (cookieId) {
   updateMarkers()
 }
 
+sizePanes = function () {
+  document.getElementById("main").style.height = window.innerHeight - 60 
+  document.getElementById("menu").style.height = window.innerHeight - 75 
+}
+
 ////////////////////
 
 window.addEventListener('resize', function(event) {
   updateMarkers()
+  sizePanes()
 }, true)
 
 showIntro()
+sizePanes()
 
 setTimeout(function () { restoreSelection() }, 10)
