@@ -420,7 +420,10 @@ The Sandman: Convergence
 Soft Places
 July 1992
 Vol  6: Fables and Reflections, Book 3
-## ~ 1270 | the soft places: <Marco Polo> gets lost in the <Soft Places> and encounters <Fiddler's Green> and <Dream>
+## * 1273: <Marco Polo> gets lost ++ <Rustichello da Pisa> <Gilbert> <Dream>
+## ~ 1300: <Rustichello da Pisa> makes an escape ++ <Marco Polo> <Gilbert>
+## * 1992.1: <Gilbert> takes a day off ++ <Marco Polo> <Rustichello da Pisa>
+## * 1988.68: <Dream> receives and returns a favour ++ <Marco Polo>
 
 
 Sandman #40
@@ -428,7 +431,7 @@ The Sandman: Convergence
 The Parliament of Rooks
 August 1992
 Vol  6: Fables and Reflections, Book 3
-## 1992.1: <Daniel> visits <The Dreaming> and hears some mysteries and secrets ++ <Lyta> <Gregory> <Matthew> <Eve> <Cain> <Goldie> <Abel> 
+## 1992.2: <Daniel> visits <The Dreaming> and hears some mysteries and secrets ++ <Lyta> <Gregory> <Matthew> <Eve> <Cain> <Goldie> <Abel> 
 ## -300002 | early man: <Adam>'s first wife <Lilith> is expelled from <Eden>
 ## -300001 | early man: <Adam> rejects his second wife ++ <Eden>
 ## -300000 | early man: <Adam> and his third wife, <Eve> eat from the <Tree of Knowledge> and are expelled from <Eden>
