@@ -184,6 +184,7 @@ span.entity:hover {
   display: flex;
   flex-direction: column;
   height: 100%;
+  overflow-y: auto;
   overflow-y: overlay;
   content-visibility: auto;
 }
