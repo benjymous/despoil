@@ -252,10 +252,34 @@ foreach (var entry in entries)
             currentDate += Increment;
         }
 
-        int centuryKey = int.MinValue;
-        int decadeKey = int.MinValue; ;
+        long centuryKey = long.MinValue;
+        long decadeKey = long.MinValue;
 
-        if (currentDate > 0 && currentDate < 3000)
+        if (currentDate <= -4500000000)
+        {
+            centuryKey = long.MinValue + 100;
+            if (!dateMarkers.ContainsKey(centuryKey))
+            {
+                dateMarkers.Add(centuryKey, $"distant past");
+            }
+        }
+        else if (currentDate > -4500000000 && currentDate <= -1000000)
+        {
+            centuryKey = -4500000000;
+            if (!dateMarkers.ContainsKey(centuryKey))
+            {
+                dateMarkers.Add(centuryKey, $"earth's past");
+            }
+        }
+        else if (currentDate > -1000000 && currentDate <= -0)
+        {
+            centuryKey = -1000000;
+            if (!dateMarkers.ContainsKey(centuryKey))
+            {
+                dateMarkers.Add(centuryKey, $"human history");
+            }
+        }
+        else if (currentDate > 0 && currentDate < 10000)
         {
             int century = 1 + ((int)currentDate / 100);
             centuryKey = (century - 1) * 100;
@@ -274,9 +298,17 @@ foreach (var entry in entries)
                     dateMarkers.Add(decadeKey, $"{decadeKey}s");
                 }
             }
+        } 
+        else if (currentDate > 10000) 
+        {
+            centuryKey = 10000;
+            if (!dateMarkers.ContainsKey(centuryKey))
+            {
+                dateMarkers.Add(centuryKey, $"far future");
+            }
         }
 
-        if (centuryKey != int.MinValue)
+        if (centuryKey != long.MinValue)
         {
             if (!dateAppearance.ContainsKey(centuryKey))
             {
@@ -285,7 +317,7 @@ foreach (var entry in entries)
             dateAppearance[centuryKey].Add(issueId);
         }
 
-        if (decadeKey != int.MinValue)
+        if (decadeKey != long.MinValue)
         {
             if (!dateAppearance.ContainsKey(decadeKey))
             {

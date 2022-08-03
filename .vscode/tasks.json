@@ -5,7 +5,8 @@
   "tasks": [
     {
       "label": "build",
-      "command": "./build.bat",
+      "windows": { "command": "${workspaceFolder}/build.bat" },
+      "linux": { "command": "dotnet run --project ./despoil/despoil.csproj" },
       "type": "shell",
       "args": [
       ],

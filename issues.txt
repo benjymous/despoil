@@ -313,7 +313,7 @@ Vol  4: Season of Mists, Book 2
 
 Mister E #1
 Mister E
-Mister E
+At the End of Time
 June 1991
 --
 ## ~1965 | 1960s: <Mister E> loses his eyes
@@ -331,7 +331,7 @@ Vol  4: Season of Mists, Book 2
 
 Mister E #2
 Mister E
-Mister E
+Master!
 July 1991
 --
 ## 2900 | thirtieth century: <Mister E> is taken back by his shadow
@@ -348,7 +348,7 @@ Vol  6: Fables and Reflections, Book 2
 
 Mister E #3
 Mister E
-Mister E
+Maze
 August 1991
 --
 ## 2900 | lost in the maze: <Mister E> is lost in the maze
@@ -365,7 +365,7 @@ Vol  6: Fables and Reflections, Book 2
 
 Mister E #4
 Mister E
-Mister E
+The Power
 September 1991
 --
 ## 1991.13: <Mister E> lets <Tim Hunter> take his own path ++ <Zatanna> <Dr Fate> <Phantom Stranger> 
@@ -458,10 +458,10 @@ The Sandman: Convergence
 Soft Places
 July 1992
 Vol  6: Fables and Reflections, Book 3
-## * 1273: <Marco Polo> gets lost ++ <Rustichello da Pisa> <Gilbert> <Dream>
-## ~ 1300: <Rustichello da Pisa> makes an escape ++ <Marco Polo> <Gilbert>
-## * 1992.1: <Gilbert> takes a day off ++ <Marco Polo> <Rustichello da Pisa>
-## * 1988.68: <Dream> receives and returns a favour ++ <Marco Polo>
+## * 1273: <Marco Polo> gets lost ++ <Soft Places> <Rustichello da Pisa> <Gilbert> <Dream>
+## ~ 1300: <Rustichello da Pisa> makes an escape ++ <Soft Places> <Marco Polo> <Gilbert>
+## * 1992.1: <Gilbert> takes a day off ++ <Soft Places> <Marco Polo> <Rustichello da Pisa>
+## * 1988.68: <Dream> receives and returns a favour ++ <Soft Places> <Marco Polo>
 
 
 Sandman #40
