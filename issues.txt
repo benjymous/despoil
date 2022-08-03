@@ -207,9 +207,9 @@ Books of Magic: Miniseries
 The Invisible Labyrinth
 November 1990
 Books of Magic 
-## October 1990: <Tim Hunter> meets the <Phantom Stranger>, <John Constantine>, <Doctor Occult> and <Mr E>
+## October 1990: <Tim Hunter> meets the <Phantom Stranger>, <John Constantine>, <Doctor Occult> and <Mister E>
 # The <Phantom Stranger> introduces <Tim|Tim Hunter> to the history of magic
-## -10000000000 | ten billion years ago: War in <The Silver City>.  
+## -10000000000 | ten billion years ago: War in <The Silver City> ++ <Lucifer>
 ## -50000 | fifty thousand years ago: End of <Atlantis>
 
 
@@ -232,7 +232,7 @@ Books of Magic: Miniseries
 The Shadow World
 December 1990
 Books of Magic 
-## 1990.76 | October 1990: <John Constantine> takes <Tim> around the present world 
+## 1990.76 | October 1990: <John Constantine> takes <Tim> around the present world ++ <Dr Fate> <Zatanna>
 ? add more detail? **
 
 
@@ -251,7 +251,7 @@ Books of Magic: Miniseries
 The Land of Summer's Twilight
 January 1991
 Books of Magic
-## 1990.77 | October 1990: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Faerie> <Lady Titania>
+## 1990.77 | October 1990: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Faerie> <Glory> <Baba Yaga> <Lady Titania> <Hell> <The Dreaming> <Cain> <Abel> <Goldie> <Dream>
 ? add more detail? **
 ? October because it's a halloween party - assuming all four volumes occur within a few days
 
@@ -269,10 +269,12 @@ Books of Magic: Miniseries
 The Road to Nowhere
 February 1991
 Books of Magic 
-## 1990.78 | October 1990: <Mr E> takes <Tim> to see a possible future
-## 6000 | sixtieth century: The Earth is segregated from the rest of the universe
+## 1990.78 | October 1990: <Mister E> takes <Tim> to see possible futures
+## 2005: The Great Clash
+## 2900 | thirtieth century: The magic is coming back
+## 5900 | sixtieth century: The Earth is segregated from the rest of the universe
 ## 2000000 | in millions of years time: Only 50000 'people' remain.  Science and Magic have lost all meaning.
-## 100000000000 | end of time: <Death> locks the place behind her as she leaves ++ <Destiny>
+## 100000000010 | end of time: <Death> locks the place behind her as she leaves ++ <Destiny>
 ? add more detail? **
 
 
@@ -309,12 +311,31 @@ Vol  4: Season of Mists, Book 2
 ## 1990.94 : <Dream> makes his decision to cede <Hell> back to its original creator.  Guests leave, are rescued, and choose to stay a while longer ++ <The Dreaming> <Thor> <Odin> <Loki> <Anubis> <Lady Bast> <Bes> <Susano-O-No-Mikoto> <Azazel> <The Merkin> <Lord Kilderkin|Order> <Shivering Jemmy|Chaos> <Remiel> <Duma> <Cluracan> <Nuala> <Matthew> <Nada> <Choronzon> <Bottled City>
 
 
+Mister E #1
+Mister E
+Mister E
+June 1991
+--
+## ~1965 | 1960s: <Mister E> loses his eyes
+## 100000000000 | end of time: <Mister E> Hallucinates at the end of time ++ <The Temptress>
+## 1991.10: <Dr Fate> and the <Phantom Stranger> leave <Tim Hunter> to his own fate
+
+
 Sandman #28
 The Sandman: Season of Mists
 Season of Mists: Epilogue
 July 1991
 Vol  4: Season of Mists, Book 2
 ## 1990.95 : <Dream> makes amends with <Nada> who is reborn. <Loki>'s trickery is uncovered, and <Cluracan> leaves <Nuala> behind. <Lucifer> marvels at creation, while <Remiel> and <Duma> come to terms with their duty ++ <The Dreaming> <Hell> <Destiny> <Destiny's Garden>
+
+
+Mister E #2
+Mister E
+Mister E
+July 1991
+--
+## 2900 | thirtieth century: <Mister E> is taken back by his shadow
+## 1991.11: <Tim Hunter> looks to learn ++ <Dr Fate> <Phantom Stranger> <Magic Shop Owner|Zatanna>
 
 
 Sandman #29
@@ -325,12 +346,29 @@ Vol  6: Fables and Reflections, Book 2
 ## * 1794: <Dream> makes a deal with <Lady Johanna Constantine> ++ <Wych Cross> <Orpheus> <Jessamy> <Naxos>
 
 
+Mister E #3
+Mister E
+Mister E
+August 1991
+--
+## 2900 | lost in the maze: <Mister E> is lost in the maze
+## 1991.12: <Tim Hunter> begins to learn ++ <Magic Shop Owner|Zatanna>
+
+
 Sandman #30
 The Sandman: Distant Mirrors
 August
 September 1991
 Vol  6: Fables and Reflections, Book 2
 ## 5: Roman Emperor <Caesar Augustus> spends a day as a beggar ++ <Dream>
+
+
+Mister E #4
+Mister E
+Mister E
+September 1991
+--
+## 1991.13: <Mister E> lets <Tim Hunter> take his own path ++ <Zatanna> <Dr Fate> <Phantom Stranger> 
 
 
 Sandman #31
@@ -547,7 +585,7 @@ Death: The High Cost of Living
 A Night to Remember
 April 1993
 Death
-## July 1992: <Mr E> and <Theo> are on the hunt.  <Sexton|Sexton Furnival> and <Didi> encounter <Hazel> and <Foxglove>
+## July 1992: <Mister E> and <Theo> are on the hunt.  <Sexton|Sexton Furnival> and <Didi> encounter <Hazel> and <Foxglove>
 ? Hazel's baby due any day
 
 
@@ -566,7 +604,7 @@ Death: The High Cost of Living
 The High Cost of Living
 May 1993
 Death
-## July 1992: <Mad Hettie> comes to the rescue, <Mr E> makes another appearance, <Didi> makes an exit, and a missing heart is found ++ <Mrs Robbins> <Sexton>
+## July 1992: <Mad Hettie> comes to the rescue, <Mister E> makes another appearance, <Didi> makes an exit, and a missing heart is found ++ <Mrs Robbins> <Sexton>
 
 
 Sandman #50
