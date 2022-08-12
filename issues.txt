@@ -232,8 +232,10 @@ Books of Magic: Miniseries
 The Shadow World
 December 1990
 Books of Magic 
-## 1990.76 | October 1990: <John Constantine> takes <Tim> around the present world ++ <Dr Fate> <Zatanna>
+## 1993.76 | October 1993: <John Constantine> takes <Tim> around the present world ++ <Dr Fate> <Zatanna>
+## ~ 1981 : <Tim Hunter> is born
 ? add more detail? **
+? Tim is 12, born in 1981 according to other sources, so these must be 1993
 
 
 Sandman #22
@@ -251,7 +253,7 @@ Books of Magic: Miniseries
 The Land of Summer's Twilight
 January 1991
 Books of Magic
-## 1990.77 | October 1990: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Faerie> <Glory> <Baba Yaga> <Lady Titania> <Hell> <The Dreaming> <Cain> <Abel> <Goldie> <Dream>
+## 1993.77 | October 1993: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Faerie> <Glory> <Baba Yaga> <Lady Titania> <Hell> <The Dreaming> <Cain> <Abel> <Goldie> <Dream>
 ? add more detail? **
 ? October because it's a halloween party - assuming all four volumes occur within a few days
 
@@ -269,8 +271,8 @@ Books of Magic: Miniseries
 The Road to Nowhere
 February 1991
 Books of Magic 
-## 1990.78 | October 1990: <Mister E> takes <Tim> to see possible futures
-## 2005: The Great Clash
+## 1993.78 | October 1990: <Mister E> takes <Tim> to see possible futures
+## 2008: The Great Clash
 ## 2900 | thirtieth century: The magic is coming back
 ## 5900 | sixtieth century: The Earth is segregated from the rest of the universe
 ## 2000000 | in millions of years time: Only 50000 'people' remain.  Science and Magic have lost all meaning.
@@ -311,16 +313,6 @@ Vol  4: Season of Mists, Book 2
 ## 1990.94 : <Dream> makes his decision to cede <Hell> back to its original creator.  Guests leave, are rescued, and choose to stay a while longer ++ <The Dreaming> <Thor> <Odin> <Loki> <Anubis> <Lady Bast> <Bes> <Susano-O-No-Mikoto> <Azazel> <The Merkin> <Lord Kilderkin|Order> <Shivering Jemmy|Chaos> <Remiel> <Duma> <Cluracan> <Nuala> <Matthew> <Nada> <Choronzon> <Bottled City>
 
 
-Mister E #1
-Mister E
-At the End of Time
-June 1991
---
-## ~1965 | 1960s: <Mister E> loses his eyes
-## 100000000000 | end of time: <Mister E> Hallucinates at the end of time ++ <The Temptress>
-## 1991.10: <Dr Fate> and the <Phantom Stranger> leave <Tim Hunter> to his own fate
-
-
 Sandman #28
 The Sandman: Season of Mists
 Season of Mists: Epilogue
@@ -329,30 +321,12 @@ Vol  4: Season of Mists, Book 2
 ## 1990.95 : <Dream> makes amends with <Nada> who is reborn. <Loki>'s trickery is uncovered, and <Cluracan> leaves <Nuala> behind. <Lucifer> marvels at creation, while <Remiel> and <Duma> come to terms with their duty ++ <The Dreaming> <Hell> <Destiny> <Destiny's Garden>
 
 
-Mister E #2
-Mister E
-Master!
-July 1991
---
-## 2900 | thirtieth century: <Mister E> is taken back by his shadow
-## 1991.11: <Tim Hunter> looks to learn ++ <Dr Fate> <Phantom Stranger> <Magic Shop Owner|Zatanna>
-
-
 Sandman #29
 The Sandman: Distant Mirrors
 Thermidor
 August 1991
 Vol  6: Fables and Reflections, Book 2
 ## * 1794: <Dream> makes a deal with <Lady Johanna Constantine> ++ <Wych Cross> <Orpheus> <Jessamy> <Naxos>
-
-
-Mister E #3
-Mister E
-Maze
-August 1991
---
-## 2900 | lost in the maze: <Mister E> is lost in the maze
-## 1991.12: <Tim Hunter> begins to learn ++ <Magic Shop Owner|Zatanna>
 
 
 Sandman #30
@@ -368,7 +342,7 @@ Mister E
 The Power
 September 1991
 --
-## 1991.13: <Mister E> lets <Tim Hunter> take his own path ++ <Zatanna> <Dr Fate> <Phantom Stranger> 
+## 1993.88: <Mister E> lets <Tim Hunter> take his own path ++ <Zatanna> <Dr Fate> <Phantom Stranger> 
 
 
 Sandman #31
@@ -1625,7 +1599,7 @@ The Children's Crusade
 The Children's Crusade
 October 2015
 Free Country A Tale of The Children's Crusade
-## 1993.65: <Charles Rowland> and <Edwin Paine> investigate after the children of <Flaxdown> disappear ++ <Maxine Baker> <Tefé Holland> <Suzy Linden> <Tim Hunter> <Dorothy Spinner> <Aiken Drum> <Free Country>
+## 1993.8: <Charles Rowland> and <Edwin Paine> investigate after the children of <Flaxdown> disappear ++ <Maxine Baker> <Tefé Holland> <Suzy Linden> <Tim Hunter> <Dorothy Spinner> <Aiken Drum> <Free Country>
 ## 1213: Fifty thousand children sail away to the Crusades, never to be seen again
 ## 1284: The piper of St. Cecile
 
