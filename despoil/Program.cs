@@ -25,7 +25,7 @@ var dateAppearance = new Dictionary<long, HashSet<string>>();
 
 var issueOrder = new List<string>();
 
-var collectionData = new List<IssueGroup>();
+var collectionData = new Dictionary<string, List<IssueGroup>>();
 var threadData = new Dictionary<string, List<IssueGroup>>();
 var issueData = new List<Issue>();
 var entityData = new List<Entity>();
@@ -386,13 +386,20 @@ foreach (var collection in colNames)
 {
     if (collection == "--") continue;
 
+    string groupName =collection.Contains(":") ? collection.Split(':')[0] : collection;
+
+    if (!collectionData.ContainsKey(groupName))
+    {
+        collectionData[groupName] = new List<IssueGroup>();
+    }
+
     var colData = collections[collection];
     var colIndex = Array.IndexOf(colNames, collection);
 
-    collectionData.Add(new IssueGroup
+    collectionData[groupName].Add(new IssueGroup
     {
         id = $"col_{colIndex}",
-        name = collection,
+        name = collection.Contains(":") ? collection.Substring(collection.IndexOf(":")+2) : collection,
         index = colIndex,
         childdata = string.Join(",", colData.Select(x => x.Item2)),
         Issues = colData.Select(x => new Issue { id = x.Item2, body = x.Item1 }).ToArray()
@@ -464,8 +471,8 @@ var source = File.ReadAllText("template.html");
 
 var model = new Model
 {
-    Collections = collectionData.ToArray(),
-    Threads = threadData.Select(x => new ThreadGroup { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
+    Collections = collectionData.Select(x => new GroupParent { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
+    Threads = threadData.Select(x => new GroupParent { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
     Issues = issueData.ToArray(),
     Entities = entityData.ToArray(),
     Items = itemData.ToArray(),
@@ -474,7 +481,7 @@ var model = new Model
 
 var options = new TemplateOptions();
 options.MemberAccessStrategy.Register<Model>();
-options.MemberAccessStrategy.Register<ThreadGroup>();
+options.MemberAccessStrategy.Register<GroupParent>();
 options.MemberAccessStrategy.Register<IssueGroup>();
 options.MemberAccessStrategy.Register<Issue>();
 options.MemberAccessStrategy.Register<Entity>();

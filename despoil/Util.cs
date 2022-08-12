@@ -130,7 +130,10 @@ namespace despoil
 
     public class CollectionComparer : IComparer<string>
     {
-        static readonly string[] CollectionPrefixes = { "Vol", "Overture", "Death", "Books", "Winter's", "Free", "Book", "Absolute", "Deluxe", "Lucifer" };
+
+        static readonly string[] Collections = { "The Sandman", "Death", "Books of Magic", "Lucifer", "Winter's Edge", "Free Country A Tale of The Children's Crusade" };
+
+        static readonly string[] Prefixes = { "Vol", "Overture", "Book", "Absolute", "Deluxe", "Omnibus" };
 
         public int Compare(string? x, string? y)
         {
@@ -138,8 +141,21 @@ namespace despoil
             {
                 if (x == y) return 0;
 
-                var prefixX = Array.IndexOf(CollectionPrefixes, x.Split(" ").First());
-                var prefixY = Array.IndexOf(CollectionPrefixes, y.Split(" ").First());
+                var prefixX = Array.IndexOf(Collections, x.Split(":").First()) * 10;
+                var prefixY = Array.IndexOf(Collections, y.Split(":").First()) * 10;
+
+                try
+                {
+                    prefixX += Array.IndexOf(Prefixes, x.Split(":").Skip(1).First().Trim().Split(" ").First());
+                }
+                catch
+                {}
+
+                try
+                {
+                    prefixY += Array.IndexOf(Prefixes, y.Split(":").Skip(1).First().Trim().Split(" ").First());
+                }
+                catch {}
 
                 var diff = Comparer<int>.Default.Compare(prefixX, prefixY);
 

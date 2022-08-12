@@ -33,20 +33,30 @@
         <details>
           <summary>Collections</summary>
 
-          {% for collection in Collections %}
+          {% for collectionGroup in Collections %}
 
           <details>
-            <summary>
-              <input type='checkbox' class='checkroot' id='check_{{collection.id}}'
-                onclick='setChildren("{{collection.id}}")' data-children='{{collection.childdata}}' />
-              <label for='check_col_{{collection.index}}'>{{collection.name}}</label><br>
-            </summary>
 
-            {% for issue in collection.Issues %}
+            <summary><b>{{collectionGroup.name}}</b></summary>
 
-            <input type='checkbox' class='check_{{issue.id}}' id='check_coll_{{collection.index}}_{{issue.id}}'
-              onclick='setChecked("check_coll_{{collection.index}}_", "{{issue.id}}")'/>
-            <label for='check_coll_{{collection.index}}_{{issue.id}}'>{{issue.body}}</label><br>
+            {% for collection in collectionGroup.Groups %}
+
+            <details>
+              <summary>
+                <input type='checkbox' class='checkroot' id='check_{{collection.id}}'
+                  onclick='setChildren("{{collection.id}}")' data-children='{{collection.childdata}}' />
+                <label for='check_col_{{collection.index}}'>{{collection.name}}</label><br>
+              </summary>
+
+              {% for issue in collection.Issues %}
+
+              <input type='checkbox' class='check_{{issue.id}}' id='check_coll_{{collection.index}}_{{issue.id}}'
+                onclick='setChecked("check_coll_{{collection.index}}_", "{{issue.id}}")'/>
+              <label for='check_coll_{{collection.index}}_{{issue.id}}'>{{issue.body}}</label><br>
+
+              {% endfor %}
+
+            </details>
 
             {% endfor %}
 
