@@ -452,16 +452,9 @@ entityData.AddRange(entityKey.OrderBy(x => Util.MoveThe(x.Key)).Select(entity =>
     issues = string.Join(" ", entityAppearance[entity.Value].Select(x => "ei_" + x))
 }));
 
-var outPath = Path.Combine(Directory.GetCurrentDirectory(), "out");
-
-Console.WriteLine($"Writing to {outPath}");
-
-File.WriteAllLines(Path.Combine(outPath, "colors.css"), colourStyles);
-
 var sortedDates = eventDates.Select(x => x.Item2).OrderBy(i => i).ToArray();
 
-File.WriteAllLines(Path.Combine(outPath, "order0.css"), eventDates.Select(x => $".box :nth-child({x.Item1}) {{ order: {x.Item1} }}"));
-File.WriteAllLines(Path.Combine(outPath, "order1.css"), eventDates.Select(x => $".box :nth-child({x.Item1}) {{ order: {Array.IndexOf(sortedDates, x.Item2) + 1} }}"));
+var orderStyles = eventDates.Select(x => $".chron :nth-child({x.Item1}) {{ order: {Array.IndexOf(sortedDates, x.Item2) + 1} }}");
 
 //////////////////////////////////////
 
@@ -471,6 +464,7 @@ var source = File.ReadAllText("template.html");
 
 var model = new Model
 {
+    InlineStyles = $"<style>{string.Join(" ",colourStyles)} {string.Join(" ",orderStyles)}</style>",
     Collections = collectionData.Select(x => new GroupParent { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
     Threads = threadData.Select(x => new GroupParent { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
     Issues = issueData.ToArray(),
@@ -491,6 +485,8 @@ if (parser.TryParse(source, out var template, out var error))
 {
     var context = new TemplateContext(model, options);
 
+    var outPath = Path.Combine(Directory.GetCurrentDirectory(), "out");
+    Console.WriteLine($"Writing to {outPath}");
     File.WriteAllText(Path.Combine(outPath, "index.html"), Util.RemoveEmptyLines(template.Render(context)));
 }
 else

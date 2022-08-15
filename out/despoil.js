@@ -1,17 +1,4 @@
 
-setOrderStyle = function (customStyle) {
-  if (document.querySelector('link[id="orderStyle"]')) {
-    document.head.removeChild(document.querySelector('link[id="orderStyle"]'))
-  }
-  const lk = document.createElement('link')
-  lk.setAttribute('id', 'customStyle')
-  lk.setAttribute('rel', 'stylesheet')
-  lk.setAttribute('href', `${customStyle}.css`)
-  document.head.appendChild(lk)
-
-  updateMarkers()
-}
-
 showAll = function () {
   setTimeout(function () { setAllIssues(true) }, 0)
 }
@@ -169,7 +156,13 @@ setParents = function (name) {
 
 changeOrder = function () {
   const checkBox = document.getElementById("order")
-  setOrderStyle(checkBox.checked ? "order1" : "order0")
+
+  const mainDiv = document.getElementById("main")
+  if (checkBox.checked) {
+    mainDiv.classList.add('chron')
+  } else {
+    mainDiv.classList.remove('chron')
+  }
 
   const issues = document.getElementsByClassName("issueToggle")
 
@@ -192,6 +185,8 @@ changeOrder = function () {
       box.classList.add('entity_hidden')
     }
   }
+
+  updateMarkers()
 }
 
 var markerEvent = null
