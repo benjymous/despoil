@@ -133,10 +133,6 @@ button {
   /*margin-top: 0 !important;*/
 }
 
-.top {
-  z-order: 1000;
-}
-
 span.itemTitle {
   font-weight: bold;
   display: list-item;
@@ -196,7 +192,7 @@ span.entity:hover {
   overflow-y: auto;
   overflow-y: overlay;
   scrollbar-width: thin;
-  content-visibility: auto;
+  /*content-visibility: auto;*/
 }
 
 .event {
@@ -351,9 +347,13 @@ details {
   background-color: #7B1FA2;
 }
 
+label { 
+  cursor: pointer; 
+}
 
-
-
+input:checked + label { 
+  text-shadow: 0px 0px 8px #7b1fa290;
+}
 
 
 /* scroll markers */

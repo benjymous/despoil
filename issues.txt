@@ -145,7 +145,7 @@ The Sandman: The Doll's House
 5. Collectors
 March 1990
 The Sandman: Vol  2: The Doll's House, The Sandman: Book 1
-## 1989.75 | late autumn 1989: <Rose> and <Jed> are rescued.  <The Corinthian> is unmade ++ <Gilbert> <Dream> 
+## 1989.75 | late autumn 1989: <Rose> and <Jed> are rescued.  <The Corinthian> is unmade ++ <Gilbert> <Dream> <Corinthian's Skull>
 ? "Late autumn wind"
 ? Rose is 21, Jed is 12.  Not seen each other in 7 years
 
@@ -191,7 +191,7 @@ The Sandman: Dream Country
 A Midsummer Night's Dream
 September 1990
 The Sandman: Vol  3: Dream Country, The Sandman: Book 1
-## * June 1593: <William Shakespeare>'s company perform for <Dream> and a host of Faeries.  <Robin Goodfellow|Puck>  stays behind ++ <Auberon> <Lady Titania> 
+## * June 1593: <William Shakespeare>'s company perform for <Dream> and a host of Faeries.  <Robin Goodfellow|Puck> stays behind ++ <Auberon> <Lady Titania> 
 ? add more detail? **
 
 
@@ -312,7 +312,7 @@ The Sandman: Season of Mists
 Season of Mists: Chapter 6
 June 1991
 The Sandman: Vol  4: Season of Mists, The Sandman: Book 2
-## 1990.94 : <Dream> makes his decision to cede <Hell> back to its original creator.  Guests leave, are rescued, and choose to stay a while longer ++ <The Dreaming> <Thor> <Odin> <Loki> <Anubis> <Lady Bast> <Bes> <Susano-O-No-Mikoto> <Azazel> <The Merkin> <Lord Kilderkin|Order> <Shivering Jemmy|Chaos> <Remiel> <Duma> <Cluracan> <Nuala> <Matthew> <Nada> <Choronzon> <Bottled City>
+## 1990.94 : <Dream> makes his decision to cede <Hell> back to its original creator.  Guests leave, are rescued, and choose to stay a while longer ++ <The Dreaming> <Thor> <Odin> <Loki> <Anubis> <Lady Bast> <Bes> <Susano-O-No-Mikoto> <Azazel> <The Merkin> <Lord Kilderkin|Order> <Shivering Jemmy|Chaos> <Remiel> <Duma> <Cluracan> <Nuala> <Matthew> <Nada> <Choronzon> <Bottled City> <Pocket Watch> <Corinthian's Skull>
 
 
 Sandman #28
@@ -610,7 +610,7 @@ Vertigo Jam #1:
 Vertigo Jam
 The Castle
 August 1993
-The Sandman: Book 4
+The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
 ## 1994.65: <Lucien> gives a tour by mistake ++ <Merv> <Nuala> <Matthew> <Cain> <Abel> <Goldie> <Dream> <The Dreaming>
 ? Considered a prologue to The Kindly Ones, so placed there
 
@@ -629,7 +629,7 @@ The Sandman: Worlds' End
 4. The Golden Boy
 October 1993
 The Sandman: Vol  8: Worlds' End, The Sandman: Book 3
-## 1972 | an alternate timeline: A boy called <Prez|Prez Rickard> becomes President
+## 1972 | an alternate timeline: A boy called <Prez|Prez Rickard> becomes President ++ <Dream> <Pocket Watch>
 ? Clinton is President, so puts Brant and Charlene's thread in the 1993-2001 period.  Assuming 1993
 
 
@@ -696,7 +696,7 @@ The Sandman: The Kindly Ones
 The Kindly Ones: 3
 April 1994
 The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
-## 1994.75: <Daniel> enters the fire, <Hob> comes out of the cold, <Destiny> sees himself, <Desire> sees no one else, and <Lyta> tries to stay strong ++ <The Threshold> <Despair's Realm> <Destiny's Garden> <Puck> <Loki> <Dream> <Despair> <Delirium> <Eric> <Carla> <Pinkerton|Loki> <Fellowes|Puck> <Swartalfheim>
+## 1994.75: <Daniel> enters the fire, <Hob> comes out of the cold, <Destiny> sees himself, <Desire> sees no one else, and <Lyta> tries to stay strong ++ <The Threshold> <Despair's Realm> <Destiny's Garden> <Puck> <Loki> <Dream> <Despair> <Delirium> <Eric> <Carla> <Pinkerton|Loki> <Fellowes|Puck> <Swartalfheim> <Corinthian's Skull>
 ? Hob is ~630 years old
 ? Snowing, so winter
 
@@ -706,7 +706,8 @@ The Sandman: The Kindly Ones
 The Kindly Ones: 4
 June 1994
 The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
-## 1994.78: <Remiel> makes an offer, <Lyta> goes on a walk, <Rose> is watched, <Matthew> misses <Nuala>, <The Corinthian> reawakens ++ <Mazikeen> <Lux> <Lucifer> <Duma> <Hell> <Abel> <Dream> <Merv> <Abudah> <Lucien> <Vixen LaBitch|Hal Carter>
+## 1994.78: <Remiel> makes an offer, <Lyta> goes on a walk, <Rose> is watched, <Matthew> misses <Nuala>, <The Corinthian> reawakens ++ <Mazikeen> <Lux> <Lucifer> <Duma> <Hell> <Abel> <Dream> <Merv> <Abudah> <Lucien> <Vixen LaBitch|Hal Carter> <Bottled City> <Azazel> <Pocket Watch> <Corinthian's Skull>
+? Rose is 25, nearly 26 - so 4-5 years since #14
 
 
 Sandman #61
@@ -715,6 +716,7 @@ The Kindly Ones: 5
 July 1994
 The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
 ## 1994.80: <Rose> visits a friend and receives a message, <Dream> sends <The Corinthian> and <Matthew> on an errand, <Nuala> returns home, <Carla> visits the police and is visited by <Loki> ++ <Lyta> <Zelda> <Lady Titania> <Boggart> <Pinkerton>
+? 4 years since Unity died (#16) - end of 1993?
 
 
 Sandman #62
@@ -731,7 +733,7 @@ The Kindly Ones: 7
 September 1994
 The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
 ## 1994.86: <Thessaly> tracks down <Lyta>, who tracks down <The Furies|Three Witches>.  <Odin> confronts <Dream> and <Delirium> asks for help. <Gilbert> expresses his concern ++ <The Gryphon> <The Wyvern> <The Hippogriff> <Rose> <Destiny> <Destiny's Garden>
-? Dream's statue matches the one in final Destiny story
+? Dream's statue matches the one in Endless Nights Destiny story
 
 
 Sandman #64
@@ -920,7 +922,8 @@ The Sandman: Dream Hunters
 Dream Hunters
 October 1999
 The Sandman: Vol 12: Dream Hunters
-## -1 | ancient Japan : Dream Hunters **
+## 900 | ancient Japan : A rich bureaucrat seeks the peace of a monk ++ <Dream> <Three Witches> <The Dreaming> <Cain> <Abel>
+? Kyoto founded in 794, and 'Bureau of Divination' after 9th century 
 
 
 Winter's Edge #3.1
@@ -1140,7 +1143,7 @@ Lucifer Nirvana
 Lucifer: Nirvana
 Lucifer Nirvana
 August 2002
-Lucifer: Omnibus 1, Lucifer: Vol 11: Evensong
+Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol 11: Evensong
 
 
 Lucifer #28
@@ -1227,6 +1230,66 @@ August 2003
 Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  6: Mansions of the Silence
 
 
+The Sandman Endless Nights #1
+The Sandman: Endless Nights
+Chapter 1: Death in Venice
+September 2003
+The Sandman: Vol 11: Endless Nights, Death
+## * May 1751: A Venician court live the same day over and over locked away on a small island
+## 1993: <Sergei> has a brush with <Death> on a Venician island
+## 2003: <Sergei> Returns to Venice, and re-encounters <Death> 
+
+
+The Sandman Endless Nights #2
+The Sandman: Endless Nights
+Chapter 2: What I've Tasted of Desire
+September 2003
+The Sandman: Vol 11: Endless Nights
+## 30 | pre-roman Britain: A woman makes a deal with <Desire>
+
+
+The Sandman Endless Nights #3
+The Sandman: Endless Nights
+Chapter 3: The Heart of a Star
+September 2003
+The Sandman: Vol 11: Endless Nights
+## -4500000000 | 4.5 billion years ago: <Dream> and <Killalla of the Glow> visit a conference of the Stars ++ <Desire> <Death> <Delight> <Destruction> <Destiny> <Glory> <Despair>
+? Dream doesn't have ruby yet
+
+
+The Sandman Endless Nights #4
+The Sandman: Endless Nights
+Chapter 4: Fifteen Portraits of Despair
+September 2003
+The Sandman: Vol 11: Endless Nights
+# Fifteen Portraits of <Despair>
+
+
+The Sandman Endless Nights #5
+The Sandman: Endless Nights
+Chapter 5: Going Inside
+September 2003
+The Sandman: Vol 11: Endless Nights
+## 2003: A group set off to rescue <Delirium> from within ++ <Barnabas> <Matthew> <Dream (Daniel)>
+
+
+The Sandman Endless Nights #6
+The Sandman: Endless Nights
+Chapter 6: On the Peninsula
+September 2003
+The Sandman: Vol 11: Endless Nights
+## 2003.2: An archaeologist encounters <Destruction> whilst investigating the future.  <Delirium> is kept safe
+
+
+The Sandman Endless Nights #7
+The Sandman: Endless Nights
+Chapter 7: Endless Nights
+September 2003
+The Sandman: Vol 11: Endless Nights
+## 1994.87: <Destiny> takes a walk in his garden
+? Dream's statue matches one seen in Kindly Ones 7 (#63)
+
+
 Lucifer #40
 Lucifer: Naglfar
 Naglfar, Conclusion: Full Fathom Five
@@ -1239,66 +1302,6 @@ Lucifer
 Sisters of Mercy
 October 2003
 Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  6: Mansions of the Silence
-
-
-The Sandman Endless Nights #1
-The Sandman: Endless Nights
-Chapter 1: Death in Venice
-November 2003
-The Sandman: Vol 11: Endless Nights, Death
-## * May 1751: A Venician court live the same day over and over locked away on a small island
-## 1993: <Sergei> has a brush with <Death> on a Venician island
-## 2003: <Sergei> Returns to Venice, and re-encounters <Death> 
-
-
-The Sandman Endless Nights #2
-The Sandman: Endless Nights
-Chapter 2: What I've Tasted of Desire
-November 2003
-The Sandman: Vol 11: Endless Nights
-## 30 | pre-roman Britain: A woman makes a deal with <Desire>
-
-
-The Sandman Endless Nights #3
-The Sandman: Endless Nights
-Chapter 3: The Heart of a Star
-November 2003
-The Sandman: Vol 11: Endless Nights
-## -4500000000 | 4.5 billion years ago: <Dream> and <Killalla of the Glow> visit a conference of the Stars
-? Dream doesn't have ruby yet
-
-
-The Sandman Endless Nights #4
-The Sandman: Endless Nights
-Chapter 4: Fifteen Portraits of Despair
-November 2003
-The Sandman: Vol 11: Endless Nights
-# Fifteen Portraits of <Despair>
-
-
-The Sandman Endless Nights #5
-The Sandman: Endless Nights
-Chapter 5: Going Inside
-November 2003
-The Sandman: Vol 11: Endless Nights
-# A group set off to rescue <Delirium>
-
-
-The Sandman Endless Nights #6
-The Sandman: Endless Nights
-Chapter 6: On the Peninsula
-November 2003
-The Sandman: Vol 11: Endless Nights
-# An archaeologist encounters <Destruction> whilst investigating the future.  <Delirium> is kept safe
-
-
-The Sandman Endless Nights #7
-The Sandman: Endless Nights
-Chapter 7: Endless Nights
-November 2003
-The Sandman: Vol 11: Endless Nights
-## 1994.87: <Destiny> takes a walk in his garden
-? Dream's statue matches one seen in Kindly Ones 7 (#63)
 
 
 The Sandman Overture #1
