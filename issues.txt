@@ -641,8 +641,8 @@ The Sandman: Vol  8: Worlds' End, The Sandman: Book 3
 ## ~ 1800 | approx 19th century: Burial rites, then stories from the <Necropolis Litharge> ++ <Petrefax> <Hermas> <Mig> <Scroyle>
 ## ~ 1750 | approx 18th century: <Billy Scutt> the hangman escapes the gallows ++ <Mig>
 ## ~ 1790 | approx 18th century: <Scroyle> meets <Destruction> who tells him a tale about the <First Necropolis>
-## -1100000001 | aeons ago: The Endless arrive at the <First Necropolis> seeking <The Cerements> and <The Books of Ritual>.  <Destiny> destroys the city. ++ <Death> <Dream> <Destruction> <Delirium> <Desire>
-## -1100000000 | aeons ago: The village of <Litharge|Necropolis Litharge> gains a charter to become a Necropolis
+## -100001 | a hundred thousand years ago: The Endless arrive at the <First Necropolis> seeking <The Cerements> and <The Books of Ritual>.  <Destiny> destroys the city. ++ <Death> <Dream> <Destruction> <Delirium> <Desire>
+## -100000 | a hundred thousand years ago: The village of <Litharge|Necropolis Litharge> gains a charter to become a Necropolis
 ## ~ 1800 | approx 19th century: <Petrefax> tells a tale of Mistress <Veltis>
 ## ~ 1700 | approx 18th century: A young <Veltis> accidentally encounters a room deep in the catacombs containing <The Cerements> and <The Books of Ritual>
 ? Billy was a 'Resurrectionist' - https://en.wikipedia.org/wiki/Resurrectionists_in_the_United_Kingdom so 17th or 18th century.  Assuming 17th based on costume
@@ -819,7 +819,9 @@ The Sandman: The Wake
 Chapter 3: In Which We Wake
 November 1995
 The Sandman: Vol 10: The Wake, The Sandman: Book 4
-## 1995.052: While eulogies are given, <Dream (Daniel)> receives a visitor, and is received in turn by his siblings ++ <The Dreaming> <Duma> <Hob> <Lady Bast> <Lucien> <Merv> <Rose> <Jed> <Lyta> <Cluracan> <Nuala> <Mad Hettie> <Delirium> <Death> <Despair> <Desire> <Eblis O'Shaughnessy> <The Cerements> <The Gryphon> <The Wyvern> <The Hippogriff> <Destruction> <Darkseid> <Joshua Norton> <Wesley Dodds> <Matthew> <Barnabas> <Mazikeen> <Lucifer> <The Alderman> <Odin> <Shivering Jemmy> <Pharamond> <Alianora> <Anubis> <Lord Kilderkin|Order> <Thor> <Orpheus> <John Dee> <Alexander Burgess> <Paul McGuire> <Richard Madoc>
+## 1995.052: While eulogies are given, <Dream (Daniel)> receives visitors, and is received in turn by his siblings ++ <The Dreaming> <Duma> <Hob> <Lady Bast> <Lucien> <Merv> <Rose> <Jed> <Lyta> <Cluracan> <Nuala> <Mad Hettie> <Delirium> <Death> <Despair> <Desire> <Eblis O'Shaughnessy> <The Cerements> <The Gryphon> <The Wyvern> <The Hippogriff> <Destruction> <Darkseid> <Joshua Norton> <Wesley Dodds> <Matthew> <Barnabas> <Mazikeen> <Lucifer> <The Alderman> <Odin> <Shivering Jemmy> <Pharamond> <Alianora> <Anubis> <Lord Kilderkin|Order> <Thor> <Orpheus> <John Dee> <Alexander Burgess> <Paul McGuire> <Richard Madoc>
+## -100002 | a hundred thousand years ago: The first <Despair> was killed
+? Date based on Despair's comments of remembering the first Despair
 
 
 Sandman #73
@@ -844,7 +846,7 @@ The Sandman: Epilogue
 The Tempest
 March 1996
 The Sandman: Vol 10: The Wake, The Sandman: Book 4
-## * November 1610: <William Shakespeare> completes his final play, and visits <Dream> in his castle. ++ <The Dreaming>
+## * November 1610: <William Shakespeare> completes his final play, and visits <Dream> in his castle. ++ <The Dreaming> <The Gryphon> <The Wyvern> <The Hippogriff> 
 ? add more detail? **
 
 
