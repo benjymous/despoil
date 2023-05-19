@@ -11,22 +11,22 @@ The Sandman: Master of Dreams
 1. Sleep of the Just
 January 1989
 The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
-## * June 1916: <Roderick Burgess> captures <Dream> by mistake ++ <Alexander Burgess> <John Hathaway> <Ruthven Sykes> <Ruby|The Materioptikon> <Sand Pouch> <Helm|Helmet of Dreams> <Wych Cross> <Fawny Rig> <Magdalene Grimoire> 
+## * June 1916: <Roderick Burgess> captures <Dream> by mistake ++ <Alexander Burgess> <John Hathaway> <Ruthven Sykes> <Ruby|The Materioptikon> <Sand Pouch> <Helm|Helmet of Dreams> <Wych Cross> <Fawney Rig> <Magdalene Grimoire> 
 # <Unity Kincaid> falls deep asleep
 ## * June 1920: <John Hathaway> gives up 
 ## * August 1926: <Alexander Burgess> learns <Dream>'s identity
 ## * 1930: <Ruthven Sykes> trades <Dream>'s <Helm> with a demon for a magical <Amulet> ++ <Choronzon>
-## * 1936: <Ethel Cripps> steal <Dream>'s remaining artefacts, and the <Amulet>, leaving <Sykes|Ruthven Sykes> unprotected ++ <Ruby> <Sand Pouch>
+## * 1936: <Ethel Cripps> steal <Dream>'s remaining artifacts, and the <Amulet>, leaving <Sykes|Ruthven Sykes> unprotected ++ <Ruby> <Sand Pouch>
 ## * 1939.1: <Unity|Unity Kincaid> gives birth - the <baby|Miranda Walker> is adopted
 # <Wesley Dodds> - Golden age Sandman
-## * 1947: <Roderick Burgess> dies ++ <Fawny Rig> <Wych Cross>
-## * 1955: <Unity Kincaid> goes into a nursing home, and <Alexander Burgess> fails to make a bargain ++ <Fawny Rig> <Wych Cross> <Paul McGuire> <Dream>
-## * 1968: <Alexander Burgess> and <Paul McGuire> host parties ++ <Fawny Rig> <Wych Cross>
-## * 1970: <Alexander Burgess> abandons the order ++ <Fawny Rig> <Wych Cross> <Paul McGuire>
-## * 1972: <Alexander Burgess> again fails to bargain with <Dream> ++ <Fawny Rig> <Wych Cross> <Paul McGuire>
-## * 1978: <Alexander Burgess> hasn't had a good night's sleep in decades ++ <Fawny Rig> <Wych Cross> <Dream> <Paul McGuire>
-## * 1982: <Alexander Burgess> makes threats ++ <Fawny Rig> <Wych Cross> <Dream> <Paul McGuire>
-## * September 1988: <Dream> is released by accident, and puts a curse on <Alexander Burgess>.  <Unity> awakens ++ <Fawny Rig> <Wych Cross> <The Dreaming> <Paul McGuire>
+## * 1947: <Roderick Burgess> dies ++ <Fawney Rig> <Wych Cross>
+## * 1955: <Unity Kincaid> goes into a nursing home, and <Alexander Burgess> fails to make a bargain ++ <Fawney Rig> <Wych Cross> <Paul McGuire> <Dream>
+## * 1968: <Alexander Burgess> and <Paul McGuire> host parties ++ <Fawney Rig> <Wych Cross>
+## * 1970: <Alexander Burgess> abandons the order ++ <Fawney Rig> <Wych Cross> <Paul McGuire>
+## * 1972: <Alexander Burgess> again fails to bargain with <Dream> ++ <Fawney Rig> <Wych Cross> <Paul McGuire>
+## * 1978: <Alexander Burgess> hasn't had a good night's sleep in decades ++ <Fawney Rig> <Wych Cross> <Dream> <Paul McGuire>
+## * 1982: <Alexander Burgess> makes threats ++ <Fawney Rig> <Wych Cross> <Dream> <Paul McGuire>
+## * September 1988: <Dream> is released by accident, and puts a curse on <Alexander Burgess>.  <Unity> awakens ++ <Fawney Rig> <Wych Cross> <The Dreaming> <Paul McGuire>
 ? September 1988 is the date on the newspaper
 
 
@@ -43,7 +43,7 @@ The Sandman: Master of Dreams
 3. Dream a Little Dream of Me
 March 1989
 The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
-## 1988.8: <John Constantine> receives a warning, then helps <Dream> recover what was lost ++ <Mad Hettie> <Sand Pouch>
+## 1988.8: <John Constantine> receives a warning, then helps <Dream> recover what was lost ++ <Mad Hettie> <Sand Pouch> <London> <Chas>
 ## 1742 : <Mad Hettie> is born 
 ? Hettie is 247
 
@@ -255,7 +255,7 @@ Books of Magic: Miniseries
 The Land of Summer's Twilight
 January 1991
 Books of Magic
-## 1993.77 | October 1993: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Faerie> <Glory> <Baba Yaga> <Lady Titania> <Hell> <The Dreaming> <Cain> <Abel> <Goldie> <Dream>
+## 1993.77 | October 1993: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Faerie> <Glory> <Baba Yaga> <Lady Titania> <Mundane Egg> <Hell> <The Dreaming> <Cain> <Abel> <Goldie> <Dream>
 ? add more detail? **
 ? October because it's a halloween party - assuming all four volumes occur within a few days
 
@@ -274,7 +274,7 @@ The Road to Nowhere
 February 1991
 Books of Magic 
 ## 1993.78 | October 1993: <Mister E> takes <Tim> to see possible futures
-## 2008: The Great Clash
+## 2008: The Great Clash ++ <Tim Hunter> <Mister E> <John Constantine>
 ## 2900 | thirtieth century: The magic is coming back
 ## 5900 | sixtieth century: The Earth is segregated from the rest of the universe
 ## 2000000 | in millions of years time: Only 50000 'people' remain.  Science and Magic have lost all meaning.
@@ -750,7 +750,7 @@ The Sandman: The Kindly Ones
 The Kindly Ones: 9
 December 1994
 The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
-## 1994.92: <Rose> regains her heart while visiting <Paul|Paul McGuire>, <The Corinthian> sees through a God's eyes, <The Furies> cause some damage, and <Dream> visits <Thessaly> ++ <Fawny Rig> <Wych Cross> <Desire> <Swartalfheim> <Gilbert> <Daniel> 
+## 1994.92: <Rose> regains her heart while visiting <Paul|Paul McGuire>, <The Corinthian> sees through a God's eyes, <The Furies> cause some damage, and <Dream> visits <Thessaly> ++ <Fawney Rig> <Wych Cross> <Desire> <Swartalfheim> <Gilbert> <Daniel> 
 
 
 Sandman #66
@@ -924,8 +924,8 @@ The Sandman: Dream Hunters
 Dream Hunters
 October 1999
 The Sandman: Vol 12: Dream Hunters
-## 900 | ancient Japan : A rich bureaucrat seeks the peace of a monk ++ <Dream> <Three Witches> <The Dreaming> <Cain> <Abel>
-? Kyoto founded in 794, and 'Bureau of Divination' after 9th century 
+## 1400 | ancient Japan : A rich bureaucrat seeks the peace of a monk ++ <Dream> <Three Witches> <The Dreaming> <Cain> <Abel> <Baku>
+? Kyoto founded in 794, and 'Bureau of Divination' after 9th century.   Changed from 900->1400 to match The Dreaming #5
 
 
 Winter's Edge #3.1
@@ -1306,16 +1306,6 @@ October 2003
 Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  6: Mansions of the Silence
 
 
-The Sandman Overture #1
-The Sandman: Overture
-Chapter One
-December 2013
-The Sandman: Overture
-## -500000100 | half a billion years ago: Red furred humanoids, sapient plants and insect swarms dream ++ <Dream>
-## 1915.1: An aspect of <Dream> dies, a hundred galaxies away, but transfer is interrupted
-# <Dream> confronts <The Corinthian>, and finds himself halfway across the universe
-
-
 Lucifer #42
 Lucifer: Brothers in Arms
 Brothers in Arms, Part 1 of 3
@@ -1554,6 +1544,16 @@ August 2006
 Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 11: Evensong
 
 
+The Sandman Overture #1
+The Sandman: Overture
+Chapter One
+December 2013
+The Sandman: Overture
+## -500000100 | half a billion years ago: Red furred humanoids, sapient plants and insect swarms dream ++ <Dream>
+## 1915.1: An aspect of <Dream> dies, a hundred galaxies away, but transfer is interrupted
+# <Dream> confronts <The Corinthian>, and finds himself halfway across the universe
+
+
 The Sandman Overture #2
 The Sandman: Overture
 Chapter Two
@@ -1620,3 +1620,361 @@ The Sandman: Overture
 ## 1915.45: <Dream (cat)> takes the <Saeculum> and takes a few attempts to get things right ++ <Mad Hettie>'s
 ## 1915.6: The thousand dreams restart the universe.  Only <Dream> remembers.
 ## -500000045 | (or): A <Vortex> was destroyed ++ <Dream>
+
+
+The Sandman Universe #1
+Sandman Universe
+The Sandman Universe
+October 2018
+The Dreaming: Vol 1: Pathways and Emanations, House of Whispers: Vol 1: The Power Divided
+## 2018.610: <Dream (Daniel)> and <Lucifer> go missing, <Miranda|Miranda Walker> dreams of food, <Tim Hunter> starts again, and <Uncle Monday> is unchained. ++ <The Dreaming> <Lucien> <Merv> <Cain> <Abel> <Eve> <Matthew> <Miranda Walker> <Dora> <Rose Walker> <Ivy Walker> <Dr Rose> <Latoya> <Maggie> <Habibi> <Lumi> <Erzulie>
+## 1994.6: <Dora> is found by <Dream> ++ <Lucien> <The Dreaming>
+
+
+The Dreaming #1 
+Sandman Universe: The Dreaming
+The Kingdom
+November 2018
+The Dreaming: Vol 1: Pathways and Emanations
+## 2018.611: <Lucien> suffers conflict, <Dora> hunts for food, <Balam> attempts to enter. ++ <The Dreaming> <Cain> <Abel> <Matthew> <Ziggy> <Merv> <The Gryphon> <The Wyvern> <The Hippogriff> <Eve>
+
+
+House of Whispers #1
+Sandman Universe: House of Whispers
+Broken Telephone
+November 2018
+House of Whispers: Vol 1: The Power Divided
+## 2018.612: The <Houseboat> arrives in <The Dreaming>
+
+
+The Dreaming #2 
+Sandman Universe: The Dreaming 
+The Found
+December 2018
+The Dreaming: Vol 1: Pathways and Emanations
+## ~ 1618: <Dream> creates <Merv>
+## 2018.62: <Merv> releases <Judge Gallows> from the <Black Chest> ++ <The Dreaming> <Lucien> <The Cuckoo> <Dora> <Ziggy> <Eve> <The Wyvern> <Cain> <Abel> <Houseboat> <Erzulie> <The Hippogriff> <The Gryphon> <Matthew>
+
+
+House of Whispers #2
+Sandman Universe: House of Whispers
+The Power Divided
+December 2018
+House of Whispers: Vol 1: The Power Divided
+
+
+The Dreaming #3
+Sandman Universe: The Dreaming 
+The Glory
+January 2019
+The Dreaming: Vol 1: Pathways and Emanations
+## ~ 1865: <Dream> creates <Judge Gallows>
+## 2018.63: <Judge Gallows> observes, <Brute> and <Glob> make a comeback. ++ <The Dreaming> <Lucien> <Merv> <The Wyvern> <The Hippogriff> <The Gryphon> <Houseboat> <Erzulie> <Cain> <Abel> <Matthew> <Ziggy> <The Black Chest>
+? houseboat not broken / rebuilt yet
+
+
+House of Whispers #3
+Sandman Universe: House of Whispers
+Walk on Gilded Splinters
+January 2019
+House of Whispers: Vol 1: The Power Divided
+
+
+The Dreaming #4 
+Sandman Universe: The Dreaming 
+Eternity
+February 2019
+The Dreaming: Vol 1: Pathways and Emanations
+## 2018.64: <Cain> connects with the <new god|Wan>, <Abel> works the <gates|Gates of Horn and Ivory>, <Judge Gallows> unleashes a <Baku>, <Dora> takes <Lucien> to <The Fulcrum>. ++ <The Dreaming> <Balam> <Matthew> <Brute> <Glob> <Ziggy> 
+
+
+House of Whispers #4
+Sandman Universe: House of Whispers
+Dip Me In the Healing Stream
+February 2019
+House of Whispers: Vol 1: The Power Divided
+? 2018.641: new houseboat built
+
+
+The Dreaming #5 
+Sandman Universe: The Dreaming 
+The Balance
+March 2019
+The Dreaming: Vol 1: Pathways and Emanations
+## 1300 | ancient Japan: The <Baku> were <Dreamt|Dream>
+## 2018.65: <Dora> remembers, the Library is desecrated, <Lucien> falls, <Dream (Daniel)> walks away. ++ <The Dreaming> <Baku> <Glob> <Eve> <Merv> <The Hippogriff> <The Wyvern> <The Gryphon> <Judge Gallows> <Matthew> <The Fulcrum>
+? (after egg hatched)
+? 2018.65 aug 19
+
+
+House of Whispers #5
+Sandman Universe: House of Whispers
+Rumors of Glory
+March 2019
+House of Whispers: Vol 1: The Power Divided
+
+
+The Dreaming #6 
+Sandman Universe: The Dreaming 
+Judgment
+April 2019
+The Dreaming: Vol 1: Pathways and Emanations
+## 2018.66: <Abel> reverses the roles, <The AI|Wan> awakes ++ <The Dreaming> <Dora> <Cain> <Brute> <Glob> <Merv> <Judge Gallows> <Matthew> <The Wyvern> <Eve>
+
+
+House of Whispers #6
+Sandman Universe: House of Whispers
+Open the Unusual Door
+April 2019
+House of Whispers: Vol 1: The Power Divided
+## 2018.642: library not yet desecrated - before Dreaming #5
+? todo
+
+
+The Dreaming #7 
+Sandman Universe: The Dreaming
+Love Part 1
+May 2019
+The Dreaming: Vol 2: Empty Shells
+## 2018.651: <Dream (Daniel)> takes <Ivy|Ivy Walker>.  <Rose> finds <Lucien>
+## 2018.25: <Rose> meets <Dream (Daniel)> at <Fawney Rig> and sets him up with <Ivy>
+## 2018.3: <Ivy> tattoos <Dream (Daniel)> under a dark influence ++ <Rose> <Desire> <Fawney Rig>
+
+
+The Dreaming #8 
+Sandman Universe: The Dreaming
+Love Part 2
+June 2019
+The Dreaming: Vol 2: Empty Shells
+## 2018.31: <Rose> finally tells <Ivy> about <Miranda Walker>
+## 2018.32: <Dream (Daniel)> starts a journey.  <Ivy> seeks an exit. ++ <Fawney Rig> <Rose> <Desire>
+## 2018.69: <Lucien> disappears again
+
+
+The Dreaming #9 
+Sandman Universe: The Dreaming
+The Void
+July 2019
+The Dreaming: Vol 2: Empty Shells
+## 2018.70: <The AI|Wan> tries his best, <Dora> and <Matthew> drop in on <Nuala> ++ <The Dreaming> <Abel> <Merv> <Baku> <Faerie> <Balam>
+## 2018.33: <Dream (Daniel)> makes a <trade|Mundane Egg> ++ <Faerie> <Titania>
+
+
+The Dreaming #10 
+Sandman Universe: The Dreaming
+Empty Shells
+August 2019
+The Dreaming: Vol 2: Empty Shells
+## 2018.71: <The AI|Wan> continues trying, <Dora> gets a <rhyming escort|Balam>, the <Dark Moth> begins to unmake. ++ <Cain> <Matthew> <Baku> <Taramis>
+## 2018.34: <Dream (Daniel)> seeks an Elder God to incubate an <Egg|Mundane Egg> 
+
+
+The Dreaming #11 
+Sandman Universe: The Dreaming
+Understanding
+September 2019
+The Dreaming: Vol 2: Empty Shells
+## 2018.68: Cyclic events at the <Worlds' End> ++ <Dora> <Matthew> <Baku> <Ziggy>
+## 2018.35: <Dream (Daniel)> visits the <Worlds' End> Inn
+
+
+The Dreaming #12 
+Sandman Universe: The Dreaming
+Wisdom
+October 2019
+The Dreaming: Vol 2: Empty Shells
+## 2018.71: The <Dark Moth> continues unmaking, <Lucien> is returned, <The AI> explains ++ <The Dreaming> <Matthew> <Dora> <Baku> <Wan> <Eve> <Merv>
+
+
+The Dreaming #13
+Sandman Universe: The Dreaming
+Tiqqun, the Rectification
+November 2019
+The Dreaming: Vol 3: One Magical Movement
+## 2018.675 : Myths begin to wane.
+
+
+The Dreaming #14
+Sandman Universe: The Dreaming
+Shevirat, the Shattering
+December 2019
+The Dreaming: Vol 3: One Magical Movement
+## 2018.8 : <Dora> plays a dangerous gamer to find <Keter> ++ <The Dreaming> <Balam>
+
+
+The Sandman Presents: Hellblazer
+Sandman Universe: John Constantine Hellblazer
+The Best Version of You
+December 2019
+John Constantine Hellblazer: Vol 1: Marks of Woe
+## 2008: The Great Clash (from <John Constantine>'s POV) ++ <Tim Hunter> <Mister E> <Chas> <Old Constantine>
+## 2019: <John Constantine> awakes at <Ravenscar Hospital> and returns to <London>. ++ <Chas> <Old Constantine>
+
+
+The Dreaming #15
+Sandman Universe: The Dreaming
+The Crown Part One
+January 2020
+The Dreaming: Vol 3: One Magical Movement
+## 2018.81: A <Madman|John Constantine> achieves a brief moment of clarity, <Merv> begins to see, <Matthew> gets a new point of view, and <Lucien>'s heart is broken. ++ <The Dreaming> <Abel> <Goldie> <Wan> <Rose Walker> <Ravenscar Hospital> <Eve> <The Hippogriff> <The Wyvern> <The Gryphon>
+
+
+Books of Magic #14
+Sandman Universe: Books of Magic
+Bad Influences
+January 2020
+John Constantine Hellblazer: Vol 1: Marks of Woe, Books of Magic: Vol 3: Dwelling in Possibility
+## 2019: <Tim Hunter> is tested by <John Constantine>.  <The Vestibulan> gets trapped. ++ <Bita Ghūl> <Maz Ghūl> <London>
+
+
+John Constantine Hellblazer #1
+Sandman Universe: John Constantine Hellblazer
+A Green and Pleasant Land, Part One
+January 2020
+John Constantine Hellblazer: Vol 1: Marks of Woe
+## * 2019: <John Constantine> meets <Nat> and <Barry the Traffic>. <K-Mag> makes a proposition. ++  <Noah|Noah Ikumelo> <Derek|Derek the Beggar> <London>
+? Nat states it's 2019
+
+
+The Dreaming #16
+Sandman Universe: The Dreaming
+The Crown Part Two
+February 2020
+The Dreaming: Vol 3: One Magical Movement
+## * June 1994: <Dora> molests <Hyperion Keter> in his dreams.
+## * July 1994: <Hyperion Keter> tells <Dora> that she is not real.
+## * December 2001: <Hyperion Keter> decides to heal humanity
+## * March 2007: <Hyperion Keter> buys <Fawney Rig>
+## * October 2010: <Hyperion Keter> creates an <artificial sentience|Wan>
+## * May 2015: <Hyperion Keter> is dying of cancer
+## 2018.26 : <Dream (Daniel)> looks for love, and is entrapped again ++ <Ivy> <Hyperion Keter> <Fawney Rig>
+## * 2018.60 | August 2018: <Wan> is uploaded into <The Dreaming>
+## * 2018.67 | August 2018: <Cain> is trapped ++ <Hyperion Keter>
+## * 2018.70 | September 2018: <Dream (Daniel)> shows <Hyperion Keter> the error of his ways ++ <Mundane Egg>
+## 2018.81: <Hyperion Keter> dies when <Dora> destroys his life support ++ <Cain>
+
+
+John Constantine Hellblazer #2
+Sandman Universe: John Constantine Hellblazer
+A Green and Pleasant Land, Part Two
+February 2020
+John Constantine Hellblazer: Vol 1: Marks of Woe
+## 2019: <The Vestibulan> finds entertainment,  <D.S. Dole> makes a threat, and <Noah> asks for a chance. ++ <John Constantine> <K-Mag> <Nat> <Derek the Beggar> <London>
+
+
+The Dreaming #17
+Sandman Universe: The Dreaming
+The Crown Part Three
+March 2020
+The Dreaming: Vol 3: One Magical Movement
+## 2018.82: <Dark Moth> expedites, <Abel> escapes, <Lucien> finds the foundation ++ <The Dreaming> <Matthew> <Wan> <Baku> <Black Chest> <The Cuckoo> <Eve> <Brute> <Glob> <Merv> <Death>
+
+
+John Constantine Hellblazer #3
+Sandman Universe: John Constantine Hellblazer
+A Green and Pleasant Land, Part Three
+March 2020
+John Constantine Hellblazer: Vol 1: Marks of Woe
+## 2019: <Noah> makes a mistake, <Derek> finds forgiveness  ++ <John Constantine> <Nat> <Old Constantine> <London>
+
+
+The Dreaming #18
+Sandman Universe: The Dreaming
+The Crown Part Four
+April 2020
+The Dreaming: Vol 3: One Magical Movement
+## 2018.84: <Dora> finds treasure
+
+
+John Constantine Hellblazer #4
+Sandman Universe: John Constantine Hellblazer
+Scrubbing Up, Part One
+April 2020
+John Constantine Hellblazer: Vol 1: Marks of Woe
+## 2020: <Tommy Willowtree> makes an entrance ++ <John Constantine> <The Vestibulan> <Noah> <London> 
+
+
+The Dreaming #19
+Sandman Universe: The Dreaming
+One Magical Movement Part One
+May 2020
+The Dreaming: Vol 3: One Magical Movement
+## 2018.83: Lucien talks with Keter after Death
+# The Vortex returns
+
+
+John Constantine Hellblazer #5
+Sandman Universe: John Constantine Hellblazer
+Scrubbing Up, Part Two
+May 2020
+John Constantine Hellblazer: Vol 1: Marks of Woe
+## 2015: <Tommy Willowtree> is given charge of the <Merlintrove> ++ <Clarice Sackville> <Map>
+## 2020: <Tommy Willowtree> is appointed ++ <John Constantine> <Old Constantine> <Barry the Traffic> <The Vestibulan> <Clarice Sackville> <Nat>
+
+
+The Dreaming #20
+Sandman Universe: The Dreaming
+One Magical Movement Part Two
+June 2020
+The Dreaming: Vol 3: One Magical Movement
+## 2018.85: Daniel returns, Wan makes a sacrifice 
+
+
+John Constantine Hellblazer #6
+Sandman Universe: John Constantine Hellblazer
+Quiet
+June 2020
+John Constantine Hellblazer: Vol 1: Marks of Woe
+## 2013: <Liza Ikumelo> and <Noah> get involved in an incident
+## 2020: <Noah> releases a malevolent spirit.++ <D.S. Dole> <John Constantine> 
+
+
+John Constantine Hellblazer #7
+Sandman Universe: John Constantine Hellblazer
+Britannia, Rule the Waves, Part One
+August 2020
+John Constantine Hellblazer: Vol 2: The Best Version of You
+## 2020: <Freddie> goes fishing. ++ <John Constantine> <Old Constantine>
+
+
+John Constantine Hellblazer #8
+Sandman Universe: John Constantine Hellblazer
+Britannia, Rule the Waves, Part Two
+September 2020
+John Constantine Hellblazer: Vol 2: The Best Version of You
+## 2020: <Freddie> meets the fishes. ++ <John Constantine>
+
+
+John Constantine Hellblazer #9
+Sandman Universe: John Constantine Hellblazer
+The Favourite
+October 2020
+John Constantine Hellblazer: Vol 2: The Best Version of You
+## 2020: <John Constantine> tells a tale of Royals and Horses. ++ <Old Constantine> <Tommy Willowtree> <Bita Ghūl> <Nat>
+
+
+John Constantine Hellblazer #10
+Sandman Universe: John Constantine Hellblazer
+The Wake-Up Call
+November 2020
+John Constantine Hellblazer: Vol 2: The Best Version of You
+## 2020: <John Constantine> is hunted in his <Dreams|The Dreaming>. ++ <Clement Thurso> <Old Constantine> <Nat> <Noah> <The Vestibulan> <Tommy Willowtree>
+
+
+John Constantine Hellblazer #11
+Sandman Universe: John Constantine Hellblazer
+This Sceptred Isle, Part One
+December 2020
+John Constantine Hellblazer: Vol 2: The Best Version of You
+## 1002: <Rawhead-and-Bloody-Bones> was born.
+## 2000 | early 21st century: <John Constantine> imprisons <Rawhead-and-Bloody-Bones> for ten years ++ <Liza Ikumelo>.
+## 2012: <Rawhead-and-Bloody-Bones> takes <Clement Thurso>'s face.
+## 2020: <John Constantine> makes a giant discovery ++ <Barry the Traffic>.
+
+
+John Constantine Hellblazer #12
+Sandman Universe: John Constantine Hellblazer
+This Sceptred Isle, Conclusion
+January 2021
+John Constantine Hellblazer: Vol 2: The Best Version of You
+## 2020: <Tommy Willowtree> and <Nat> try to make a difference.  <John Constantine> twists everything. ++ <K-Mag> <Noah> <The Vestibulan> <Old Constantine> <Barry the Traffic>

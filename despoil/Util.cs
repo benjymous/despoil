@@ -131,7 +131,7 @@ namespace despoil
     public class CollectionComparer : IComparer<string>
     {
 
-        static readonly string[] Collections = { "The Sandman", "Death", "Books of Magic", "Lucifer", "Winter's Edge", "Free Country A Tale of The Children's Crusade" };
+        static readonly string[] Collections = { "The Sandman", "Death", "Books of Magic", "Lucifer", "The Dreaming", "House of Whispers", "John Constantine Hellblazer", "Winter's Edge", "Free Country A Tale of The Children's Crusade" };
 
         static readonly string[] Prefixes = { "Vol", "Overture", "Book", "Absolute", "Deluxe", "Omnibus" };
 
