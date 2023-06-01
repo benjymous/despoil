@@ -49,9 +49,9 @@ foreach (var entry in entries)
 
     for (int i = 5; i < entryLines.Length; i++)
     {
-        if (!(entryLines[i].StartsWith('#') || entryLines[i].StartsWith("?") || entryLines[i].StartsWith("!")))
+        if (!(entryLines[i].StartsWith('#') || entryLines[i].StartsWith("-") || entryLines[i].StartsWith("?") || entryLines[i].StartsWith("!")))
         {
-            throw new Exception($"Error with {entryLines[0]}\n{entryLines[i]}' should start with #, ?, or !");
+            throw new Exception($"Error with {entryLines[0]}\n{entryLines[i]}' should start with #, -, ?, or !");
         }
     }
 
@@ -175,10 +175,9 @@ foreach (var entry in entries)
         }
 
         var evBody = "";
+        var slimEvent = ev.StartsWith("-");
 
-        
-
-        if (ev.StartsWith("## "))
+        if (ev.StartsWith("## ") || (ev.StartsWith("-# ")))
         {
             var bits = ev.Split(':');
             dateStr = bits[0].Substring(2);
@@ -221,7 +220,7 @@ foreach (var entry in entries)
 
             evBody = String.Join(":", bits.Skip(1));
         }
-        else if (ev.StartsWith("# "))
+        else if (ev.StartsWith("# ") || ev.StartsWith("- "))
         {
             evBody = ev.Substring(2);
 
@@ -354,6 +353,7 @@ foreach (var entry in entries)
         itemData.Add(new Item
         {
             type = thread != "--" ? "Item" : "Intro",
+            slim = slimEvent,
             id = thread != "--" ? issueId : Util.MakeId(evBody.Trim()),
             body = evBody.Trim(),
             subtitle = $"{entryLines[3]} - {issueTitle}",

@@ -174,13 +174,29 @@
 
         {% when "Item" %}
 
+
         <div class='itemRow {{item.id}}_outer hidden'>
           <div class='{{item.dateclass}}' title='{{item.dateval}}'>{{item.date}}</div>
+
+          {% if item.slim %}
+
+          <div class='event slim {{item.threadkey}} {{item.id}} {{item.entities}}'>
+            <div class='itemSubtitle'>{{item.subtitle}}</div>
+            <span class='itemBody'>{{item.body}}</span>
+          </div>
+  
+          {% else %}
+
           <div class='event {{item.threadkey}} {{item.id}} {{item.entities}}'>
             <div class='itemSubtitle'>{{item.subtitle}}</div>
             <span class='itemBody'>{{item.body}}</span>
           </div>
+
+          {% endif %}
+
         </div>
+
+
 
         {% when "Date" %}
 

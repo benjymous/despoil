@@ -3,6 +3,7 @@
     public class Item
     {
         public string type { get; set; } = string.Empty;
+        public bool slim { get; set; } = false;
         public string id { get; set; } = string.Empty;
         public string subtitle { get; set; } = string.Empty;
         public string body { get; set; } = string.Empty;

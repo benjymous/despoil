@@ -213,6 +213,19 @@ span.entity:hover {
   transition: all 0.25s ease-in-out;
 }
 
+.slim {
+  font-size: 70%;
+  background-color: #fff5;
+  border-width: 1px;
+  border-radius: 5px;
+  border-right: 15px !important;
+  border-left: 15px !important;
+  padding: 5px 15px 5px 15px !important;
+
+  box-shadow: 1px 1px 8px 0px rgb(0 0 0 / 25%);
+
+}
+
 .issueToggle {
   width: 90%;
   margin: 15px 5% 3px 5%;
@@ -253,8 +266,10 @@ span.entity:hover {
   border: 0px;
   text-align: right;
   font-size: smaller;
-  padding: 30px 20px 0px 20px;
+  padding: 0px 20px 0px 20px;
   font-weight: lighter;
+  height: 100%;
+  transform: translateY(15%)
 }
 
 .knownDate {
@@ -264,18 +279,21 @@ span.entity:hover {
 .box div.itemSubtitle {
   /*width: 400px;*/
   text-align: right;
-  font-size: 10px;
+  font-size: 9px;
   position: relative;
   float: right;
   padding: 0px;
   margin-left: 0px;
-  margin-top: -25px;
+  margin-top: -15px;
+}
+
+.slim .itemSubtitle {
+  margin-top: 0px !important;
 }
 
 .extras {
   font-size: 10px;
   position: relative;
-  bottom: -11px;
   line-height: 17px;
   margin: 0px;
   padding: 0px;
