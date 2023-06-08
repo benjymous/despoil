@@ -27,7 +27,7 @@ setChecked = function (prefix, name, noScroll) {
     //setTimeout(function () { boxes[0].scrollIntoView({ behavior: "smooth" }) }, 10)
   }
 
-  const styleid = 'style_' + name
+  const styleId = 'style_' + name
   for (const box of boxes) {
     if (checkBox.checked) {
       box.classList.add('displayBlock')
@@ -37,7 +37,7 @@ setChecked = function (prefix, name, noScroll) {
 
       if (document.getElementById('style_' + name) == null) {
         var style = document.createElement('style')
-        style.id = styleid
+        style.id = styleId
         style.innerHTML = '.ei_' + name + ' { display: block !important; }'
         document.getElementsByTagName('head')[0].appendChild(style)
       }
@@ -126,7 +126,7 @@ setChildren = function (name) {
 }
 
 setParents = function (name) {
-  const rootChecks = document.getElementsByClassName("checkroot")
+  const rootChecks = document.getElementsByClassName("checkRoot")
 
   for (const checkBox of rootChecks) {
     const childNames = checkBox.dataset.children.split(",")

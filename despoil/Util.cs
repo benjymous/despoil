@@ -57,8 +57,7 @@ namespace despoil
         public static double ParseDate(string date)
         {
             if (date.Contains("|"))
-            {
-                
+            {                
                 date = date.Substring(0, date.IndexOf("|"));
             }
             date = date.Replace("~", "").Trim();

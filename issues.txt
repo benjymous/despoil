@@ -11,7 +11,7 @@ The Sandman: Master of Dreams
 1. Sleep of the Just
 January 1989
 The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
-## * June 1916: <Roderick Burgess> captures <Dream> by mistake ++ <Alexander Burgess> <John Hathaway> <Ruthven Sykes> <Ruby|The Materioptikon> <Sand Pouch> <Helm|Helmet of Dreams> <Wych Cross> <Fawney Rig> <Magdalene Grimoire> 
+## * June 1916: <Roderick Burgess> captures <Dream> by mistake ++ <Imprisonment of Dream> <Alexander Burgess> <John Hathaway> <Ruthven Sykes> <Ruby|The Materioptikon> <Sand Pouch> <Helm|Helmet of Dreams> <Wych Cross> <Fawney Rig> <Magdalene Grimoire> 
 - <Unity Kincaid> falls deep asleep
 -# * June 1920: <John Hathaway> gives up 
 -# * August 1926: <Alexander Burgess> learns <Dream>'s identity
@@ -72,7 +72,7 @@ The Sandman: Master of Dreams
 6. 24 Hours
 June 1989
 The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
-## 1989.26: <Judy> makes some phone calls, <John Dee> doesn't leave any survivors ++ <All Nite Diner> <Rose|Rose Walker> <Donna|Foxglove> <Dream>
+## 1989.26: <Judy|Judy Talbot> makes some phone calls, <John Dee> doesn't leave any survivors ++ <All Nite Diner> <Rose|Rose Walker> <Donna|Foxglove> <Dream>
 
 
 Sandman #7
@@ -114,7 +114,7 @@ The Sandman: The Doll's House
 2. Moving in
 December 1989
 The Sandman: Vol  2: The Doll's House, The Sandman: Book 1
-## 1989.72: <Rose> moves in, <Matthew> Watches, <Jed> is trapped, and <The Corinthian> gets in contact ++ <Hal Carter> <Barbie> <Ken> <Chantal> <Zelda> <Gilbert|Fiddler's Green> <Hector Hall> <Hippolyta Hall> <Brute> <Glob> <Dream>
+## 1989.72: <Rose> moves in, <Matthew> Watches, <Jed|Jed Walker> is trapped, and <The Corinthian> gets in contact ++ <Hal Carter> <Barbie> <Ken> <Chantal> <Zelda> <Gilbert|Fiddler's Green> <Hector Hall> <Hippolyta Hall> <Brute> <Glob> <Dream>
 ? unnamed faceless green nightmares later seen in #64
 
 
@@ -146,7 +146,7 @@ The Sandman: The Doll's House
 5. Collectors
 March 1990
 The Sandman: Vol  2: The Doll's House, The Sandman: Book 1
-## 1989.75 | late autumn 1989: <Rose> and <Jed> are rescued.  <The Corinthian> is unmade ++ <Gilbert> <Dream> <Corinthian's Skull>
+## 1989.75 | late autumn 1989: <Rose> and <Jed> are rescued.  <The Corinthian> is unmade ++ <Cereal Convention> <Gilbert> <Dream> <Corinthian's Skull> <Philip Sitz> 
 -# 1989: <Family Man>: see Hellblazer #23-31 ++ <John Constantine> 
 -# 1986: <Bogeyman>: see Swamp Thing #44 ++ <John Constantine> <Swamp Thing>
 -# 1968: <Rose Walker> is born ++ <Miranda Walker>
@@ -195,7 +195,7 @@ The Sandman: Dream Country
 A Midsummer Night's Dream
 September 1990
 The Sandman: Vol  3: Dream Country, The Sandman: Book 1
-## * June 1593: <William Shakespeare>'s company perform for <Dream> and a host of Faeries.  <Robin Goodfellow|Puck> stays behind ++ <Auberon> <Lady Titania> 
+## * June 1593: <William Shakespeare>'s company perform for <Dream> and a host of Faeries.  <Robin Goodfellow|Puck> stays behind ++ <Auberon> <Titania> 
 ? add more detail? **
 
 
@@ -215,7 +215,7 @@ November 1990
 Books of Magic 
 ## October 1993: <Tim Hunter> meets the <Phantom Stranger>, <John Constantine>, <Doctor Occult> and <Mister E>
 # The <Phantom Stranger> introduces <Tim|Tim Hunter> to the history of magic
--# -10000000000 | ten billion years ago: War in <The Silver City> ++ <Lucifer|Lucifer Morningstar>
+-# -10000000000 | ten billion years ago: <War in The Silver City> ++ <Lucifer|Lucifer Morningstar> <The Silver City>
 -# -50000 | fifty thousand years ago: End of <Atlantis>
 
 
@@ -250,7 +250,7 @@ Season of Mists: Chapter 1
 January 1991
 The Sandman: Vol  4: Season of Mists, The Sandman: Book 2
 ## 1990.8: <Dream> prepares to say goodbye again, <Cain> has an unhappy time playing messenger, <Lyta>'s child is given a name, and <Hob> is given an unexpected gift ++ <Hell> <Lucifer> <Lucien> <Matthew> <The Dreaming> <The Fashion Thing> <Merv|Merv Pumpkin Head> <Mazikeen> <Nada> <Daniel>
--# -10000000000 | ten billion years ago: <Lucifer> falls to <Hell>
+-# -9000000000 | ten billion years ago: <Lucifer> falls to <Hell> ++ <War in The Silver City>
 ? Daniel is a week old
 
 
@@ -259,7 +259,7 @@ Books of Magic: Miniseries
 The Land of Summer's Twilight
 January 1991
 Books of Magic
-## 1993.77 | October 1993: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Faerie> <Glory> <Baba Yaga> <Lady Titania> <Mundane Egg> <Hell> <The Dreaming> <Cain> <Abel> <Goldie> <Dream>
+## 1993.77 | October 1993: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Faerie> <Glory> <Baba Yaga> <Titania> <Mundane Egg> <Hell> <The Dreaming> <Cain> <Abel> <Goldie> <Dream>
 ? add more detail? **
 ? October because it's a halloween party - assuming all four volumes occur within a few days
 
@@ -282,7 +282,7 @@ Books of Magic
 -# 2900 | thirtieth century: The magic is coming back
 -# 5900 | sixtieth century: The Earth is segregated from the rest of the universe
 -# 2000000 | in millions of years time: Only 50000 'people' remain.  Science and Magic have lost all meaning.
--# 100000000010 | end of time: <Death> locks the place behind her as she leaves ++ <Destiny>
+-# 100000000010 | End of Time: <Death> locks the place behind her as she leaves ++ <End of Time> <Destiny>
 ? add more detail? **
 
 
@@ -359,7 +359,7 @@ The Sandman: The Song of Orpheus
 The Song of Orpheus
 November 1991
 The Sandman: Vol  6: Fables and Reflections, The Sandman: Book 2
--# ~ -500: <Orpheus> ventures to the underworld to try and bring back his wife ++ <Eurydice> <Dream> <Aristaeus> <Calliope> <Death> <Delirium> <Destiny> <Desire> <Death's House> <The Dreaming> <Despair> <Destruction> <The Gryphon> <The Wyvern> <The Hippogriff>
+-# ~ -500: <Orpheus> ventures to the underworld to try and bring back his wife ++ <Orpheus and Eurydice> <Eurydice> <Dream> <Aristaeus> <Calliope> <Death> <Delirium> <Destiny> <Desire> <Death's House> <The Dreaming> <Despair> <Destruction> <The Gryphon> <The Wyvern> <The Hippogriff>
 ? add more detail? **
 
 
@@ -445,12 +445,12 @@ The Sandman: Vol  6: Fables and Reflections, The Sandman: Book 3
 -# -300001 | early man: <Adam> rejects his second wife ++ <Eden>
 -# -300000 | early man: <Adam> and his third wife, <Eve> eat from the <Tree of Knowledge> and are expelled from <Eden>
 -# -299000 | early man: <Eve> retreats to her cave
--# -10000000000 | the oldest story: <Cain> and <Abel> come to <The Dreaming> ++ <Dream> <Death> <The Wyvern> <The Hippogriff>
+-# -8000000000 | the oldest story: <Cain> and <Abel> come to <The Dreaming> ++ <Dream> <Death> <The Wyvern> <The Hippogriff>
 ? Daniel is roughly 18 months old, so early 1992 if born late 1990 (#22)
 ? happens after Thessaly invited
 ? add more detail? **
 ? the 'oldest story' elements happen *before* Dream created the ruby
-? unclear if Adam/Eve/Lilith belong within humanity's timeframe
+? unclear if Adam/Eve/Lilith belong within humanity's time frame
 
 
 Sandman #41
@@ -528,7 +528,7 @@ March 1993
 Death
 ## June 1992: <Mad Hettie> performs a ritual
 ## July 1992: <Sexton Furnival> tries to say goodbye, but found by <Didi|Death>.  <Mad Hettie> comes to visit ++ <Sylvia Furnival> <Mrs Robbins>
-? Mad Hettie is 250, so date ~1992
+? Mad Hettie is 250, so date ~ 1992
 
 
 Sandman #47
@@ -606,7 +606,7 @@ The Sandman: Worlds' End
 2. Cluracan's Tale
 August 1993
 The Sandman: Vol  8: Worlds' End, The Sandman: Book 3
--# 1993.3: <Lady Titania> sends <Cluracan> to visit the <Lords Carnal> in the city of <Aurelia of the Plains> ++ <Faerie> <Nuala> <Dream> <The Dreaming>
+-# 1993.3: <Lady Titania|Titania> sends <Cluracan> to visit the <Lords Carnal> in the city of <Aurelia of the Plains> ++ <Faerie> <Nuala> <Dream> <The Dreaming>
 ? occurs somewhere between end of Season of Mists and beginning of Kindly Ones
 
 
@@ -660,7 +660,7 @@ The Sandman: Worlds' End
 6. Worlds' End
 December 1993
 The Sandman: Vol  8: Worlds' End, The Sandman: Book 3
--# 1995.051: A funeral procession across the sky. ++ <Destiny> <Despair> <Delirium> <Death> <Desire> <Lady Bast> <Odin> <Thor> <Merv> <Wilkinson> <Luz> <Lady Titania> <Joshua Norton> <Gilbert> <Martin Tenbones> <Duma> <Matthew> <Nuala> <Abel> <Cain> <Worlds' End>
+-# 1995.051: A funeral procession across the sky. ++ <Destiny> <Despair> <Delirium> <Death> <Desire> <Lady Bast> <Odin> <Thor> <Merv> <Wilkinson> <Luz> <Titania> <Joshua Norton> <Gilbert> <Martin Tenbones> <Duma> <Matthew> <Nuala> <Abel> <Cain> <Worlds' End>
 ## 1993.5: The storm passes, and the Inn's visitors disperse.  <Charlene> chooses to stay behind, and <Petrefax> chooses to travel ++ <Worlds' End>
 ## 1993.8: <Brant> tells his story in a bar.  No evidence <Charlene> ever existed
 ? need to identify who else is in the procession
@@ -719,7 +719,7 @@ The Sandman: The Kindly Ones
 The Kindly Ones: 5
 July 1994
 The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
-## 1994.80: <Rose> visits a friend and receives a message, <Dream> sends <The Corinthian> and <Matthew> on an errand, <Nuala> returns home, <Carla> visits the police and is visited by <Loki> ++ <Lyta> <Zelda> <Lady Titania> <Boggart> <Pinkerton>
+## 1994.80: <Rose> visits a friend and receives a message, <Dream> sends <The Corinthian> and <Matthew> on an errand, <Nuala> returns home, <Carla> visits the police and is visited by <Loki> ++ <Lyta> <Zelda> <Titania> <Boggart> <Pinkerton>
 ? 4 years since Unity died (#16) - end of 1993?
 
 
@@ -762,7 +762,7 @@ The Sandman: The Kindly Ones
 The Kindly Ones: 10
 January 1995
 The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
-## 1994.94: <Puck> goes away, <Loki> returns, <The Furies> continue, <Nuala> breaks convention, <Rose> flies home, and <Dream> leaves ++ <Swartalfheim> <The Corinthian> <Daniel> <Odin> <Thor> <Sigyn> <Abel> <Faerie> <Cluracan> <Lady Titania> <Lord Ruthven> <Merv> <Abudah> <Lucien> <Delirium> <Borghal Rantipole>
+## 1994.94: <Puck> goes away, <Loki> returns, <The Furies> continue, <Nuala> breaks convention, <Rose> flies home, and <Dream> leaves ++ <Swartalfheim> <The Corinthian> <Daniel> <Odin> <Thor> <Sigyn> <Abel> <Faerie> <Cluracan> <Titania> <Lord Ruthven> <Merv> <Abudah> <Lucien> <Delirium> <Borghal Rantipole>
 
 
 Sandman #67
@@ -786,7 +786,7 @@ The Sandman: The Kindly Ones
 The Kindly Ones: 13
 July 1995
 The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
-## 1995.02: <Death> makes some pigeons, The first <Dream> comes to an end, <Delirium> finds a friend, <Lucifer> calls it a day (again), <Hal> is late, and <Alexander Burgess>, <Lyta> and <Daniel> all awake ++ <Matthew> <The Corinthian> <Lucien> <Nuala> <Loki> <Lady Titania> <Cluracan> <Puck> <Barnabas> <Mazikeen> <Lux>
+## 1995.02: <Death> makes some pigeons, The first <Dream> comes to an end, <Delirium> finds a friend, <Lucifer> calls it a day (again), <Hal> is late, and <Alexander Burgess>, <Lyta> and <Daniel> all awake ++ <Matthew> <The Corinthian> <Lucien> <Nuala> <Loki> <Titania> <Cluracan> <Puck> <Barnabas> <Mazikeen> <Lux>
 
 
 Sandman #70
@@ -794,7 +794,7 @@ The Sandman: The Wake
 Chapter 1: Which Occurs in the Wake of What Has Gone Before
 August 1995
 The Sandman: Vol 10: The Wake, The Sandman: Book 4
-## 1995.05: The Endless gather at the <Necropolis Litharge>, and <Eblis O'Shaughnessy> fetches the necessary items.  <Matthew> sulks while <Dream (Daniel)|Daniel> begins a process of recreation, and the influence of <Destiny> is felt   ++ <Despair> <Death> <Desire> <Delirium> <Barnabas> <The Sithcundman> <The Cerements> and <The Books of Ritual> <Cain> <Abel> <The Corinthian> <Merv> <Gilbert> <Eve> <Nuala> <Rose> <Richard Madoc> <Lyta> <Alexander Burgess> <Hob> <Lady Titania> <Duma> <Lady Bast> <Chiron> <The Dreaming>
+## 1995.05: The Endless gather at the <Necropolis Litharge>, and <Eblis O'Shaughnessy> fetches the necessary items.  <Matthew> sulks while <Dream (Daniel)|Daniel> begins a process of recreation, and the influence of <Destiny> is felt   ++ <Despair> <Death> <Desire> <Delirium> <Barnabas> <The Sithcundman> <The Cerements> and <The Books of Ritual> <Cain> <Abel> <The Corinthian> <Merv> <Gilbert> <Eve> <Nuala> <Rose> <Richard Madoc> <Lyta> <Alexander Burgess> <Hob> <Titania> <Duma> <Lady Bast> <Chiron> <The Dreaming>
 ? Jan 95, based on #73
 
 
@@ -803,7 +803,7 @@ The Sandman: The Wake
 Chapter 2: In Which a Wake is Held
 September 1995
 The Sandman: Vol 10: The Wake, The Sandman: Book 4
-## 1995.051: The Endless build a house of remembrance, <Dream (Daniel)> worries while everyone remembers, and <Matthew> makes peace ++ <The Dreaming> <The Corinthian> <Taramis> <The Fashion Thing> <Lord Ruthven> <Lucien> <Eblis O'Shaughnessy> <Cain> <Abel> <Goldie> <Calliope> <Reincarnated Nada|Nada> <Thessaly> <Eric> <Destiny> <Merv> <The Gryphon> <The Wyvern> <The Hippogriff> <Mad Hettie> <Cluracan> <Nuala> <Cluracan's Nemesis> <Abudah> <Lady Titania> <Rose> <Jed> <Lyta> <Bhartari> <Eve> <Clark Kent> <Batman> <Martian Manhunter> <Phantom Stranger> <John Constantine> <Doctor Occult> <Hob> <Chiron> <Death> <Delirium> <Despair> <Desire> <Barnabas> 
+## 1995.051: The Endless build a house of remembrance, <Dream (Daniel)> worries while everyone remembers, and <Matthew> makes peace ++ <The Dreaming> <The Corinthian> <Taramis> <The Fashion Thing> <Lord Ruthven> <Lucien> <Eblis O'Shaughnessy> <Cain> <Abel> <Goldie> <Calliope> <Reincarnated Nada|Nada> <Thessaly> <Eric> <Destiny> <Merv> <The Gryphon> <The Wyvern> <The Hippogriff> <Mad Hettie> <Cluracan> <Nuala> <Cluracan's Nemesis> <Abudah> <Titania> <Rose> <Jed> <Lyta> <Bhartari> <Eve> <Clark Kent> <Batman> <Martian Manhunter> <Phantom Stranger> <John Constantine> <Doctor Occult> <Hob> <Chiron> <Death> <Delirium> <Despair> <Desire> <Barnabas> 
 ## 1992: <Dream> invites <Thessaly> to stay in <The Dreaming>
 ## 1992.45: <Thessaly> leaves <The Dreaming> after realising she never really loved <Dream>
 ?  Who else is pictured?
@@ -814,7 +814,7 @@ Sandman Midnight Theatre
 Sandman Midnight Theatre
 September 1995
 The Sandman: Deluxe Edition Book 1
-## 1939.2: <Wesley Dodds> has a brief encounter with <Dream>
+## 1939.2: <Wesley Dodds> has a brief encounter with <Dream> ++ <Fawney Rig> <Wych Cross> <Roderick Burgess>
 ? add more detail? **
 
 
@@ -883,6 +883,151 @@ Death
 ## November 1995: <Boris> doesn't come back ++ <Foxglove> <Hazel> <Death>
 
 
+The Sandman: Book of Dreams #1
+The Sandman: Book of Dreams
+Masquerade and High Water
+August 1996
+The Sandman: Book of Dreams
+# 1993: <Desire> interferes with a recurring dream. ++ <The Dreaming> <Dream> <Lucien> <Matthew> <Merv> 
+? Set before dream dies.  Can't be between 1990-1992
+
+
+The Sandman: Book of Dreams #2
+The Sandman: Book of Dreams
+Chain Home, Low
+August 1996
+The Sandman: Book of Dreams
+-# 1904: <Roderick Burgess> purchases <Fawney Rig>
+-# 1926: The last confirmed case of sleepy sickness is reported
+## 1940: A German pilot attempts to bomb a target only seen in his dreams ++ <Fawney Rig>
+? Set during Sandman #1
+
+
+The Sandman: Book of Dreams #3
+The Sandman: Book of Dreams
+Stronger Than Desire
+August 1996
+The Sandman: Book of Dreams
+## *1108: A Lord makes a wager with <Desire> 
+
+
+The Sandman: Book of Dreams #4
+The Sandman: Book of Dreams
+Each Damp Thing 
+August 1996
+The Sandman: Book of Dreams
+-# ~1970 |: <Cain> finds a black mirror within the ruined palace
+## 1993: <The Dreaming> becomes solipsistic ++ <Cain> <Abel> <Lucien> <Goldie> <Nuala> <Matthew> <The Fashion Thing> <Dream>
+
+
+The Sandman: Book of Dreams #5
+The Sandman: Book of Dreams
+The Birth Day 
+August 1996
+The Sandman: Book of Dreams
+## -8000 | neolithic: A girl learns of herding in a <Dream>
+? earliest story in volume
+
+
+The Sandman: Book of Dreams #6
+The Sandman: Book of Dreams
+Splatter
+August 1996
+The Sandman: Book of Dreams
+## 1989.745: An author gets invited to a <Cereal Convention>
+? Set during #14
+
+
+The Sandman: Book of Dreams #7
+The Sandman: Book of Dreams
+Seven Nights in Slumberland
+August 1996
+The Sandman: Book of Dreams
+## 1905: Little Nemo dreams of <Desire> ++ <Delirium> <Despair> <Death> <Destiny> <Dream>
+
+
+The Sandman: Book of Dreams #8
+The Sandman: Book of Dreams
+Escape Artist
+August 1996
+The Sandman: Book of Dreams
+## 1982: <Alvin|Wanda> dwells on the past while waiting for the future ++ <Eve> <Matthew> <Despair> 
+
+
+The Sandman: Book of Dreams #9
+The Sandman: Book of Dreams
+An Extra Smidgeon of Eternity
+August 1996
+The Sandman: Book of Dreams
+## ~1985|: <Wanda> tells stories to a dying friend ++ <Delirium> <Death>
+
+
+
+The Sandman: Book of Dreams #10
+The Sandman: Book of Dreams
+The Writer's Child
+August 1996
+The Sandman: Book of Dreams
+## ~1990|: A child finds a story of admission ++ <Dream> <The Dreaming>
+? after 1989 (rescue rangers)
+
+
+The Sandman: Book of Dreams #11
+The Sandman: Book of Dreams
+Endless Sestina 
+August 1996
+The Sandman: Book of Dreams
+
+
+The Sandman: Book of Dreams #12
+The Sandman: Book of Dreams
+The Gate of Gold
+August 1996
+The Sandman: Book of Dreams
+## ~1990|: A doll seeks to follow the path of <Dream> ++ <The Dreaming> <The Gryphon> <The Wyvern> <The Hippogriff> <Matthew>
+
+
+The Sandman: Book of Dreams #13
+The Sandman: Book of Dreams
+A Bone Dry Place
+August 1996
+The Sandman: Book of Dreams
+
+
+The Sandman: Book of Dreams #14
+The Sandman: Book of Dreams
+The Witch's Heart
+August 1996
+The Sandman: Book of Dreams
+
+
+The Sandman: Book of Dreams #15
+The Sandman: Book of Dreams
+The Mender of Broken Dreams
+August 1996
+The Sandman: Book of Dreams
+
+
+The Sandman: Book of Dreams #16
+The Sandman: Book of Dreams
+Ain't You 'Most Done?
+August 1996
+The Sandman: Book of Dreams
+
+
+The Sandman: Book of Dreams #17
+The Sandman: Book of Dreams
+Valóság and Élet
+August 1996
+The Sandman: Book of Dreams
+
+
+The Sandman: Book of Dreams #18
+The Sandman: Book of Dreams
+August 1996
+The Sandman: Book of Dreams
+
+
 Winter's Edge #1
 Winter's Edge
 Desire - The Flowers of Romance
@@ -946,6 +1091,34 @@ Waiting for Good Dough
 January 2000
 Winter's Edge
 ## December 1999: <Edwin Paine> and <Charles Rowland> fail to track down <Tim Hunter> at the <Worlds' End> inn
+
+
+Sandman Presents: Petrefax #1
+Sandman Presents: Petrefax
+Travels In Malegrise Part 1
+March 2000
+--
+
+
+Sandman Presents: Petrefax #2
+Sandman Presents: Petrefax
+Travels In Malegrise Part 2
+April 2000
+--
+
+
+Sandman Presents: Petrefax #3
+Sandman Presents: Petrefax
+Travels In Malegrise Part 3
+May 2000
+--
+
+
+Sandman Presents: Petrefax #4
+Sandman Presents: Petrefax
+Travels In Malegrise Part 4
+June 2000
+--
 
 
 Lucifer #1
@@ -1631,7 +1804,7 @@ Sandman Universe
 The Sandman Universe
 October 2018
 The Dreaming: Vol 1: Pathways and Emanations, House of Whispers: Vol 1: The Power Divided
-## 2018.610: <Dream (Daniel)> and <Lucifer> go missing, <Miranda|Miranda Walker> dreams of food, <Tim Hunter> starts again, and <Uncle Monday> is unchained. ++ <The Dreaming> <Lucien> <Merv> <Cain> <Abel> <Eve> <Matthew> <Miranda Walker> <Dora> <Rose Walker> <Ivy Walker> <Dr Rose> <Latoya> <Maggie> <Habibi> <Lumi> <Erzulie>
+## 2018.610: <Dream (Daniel)> and <Lucifer> go missing, <Miranda|Miranda Walker> dreams of food, <Tim Hunter> starts again, <Latoya> finds a book and <Uncle Monday> is unchained. ++ <The Dreaming> <Lucien> <Merv> <Cain> <Abel> <Eve> <Matthew> <Miranda Walker> <Dora> <Rose Walker> <Ivy Walker> <Dr Rose> <Maggie> <Habibi> <Lumi> <Erzulie>
 -# 1994.6: <Dora> is found by <Dream> ++ <Lucien> <The Dreaming>
 
 
@@ -1640,7 +1813,7 @@ Sandman Universe: The Dreaming
 The Kingdom
 November 2018
 The Dreaming: Vol 1: Pathways and Emanations
-## 2018.611: <Lucien> suffers conflict, <Dora> hunts for food, <Balam> attempts to enter. ++ <The Dreaming> <Cain> <Abel> <Matthew> <Ziggy> <Merv> <The Gryphon> <The Wyvern> <The Hippogriff> <Eve>
+## 2018.61: <Lucien> suffers conflict, <Dora> hunts for food, <Balam> attempts to enter. ++ <The Dreaming> <Cain> <Abel> <Matthew> <Ziggy> <Merv> <The Gryphon> <The Wyvern> <The Hippogriff> <Eve>
 
 
 House of Whispers #1
@@ -1648,7 +1821,7 @@ Sandman Universe: House of Whispers
 Broken Telephone
 November 2018
 House of Whispers: Vol 1: The Power Divided
-## 2018.612: The <Houseboat> arrives in <The Dreaming>
+## 2018.615: <Shakpana> breaks through,  <The Houseboat> arrives in <The Dreaming>. ++ <Uncle Monday> <Erzulie> <Alter Boi> <Habibi> <Lumi> <Latoya> <Maggie> <Cain> <Abel> <Goldie>
 
 
 The Dreaming #2 
@@ -1657,7 +1830,7 @@ The Found
 December 2018
 The Dreaming: Vol 1: Pathways and Emanations
 -# ~ 1618: <Dream> creates <Merv>
-## 2018.62: <Merv> releases <Judge Gallows> from <The Black Chest> ++ <The Dreaming> <Lucien> <The Cuckoo> <Dora> <Ziggy> <Eve> <The Wyvern> <Cain> <Abel> <Houseboat> <Erzulie> <The Hippogriff> <The Gryphon> <Matthew>
+## 2018.62: <Merv> releases <Judge Gallows> from <The Black Chest> ++ <The Dreaming> <Lucien> <The Cuckoo> <Dora> <Ziggy> <Eve> <The Wyvern> <Cain> <Abel> <The Houseboat> <Erzulie> <The Hippogriff> <The Gryphon> <Matthew>
 
 
 House of Whispers #2
@@ -1665,6 +1838,7 @@ Sandman Universe: House of Whispers
 The Power Divided
 December 2018
 House of Whispers: Vol 1: The Power Divided
+## 2018.625: <Latoya> reawakens, <The Houseboat> fails to leave... ++ <The Dreaming> <Uncle Monday> <Erzulie> <Cain> <Abel> <Goldie> <Lumi> <Habibi> <Latoya's father ??> <Alter Boi> <Lord Agwe> <Gregory> <Shakpana>
 
 
 The Dreaming #3
@@ -1673,7 +1847,7 @@ The Glory
 January 2019
 The Dreaming: Vol 1: Pathways and Emanations
 -# ~ 1865: <Dream> creates <Judge Gallows>
-## 2018.63: <Judge Gallows> observes, <Brute> and <Glob> make a comeback. ++ <The Dreaming> <Lucien> <Merv> <The Wyvern> <The Hippogriff> <The Gryphon> <Houseboat> <Erzulie> <Cain> <Abel> <Matthew> <Ziggy> <The Black Chest>
+## 2018.63: <Judge Gallows> observes, <Brute> and <Glob> make a comeback. ++ <The Dreaming> <Lucien> <Merv> <The Wyvern> <The Hippogriff> <The Gryphon> <The Houseboat> <Erzulie> <Cain> <Abel> <Matthew> <Ziggy> <The Black Chest>
 ? houseboat not broken / rebuilt yet
 
 
@@ -1682,6 +1856,7 @@ Sandman Universe: House of Whispers
 Walk on Gilded Splinters
 January 2019
 House of Whispers: Vol 1: The Power Divided
+## 2018.635: <Maggie> and <Latoya> begin the spread ++  <The Dreaming> <Merv> <Cain> <Abel> <Goldie> <Gregory> <Erzulie> <Turtle> <Uncle Monday> <Shakpana> 
 
 
 The Dreaming #4 
@@ -1689,7 +1864,7 @@ Sandman Universe: The Dreaming
 Eternity
 February 2019
 The Dreaming: Vol 1: Pathways and Emanations
-## 2018.64: <Cain> connects with the <new god|Wan>, <Abel> works the <gates|Gates of Horn and Ivory>, <Judge Gallows> unleashes a <Baku>, <Dora> takes <Lucien> to <The Fulcrum>. ++ <The Dreaming> <Balam> <Matthew> <Brute> <Glob> <Ziggy> 
+## 2018.64: <Cain> connects with the <new god|Wan>, <Abel> patrols the <gates|The Gates of Horn and Ivory>, <Judge Gallows> unleashes a <Baku>, <Dora> takes <Lucien> to <The Fulcrum>. ++ <The Dreaming> <Balam> <Matthew> <Brute> <Glob> <Ziggy> 
 
 
 House of Whispers #4
@@ -1697,7 +1872,7 @@ Sandman Universe: House of Whispers
 Dip Me In the Healing Stream
 February 2019
 House of Whispers: Vol 1: The Power Divided
-? 2018.641: new houseboat built
+## 2018.641: <The Houseboat> is rebuilt, The sickness spreads, <Shakpana> escapes, <Turtle> searches ++ <Maggie> <Latoya> <The Dreaming> <Erzulie> <Goldie> <Uncle Monday>
 
 
 The Dreaming #5 
@@ -1716,6 +1891,9 @@ Sandman Universe: House of Whispers
 Rumors of Glory
 March 2019
 House of Whispers: Vol 1: The Power Divided
+## 2018.642: <Shakpana> wields his power, <Turtle> finds a safe hiding spot. +++<Habibi> <Lumi> <Latoya> <Maggie> <Latoya's father ??> <Uncle Monday> <Erzulie>
+-# -200: <Shakpana> comes into being
+? Judge gallows still running dreaming
 
 
 The Dreaming #6 
@@ -1731,8 +1909,9 @@ Sandman Universe: House of Whispers
 Open the Unusual Door
 April 2019
 House of Whispers: Vol 1: The Power Divided
-## 2018.642: library not yet desecrated - before Dreaming #5
-? todo
+## 2018.643: <Uncle Monday> borrows a book, <Shakpana> is contained,  <The Houseboat> travels. ++ <Erzulie> <Latoya's father ??> <Latoya> <Maggie> <Habibi> <Lumi> <Alter Boi> 
+-# ~1550| sixteenth century : <Uncle Monday> comes into being
+? library not yet desecrated - before Dreaming #5
 
 
 The Dreaming #7 
@@ -1741,11 +1920,19 @@ Love Part 1
 May 2019
 The Dreaming: Vol 2: Empty Shells
 ## 2018.651: <Dream (Daniel)> takes <Ivy|Ivy Walker>.  <Rose> finds <Lucien>
-## 2018.25: <Rose> meets <Dream (Daniel)> at <Fawney Rig> and sets him up with <Ivy>
-## 2018.3: <Ivy> tattoos <Dream (Daniel)> under a dark influence ++ <Rose> <Desire> <Fawney Rig>
+## 2018.25: <Rose> meets <Dream (Daniel)> at <Fawney Rig> and sets him up with <Ivy> ++ <Wych Cross>
+## 2018.3: <Ivy> tattoos <Dream (Daniel)> under a dark influence ++ <Rose> <Desire> <Fawney Rig> <Wych Cross>
 -# 1994.88: <Ivy Walker> is conceived ++ <Rose Walker> <Jack Holdaway>
 -# 1995.63: <Ivy Walker> is born ++ <Rose Walker>
-? Rose is 50
+? Rose is 50, Ivy is 24
+
+
+House of Whispers #7
+Sandman Universe: House of Whispers
+The Troubles I've Seen
+May 2019
+House of Whispers: Vol 2: Ananse
+# ... ++ <Erzulie> <Uncle Monday> <Alter Boi> <Maggie> <Latoya> <Shakpana> 
 
 
 The Dreaming #8 
@@ -1754,8 +1941,15 @@ Love Part 2
 June 2019
 The Dreaming: Vol 2: Empty Shells
 ## 2018.31: <Rose> finally tells <Ivy> about <Miranda Walker>
-## 2018.32: <Dream (Daniel)> starts a journey.  <Ivy> seeks an exit. ++ <Fawney Rig> <Rose> <Desire>
+## 2018.32: <Dream (Daniel)> starts a journey.  <Ivy> seeks an exit. ++ <Fawney Rig> <Wych Cross> <Rose> <Desire>
 ## 2018.69: <Lucien> disappears again
+
+
+House of Whispers #8
+Sandman Universe: House of Whispers
+-
+June 2019
+House of Whispers: Vol 2: Ananse
 
 
 The Dreaming #9 
@@ -1767,6 +1961,13 @@ The Dreaming: Vol 2: Empty Shells
 -# 2018.33: <Dream (Daniel)> makes a <trade|Mundane Egg> ++ <Faerie> <Titania>
 
 
+House of Whispers #9
+Sandman Universe: House of Whispers
+-
+July 2019
+House of Whispers: Vol 2: Ananse
+
+
 The Dreaming #10 
 Sandman Universe: The Dreaming
 Empty Shells
@@ -1774,6 +1975,13 @@ August 2019
 The Dreaming: Vol 2: Empty Shells
 ## 2018.71: <The AI|Wan> continues trying, <Dora> gets a <rhyming escort|Balam>, the <Dark Moth> begins to unmake. ++ <Cain> <Matthew> <Baku> <Taramis>
 -# 2018.34: <Dream (Daniel)> seeks an Elder God to incubate an <Egg|Mundane Egg> 
+
+
+House of Whispers #10
+Sandman Universe: House of Whispers
+-
+August 2019
+House of Whispers: Vol 2: Ananse
 
 
 The Dreaming #11 
@@ -1785,12 +1993,26 @@ The Dreaming: Vol 2: Empty Shells
 -# 2018.35: <Dream (Daniel)> visits the <Worlds' End> Inn
 
 
+House of Whispers #11
+Sandman Universe: House of Whispers
+-
+September 2019
+House of Whispers: Vol 2: Ananse
+
+
 The Dreaming #12 
 Sandman Universe: The Dreaming
 Wisdom
 October 2019
 The Dreaming: Vol 2: Empty Shells
 ## 2018.71: The <Dark Moth> continues unmaking, <Lucien> is returned, <The AI> explains ++ <The Dreaming> <Matthew> <Dora> <Baku> <Wan> <Eve> <Merv>
+
+
+House of Whispers #12
+Sandman Universe: House of Whispers
+-
+October 2019
+House of Whispers: Vol 2: Ananse
 
 
 The Dreaming #13
@@ -1801,12 +2023,26 @@ The Dreaming: Vol 3: One Magical Movement
 ## 2018.675 : Myths begin to wane.
 
 
+House of Whispers #13
+Sandman Universe: House of Whispers
+-
+November 2019
+House of Whispers: Vol 3: Watching the Watchers
+
+
 The Dreaming #14
 Sandman Universe: The Dreaming
 Shevirat, the Shattering
 December 2019
 The Dreaming: Vol 3: One Magical Movement
-## 2018.8 : <Dora> plays a dangerous gamer to find <Keter> ++ <The Dreaming> <Balam>
+## 2018.8 : <Dora> plays a dangerous gamer to find <Hyperion Keter> ++ <The Dreaming> <Balam>
+
+
+House of Whispers #14
+Sandman Universe: House of Whispers
+-
+December 2019
+House of Whispers: Vol 3: Watching the Watchers
 
 
 The Sandman Presents: Hellblazer
@@ -1824,6 +2060,13 @@ The Crown Part One
 January 2020
 The Dreaming: Vol 3: One Magical Movement
 ## 2018.81: A <Madman|John Constantine> achieves a brief moment of clarity, <Merv> begins to see, <Matthew> gets a new point of view, and <Lucien>'s heart is broken. ++ <The Dreaming> <Abel> <Goldie> <Wan> <Rose Walker> <Ravenscar Hospital> <Eve> <The Hippogriff> <The Wyvern> <The Gryphon>
+
+
+House of Whispers #15
+Sandman Universe: House of Whispers
+-
+January 2020
+House of Whispers: Vol 3: Watching the Watchers
 
 
 Books of Magic #14
@@ -1861,6 +2104,13 @@ The Dreaming: Vol 3: One Magical Movement
 ## 2018.81: <Hyperion Keter> dies when <Dora> destroys his life support ++ <Cain>
 
 
+House of Whispers #16
+Sandman Universe: House of Whispers
+-
+February 2020
+House of Whispers: Vol 3: Watching the Watchers
+
+
 John Constantine Hellblazer #2
 Sandman Universe: John Constantine Hellblazer
 A Green and Pleasant Land, Part Two
@@ -1875,6 +2125,13 @@ The Crown Part Three
 March 2020
 The Dreaming: Vol 3: One Magical Movement
 ## 2018.82: <Dark Moth> expedites, <Abel> escapes, <Lucien> finds the foundation ++ <The Dreaming> <Matthew> <Wan> <Baku> <The Black Chest> <The Cuckoo> <Eve> <Brute> <Glob> <Merv> <Death>
+
+
+House of Whispers #17
+Sandman Universe: House of Whispers
+-
+March 2020
+House of Whispers: Vol 3: Watching the Watchers
 
 
 John Constantine Hellblazer #3
@@ -1893,6 +2150,13 @@ The Dreaming: Vol 3: One Magical Movement
 ## 2018.84: <Dora> finds treasure
 
 
+House of Whispers #18
+Sandman Universe: House of Whispers
+-
+April 2020
+House of Whispers: Vol 3: Watching the Watchers
+
+
 John Constantine Hellblazer #4
 Sandman Universe: John Constantine Hellblazer
 Scrubbing Up, Part One
@@ -1908,6 +2172,13 @@ May 2020
 The Dreaming: Vol 3: One Magical Movement
 ## 2018.83: <Lucien> talks with <Hyperion Keter> after <Death>
 # The <Vortex> returns ++<Rose Walker> 
+
+
+House of Whispers #19
+Sandman Universe: House of Whispers
+-
+May 2020
+House of Whispers: Vol 3: Watching the Watchers
 
 
 John Constantine Hellblazer #5
@@ -1936,12 +2207,33 @@ John Constantine Hellblazer: Vol 1: Marks of Woe
 ## 2020: <Noah> releases a malevolent spirit.++ <D.S. Dole> <John Constantine> 
 
 
+House of Whispers #20
+Sandman Universe: House of Whispers
+-
+July 2020
+House of Whispers: Vol 3: Watching the Watchers
+
+
+House of Whispers #21
+Sandman Universe: House of Whispers
+-
+August 2020
+House of Whispers: Vol 3: Watching the Watchers
+
+
 John Constantine Hellblazer #7
 Sandman Universe: John Constantine Hellblazer
 Britannia, Rule the Waves, Part One
 August 2020
 John Constantine Hellblazer: Vol 2: The Best Version of You
 ## 2020: <Freddie> goes fishing. ++ <John Constantine> <Old Constantine>
+
+
+House of Whispers #22
+Sandman Universe: House of Whispers
+-
+September 2020
+House of Whispers: Vol 3: Watching the Watchers
 
 
 John Constantine Hellblazer #8
@@ -1961,11 +2253,11 @@ John Constantine Hellblazer: Vol 2: The Best Version of You
 
 
 The Dreaming: Waking Hours #1
-Sandman Universe: The Dreaming
+Sandman Universe: The Dreaming - The Bard and the Bard
 The Bard and the Bard, Part 1
 October 2020
 The Dreaming: Waking Hours
-# <Lindy|Lindy Morris> dreams of  <The Empty House>, <Ruin> wakes up ++ <Dream Shakespeares> <Jophiel> <The Dreaming> <Lucien> <Dream (Daniel)> <Lindy's Baby> 
+# <Lindy|Lindy Morris> dreams of <The Empty House>, <Ruin> wakes up ++ <Dream Shakespeares> <Jophiel> <The Dreaming> <Lucien> <Dream (Daniel)> <Lindy's Baby> 
 
 
 John Constantine Hellblazer #10
@@ -1977,12 +2269,12 @@ John Constantine Hellblazer: Vol 2: The Best Version of You
 
 
 The Dreaming: Waking Hours #2
-Sandman Universe: The Dreaming
+Sandman Universe: The Dreaming - The Bard and the Bard
 The Bard and the Bard, Part 2
 November 2020
 The Dreaming: Waking Hours
 # <Lindy> is trapped amongst the <Dream Shakespeares>, <Ruin> and <Jophiel> seek assistance, <Dream (Daniel)> seeks answers. ++ <The Dreaming> <Lindy's Baby> <Heather After>  <Lucien> <The Black Chest> <Endless Teeth>
-- <Dream (Daniel)> creates <Ruin>, is disappointed ++ <Jophiel>
+-# 2020 |: <Dream (Daniel)> creates <Ruin>, is disappointed ++ <Jophiel> <Benedict>
 ? Heather is Ethel Cripps's great granddaughter
 
 
@@ -1998,11 +2290,11 @@ John Constantine Hellblazer: Vol 2: The Best Version of You
 
 
 The Dreaming: Waking Hours #3
-Sandman Universe: The Dreaming
+Sandman Universe: The Dreaming - The Bard and the Bard
 The Bard and the Bard, Part 3
 December 2020
 The Dreaming: Waking Hours
-# <Heather After> summons a fae, <Lindy> plans a play. ++ <Dream Shakespeares>   <Ruin> <Lindy's Baby> <Jophiel> <Puck> <Dream (Daniel)> <Endless Teeth> <Lucien> <Brute> <Glo> 
+# <Heather After> summons a fae, <Lindy> plans a play. ++ <Dream Shakespeares> <Ruin> <Lindy's Baby> <Jophiel> <Puck> <Dream (Daniel)> <Endless Teeth> <Lucien> <Brute> <Glob> 
 ? Lindy is 30
 
 
@@ -2015,7 +2307,7 @@ John Constantine Hellblazer: Vol 2: The Best Version of You
 
 
 The Dreaming: Waking Hours #4
-Sandman Universe: The Dreaming
+Sandman Universe: The Dreaming - The Bard and the Bard
 The Bard and the Bard, Part 4
 January 2021
 The Dreaming: Waking Hours
@@ -2023,70 +2315,200 @@ The Dreaming: Waking Hours
 
 
 The Dreaming: Waking Hours #5
-Sandman Universe: The Dreaming
+Sandman Universe: The Dreaming - The Bard and the Bard
 The Bard and the Bard, Finale
 February 2021
 The Dreaming: Waking Hours
-# <Lindy> delivers, <Dora> fights back, <Ruin> is freed. ++ <Brute> <Merlyn> <Dream (Daniel)> <Lucien> <Dora> <Glob> <Jophiel> <Lindy's Baby> <Kushiel> 
+# <Lindy> delivers, <Dora> fights back, <Ruin> is freed. ++ <Brute> <Dream Shakespeares> <Merlyn> <Dream (Daniel)> <Lucien> <Glob> <Jophiel> <Lindy's Baby> <Kushiel> 
 
 
 The Dreaming: Waking Hours #6
-Sandman Universe: The Dreaming
+Sandman Universe: The Dreaming - Intermezzo
 Intermezzo, Part 1
 March 2021
 The Dreaming: Waking Hours
-# <Lindy> <Ruin> <Jophiel> <Benedict> <Heather After> <Todd> <Puck> <Azar> <John Constantine> <Goldie> <Matthew>
--# ~2015: Teenage <Heather After> forbidden to perform magic by her parents ++ <Amulet>
+# <Ruin> Moves in, <Benedict> moves out, <Heather After> gets caught, <John Constantine> offers advice, <Goldie> and <Matthew> get called upon. ++ <Lindy> <Jophiel> <Todd> <Puck> <Azar>
+-# ~ 2010: Teenage <Heather After> forbidden to perform magic by her parents ++ <Amulet>
+-# ~ 2020: <Heather After> is tutored by <John Constantine>
 
 
 The Dreaming: Waking Hours #7
-Sandman Universe: The Dreaming
+Sandman Universe: The Dreaming - Intermezzo
 Intermezzo, Part 2
 April 2021
 The Dreaming: Waking Hours
-# <Matthew> <Goldie> <Heather After> <Ruin> <Jophiel> <Todd> <Azar> <Amulet> <Auberon> <Puck>
+# <Todd> and <Matthew> try to help, <Azar> sees the truth, and <Auberon> lifts the curse. ++ <Goldie> <Heather After> <Ruin> <Jophiel> <Amulet> <Puck>
 ? Nurse Azar has true sight
--# 2018.70: <Nuala> reveals a secret + <Titania> <Faerie>
+-# 2018.70: <Nuala> reveals a secret ++ <Titania> <Faerie>
+
+
+Locke & Key: Hell and Gone #1
+Sandman Universe: Locke & Key
+Locke & Key: Hell and Gone 
+April 2021
+Locke & Key: Hell and Gone 
+## * October 1927: <Mary Locke> visits <The Dreaming> via <Fawney Rig> ++ <Jack Locke> <Wych Cross> <Alexander Burgess> <Roderick Burgess> <Ethel Cripps>  <Dream> <Abel> <Cain> <The Wyvern> <The Gryphon> <The Hippogriff> <Brute> <Glob> <Gilbert> <Lucien> <The Corinthian>
 
 
 The Dreaming: Waking Hours #8
-Sandman Universe: The Dreaming
+Sandman Universe: The Dreaming - The Faerie Queen
 The Faerie Queen, Part 1
 May 2021
 The Dreaming: Waking Hours
-# <Benedict> <Azar> <Heather After> <Jophiel> <Ruin> <Faerie> <The Dreaming> <Dream (Daniel)> <Merv> <Matthew> <Goldie> 
+#  <Heather After> steps into <Faerie>, <Dream (Daniel)> broods, <Jophiel> is cast aside ++ <Benedict> <Azar> <Ruin> <The Dreaming> <Merv> <Matthew> <Goldie> 
 
 
 The Dreaming: Waking Hours #9
-Sandman Universe: The Dreaming
+Sandman Universe: The Dreaming - The Faerie Queen
 The Faerie Queen, Part 2
 June 2021
 The Dreaming: Waking Hours
-# <Faerie> <Ruin> <Heather After> <Jophiel> <Auberon> <Queen Nuala|Nuala> <Titania> <The Unseelie>
--# ~2010: pre-teen <Heather After> visits elderly <Ethel Cripps> ++ <Amulet>
+# <Ruin> and <Heather After> get distracted, <Jophiel> and <Auberon> get disguised. ++ <Faerie> <Queen Nuala|Nuala> <Titania> <The Unseelie>
+-# ~ 2005 : pre-teen <Heather After> visits elderly <Ethel Cripps> ++ <Amulet>
 
 
 The Dreaming: Waking Hours #10
-Sandman Universe: The Dreaming
+Sandman Universe: The Dreaming - The Faerie Queen
 The Faerie Queen, Part 3
 July 2021
 The Dreaming: Waking Hours
-# <Faerie> <Heather After> <Ruin> <Queen Nuala> <Titania> <The Unseelie> <Jophiel> <Auberon> <Dream (Daniel)> <Matthew> 
--# ~2010: <Heather After> helps herself ++ <Paul McGuire> <Narissa> 
+# <Heather After> is trapped, <Ruin> flips the cards ++ <Faerie> <Queen Nuala> <Titania> <The Unseelie> <Jophiel> <Auberon> <Dream (Daniel)> <Matthew> 
+-# ~ 2005 : <Heather After> helps herself ++ <Paul McGuire> 
 
 
 The Dreaming: Waking Hours #11
-Sandman Universe: The Dreaming
+Sandman Universe: The Dreaming - The Faerie Queen
 The Faerie Queen, Part 4
 August 2021
 The Dreaming: Waking Hours
-# <Benedict> <Jophiel> <Heather After> <Ruin> <Dream (Daniel)> <Nuala> <The Unseelie> <Auberon> and <Titania> make amends <Puck>
--# 2018.8: <The Unseelie> take charge + <Faerie> <Nuala>
+# <Ruin> organises a release, <Auberon> and <Titania> make amends, <Heather After>'s true name doesn't matter. ++ <Benedict> <Jophiel> <Dream (Daniel)> <Nuala> <The Unseelie> <Puck>
+-# 2018.8: <The Unseelie> take charge ++ <Faerie> <Nuala>
 
 
 The Dreaming: Waking Hours #12
-Sandman Universe: The Dreaming
+Sandman Universe: The Dreaming - The Faerie Queen
 The Faerie Queen, Finale
 September 2021
 The Dreaming: Waking Hours
-# <The Unseelie> are trapped, <Heather After> returns home, <Jophiel> returns to the Host, <Ruin> and <Benedict> try to run from <Dream (Daniel)> ++ <Faerie> <Nuala> <Titania> <Auberon> <Todd> <Azar>   
+# <The Unseelie> are trapped, <Heather After> returns home, <Jophiel> returns to the Host, <Ruin> and <Benedict> run from <Dream (Daniel)> ++ <Faerie> <Nuala> <Titania> <Auberon> <Todd> <Azar>
+
+
+Locke & Key: Hell and Gone #2
+Sandman Universe: Locke & Key
+Locke & Key: Hell and Gone 
+September 2021
+Locke & Key: Hell and Gone 
+## October 1927: <Mary Locke> Borrows a book, brings <Gilbert> along, makes <a key|The Key to Hell> and takes her brother backstage, <Etrigan> gets a promotion, the key is delivered, and <Chamberlin Locke> takes a ride. ++ <The Dreaming> <Lucien> <The Corinthian> <Alexander Burgess> <Hell> <Lucifer> <Beelzebub> <Azazel> <Jack Locke> <Choronzon> <Death>
+-# -9500000000 | ten billion years ago: <Mary Locke> delivers <The Key to Hell> ++ <The Silver City> ++ <Duma> <Lucifer> <War in The Silver City> 
+
+
+Nightmare Country #1
+Sandman Universe: Nightmare Country
+Nightmare Country #1
+June 2022
+Nightmare Country: Vol 1
+## 2022.50: <Madison Flynn> sees <The Smiling Man>, <The Corinthian> takes an interest in art, <Mr Agony> and <Mr Ecstasy> begin the hunt.
+-# ~ 1953: A teenager dreams of eating his fingers with his eyes ++ <The Corinthian> 
+? Madison Flynn is 20
+
+
+Nightmare Country #2
+Sandman Universe: Nightmare Country
+Nightmare Country #2
+July 2022
+Nightmare Country: Vol 1
+## 2022.51:  <The Corinthian> consults the archives, <Mr Agony> and <Mr Ecstasy> start a fire. ++ <Madison Flynn> <Lucien> <Robbie Greene> <Kells> <The Smiling Man> 
+-# * December 1987: Marcus Siudzinski encounters <The Corinthian> at a club
+
+
+Nightmare Country #3
+Sandman Universe: Nightmare Country
+Nightmare Country #3
+August 2022
+Nightmare Country: Vol 1
+## 2022.52: <Madison Flynn> gatecrashes, <Kells> loses her head ++ <Mr Agony> <Mr Ecstasy> <The Smiling Man> <Robbie Greene> <Bill Teague> <Moroni> <The Corinthian> 
+
+
+Nightmare Country #4
+Sandman Universe: Nightmare Country
+Nightmare Country #4
+September 2022
+Nightmare Country: Vol 1
+## 2022.53: <Kells> gets back together, <Bill Teague> negotiates++ <Moroni> <Madison Flynn> <Robbie Greene> <The Corinthian> <Mr Agony> <Mr Ecstasy> <The Smiling Man> 
+-# 1989: <Philip Sitz> finds invitation to the <Cereal Convention> whilst investigating the <Bogeyman>
+
+
+Nightmare Country #5
+Sandman Universe: Nightmare Country
+Nightmare Country #5
+October 2022
+Nightmare Country: Vol 1
+## 2022.54: <Kells> does her job, <The Corinthian> calls for help, <Madison Flynn> is given an extension, <Moroni> collects sand. ++ <Mr Agony> <Mr Ecstasy> <Robbie Greene> <Bill Teague> <The Smiling Man> <Dream> <Dream (Daniel)> <Matthew> <The Threshold> 
+
+
+Nightmare Country #6
+Sandman Universe: Nightmare Country
+Nightmare Country #6
+November 2022
+Nightmare Country: Vol 1
+## 2022.8: <Thessaly> gets involved ++ <Robbie Greene>
+? a couple of months after Flynn's death
+
+
+Dead Boy Detectives #1
+Sandman Universe: Dead Boy Detectives
+Dead Boy Detectives #1
+February 2023
+--
+
+
+Dead Boy Detectives #2
+Sandman Universe: Dead Boy Detectives
+Dead Boy Detectives #2
+March 2023
+--
+
+
+Dead Boy Detectives #3
+Sandman Universe: Dead Boy Detectives
+Dead Boy Detectives #3
+April 2023
+--
+
+
+Dead Boy Detectives #4
+Sandman Universe: Dead Boy Detectives
+Dead Boy Detectives #4
+May 2023
+--
+
+
+Dead Boy Detectives #5
+Sandman Universe: Dead Boy Detectives
+Dead Boy Detectives #5
+June 2023
+--
+
+
+Nightmare Country - The Glass House #1
+Sandman Universe: Nightmare Country - The Glass House
+The Glass House #1
+June 2023
+--
+# ... ++ <Ken> <Max Lee> <The Smiling Man> <Moroni> <The Corinthian> <Madison Flynn> <Kells> <Azazel> 
+? Flynn died last summer
+
+
+Dead Boy Detectives #6
+Sandman Universe: Dead Boy Detectives
+Dead Boy Detectives #6
+July 2023
+--
+
+
+Nightmare Country - The Glass House #2
+Sandman Universe: Nightmare Country - The Glass House
+The Glass House #2
+July 2023
+--
+# ... ++ <Max Lee> <Kells> <Madison Flynn> <The Corinthian> <Moroni> <The Smiling Man> <Azazel> 

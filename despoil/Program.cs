@@ -458,6 +458,60 @@ var orderStyles = eventDates.Select(x => $".chron :nth-child({x.Item1}) {{ order
 
 //////////////////////////////////////
 
+
+try 
+{
+    var entityListIn = File.ReadAllLines("issues.entities.txt");
+    var entityDict = entityData.ToDictionary(e => e.name, e=>e);
+    string currentGroup = "-";
+    foreach (var line in entityListIn)
+    {
+        if (string.IsNullOrWhiteSpace(line)) continue;
+        if (line.StartsWith("::"))
+        {
+            currentGroup = line.Substring(2);
+        }
+        else
+        {
+            var name = "";
+            var notes = "";
+            if (line.Contains(" - ")) 
+            {
+                var bits = line.Split(" - ");
+                name = bits[0].Trim();
+                notes = bits[1].Trim();
+            }
+            else
+            {
+                name = line.Trim();
+            }
+            if (entityDict.TryGetValue(name, out var e))
+            {
+                e.type = currentGroup;
+                e.notes = notes;
+            }
+        }
+    }
+}
+catch {}
+
+var entitiesByType = entityData.GroupBy(e => e.type);
+
+List<String> entityListOut = new();
+
+foreach (var group in entitiesByType.OrderBy(g => g.Key)) 
+{
+    entityListOut.Add("::"+group.Key);
+    foreach (var e in group)
+    {
+       entityListOut.Add(e.name + (string.IsNullOrWhiteSpace(e.notes) ? "" : " - "+e.notes));
+    }
+    entityListOut.Add("");
+}
+File.WriteAllLines("issues.entities.txt", entityListOut);
+
+//////////////////////////////////////
+
 var parser = new FluidParser();
 
 var source = File.ReadAllText("template.html");
@@ -465,19 +519,20 @@ var source = File.ReadAllText("template.html");
 var model = new Model
 {
     InlineStyles = $"<style>{string.Join(" ",colourStyles)} {string.Join(" ",orderStyles)}</style>",
-    Collections = collectionData.Select(x => new GroupParent { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
-    Threads = threadData.Select(x => new GroupParent { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
+    Collections = collectionData.Select(x => new IssueGroupParent { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
+    Threads = threadData.Select(x => new IssueGroupParent { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
     Issues = issueData.ToArray(),
-    Entities = entityData.ToArray(),
+    EntityGroups = entitiesByType.Select( x => new EntityGroup { name = x.Key, Entities = x.ToArray(), issues = string.Join(" ", x.Select(e => e.issues))}).OrderBy(g => g.name).ToArray(),
     Items = itemData.ToArray(),
     AllIssues = string.Join(" ", issueOrder.Select(x => "ei_" + x))
 };
 
 var options = new TemplateOptions();
 options.MemberAccessStrategy.Register<Model>();
-options.MemberAccessStrategy.Register<GroupParent>();
+options.MemberAccessStrategy.Register<IssueGroupParent>();
 options.MemberAccessStrategy.Register<IssueGroup>();
 options.MemberAccessStrategy.Register<Issue>();
+options.MemberAccessStrategy.Register<EntityGroup>();
 options.MemberAccessStrategy.Register<Entity>();
 options.MemberAccessStrategy.Register<Item>();
 
