@@ -225,13 +225,13 @@ addScrollMarkers = function () {
 
   highlights.forEach(function (span) {
 
+    if(span.offsetHeight == 0) return;
+
     var spanTop = span.offsetTop
     var spanBottom = spanTop + span.offsetHeight - 100;
 
     var markerTop = Math.ceil(spanTop * containerHeight / containerScrollHeight);
     var markerBottom = Math.ceil(spanBottom * containerHeight / containerScrollHeight)
-
-    if (markerBottom == markerTop) return
 
     var markerElement = document.createElement("span")
     markerElement.style.top = (markerTop - 4) + "px"
