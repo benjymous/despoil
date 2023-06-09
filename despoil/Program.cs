@@ -1,9 +1,11 @@
 ﻿using System.Text.RegularExpressions;
 using despoil;
 using Fluid;
-using System.Linq;
 
+Console.WriteLine("Reading input");
 string text = File.ReadAllText("issues.txt").Replace("\r", "");
+
+Console.WriteLine("Parsing data");
 var entries = text.Split("\n\n\n");
 
 var issues = new List<string>();
@@ -458,7 +460,6 @@ var orderStyles = eventDates.Select(x => $".chron :nth-child({x.Item1}) {{ order
 
 //////////////////////////////////////
 
-
 try 
 {
     var entityListIn = File.ReadAllLines("issues.entities.txt");
@@ -541,8 +542,11 @@ if (parser.TryParse(source, out var template, out var error))
     var context = new TemplateContext(model, options);
 
     var outPath = Path.Combine(Directory.GetCurrentDirectory(), "out");
+    Console.WriteLine($"Rendering html output");
+    var rendered = Util.RemoveEmptyLines(template.Render(context));
+
     Console.WriteLine($"Writing to {outPath}");
-    File.WriteAllText(Path.Combine(outPath, "index.html"), Util.RemoveEmptyLines(template.Render(context)));
+    File.WriteAllText(Path.Combine(outPath, "index.html"), rendered, System.Text.Encoding.UTF8);
 }
 else
 {

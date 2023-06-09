@@ -24,7 +24,7 @@ setChecked = function (prefix, name, noScroll) {
   const boxes = document.getElementsByClassName(name + "_outer")
 
   if (!noScroll && checkBox.checked) {
-    //setTimeout(function () { boxes[0].scrollIntoView({ behavior: "smooth" }) }, 10)
+    setTimeout(function () { boxes[0].scrollIntoView({ behavior: "smooth" }) }, 10)
   }
 
   const styleId = 'style_' + name
@@ -74,6 +74,9 @@ toggleIssue = function (name) {
 togglePush = function (name) {
   const checkBox = document.getElementById("check_" + name)
   checkBox.checked = !checkBox.checked
+  if (checkBox.checked) {
+    setTimeout(function () { checkBox.scrollIntoView({ behavior: "smooth" }) }, 10)
+  }
   setPushed(name)
 }
 
@@ -102,7 +105,7 @@ setPushed = function (name) {
 }
 
 highlightNone = function () {
-  setTimeout(function () { 
+  setTimeout(function () {
     const boxes = document.getElementsByClassName("check_entity")
     for (const box of boxes) {
       box.checked = false
@@ -213,26 +216,26 @@ addScrollMarkers = function () {
   var containerInner = document.querySelector('.box')
 
   var containerHeight = container.offsetHeight
-  var containerScrollHeight = containerInner.scrollHeight
+  var containerScrollHeight = containerInner.scrollHeight;
 
   var scrollMarker = document.querySelector('.scroll-marker')
   scrollMarker.replaceChildren()
 
   var highlights = document.querySelectorAll('.itemRow_highlight')
 
-  highlights.forEach(function (span) { 
+  highlights.forEach(function (span) {
 
     var spanTop = span.offsetTop
-    var spanBottom = spanTop + span.offsetHeight
+    var spanBottom = spanTop + span.offsetHeight - 100;
 
-    var markerTop = Math.ceil(spanTop * containerHeight / containerScrollHeight)
+    var markerTop = Math.ceil(spanTop * containerHeight / containerScrollHeight);
     var markerBottom = Math.ceil(spanBottom * containerHeight / containerScrollHeight)
 
     if (markerBottom == markerTop) return
 
     var markerElement = document.createElement("span")
-    markerElement.style.top = markerTop + "px"
-    markerElement.style.height = (markerBottom - markerTop) + "px"
+    markerElement.style.top = (markerTop - 4) + "px"
+    markerElement.style.height = (markerBottom - markerTop + 4) + "px"
     scrollMarker.appendChild(markerElement)
 
   })
@@ -240,7 +243,7 @@ addScrollMarkers = function () {
 
 toggleMenu = function () {
   const menu = document.getElementById("menu")
-  if(menu.classList.contains("menu-collapsed")) {
+  if (menu.classList.contains("menu-collapsed")) {
     menu.classList.remove("menu-collapsed")
   } else {
     menu.classList.add("menu-collapsed")
@@ -257,12 +260,12 @@ setCookie = function (c_name, value, exDays) {
 getCookie = function (c_name) {
   var i, x, y, cookies = document.cookie.split(";");
   for (i = 0; i < cookies.length; i++) {
-      x = cookies[i].substring(0, cookies[i].indexOf("="));
-      y = cookies[i].substring(cookies[i].indexOf("=") + 1);
-      x = x.replace(/^\s+|\s+$/g, "");
-      if (x == c_name) {
-          return decodeURIComponent(y);
-      }
+    x = cookies[i].substring(0, cookies[i].indexOf("="));
+    y = cookies[i].substring(cookies[i].indexOf("=") + 1);
+    x = x.replace(/^\s+|\s+$/g, "");
+    if (x == c_name) {
+      return decodeURIComponent(y);
+    }
   }
 }
 
@@ -300,12 +303,12 @@ restoreSelection = function () {
   var checks = document.getElementsByClassName("check_issue")
   for (let check of checks) {
     check.checked = hashes.includes(check.dataset.hash)
-    setChecked("check_issue_", check.id.replace("check_issue_",""), true)
+    setChecked("check_issue_", check.id.replace("check_issue_", ""), true)
   }
 
 }
 
-showIntro = function() {
+showIntro = function () {
   var cookie = getCookie("despoil_intro")
   if (cookie != null) {
     const introDiv = document.getElementById("intro_" + cookie)
@@ -322,13 +325,13 @@ hideIntro = function (cookieId) {
 }
 
 sizePanes = function () {
-  document.getElementById("main").style.height = window.innerHeight - 60 
-  document.getElementById("menu").style.height = window.innerHeight - 75 
+  document.getElementById("main").style.height = window.innerHeight - 60
+  document.getElementById("menu").style.height = window.innerHeight - 75
 }
 
 ////////////////////
 
-window.addEventListener('resize', function(event) {
+window.addEventListener('resize', function (event) {
   updateMarkers()
   sizePanes()
 }, true)

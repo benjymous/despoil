@@ -35,7 +35,7 @@ The Sandman: Master of Dreams
 2. Imperfect Hosts
 February 1989
 The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
-## 1988.7: <Dream> is found, <John Dee> receives a visitor, <Goldie> hatches and the <Three Witches> answer questions ++ <The Dreaming> <Gregory> <Cain> <Abel> <Ethel Dee|Ethel Cripps> <Lucien> <Eve> <The Fashion Thing> <The Gates of Horn and Ivory>
+## 1988.7: <Dream> is found, <John Dee> receives a visitor, <Goldie> hatches and the <Three Witches> answer questions ++ <The Dreaming> <Gregory> <Cain> <Abel> <Ethel Cripps> <Lucien> <Eve> <The Fashion Thing> <The Gates of Horn and Ivory>
 
 
 Sandman #3
@@ -146,7 +146,7 @@ The Sandman: The Doll's House
 5. Collectors
 March 1990
 The Sandman: Vol  2: The Doll's House, The Sandman: Book 1
-## 1989.75 | late autumn 1989: <Rose> and <Jed> are rescued.  <The Corinthian> is unmade ++ <Cereal Convention> <Gilbert> <Dream> <Corinthian's Skull> <Philip Sitz> 
+## 1989.75 | late autumn 1989: <Rose> and <Jed> are rescued.  <The Corinthian> is unmade ++ <Cereal Convention> <Nimrod> <Gilbert> <Dream> <Corinthian's Skull> <Philip Sitz> 
 -# 1989: <Family Man>: see Hellblazer #23-31 ++ <John Constantine> 
 -# 1986: <Bogeyman>: see Swamp Thing #44 ++ <John Constantine> <Swamp Thing>
 -# 1968: <Rose Walker> is born ++ <Miranda Walker>
@@ -786,7 +786,7 @@ The Sandman: The Kindly Ones
 The Kindly Ones: 13
 July 1995
 The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
-## 1995.02: <Death> makes some pigeons, The first <Dream> comes to an end, <Delirium> finds a friend, <Lucifer> calls it a day (again), <Hal> is late, and <Alexander Burgess>, <Lyta> and <Daniel> all awake ++ <Matthew> <The Corinthian> <Lucien> <Nuala> <Loki> <Titania> <Cluracan> <Puck> <Barnabas> <Mazikeen> <Lux>
+## 1995.02: <Death> makes some pigeons, The first <Dream> comes to an end, <Delirium> finds a friend, <Lucifer> calls it a day (again), <Hal> is late, and <Alexander Burgess>, <Lyta> and <Daniel> all awake ++ <End of the First Dream> <Matthew> <The Corinthian> <Lucien> <Nuala> <Loki> <Titania> <Cluracan> <Puck> <Barnabas> <Mazikeen> <Lux>
 
 
 Sandman #70
@@ -888,7 +888,7 @@ The Sandman: Book of Dreams
 Masquerade and High Water
 August 1996
 The Sandman: Book of Dreams
-# 1993: <Desire> interferes with a recurring dream. ++ <The Dreaming> <Dream> <Lucien> <Matthew> <Merv> 
+## ~ 1993|: <Desire> interferes with a recurring dream. ++ <The Dreaming> <Dream> <Lucien> <Matthew> <Merv> 
 ? Set before dream dies.  Can't be between 1990-1992
 
 
@@ -916,8 +916,8 @@ The Sandman: Book of Dreams
 Each Damp Thing 
 August 1996
 The Sandman: Book of Dreams
--# ~1970 |: <Cain> finds a black mirror within the ruined palace
-## 1993: <The Dreaming> becomes solipsistic ++ <Cain> <Abel> <Lucien> <Goldie> <Nuala> <Matthew> <The Fashion Thing> <Dream>
+-# ~ 1970 |: <Cain> finds a black mirror within the ruined palace
+## ~ 1993|: <The Dreaming> becomes solipsistic ++ <Cain> <Abel> <Lucien> <Goldie> <Nuala> <Matthew> <The Fashion Thing> <Dream>
 
 
 The Sandman: Book of Dreams #5
@@ -934,7 +934,7 @@ The Sandman: Book of Dreams
 Splatter
 August 1996
 The Sandman: Book of Dreams
-## 1989.745: An author gets invited to a <Cereal Convention>
+## 1989.745: An author gets invited to a <Cereal Convention> ++ <The Corinthian> <Nimrod>
 ? Set during #14
 
 
@@ -959,8 +959,7 @@ The Sandman: Book of Dreams
 An Extra Smidgeon of Eternity
 August 1996
 The Sandman: Book of Dreams
-## ~1985|: <Wanda> tells stories to a dying friend ++ <Delirium> <Death>
-
+## ~ 1985|: <Wanda> tells stories to a dying friend ++ <Delirium> <Death>
 
 
 The Sandman: Book of Dreams #10
@@ -968,7 +967,7 @@ The Sandman: Book of Dreams
 The Writer's Child
 August 1996
 The Sandman: Book of Dreams
-## ~1990|: A child finds a story of admission ++ <Dream> <The Dreaming>
+## ~ 1990|: A child finds a story of admission ++ <Dream> <The Dreaming>
 ? after 1989 (rescue rangers)
 
 
@@ -984,7 +983,7 @@ The Sandman: Book of Dreams
 The Gate of Gold
 August 1996
 The Sandman: Book of Dreams
-## ~1990|: A doll seeks to follow the path of <Dream> ++ <The Dreaming> <The Gryphon> <The Wyvern> <The Hippogriff> <Matthew>
+## ~ 1990|: A doll seeks to save their charge from nightmares ++ <The Dreaming> <The Gryphon> <The Wyvern> <The Hippogriff> <Dream> <Matthew>
 
 
 The Sandman: Book of Dreams #13
@@ -992,6 +991,8 @@ The Sandman: Book of Dreams
 A Bone Dry Place
 August 1996
 The Sandman: Book of Dreams
+## ~ 1993|: <Delirium> attempts a rescue  ++ <Despair> <Barnabas> <Dream> <Destiny>
+? somewhere between #48-57
 
 
 The Sandman: Book of Dreams #14
@@ -999,6 +1000,8 @@ The Sandman: Book of Dreams
 The Witch's Heart
 August 1996
 The Sandman: Book of Dreams
+## ~ 1850 | nineteenth century : A witch seeks her heart's desire ++ <Desire>
+? Date based purely on description of clock
 
 
 The Sandman: Book of Dreams #15
@@ -1006,6 +1009,7 @@ The Sandman: Book of Dreams
 The Mender of Broken Dreams
 August 1996
 The Sandman: Book of Dreams
+## ~ 1993|: The Mender of Broken Dreams comes to terms with their existence ++ <Dream> <Death> <Merv>
 
 
 The Sandman: Book of Dreams #16
@@ -1013,6 +1017,7 @@ The Sandman: Book of Dreams
 Ain't You 'Most Done?
 August 1996
 The Sandman: Book of Dreams
+## ~ 1993|: A man gets a final chance to dream ++ <Dream> <Death>
 
 
 The Sandman: Book of Dreams #17
@@ -1020,12 +1025,15 @@ The Sandman: Book of Dreams
 Valóság and Élet
 August 1996
 The Sandman: Book of Dreams
+## ~ 1650 | medieval times: A Fable about trapping the powers of <Dream> and <Death>
 
 
 The Sandman: Book of Dreams #18
 The Sandman: Book of Dreams
+Stopp't-Clockyard
 August 1996
 The Sandman: Book of Dreams
+## *1682 | seventeenth century: Magicians are afraid to dream ++ <London> <Dream> <The Dreaming> <Lucien> <Jessamy> <Death>
 
 
 Winter's Edge #1
