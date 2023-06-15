@@ -38,12 +38,16 @@ const double Increment = 0.0001;
 
 var eventDates = new List<(int, double)>();
 
+List<string> reformatted = new List<string>();
+
 foreach (var entry in entries)
 {
     int eventCount = 0;
 
-
-    var entryLines = entry.Split("\n");
+    var entryLines = entry.Split("\n").Select(e => e.Trim()).ToArray();
+    reformatted.Add(entryLines[0]);
+    reformatted.AddRange(entryLines.Skip(1).Select(e => " "+e));
+    reformatted.Add("\n");
     if (entryLines.Length < 4)
     {
         throw new Exception("Error with " + entryLines[0]);

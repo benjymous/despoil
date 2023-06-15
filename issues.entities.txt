@@ -1,3 +1,12 @@
+::-
+Cane
+Estella
+Lugweed
+Magpie
+Oliver
+Pamela
+Sebastian
+
 ::Angels, Demons and monsters
 Amenadiel
 Azazel
@@ -9,6 +18,7 @@ Choronzon - Demon which acquired Dream's Helm
 Cluracan's Nemesis
 Duma - Angel of Silence
 Etrigan
+Gabriel
 Jophiel
 Kushiel
 Lucifer Morningstar
@@ -16,12 +26,16 @@ Mahu - Son of Lilith, member of the Lilim
 Maz Ghūl
 Mazikeen - Daughter of Lilith, member of the Lilim, Lover of Lucifer
 Merkin, the - Mother of spiders
+Michael
 Moroni - Angel reported to have visited Joseph Smith, founder of Mormonism
 Mr Agony
 Mr Ecstasy
+Raphael
 Rawhead-and-Bloody-Bones
 Remiel
+Saraquael
 Smiling Man, the
+Uriel
 Vestibulan, the
 
 ::Artefacts
@@ -63,9 +77,10 @@ Puck
 Titania
 Unseelie, the
 
-::Gods Deities Endless and other Immortals
+::Gods, Deities, Endless, Magical beings and other Immortals
 Alderman, the
 Anubis - Egyptian God
+Anya - A Werewolf.  Vassily's wife
 Aristaeus
 Baba Yaga - Ogress from folklore
 Barnabas - A talking dog.  Associate of Destruction and Delirium
@@ -73,7 +88,11 @@ Bernie Capax
 Bes
 Bhartari
 Calliope - Muse, Lover of Dream and Mother of Orpheus
+Celeste - A Werewolf.  Vassily's granddaughter
+Cerberus - The Hound of Hades
 Chaos
+Charon - Boatman of the Styx
+Cronus - A titan
 Dark Moth - Alter ego of Wan
 Death - Member of the Endless
 Delirium - Member of the Endless
@@ -89,7 +108,9 @@ Erzulie
 Etain of the Second Look
 Formalhaut
 Glory - Glory of the First Circle
+Hermes - Herald of the Greek gods
 Ishtar
+King Hades - The King of Hades
 Lady Bast - Egyptian Goddess
 Lilith - Adam's third wife, Mother of the Lilim
 Loki - Norse God of Mischief
@@ -100,23 +121,28 @@ Odin - Norse God
 Order
 Orpheus - Son of Morpheus and Calliope
 Pharamond - A former god, last of his pantheon
+Queen Persephone - The Queen of Hades
 Robert Gadling - Immortal due to a wager between Dream and Death
 Shakpana - God of illness and disease
 Sigyn
 Susano-O-No-Mikoto - Japanese deity
 Swamp Thing - Humanoid plant elemental
+Tamara - A Werewolf.  Vassily's daughter
 Tefé Holland
 Thessaly - Three thousand year old Witch
 Thor - Norse God
 Three Witches - Mother, Maiden, Crone.  Also The Fates or The Kindly Ones
 Time - Father of The Endless
 Uncle Monday
+Vassily - A Werewolf
 Wan - AI
+Yo-Yo - Tim Hunter's Owl (formerly a yo-yo)
 
 ::Locations
 All Nite Diner
 Arkham Asylum
 Asgard
+Athens
 Atlantis
 Aurelia of the Plains
 Death's House
@@ -132,6 +158,7 @@ First Necropolis
 Flaxdown
 Free Country
 Fulcrum, the - Destruction's realm
+Hades - Underworld of Greek Mythology
 Hell
 Houseboat, the
 Invisible College
@@ -200,6 +227,7 @@ Freddie - A fisherman
 George - Housemate of Wanda
 Habibi
 Hal Carter - Landlord and cabaret act
+Hamnet Shakespeare - William Shakespeare's Son
 Haroun Al Raschid
 Hazel - Foxglove's partner
 Heather After - White witch
