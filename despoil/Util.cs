@@ -123,6 +123,18 @@ namespace despoil
                 return BitConverter.ToString(md5.ComputeHash(Encoding.UTF8.GetBytes(input))).Replace("-", string.Empty);
         }
 
+        public static string SortAndDedupeEntities(string inputLine)
+        {
+            if (!inputLine.Contains(" ++ ")) return inputLine;
+
+            var split = inputLine.Split(" ++ ");
+            var mainEntry = split[0];
+            var additionals = split[1];
+
+            var entities =  string.Join(" ", Regex.Matches(additionals, @"<.+?>").Select(m => m.Value).DistinctBy(v => v).OrderBy(v => v.StartsWith("<The ") ? v.Replace("<The ","<") : v));
+            return mainEntry + " ++ " + entities;
+        }
+
     }
 
 

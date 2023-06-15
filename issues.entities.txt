@@ -1,364 +1,380 @@
-::-
-Cane
-Estella
-Lugweed
-Magpie
-Oliver
-Pamela
-Sebastian
-
 ::Angels, Demons and monsters
-Amenadiel
-Azazel
-Balam
-Beelzebub
-Bita Ghūl
-Briadach the Blind - Son of Lilith, member of the Lilim
-Choronzon - Demon which acquired Dream's Helm
-Cluracan's Nemesis
-Duma - Angel of Silence
-Etrigan
-Gabriel
-Jophiel
-Kushiel
-Lucifer Morningstar
-Mahu - Son of Lilith, member of the Lilim
-Maz Ghūl
-Mazikeen - Daughter of Lilith, member of the Lilim, Lover of Lucifer
-Merkin, the - Mother of spiders
-Michael
-Moroni - Angel reported to have visited Joseph Smith, founder of Mormonism
-Mr Agony
-Mr Ecstasy
-Raphael
-Rawhead-and-Bloody-Bones
-Remiel
-Saraquael
-Smiling Man, the
-Uriel
-Vestibulan, the
+ Amenadiel
+ Azazel
+ Balam
+ Beelzebub
+ Bita Ghūl
+ Briadach the Blind - Son of Lilith, member of the Lilim
+ Choronzon - Demon which acquired Dream's Helm
+ Cluracan's Nemesis
+ Duma - Angel of Silence
+ Etrigan
+ Gabriel
+ Jophiel
+ Kushiel
+ Lucifer Morningstar
+ Mahu - Son of Lilith, member of the Lilim
+ Maz Ghūl
+ Mazikeen - Daughter of Lilith, member of the Lilim, Lover of Lucifer
+ Merkin, the - Mother of spiders
+ Michael
+ Moroni - Angel reported to have visited Joseph Smith, founder of Mormonism
+ Mr Agony
+ Mr Ecstasy
+ Raphael
+ Rawhead-and-Bloody-Bones
+ Remiel
+ Saraquael
+ Smiling Man, the
+ Uriel
+ Vestibulan, the
 
 ::Artefacts
-Amulet - An amulet of protection, traded with a demon
-Black Chest, the - Where the nightmares of The Dreaming reside
-Books of Ritual, the
-Bottled City - An ancient city, preserved for eternity
-Cerements, the
-Corinthian's Skull
-Eagle Stone - One of the Dreamstones
-Gates of Horn and Ivory, the - Gates to the Dreaming
-Helmet of Dreams - Dream's symbol of office
-Key to Hell, the
-Magdalene Grimoire - Spell book used by Roderick Burgess
-Materioptikon, the - The Ruby Dreamstone
-Merlintrove
-Moon, the
-Mundane Egg - An egg containing a universe
-Pocket Watch
-Porpentine, the
-Saeculum - A powerful object belonging to Time
-Sand Pouch - The pouch containing Dream's sand
+ Amulet - An amulet of protection, traded with a demon
+ Black Chest, the - Where the nightmares of The Dreaming reside
+ Books of Ritual, the
+ Bottled City - An ancient city, preserved for eternity
+ Cerements, the
+ Corinthian's Skull
+ Eagle Stone - One of the Dreamstones
+ Gates of Horn and Ivory, the - Gates to the Dreaming
+ Helmet of Dreams - Dream's symbol of office
+ Key to Hell, the
+ Magdalene Grimoire - Spell book used by Roderick Burgess
+ Materioptikon, the - The Ruby Dreamstone
+ Merlintrove
+ Moon, the
+ Mundane Egg - An egg containing a universe
+ Pocket Watch
+ Porpentine, the
+ Saeculum - A powerful object belonging to Time
+ Sand Pouch - The pouch containing Dream's sand
 
 ::Events
-Cereal Convention
-End of the First Dream
-End of Time
-Great Clash, the
-Imprisonment of Dream
-Orpheus and Eurydice
-War in The Silver City
+ Cereal Convention
+ End of the First Dream
+ End of Time
+ Great Clash, the
+ Imprisonment of Dream
+ Orpheus and Eurydice
+ War in The Silver City
 
 ::Fae
-Auberon - Titania's Husband
-Boggart
-Cluracan
-Nuala
-Puck
-Titania
-Unseelie, the
+ Auberon - Titania's Husband
+ Boggart
+ Cluracan
+ Nuala
+ Puck
+ Titania
+ Unseelie, the
 
 ::Gods, Deities, Endless, Magical beings and other Immortals
-Alderman, the
-Anubis - Egyptian God
-Anya - A Werewolf.  Vassily's wife
-Aristaeus
-Baba Yaga - Ogress from folklore
-Barnabas - A talking dog.  Associate of Destruction and Delirium
-Bernie Capax
-Bes
-Bhartari
-Calliope - Muse, Lover of Dream and Mother of Orpheus
-Celeste - A Werewolf.  Vassily's granddaughter
-Cerberus - The Hound of Hades
-Chaos
-Charon - Boatman of the Styx
-Cronus - A titan
-Dark Moth - Alter ego of Wan
-Death - Member of the Endless
-Delirium - Member of the Endless
-Desire - Member of the Endless
-Despair - Member of the Endless
-Destiny - Member of the Endless
-Destruction - Member of the Endless
-Dream - Morpheus, lord of the dreaming, Member of the Endless
-Dream (cat)
-Dusk
-Eblis O'Shaughnessy - Golem created by the Endless
-Erzulie
-Etain of the Second Look
-Formalhaut
-Glory - Glory of the First Circle
-Hermes - Herald of the Greek gods
-Ishtar
-King Hades - The King of Hades
-Lady Bast - Egyptian Goddess
-Lilith - Adam's third wife, Mother of the Lilim
-Loki - Norse God of Mischief
-Lord Agwe
-Mad Hettie - Immortal old woman residing in London
-Night - Mother of The Endless
-Odin - Norse God
-Order
-Orpheus - Son of Morpheus and Calliope
-Pharamond - A former god, last of his pantheon
-Queen Persephone - The Queen of Hades
-Robert Gadling - Immortal due to a wager between Dream and Death
-Shakpana - God of illness and disease
-Sigyn
-Susano-O-No-Mikoto - Japanese deity
-Swamp Thing - Humanoid plant elemental
-Tamara - A Werewolf.  Vassily's daughter
-Tefé Holland
-Thessaly - Three thousand year old Witch
-Thor - Norse God
-Three Witches - Mother, Maiden, Crone.  Also The Fates or The Kindly Ones
-Time - Father of The Endless
-Uncle Monday
-Vassily - A Werewolf
-Wan - AI
-Yo-Yo - Tim Hunter's Owl (formerly a yo-yo)
+ Alderman, the
+ Anubis - Egyptian God
+ Anya - A Werewolf.  Vassily's wife
+ Baba Yaga - Ogress from folklore
+ Barnabas - A talking dog.  Associate of Destruction and Delirium
+ Bernie Capax
+ Bes - Egyptian God
+ Bhartari - Ancient King, ate a magic apple
+ Calliope - Muse, Lover of Dream and Mother of Orpheus
+ Celeste - A Werewolf.  Vassily's granddaughter
+ Cerberus - The Hound of Hades
+ Chaos
+ Charon - Boatman of the Styx
+ Cronus - A titan
+ Dark Moth - Alter ego of Wan
+ Death - Member of the Endless
+ Delirium - Member of the Endless
+ Desire - Member of the Endless
+ Despair - Member of the Endless
+ Destiny - Member of the Endless
+ Destruction - Member of the Endless
+ Dream - Morpheus, lord of the dreaming, Member of the Endless
+ Dream (cat) - Accompanies Dream during the events of Overture
+ Dusk
+ Eblis O'Shaughnessy - Golem created by the Endless
+ Erzulie
+ Etain of the Second Look
+ Formalhaut
+ Glory - Glory of the First Circle
+ Hermes - Herald of the Greek gods
+ Ishtar
+ King Hades - The King of Hades
+ Lady Bast - Egyptian Goddess
+ Lilith - Adam's third wife, Mother of the Lilim
+ Loki - Norse God of Mischief
+ Lord Agwe
+ Mad Hettie - Immortal old woman residing in London
+ Night - Mother of The Endless
+ Odin - Leader of the Norse Gods
+ Order
+ Orpheus - Son of Morpheus and Calliope
+ Pharamond - A former god, last of his pantheon
+ Queen Persephone - The Queen of Hades
+ Ra - Egyptian Sun God
+ Robert Gadling - Immortal due to a wager between Dream and Death
+ Shakpana - God of illness and disease
+ Sigyn - Loki's Wife
+ Susano-O-No-Mikoto - Japanese deity
+ Swamp Thing - Humanoid plant elemental
+ Tamara - A Werewolf.  Vassily's daughter
+ Tefé Holland
+ Thessaly - Three thousand year old Witch
+ Thor - Norse God
+ Three Witches - Mother, Maiden, Crone.  Also The Fates or The Kindly Ones
+ Time - Father of The Endless
+ Uncle Monday
+ Urania Blackwell - Element Girl
+ Vassily - A Werewolf
+ Wan - AI
+ Yo-Yo - Tim Hunter's Owl (formerly a yo-yo)
 
 ::Locations
-All Nite Diner
-Arkham Asylum
-Asgard
-Athens
-Atlantis
-Aurelia of the Plains
-Death's House
-Delirium's Realm
-Despair's Realm
-Destiny's Garden
-Dreaming, the - Dream's Realm, where all dreams happen
-Eden - The garden
-Empty House, the - The house that Lindy sees in her dreams
-Faerie
-Fawney Rig
-First Necropolis
-Flaxdown
-Free Country
-Fulcrum, the - Destruction's realm
-Hades - Underworld of Greek Mythology
-Hell
-Houseboat, the
-Invisible College
-Land, the - A realm within the Dreaming.  Created for Alianora but later visited by Barbie
-Limbo
-London
-Lux - Lucifer's bar on Earth
-Naxos
-Necropolis Litharge
-Ravenscar Hospital - Mental hospital
-Silver City, the
-Soft Places - Places where the boundary between reality and The Dreaming are less strong
-Swartalfheim
-Threshold, the - Desire's Realm
-Tree of Knowledge
-Worlds' End - A Free House at the End of all worlds
-Wych Cross - Town in East Sussex.  Location of Fawney Rig
+ Alabama - State of the USA
+ All Nite Diner
+ Arkham Asylum
+ Asgard - Dwelling place of the Norse gods
+ Athens
+ Atlanta - City in Atlanta,
+ Atlantis - An ancient, advanced, lost civilisation
+ Aurelia of the Plains
+ Death's House
+ Delirium's Realm
+ Dream Dome, the - Hector Hall's isolated 'island' in the dreaming
+ Dreaming, the - Dream's Realm, where all dreams happen
+ Eden - The garden
+ Egypt
+ Empty House, the - The house that Lindy sees in her dreams
+ England
+ Faerie
+ Fawney Rig
+ First Necropolis
+ Flaxdown
+ Florida - State of the USA
+ Free Country
+ Fulcrum, the - Destruction's realm
+ Garden of Forking Ways, the - Destiny's Realm
+ Georgia - State of the USA
+ Gray Realm, the - Despair's realm
+ Greece
+ Hades - Underworld of Greek Mythology
+ Hell - Originally Lucifer's Realm
+ Hong Kong
+ House of Mysteries, the - Cain's home in The Dreaming
+ House of Secrets, the - Abel's home in The Dreaming
+ Houseboat, the
+ Invisible College
+ Kansas - State of the USA
+ Land, the - A realm within the Dreaming.  Created for Alianora but later visited by Barbie
+ Limbo
+ London
+ Lux - Lucifer's bar on Earth
+ Naxos
+ Necropolis Litharge
+ New York - City in the USA
+ Paris
+ Perth
+ Ravenscar Hospital - Mental hospital
+ Rome
+ San Francisco
+ Silver City, the
+ Soft Places - Places where the boundary between reality and The Dreaming are less strong
+ St Hilarion's - Boarding School
+ Swartalfheim
+ Threshold, the - Desire's Realm
+ Tree of Knowledge
+ Wendel's Mound - An ancient hill in England
+ Worlds' End - A Free House at the End of all worlds
+ Wych Cross - Town in East Sussex.  Location of Fawney Rig
 
 ::People
-Adam - The first man
-Aiken Drum
-Alexander Burgess - Son of Roderick Burgess
-Algernon Charles Swinburne
-Alter Boi - Human avatar of Erzulie
-Alvie - Hazel's son
-Andros - Custodian of Orpheus
-Azar - Nurse.  Has true sight
-Barbie - Dreams of The Land
-Barry the Traffic
-Batman - Bruce Wayne
-Benedict - Target of Ruin's affection
-Bill Teague - A Billionaire
-Billy Scutt - A hangman
-Bogeyman - A Serial Killer
-Boris - Foxglove's bodyguard
-Brant Tucker - Visitor to the Worlds' End
-Caesar Augustus - Roman Emperor
-Carla - Friend of Lyta
-Chamberlin Locke
-Chantal - one of the Spider Ladies.  Tenant of Hal
-Charlene Mooney - Visitor to the Worlds' End
-Charles Rowland - Dead boy detective
-Chas - Associate of John Constantine
-Chiron - A centaur
-Clarice Sackville - Magician and former lover of John Constantine
-Clark Kent - Superman
-Clement Thurso
-D.S. Dole - Police officer
-Daniel - Human child, and second lord of The Dreaming
-Dante Gabriel Rossetti - English poet
-Darkseid
-Derek the Beggar
-Doctor Occult
-Dorothy Spinner
-Dr Crow - A Scientist
-Dr Fate
-Dr Rose
-Edwin Paine - Dead boy detective
-Erasmus Fry - Author
-Eric Needham - Lyta's date (and Black Spider in DC universe)
-Ethel Cripps - Lover of Roderick Burgess, Mother of John Dee
-Eurydice - Orpheus' wife
-Family Man - A Serial Killer
-Foxglove - Hazel's partner.  Musician
-Freddie - A fisherman
-George - Housemate of Wanda
-Habibi
-Hal Carter - Landlord and cabaret act
-Hamnet Shakespeare - William Shakespeare's Son
-Haroun Al Raschid
-Hazel - Foxglove's partner
-Heather After - White witch
-Hector Hall - Lyta's late husband
-Hermas
-Hippolyta Hall - Lyta.  Mother of Daniel
-Holly Daze - Adopted Niece of Potiphar Flush
-Hyperion Keter - Billionaire tech guru.  Creator of Wan
-Ivy Walker - Rose Walker's Daughter
-Jack Holdaway - Solicitor, Ivy Walker's Father
-Jack Locke
-Jed Walker - Brother of Rose Walker
-Jim - A Child who ran away to sea
-John Constantine - Occult detective
-John Dee - Doctor Destiny, Child of Ethel Cripps and Roderick Burgess
-John Hathaway - Affiliate of Roderick Burgess
-Joshua Norton - Emperor of the United States
-Judy Talbot - one of John Dee's diner victims
-K-Mag
-Kells - Madison's friend
-Ken - Barbie's Boyfriend.  Works in finance
-Killalla of the Glow
-Kris
-Kwaz Moto - Mr Flush's bodyguard
-Lady Johanna Constantine - Aristocrat and adventurer.  Ancestor of John Constantine
-Larry - Foxglove's manager
-Latoya
-Latoya's father ??
-Lindy Morris
-Lindy's Baby
-Liza Ikumelo
-Lizzie Siddal
-Lords Carnal
-Lumi
-Madison Flynn
-Maggie
-Map - Magician and associate of John Constantine
-Marco Polo - Italian merchant and explorer
-Mark Twain - Historical author
-Martian Manhunter - A Martian
-Mary Locke
-Max Lee
-Maxine Baker
-Mig
-Miranda Walker - Rose Walker's Mother
-Mister E
-Mr Holdaway
-Mrs Robbins
-Nada
-Nat - Associate of John Constantine
-Nimrod - A Serial Killer
-Noah Ikumelo
-Old Constantine
-Paul McGuire - Lover and carer of Alex Burgess
-Petrefax - Prentice of the Necropolis Litharge
-Phantom Stranger
-Philip Sitz - Editor of Chaste magazine
-Potiphar Flush - A Magician and former horticulturalist
-Prez Rickard - Boy president in another timeline
-Rachel Begai
-Richard Madoc - Author
-Robbie Greene - Madison's friend
-Roderick Burgess - Magician who imprisoned Dream
-Rose Walker - Granddaughter of Unity.  Vortex
-Ruby DeLonge - Employee of Pharamond
-Rustichello da Pisa
-Ruthven Sykes - Associate of Roderick Burgess
-Scarecrow, the
-Scott Free
-Scroyle
-Sergei
-Sexton Furnival
-Sithcundman, the
-Suzy Linden - Child Black Orchid
-Sylvia Furnival
-Theo
-Tiffany
-Tim Hunter - Boy Wizard
-Todd - Heather After's boyfriend
-Tommy Willowtree
-Unity Kincaid - Rose Walker's Grandmother
-Urania Blackwell - Element Girl
-Veltis
-Wanda - Housemate of Barbie
-Wesley Dodds - Golden age Sandman
-William Shakespeare - Great historical playwright
-Zatanna - Magician
-Zelda - one of the Spider Ladies.  Tenant of Hal
+ Adam - The first man
+ Aiken Drum
+ Alexander Burgess - Son of Roderick Burgess
+ Algernon Charles Swinburne
+ Alter Boi - Human avatar of Erzulie
+ Alvie - Hazel's son
+ Andros - Custodian of Orpheus
+ Azar - Nurse.  Has true sight
+ Barbie - Dreams of The Land
+ Barry the Traffic
+ Batman - Bruce Wayne
+ Benedict - Target of Ruin's affection
+ Bill Teague - A Billionaire
+ Billy Scutt - A hangman
+ Bogeyman - A Serial Killer
+ Boris - Foxglove's bodyguard
+ Brant Tucker - Visitor to the Worlds' End
+ Caesar Augustus - Roman Emperor
+ Carla - Friend of Lyta
+ Chamberlin Locke
+ Chantal - one of the Spider Ladies.  Tenant of Hal
+ Charlene Mooney - Visitor to the Worlds' End
+ Charles Rowland - Dead boy detective
+ Chas Chandler - Associate of John Constantine
+ Chiron - A centaur
+ Clarice Sackville - Magician and former lover of John Constantine
+ Clark Kent - Superman
+ Clement Thurso
+ D.S. Dole - Police officer
+ Daniel - Human child, and second lord of The Dreaming
+ Dante Gabriel Rossetti - English poet
+ Darkseid
+ Derek the Beggar
+ Doctor Occult
+ Dorothy Spinner
+ Dr Crow - A Scientist
+ Dr Fate
+ Dr Rose
+ Edwin Paine - Dead boy detective
+ Erasmus Fry - Author
+ Eric Needham - Lyta's date (and Black Spider in DC universe)
+ Estella - Housemate of Oliver and John Constantine in the 60s
+ Ethel Cripps - Lover of Roderick Burgess, Mother of John Dee
+ Eurydice - Orpheus' wife
+ Family Man - A Serial Killer
+ Foxglove - Hazel's partner.  Musician
+ Freddie - A fisherman
+ George - Housemate of Wanda
+ Habibi
+ Hal Carter - Landlord and cabaret act
+ Hamnet Shakespeare - William Shakespeare's Son
+ Haroun Al Raschid
+ Hazel McNamara - Foxglove's partner
+ Heather After - White witch
+ Hector Hall - Lyta's late husband
+ Hermas
+ Hippolyta Hall - Lyta.  Mother of Daniel
+ Holly Daze - Adopted Niece of Potiphar Flush
+ Hyperion Keter - Billionaire tech guru.  Creator of Wan
+ Ivy Walker - Rose Walker's Daughter
+ Jack Holdaway - Solicitor, Ivy Walker's Father
+ Jack Locke
+ Jed Walker - Brother of Rose Walker
+ Jim - A Child who ran away to sea
+ John Constantine - Occult detective
+ John Dee - Doctor Destiny, Child of Ethel Cripps and Roderick Burgess
+ John Hathaway - Affiliate of Roderick Burgess
+ Joshua Norton - Emperor of the United States
+ Judy Talbot - one of John Dee's diner victims
+ K-Mag
+ Kells - Madison's friend
+ Ken - Barbie's Boyfriend.  Works in finance
+ Killalla of the Glow
+ Kris - Andros' son-in-law
+ Kwaz Moto - Mr Flush's bodyguard
+ Lady Johanna Constantine - Aristocrat and adventurer.  Ancestor of John Constantine
+ Larry - Foxglove's manager
+ Latoya
+ Latoya's father ??
+ Lindy Morris
+ Lindy's Baby
+ Liza Ikumelo
+ Lizzie Siddal
+ Lords Carnal
+ Lumi
+ Madison Flynn
+ Maggie
+ Map - Magician and associate of John Constantine
+ Marco Polo - Italian merchant and explorer
+ Mark Twain - Historical author
+ Martian Manhunter - A Martian
+ Mary Locke
+ Max Lee
+ Maxine Baker
+ Mig
+ Miranda Walker - Rose Walker's Mother
+ Mister E
+ Mr Holdaway
+ Mrs Robbins
+ Nada - Queen of the first city, Lover of Dream
+ Nat - Associate of John Constantine
+ Nimrod - A Serial Killer
+ Noah Ikumelo
+ Old Constantine
+ Oliver - Housemate of John Constantine in the 60s
+ Pamela - Housemate of Oliver and John Constantine in the 60s
+ Paul McGuire - Lover and carer of Alex Burgess
+ Petrefax - Prentice of the Necropolis Litharge
+ Phantom Stranger
+ Philip Sitz - Editor of Chaste magazine
+ Potiphar Flush - A Magician and former horticulturalist
+ Prez Rickard - Boy president in another timeline
+ Rachel Begai
+ Richard Madoc - Author
+ Robbie Greene - Madison's friend
+ Roderick Burgess - Magician who imprisoned Dream
+ Rose Walker - Granddaughter of Unity.  Vortex
+ Ruby DeLonge - Employee of Pharamond
+ Rustichello da Pisa
+ Ruthven Sykes - Associate of Roderick Burgess
+ Scarecrow, the
+ Scott Free
+ Scroyle
+ Sergei
+ Sexton Furnival
+ Sithcundman, the
+ Suzy Linden - Child Black Orchid
+ Sylvia Furnival
+ Theo
+ Tiffany
+ Tim Hunter - Boy Wizard
+ Todd - Heather After's boyfriend
+ Tommy Willowtree
+ Unity Kincaid - Rose Walker's Grandmother
+ Veltis
+ Wanda Mann - Housemate of Barbie
+ Wesley Dodds - Golden age Sandman
+ William Shakespeare - Great historical playwright
+ Zatanna - Magician
+ Zelda - one of the Spider Ladies.  Tenant of Hal
 
 ::Residents of The Dreaming
-Abel - Cain's Brother
-Abudah - Member of Merv's crew
-Alianora - Former lover of Dream
-Baku - Eater of dreams
-Borghal Rantipole - A minor dream tasked to help Delirium
-Brute - A nightmare
-Cain - Abel's brother
-Corinthian, the - A nightmare
-Cuckoo, the - part of Barbie's dreams
-Dora - Not a dream
-Dream Shakespeares - part of Lindy's dreams
-Endless Teeth - A nightmare
-Eve - Adam's first wife.  Lives in a cave in The Dreaming
-Fashion Thing, the
-Fiddler's Green - Gilbert
-Glob - A nightmare
-Goldie - A baby Gargoyle
-Green Nightmares
-Gregory - A Gargoyle
-Gryphon, the - One of the three Guardians of Dream's Palace
-Hippogriff, the - One of the three Guardians of Dream's Palace
-Jessamy - A Raven
-Judge Gallows - A Nightmare from the American Civil War
-Lam - A dream of a Lamborghini
-Lord Ruthven - A Vampire rabbit
-Lucien - Librarian of The Dreaming
-Luz - part of Barbie's dreams
-Man with Swan's Arm - A former prince
-Martin Tenbones - part of Barbie's dreams
-Matthew - A Raven
-Merlyn - part of Lindy's dreams
-Merv Pumpkin Head - Janitor of The Dreaming
-Merv's Bats
-Prinado - part of Barbie's dreams
-Quivering Annie - A dream
-Ruin - A nightmare
-Sketchtale - A dream
-Taramis - Dream's Butler
-Turtle - An island
-Vortex
-Wilkinson - part of Barbie's dreams
-Wyvern, the - One of the three Guardians of Dream's Palace
-Ziggy - Dora's friend
+ Abel - Cain's Brother
+ Abudah - Member of Merv's crew
+ Alianora - Former lover of Dream
+ Aristaeus - One of Dream's former Ravens.  Also former Greek god.
+ Baku - Eater of dreams
+ Borghal Rantipole - A minor dream tasked to help Delirium
+ Brute - A nightmare
+ Cain - Abel's brother
+ Corinthian, the - A nightmare
+ Cuckoo, the - part of Barbie's dreams
+ Dora - Not a dream
+ Dream Shakespeares - part of Lindy's dreams
+ Endless Teeth - A nightmare
+ Eve - Adam's first wife.  Lives in a cave in The Dreaming
+ Fashion Thing, the
+ Fiddler's Green - Gilbert
+ Glob - A nightmare
+ Goldie - A baby Gargoyle
+ Green Nightmares
+ Gregory - A Gargoyle
+ Gryphon, the - One of the three Guardians of Dream's Palace
+ Hippogriff, the - One of the three Guardians of Dream's Palace
+ Jessamy - One of Dream's former Ravens
+ Judge Gallows - A Nightmare from the American Civil War
+ Lam - A dream of a Lamborghini
+ Lord Ruthven - A Vampire rabbit
+ Lucien - Librarian of The Dreaming
+ Lugweed - Janitor of The Dreaming
+ Luz - part of Barbie's dreams
+ Magpie - A Dream
+ Man with Swan's Arm - A former prince
+ Martin Tenbones - part of Barbie's dreams
+ Matthew - A Raven
+ Merlyn - part of Lindy's dreams
+ Merv Pumpkin Head - Janitor of The Dreaming
+ Merv's Bats
+ Prinado - part of Barbie's dreams
+ Quivering Annie - A dream
+ Ruin - A nightmare
+ Sketchtale - A dream
+ Taramis - Dream's Butler
+ Turtle - An island
+ Vortex
+ Wilkinson - part of Barbie's dreams
+ Wyvern, the - One of the three Guardians of Dream's Palace
+ Ziggy - Dora's friend
 

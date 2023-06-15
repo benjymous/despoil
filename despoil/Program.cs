@@ -2,11 +2,13 @@
 using despoil;
 using Fluid;
 
+var inputFilename = "issues.txt";
+
 Console.WriteLine("Reading input");
-string text = File.ReadAllText("issues.txt").Replace("\r", "");
+string text = File.ReadAllText(inputFilename).Replace("\r", "");
 
 Console.WriteLine("Parsing data");
-var entries = text.Split("\n\n\n");
+var entries = text.Split("\n\n");
 
 var issues = new List<string>();
 var threads = new Dictionary<string, List<string>>();
@@ -45,9 +47,13 @@ foreach (var entry in entries)
     int eventCount = 0;
 
     var entryLines = entry.Split("\n").Select(e => e.Trim()).ToArray();
+
+    if (entryLines.Length == 1) continue;
+
     reformatted.Add(entryLines[0]);
-    reformatted.AddRange(entryLines.Skip(1).Select(e => " "+e));
-    reformatted.Add("\n");
+    reformatted.AddRange(entryLines.Skip(1).Select(e => " " + Util.SortAndDedupeEntities(e)));
+    reformatted.Add("");
+
     if (entryLines.Length < 4)
     {
         throw new Exception("Error with " + entryLines[0]);
@@ -372,6 +378,7 @@ foreach (var entry in entries)
     }
 }
 
+File.WriteAllLines(inputFilename, reformatted);
 
 foreach (var marker in dateMarkers)
 {
@@ -466,7 +473,7 @@ var orderStyles = eventDates.Select(x => $".chron :nth-child({x.Item1}) {{ order
 
 try 
 {
-    var entityListIn = File.ReadAllLines("issues.entities.txt");
+    var entityListIn = File.ReadAllLines("issues.entities.txt").Select(line => line.Trim());
     var entityDict = entityData.ToDictionary(e => e.name, e=>e);
     string currentGroup = "-";
     foreach (var line in entityListIn)
@@ -509,7 +516,7 @@ foreach (var group in entitiesByType.OrderBy(g => g.Key))
     entityListOut.Add("::"+group.Key);
     foreach (var e in group)
     {
-       entityListOut.Add(e.name + (string.IsNullOrWhiteSpace(e.notes) ? "" : " - "+e.notes));
+       entityListOut.Add(" " + e.name + (string.IsNullOrWhiteSpace(e.notes) ? "" : " - "+e.notes));
     }
     entityListOut.Add("");
 }
