@@ -4,7 +4,7 @@ using System.Security.Cryptography;
 
 namespace despoil
 {
-    public class Util
+    public static class Util
     {
         public static String Rainbow(Int32 numOfSteps, Int32 step)
         {
@@ -115,6 +115,11 @@ namespace despoil
                 text = text.Substring(4) + ", the";
             }
             return text;
+        }
+
+        public static bool IsUppercase(this char c)
+        {
+            return c >='A' && c <='Z';
         }
 
         public static string MakeId(string input)

@@ -471,10 +471,17 @@ var orderStyles = eventDates.Select(x => $".chron :nth-child({x.Item1}) {{ order
 
 //////////////////////////////////////
 
+var reverseAlias = entityAlias.Where(kvp => kvp.Key[0].IsUppercase()).GroupBy(x => Util.MoveThe(x.Value), x => Util.MoveThe(x.Key));
+var entityDict = entityData.ToDictionary(e => e.name, e=>e);
+
+// foreach (var kvp in entityAlias)
+// {
+//     Console.WriteLine(kvp.Key + " => " + kvp.Value);
+// }
+
 try 
 {
     var entityListIn = File.ReadAllLines("issues.entities.txt").Select(line => line.Trim());
-    var entityDict = entityData.ToDictionary(e => e.name, e=>e);
     string currentGroup = "-";
     foreach (var line in entityListIn)
     {
@@ -521,6 +528,12 @@ foreach (var group in entitiesByType.OrderBy(g => g.Key))
     entityListOut.Add("");
 }
 File.WriteAllLines("issues.entities.txt", entityListOut);
+
+foreach (var reverse in reverseAlias) 
+{
+    if (!string.IsNullOrWhiteSpace(entityDict[reverse.Key].notes)) entityDict[reverse.Key].notes += "\n";
+    entityDict[reverse.Key].notes += "( " +string.Join(", ", reverse) + " )";
+}
 
 //////////////////////////////////////
 

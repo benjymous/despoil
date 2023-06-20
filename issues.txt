@@ -10,12 +10,12 @@ Sandman #1
  1. Sleep of the Just
  January 1989
  The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
- ## * June 1916: <Roderick Burgess> captures <Dream> by mistake ++ <Alexander Burgess> <Fawney Rig> <Helm|Helmet of Dreams> <Imprisonment of Dream> <John Hathaway> <Magdalene Grimoire> <Ruby|The Materioptikon> <Ruthven Sykes> <Sand Pouch> <Wych Cross>
+ ## * June 1916: <Roderick Burgess> captures <Dream> by mistake ++ <Alexander Burgess> <Fawney Rig> <Helm|Helmet of Dreams> <Imprisonment of Dream> <John Hathaway> <Magdalene Grimoire> <Ruby Dreamstone|The Materioptikon> <Ruthven Sykes> <Sand Pouch> <Wych Cross>
  - <Unity Kincaid> falls deep asleep
  -# * June 1920: <John Hathaway> gives up
  -# * August 1926: <Alexander Burgess> learns <Dream>'s identity
  -# * 1930: <Ruthven Sykes> trades <Dream>'s <Helm> with a demon for a magical <Amulet> ++ <Choronzon>
- -# * 1936: <Ethel Cripps> steal <Dream>'s remaining artifacts, and the <Amulet>, leaving <Sykes|Ruthven Sykes> unprotected ++ <Ruby> <Sand Pouch>
+ -# * 1936: <Ethel Cripps> steal <Dream>'s remaining artifacts, and the <Amulet>, leaving <Sykes|Ruthven Sykes> unprotected ++ <Ruby Dreamstone> <Sand Pouch>
  -# * 1939.1: <Unity|Unity Kincaid> gives birth - the <baby|Miranda Walker> is adopted
  - <Wesley Dodds> - Golden age Sandman
  -# * 1947: <Roderick Burgess> dies ++ <Fawney Rig> <Wych Cross>
@@ -50,15 +50,15 @@ Sandman #4
  4. A Hope in Hell
  April 1989
  The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
- ## 1989.2: <Dream> visits <Lucifer Morningstar> in <Hell> to recover his <Helm>.  <John Dee> receives a gift  ++ <Amulet> <Arkham Asylum> <Azazel> <Beelzebub> <Choronzon> <The Dreaming> <Etrigan> <Nada>
+ ## 1989.2: <Dream> visits <Lucifer Morningstar> in <Hell> to recover his <Helm>.  <John Dee> receives a gift  ++ <Amulet> <Arkham Asylum> <Azazel> <Beelzebub> <Choronzon> <The Dreaming> <Etrigan> <Gotham City> <Nada>
 
 Sandman #5
  The Sandman: Master of Dreams
  5. Passengers
  May 1989
  The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
- -# 1961: <Doctor Destiny|John Dee> uses Dream's <Ruby> to affect people's dreams and make nightmares real.
- ## * April 1989: <Dream> tracks the <Ruby>, but <John Dee> gets hold of it ++ <All Nite Diner> <Arkham Asylum> <Martian Manhunter> <Merv Pumpkin Head> <New York> <The Scarecrow> <Scott Free>
+ -# 1961: <Doctor Destiny|John Dee> uses Dream's <Ruby Dreamstone> to affect people's dreams and make nightmares real.
+ ## * April 1989: <Dream> tracks the <Ruby Dreamstone>, but <John Dee> gets hold of it ++ <All Nite Diner> <Arkham Asylum> <Gotham City> <Martian Manhunter> <Mayhew> <Merv Pumpkinhead> <New York> <The Scarecrow> <Scott Free>
  ? Announced to be April 1 in first panel
 
 Sandman #6
@@ -66,15 +66,15 @@ Sandman #6
  6. 24 Hours
  June 1989
  The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
- ## 1989.26: <Judy|Judy Talbot> makes some phone calls, <John Dee> doesn't leave any survivors ++ <All Nite Diner> <Donna|Foxglove> <Dream> <Rose|Rose Walker>
+ ## 1989.26: <Judy|Judy Talbot> makes some phone calls, <John Dee> doesn't leave any survivors ++ <All Nite Diner> <Donna|Foxglove> <Dream> <Mayhew> <Rose|Rose Walker>
 
 Sandman #7
  The Sandman: Master of Dreams
  7. Sound and Fury
  July 1989
  The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
- ## 1989.27: <John Dee>'s madness spreads, but releasing the power leads to him returning back home ++ <Abel> <All Nite Diner> <Arkham Asylum> <Cain> <Destiny> <The Dreaming> <Eve> <Goldie> <Gregory> <Ruby> <The Scarecrow>
- -# -4000000000 | aeons ago: <Dream> creates the <Ruby> from the fabric of his being
+ ## 1989.27: <John Dee>'s madness spreads, but releasing the power leads to him returning back home ++ <Abel> <All Nite Diner> <Arkham Asylum> <Cain> <Destiny> <The Dreaming> <Eve> <Goldie> <Gotham City> <Gregory> <Ruby Dreamstone> <The Scarecrow>
+ -# -4000000000 | aeons ago: <Dream> creates the <Ruby Dreamstone> from the fabric of his being
  ? The introduction to Dolls House sets this as when the Earth was still cooling from a molten state
 
 Sandman #8
@@ -232,7 +232,7 @@ Sandman #22
  Season of Mists: Chapter 1
  January 1991
  The Sandman: Vol  4: Season of Mists, The Sandman: Book 2
- ## 1990.8: <Dream> prepares to say goodbye again, <Cain> has an unhappy time playing messenger, <Lyta>'s child is given a name, and <Hob> is given an unexpected gift ++ <Daniel> <The Dreaming> <The Fashion Thing> <Hell> <Lucien> <Lucifer> <Matthew> <Mazikeen> <Merv|Merv Pumpkin Head> <Nada>
+ ## 1990.8: <Dream> prepares to say goodbye again, <Cain> has an unhappy time playing messenger, <Lyta>'s child is given a name, and <Hob> is given an unexpected gift ++ <Daniel> <The Dreaming> <The Fashion Thing> <Hell> <Lucien> <Lucifer> <Matthew> <Mazikeen> <Merv|Merv Pumpkinhead> <Nada>
  -# -9000000000 | ten billion years ago: <Lucifer> falls to <Hell> ++ <War in The Silver City>
  ? Daniel is a week old
 
@@ -241,7 +241,7 @@ Books of Magic #3
  The Land of Summer's Twilight
  January 1991
  Books of Magic
- ## 1993.77 | October 1993: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Abel> <Baba Yaga> <Cain> <Dream> <The Dreaming> <Etrigan> <Glory> <Goldie> <Hamnet Shakespeare> <Hell> <Mundane Egg> <Titania> <Yo-Yo>
+ ## 1993.77 | October 1993: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Abel> <Baba Yaga> <Cain> <Dr Rose> <Dream> <The Dreaming> <Etrigan> <Glory> <Goldie> <Hamnet Shakespeare> <Hell> <Mundane Egg> <Titania> <Yo-Yo>
  ? add more detail? **
 
 Sandman #23
@@ -459,7 +459,7 @@ Sandman #42
  Brief Lives part 2
  October 1992
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
- ## 1992.46: It rains for weeks, <Delirium> comes to visit and <Dream> consults with <Desire> ++ <Abel> <The Dreaming> <Goldie> <The Gryphon> <The Hippogriff> <Lucien> <Matthew> <Merv> <Nuala> <Taramis> <The Threshold> <The Wyvern> <The House of Secrets>
+ ## 1992.46: It rains for weeks, <Delirium> comes to visit and <Dream> consults with <Desire> ++ <Abel> <The Dreaming> <Goldie> <The Gryphon> <The Hippogriff> <The House of Secrets> <Lucien> <Matthew> <Merv> <Nuala> <Taramis> <The Threshold> <The Wyvern>
  -# -300000000 | the dawn days of Earth: <Destruction> tells <Delirium> that things are changing
 
 Sandman #43
@@ -467,7 +467,7 @@ Sandman #43
  Brief Lives part 3
  November 1992
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
- ## 1992.48: <Bernie Capax>'s time is up, <Pharamond> organizes transport, <Etain of the Second Look> escapes an explosion and <Destruction> gets an early warning ++ <Barnabas> <Delirium> <Ruby DeLonge> <Dublin> <Ohio> <New York>
+ ## 1992.48: <Bernie Capax>'s time is up, <Pharamond> organizes transport, <Etain of the Second Look> escapes an explosion and <Destruction> gets an early warning ++ <Barnabas> <Delirium> <Dublin> <New York> <Ohio> <Ruby DeLonge>
  -# ~ -13000 | stone age: <Bernie Capax> is born
  -# ~ -540 | bronze age: <Dream> suggest that <Pharamond> should take up a new form of employment
  ? Pharamound date roughly fall of Babylon
@@ -477,7 +477,7 @@ Sandman #44
  Brief Lives part 4
  December 1992
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
- ## 1992.5 | midsummer 1992: <The Alderman> bites off his shadow, <Bernie Capax> is missed, <Etain|Etain of the Second Look> goes into hiding and <Ruby DeLonge> is lost ++ <Delirium> <Dream> <Ishtar> <Lucien> <Tiffany> <New York>
+ ## 1992.5 | midsummer 1992: <The Alderman> bites off his shadow, <Bernie Capax> is missed, <Etain|Etain of the Second Look> goes into hiding and <Ruby DeLonge> is lost ++ <Delirium> <Dream> <Ishtar> <Lucien> <New York> <Tiffany>
  -# 1685: <Dream> answers <Destruction>'s call and <The Corinthian> has a snack ++ <Invisible College>
  ? Midsummer
 
@@ -502,7 +502,7 @@ Sandman #46
  Brief Lives part 6
  March 1993
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
- ## 1992.56: <Dream> fills <Pharamond> in, speaks with <Lady Bast> and is put straight by <Death> ++ <Delirium's Realm> <Delirium> <Lucien> <Merv> <Nuala> <Naxos> <Destruction> <Barnabas>
+ ## 1992.56: <Dream> fills <Pharamond> in, speaks with <Lady Bast> and is put straight by <Death> ++ <Barnabas> <Delirium's Realm> <Delirium> <Destruction> <Lucien> <Merv> <Naxos> <Nuala>
 
 Death The High Cost of Living #1
  Death: The High Cost of Living
@@ -549,7 +549,7 @@ Sandman #49
  May 1993
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
  ## 1992.62: <Dream> makes good on his word to <Orpheus> ++ <Andros> <Barnabas> <Delirium> <Desire> <Despair> <The Gray Realm> <The Gryphon> <The Hippogriff> <Lord Ruthven> <Lucien> <Merv's Bats> <Merv> <Naxos> <Nuala> <The Threshold> <The Wyvern>
- -# 1991: <Calliope> visits <Orpheus> ++ <Naxos> 
+ -# 1991: <Calliope> visits <Orpheus> ++ <Naxos>
  -# -1000000010 | aeons ago: Three gods sought to usurp <Dream> ++ <The Dreaming>
  -# -1000000000 | aeons ago: <Dream> creates <The Gates of Horn and Ivory> and his <Helm>
 
@@ -572,16 +572,19 @@ Sandman #51
  1. A Tale of Two Cities
  July 1993
  The Sandman: Vol  8: Worlds' End, The Sandman: Book 3
- ## * June 1993:  <Brant|Brant Tucker> and <Charlene|Charlene Mooney> wind up at the <Worlds' End> inn ++ <Chiron>
+ ## * June 1993:  <Brant|Brant Tucker> and <Charlene|Charlene Mooney> wind up at the <Worlds' End> inn ++ <Chiron> <Cluracan> <Klaproth> <Rajoguna>
  -# 1994.97: A man gets lost within a <Dream> of a city that he knew
  ? Dream is on the train during Kindly Ones 11 (#67)
  ? Brant and Charlene storyline pinned down to exact month in later issue
+ ? Rajoguna is named in the scripts, according to Annotated Sandman
 
 Sandman #52
  The Sandman: Worlds' End
  2. Cluracan's Tale
  August 1993
  The Sandman: Vol  8: Worlds' End, The Sandman: Book 3
+ ## * June 1993 | many times: <Cluracan> tells his tale ++ <Brant> <Charlene> <Klaproth>
+ -# ~790|twelve hundred years ago: The city of <Aurelia of the Plains> has real influence and class
  -# 1993.3: <Lady Titania|Titania> sends <Cluracan> to visit the <Lords Carnal> in the city of <Aurelia of the Plains> ++ <Dream> <The Dreaming> <Faerie> <Nuala>
  ? occurs somewhere between end of Season of Mists and beginning of Kindly Ones
 
@@ -598,6 +601,7 @@ Sandman #53
  3. Hob's Leviathan
  September 1993
  The Sandman: Vol  8: Worlds' End, The Sandman: Book 3
+ ## * June 1993 | many times: <Jim> tells a tale of the sea ++ <Brant> <Charlene> <Cluracan> <Rajoguna>
  -# 1912: <Jim> runs away to sea, and meets some old souls ++ <Hob> <The Stowaway|Bhartari>
  -# 550 | long ago: An <Indian King|Bhartari> is given an Apple of immortality
 
@@ -606,7 +610,8 @@ Sandman #54
  4. The Golden Boy
  October 1993
  The Sandman: Vol  8: Worlds' End, The Sandman: Book 3
- -# 1972 | an alternate timeline: A boy called <Prez|Prez Rickard> becomes President ++ <Dream> <Pocket Watch>
+ ## * June 1993 | many times: <Brant> is told a story about a different America
+ -# 1972 | an alternate timeline: A boy called <Prez|Prez Rickard> becomes President ++ <Death> <Dream> <Pocket Watch>
  ? Clinton is President, so puts Brant and Charlene's thread in the 1993-2001 period.  Assuming 1993
 
 Sandman #55
@@ -614,14 +619,15 @@ Sandman #55
  5. Cerements
  November 1993
  The Sandman: Vol  8: Worlds' End, The Sandman: Book 3
+ ## * June 1993 | many times: <Petrefax> tells tales from his school days ++ <Brant> <Charlene> <Klaproth> <Rajoguna>
  -# ~ 1800 | approx 19th century: Burial rites, then stories from the <Necropolis Litharge> ++ <Hermas> <Mig> <Petrefax> <Scroyle>
  -# ~ 1750 | approx 18th century: <Billy Scutt> the hangman escapes the gallows ++ <Mig>
- -# ~ 1790 | approx 18th century: <Scroyle> meets <Destruction> who tells him a tale about the <First Necropolis>
+ -# ~ 1790 | approx 18th century: <Scroyle> meets <Destruction> who tells him a tale about the <First Necropolis> <Necropolis Litharge>
  -# -100001 | a hundred thousand years ago: The Endless arrive at the <First Necropolis> seeking <The Cerements> and <The Books of Ritual>.  <Destiny> destroys the city. ++ <Death> <Delirium> <Desire> <Destruction> <Dream>
  -# -100000 | a hundred thousand years ago: The village of <Litharge|Necropolis Litharge> gains a charter to become a Necropolis
- -# ~ 1800 | approx 19th century: <Petrefax> tells a tale of Mistress <Veltis>
- -# ~ 1700 | approx 18th century: A young <Veltis> accidentally encounters a room deep in the catacombs containing <The Cerements> and <The Books of Ritual>
- ? Billy was a 'Resurrectionist' - https://en.wikipedia.org/wiki/Resurrectionists_in_the_United_Kingdom so 17th or 18th century.  Assuming 17th based on costume
+ -# ~ 1800 | approx 19th century: <Hermas> tells a tale of Mistress <Veltis>
+ -# ~ 1700 | approx 18th century: A young <Veltis> accidentally encounters a room deep in the catacombs containing <The Cerements> and <The Books of Ritual> ++ <Hermas> <Klaproth> <Necropolis Litharge>
+ ? Billy was a 'Resurrectionist' - https://en.wikipedia.org/wiki/Resurrectionists_in_the_United_Kingdom so 17th or 18th century.
  ? wandering Destruction makes an appearance, so the Litharge thread is set some time after 1690
  ? Billy was Mig's grandfather, so Litharge thread ~50 years later
  ? Not clear if it is Delight or Delirium who visited the First Necropolis
@@ -631,9 +637,9 @@ Sandman #56
  6. Worlds' End
  December 1993
  The Sandman: Vol  8: Worlds' End, The Sandman: Book 3
- -# 1995.051: A funeral procession across the sky. ++ <Abel> <Cain> <Death> <Delirium> <Desire> <Despair> <Destiny> <Duma> <Gilbert> <Joshua Norton> <Lady Bast> <Luz> <Martin Tenbones> <Matthew> <Merv> <Nuala> <Odin> <Thor> <Titania> <Wilkinson> <Worlds' End>
- ## 1993.5: The storm passes, and the Inn's visitors disperse.  <Charlene> chooses to stay behind, and <Petrefax> chooses to travel ++ <Worlds' End>
- ## 1993.8: <Brant> tells his story in a bar.  No evidence <Charlene> ever existed
+ -# 1995.051: A funeral procession across the sky. ++ <Abel> <Cain> <Death> <Delirium> <Desire> <Despair> <Destiny> <Duma> <Gilbert> <Joshua Norton> <Lady Bast> <Lucien> <Luz> <Martin Tenbones> <Matthew> <Merv> <Nuala> <Odin> <Thor> <Titania> <Wilkinson> <Worlds' End>
+ ## 1993.5: The storm passes, and the Inn's visitors disperse.  <Charlene> chooses to stay behind, and <Petrefax> chooses to travel ++ <Brant> <Chiron> <Cluracan> <Jim> <Klaproth> <Rajoguna> <Worlds' End>
+ ## 1993.8: <Brant> tells his story in a bar.  No evidence <Charlene> ever existed ++ <Chicago>
  ? need to identify who else is in the procession
 
 Death Talks About Life
@@ -658,7 +664,7 @@ Sandman #58
  The Kindly Ones: 2
  March 1994
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1994.72: <Lyta> talks to the police,  <Cluracan> talks to his sister, but releases his <Nemesis|Cluracan's Nemesis>, and <Dream> allows them to leave ++ <Carla> <The Gryphon> <The Hippogriff> <Lord Ruthven> <Nuala> <Three Witches> <The Wyvern>
+ ## 1994.72: <Lyta> talks to the police,  <Cluracan> talks to his sister, but releases his <nemesis|Cluracan's Nemesis>, and <Dream> allows them to leave ++ <Carla> <The Gryphon> <The Hippogriff> <Lord Ruthven> <Nuala> <Three Witches> <The Wyvern>
  ? 3 years after #28 (end of season of mists)  - late 1994
  ? Several months #52 (Cluracan's tale) - mid 1993
 
@@ -1013,6 +1019,7 @@ The Sandman Presents: Love Street #1
  Love Street
  July 1999
  --
+ ## * September 1999: <Oliver> dreams of <Fawney Rig> again, and visits an <old friend|Pamela> ++ <The Dreaming> <London>
  ## * July 1968: <Oliver> moves in with a teenage <John Constantine>  ++ <Abel> <Cain> <The Dreaming> <Estella> <London> <Lucien> <Lugweed> <Magpie> <Pamela> <Ravi|Bhartari>
  ? Oliver is nearly 15
 
@@ -1021,14 +1028,16 @@ The Sandman Presents: Love Street #2
  Love Street
  August 1999
  --
- ## * August 1968: ++ <Abel> <Cain> <The Dreaming> <Lucien> <Lugweed> <Magpie>
- ## * September 1999: <Oliver> <Ravi>
+ ## * August 1968: Dreams try to track their missing master ++ <Abel> <Cain> <The Dreaming> <Lucien> <Lugweed> <Magpie>
+ ## * September 1999: <Oliver> tracks <Ravi> down.  <John Constantine> turns up too. ++ <London>
+ ## 1969: <John Constantine> ++ <Alexander Burgess> <Ivan> <Paul McGuire>
 
 The Sandman Presents: Love Street #3
  Love Street
  Love Street
  September 1999
  --
+ ?? TODO
 
 Dream Hunters
  The Sandman: Dream Hunters
@@ -1173,11 +1182,28 @@ Lucifer #15
  August 2001
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  3: A Dalliance with the Damned
 
+Sandman Presents: The Dead Boy Detectives #1
+ The Secret of Immortality Part 1
+ Sandman Presents: The Dead Boy Detectives
+ August 2001
+ Sandman Presents: The Dead Boy Detectives
+ ## 2001.02: <Charles Rowland> and <Edwin Paine> take on a case, encounter <Mad Hettie>, and explore some tunnels ++ <Chippy> <Francisco Marquez|Gilles de Rais> <London> <Marcia>
+ ? spring day  -10 years after Season of Mists
+
 Lucifer #16
  Lucifer
  The Ancestral Deed
  September 2001
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  3: A Dalliance with the Damned
+
+Sandman Presents: The Dead Boy Detectives #2
+ The Secret of Immortality Part 2
+ Sandman Presents: The Dead Boy Detectives
+ September 2001
+ Sandman Presents: The Dead Boy Detectives
+ ## 2001.02: <Charles Rowland> and <Edwin Paine> meet another tenant, and are set on the wrong path ++ <Francisco Marquez> <London> <Marcia> <Marjorie Blumfield>
+ -# ~1450 | fifteenth century: <Gilles de Rais> studies alchemy and Necromancy
+ -# ~1750 | eighteenth century: <Gilles de Rais> poses as <The Comte de Saint-Germain|Gilles de Rais>
 
 Lucifer #17
  Lucifer: A Dalliance with the Damned
@@ -1185,11 +1211,26 @@ Lucifer #17
  October 2001
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  3: A Dalliance with the Damned
 
+Sandman Presents: The Dead Boy Detectives #3
+ The Secret of Immortality Part 3
+ Sandman Presents: The Dead Boy Detectives
+ October 2001
+ Sandman Presents: The Dead Boy Detectives
+ ## 2001.02: <Charles Rowland> and <Edwin Paine> learn some new tricks, <Hob> is captured ++ <Chippy> <Francisco Marquez> <London> <Mad Hettie>
+ ? Margaret Gadling - 1889-1941 (together with Hob in photo in 1926)
+
 Lucifer #18
  Lucifer: A Dalliance with the Damned
  A Dalliance with the Damned, Part 2 of 3
  November 2001
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  3: A Dalliance with the Damned
+
+Sandman Presents: The Dead Boy Detectives #4
+ The Secret of Immortality Part 4
+ Sandman Presents: The Dead Boy Detectives
+ November 2001
+ Sandman Presents: The Dead Boy Detectives
+ ## 2001.02: <Charles Rowland> and <Edwin Paine> are put straight, <Mad Hettie> reverses the flow. ++ <Gilles de Rais> <London> <Marcia> <Marjorie Blumfield>
 
 Lucifer #19
  Lucifer: A Dalliance with the Damned
@@ -1230,11 +1271,25 @@ Lucifer #22
  March 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  4: The Divine Comedy
 
+Sandman Presents: The Thessaliad #1
+ Sandman Presents: The Thessaliad
+ Part 1: The Daughters of Garm or Far too much about Pie
+ March 2002
+ --
+ ## 2002: <Thessaly> puts the dogs out ++ <The Daughters of Garm> <Fetch> <Jormungand> <New York>
+
 Lucifer #23
  Lucifer: Paradiso
  Paradiso, Part 3 of 3
  April 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  4: The Divine Comedy
+
+Sandman Presents: The Thessaliad #2
+ Sandman Presents: The Thessaliad
+ Part 2: The Long Crawl or The Trouble with Riddle Games
+ April 2002
+ --
+ ## 2002: <Thessaly> embarks on a quest ++ <Abel> <Allegorical Subway> <Charles Rowland> <Edwin Paine> <Fetch> <George> <Hector Hall> <Hel> <Jacob Marley> <Luz> <Martin Tenbones> <Morrigan> <Nefertiti> <Orpheus> <Osiris> <Pluto> <Prinado> <Sphinx> <Wilkinson>
 
 Lucifer #24
  Lucifer
@@ -1242,11 +1297,25 @@ Lucifer #24
  May 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  4: The Divine Comedy
 
+Sandman Presents: The Thessaliad #3
+ Sandman Presents: The Thessaliad
+ Part 3: Necromancer Or What Ever Made You Think Ghosts Carry Money
+ May 2002
+ --
+ ## 2002: <Thessaly> is freed from a hedge ++ <Allegorical Subway> <Balder> <Cu Chulainn> <Daedalus> <Fetch> <Fiddler's Green> <Hel> <Icarus> <Luz> <Morrigan> <Osiris> <Pluto> <Prinado> <Wilkinson>
+
 Lucifer #25
  Lucifer: Purgatorio
  Purgatorio, Part 1 of 3
  June 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  4: The Divine Comedy
+
+Sandman Presents: The Thessaliad #4
+ Sandman Presents: The Thessaliad
+ Part 4: Soul Food Or So Much for Clever Hidden Plans
+ June 2002
+ --
+ # 2002: <Thessaly> has mercy ++ <Fetch> <Hel> <Jormungand> <Morrigan> <New York> <Osiris> <Pluto> <Space>
 
 Lucifer #26
  Lucifer: Purgatorio
@@ -1439,11 +1508,25 @@ Lucifer #47
  April 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  7: Exodus
 
+Sandman Presents: Thessaly – Witch for Hire #1
+ Sandman Presents: Thessaly – Witch for Hire
+ My Girl or Far Too Much About Snakes
+ April 2004
+ --
+ ## 2004: <Thessaly> has to move again ++ <Fetch> <Positano> <David (Golem)> <Naga>
+
 Lucifer #48
  Lucifer: Stitchglass Slide / Wire, Briar, Limber Lock
  Stitchglass Slide II - The War
  May 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  7: Exodus
+
+Sandman Presents: Thessaly – Witch for Hire #2
+ Sandman Presents: Thessaly – Witch for Hire
+ Ghostraker or The Importance of Well-Hidden Jars
+ May 2004
+ --
+ ## 2004: <Thessaly> puts the genie back into the bottle ++ <Fetch> 
 
 Lucifer #49
  Lucifer: Stitchglass Slide / Wire, Briar, Limber Lock
@@ -1451,11 +1534,23 @@ Lucifer #49
  June 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  7: Exodus
 
+Sandman Presents: Thessaly – Witch for Hire #3
+ Sandman Presents: Thessaly – Witch for Hire
+ --
+ June 2004
+ --
+
 Lucifer #50
  Lucifer
  Lilith
  July 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  8: The Wolf Beneath the Tree
+
+Sandman Presents: Thessaly – Witch for Hire #4
+ Sandman Presents: Thessaly – Witch for Hire
+ --
+ July 2004
+ --
 
 Lucifer #51
  Lucifer: The Wolf Beneath the Tree
@@ -1750,7 +1845,7 @@ The Dreaming #5
  The Balance
  March 2019
  The Dreaming: Vol 1: Pathways and Emanations
- -# 1300 | ancient Japan: The <Baku> were <Dreamt|Dream>
+ -# 1300 | ancient Japan: The <Baku> were <dreamt|Dream>
  ## 2018.65: <Dora> remembers, the Library is desecrated, <Lucien> falls, <Dream (Daniel)> walks away. ++ <Baku> <The Dreaming> <Eve> <The Fulcrum> <Glob> <The Gryphon> <The Hippogriff> <Judge Gallows> <Matthew> <Merv> <The Wyvern>
  ? (after egg hatched)
  ? 2018.65 aug 19
@@ -1835,7 +1930,7 @@ The Dreaming #10
  August 2019
  The Dreaming: Vol 2: Empty Shells
  ## 2018.71: <The AI|Wan> continues trying, <Dora> gets a <rhyming escort|Balam>, the <Dark Moth> begins to unmake. ++ <Baku> <Cain> <Matthew> <Taramis>
- -# 2018.34: <Dream (Daniel)> seeks an Elder God to incubate an <Egg|Mundane Egg>
+ -# 2018.34: <Dream (Daniel)> seeks an Elder God to incubate an <egg|Mundane Egg>
 
 House of Whispers #10
  Sandman Universe: House of Whispers
@@ -1909,7 +2004,7 @@ The Dreaming #15
  The Crown Part One
  January 2020
  The Dreaming: Vol 3: One Magical Movement
- ## 2018.81: A <Madman|John Constantine> achieves a brief moment of clarity, <Merv> begins to see, <Matthew> gets a new point of view, and <Lucien>'s heart is broken. ++ <Abel> <The Dreaming> <Eve> <Goldie> <The Gryphon> <The Hippogriff> <Ravenscar Hospital> <Rose Walker> <Wan> <The Wyvern>
+ ## 2018.81: A <madman|John Constantine> achieves a brief moment of clarity, <Merv> begins to see, <Matthew> gets a new point of view, and <Lucien>'s heart is broken. ++ <Abel> <The Dreaming> <Eve> <Goldie> <The Gryphon> <The Hippogriff> <Ravenscar Hospital> <Rose Walker> <Wan> <The Wyvern>
 
 House of Whispers #15
  Sandman Universe: House of Whispers
@@ -2090,7 +2185,7 @@ John Constantine Hellblazer #10
  The Wake-Up Call
  November 2020
  John Constantine Hellblazer: Vol 2: The Best Version of You
- ## 2020: <John Constantine> is hunted in his <Dreams|The Dreaming>. ++ <Clement Thurso> <Nat> <Noah> <Old Constantine> <Tommy Willowtree> <The Vestibulan>
+ ## 2020: <John Constantine> is hunted in his <dreams|The Dreaming>. ++ <Clement Thurso> <Nat> <Noah> <Old Constantine> <Tommy Willowtree> <The Vestibulan>
 
 The Dreaming: Waking Hours #2
  Sandman Universe: The Dreaming - The Bard and the Bard
