@@ -126,7 +126,7 @@
  Mad Hettie - Immortal old woman residing in London
  Marinette Bwa Chech - Voodoo Loa of power and violence
  Marjorie Blumfield - A ghost
- Melvin - A ghost.  Died in the 70s
+ Melvin - A Snake ghost.  Died in the 70s
  Morrigan - Irish Death Goddess
  Nefertiti - Egyptian Queen
  Night - Mother of The Endless
@@ -145,7 +145,7 @@
  Susano-O-No-Mikoto - Japanese deity
  Swamp Thing - Humanoid plant elemental
  Tamara - A Werewolf.  Vassily's daughter
- Tanya - A ghost.  Died in the 90s
+ Tanya - A Nak Mother ghost.  Died in the 90s
  Tefé Holland
  Thessaly - Three thousand year old Witch
  Thor - Norse God
@@ -197,6 +197,7 @@
  Houseboat, the - Home of Erzulie
  Invisible College
  Kansas - State of the USA
+ King of Pain, the - A supernatural nightclub in San Francisco and/or Hell
  Land, the - A realm within the Dreaming.  Created for Alianora but later visited by Barbie
  Limbo - The afterlife for those who die in original sin
  London - Capital city of the UK

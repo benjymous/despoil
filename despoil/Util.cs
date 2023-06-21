@@ -144,10 +144,10 @@ namespace despoil
 
 
 
-    public class CollectionComparer : IComparer<string>
+    public class GroupComparer : IComparer<string>
     {
 
-        static readonly string[] Collections = { "The Sandman", "Death", "Books of Magic", "Lucifer", "The Dreaming", "House of Whispers", "John Constantine Hellblazer", "Winter's Edge", "Free Country A Tale of The Children's Crusade" };
+        static readonly string[] Groupings = { "The Sandman", "Death", "Books of Magic", "Lucifer", "Sandman Presents", "Sandman Universe", "Others" };
 
         static readonly string[] Prefixes = { "Vol", "Overture", "Book", "Absolute", "Deluxe", "Omnibus" };
 
@@ -157,8 +157,8 @@ namespace despoil
             {
                 if (x == y) return 0;
 
-                var prefixX = Array.IndexOf(Collections, x.Split(":").First()) * 10;
-                var prefixY = Array.IndexOf(Collections, y.Split(":").First()) * 10;
+                var prefixX = Array.IndexOf(Groupings, x.Split(":").First()) * 10;
+                var prefixY = Array.IndexOf(Groupings, y.Split(":").First()) * 10;
 
                 try
                 {

@@ -404,7 +404,7 @@ foreach (var marker in dateMarkers)
 
 int threadIdx = 0;
 
-var colNames = collections.Keys.OrderBy(x => x, new CollectionComparer()).ToArray();
+var colNames = collections.Keys.OrderBy(x => x, new GroupComparer()).ToArray();
 
 foreach (var collection in colNames)
 {
@@ -429,7 +429,6 @@ foreach (var collection in colNames)
         Issues = colData.Select(x => new Issue { id = x.Item2, body = x.Item1 }).ToArray()
     });
 }
-
 
 foreach (var thread in threads)
 {
@@ -556,7 +555,7 @@ var model = new Model
 {
     InlineStyles = $"<style>{string.Join(" ",colourStyles)} {string.Join(" ",orderStyles)}</style>",
     Collections = collectionData.Select(x => new IssueGroupParent { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
-    Threads = threadData.Select(x => new IssueGroupParent { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
+    Threads = threadData.Select(x => new IssueGroupParent { name = x.Key, Groups = x.Value.ToArray()}).OrderBy(x => x.name, new GroupComparer()).ToArray(),
     Issues = issueData.ToArray(),
     EntityGroups = entitiesByType.Select( x => new EntityGroup { name = x.Key, Entities = x.ToArray(), issues = string.Join(" ", x.Select(e => e.issues))}).OrderBy(g => g.name).ToArray(),
     Items = itemData.ToArray(),
