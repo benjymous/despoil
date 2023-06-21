@@ -1,8 +1,10 @@
 ﻿using System.Text.RegularExpressions;
+using System.IO;
 using despoil;
 using Fluid;
 
 var inputFilename = "issues.txt";
+var fullFilename = Path.Combine(Directory.GetCurrentDirectory(), inputFilename);
 
 Console.WriteLine("Reading input");
 string text = File.ReadAllText(inputFilename).Replace("\r", "");
@@ -42,13 +44,19 @@ var eventDates = new List<(int, double)>();
 
 List<string> reformatted = new List<string>();
 
+int lineNumber = 0;
 foreach (var entry in entries)
 {
+    lineNumber++;
     int eventCount = 0;
 
     var entryLines = entry.Split("\n").Select(e => e.Trim()).ToArray();
 
-    if (entryLines.Length == 1) continue;
+    if (entryLines.Length == 1) 
+    {
+        lineNumber ++;
+        continue;
+    }
 
     reformatted.Add(entryLines[0]);
     reformatted.AddRange(entryLines.Skip(1).Select(e => " " + Util.SortAndDedupeEntities(e)));
@@ -63,7 +71,7 @@ foreach (var entry in entries)
     {
         if (!(entryLines[i].StartsWith('#') || entryLines[i].StartsWith("-") || entryLines[i].StartsWith("?") || entryLines[i].StartsWith("!")))
         {
-            throw new Exception($"Error with {entryLines[0]}\n{entryLines[i]}' should start with #, -, ?, or !");
+            throw new Exception($"{fullFilename}({lineNumber+i}): {entryLines[0]}\n{entryLines[i]}' should start with #, -, ?, or !");
         }
     }
 
@@ -71,6 +79,7 @@ foreach (var entry in entries)
     if (entryEvents.Count == 0)
     {
         //Console.WriteLine($"Skipping {entryLines[0]} - {entryLines[2]}");
+        lineNumber += entryLines.Length;
         continue;
     }
 
@@ -171,7 +180,7 @@ foreach (var entry in entries)
 
             if (entryEntities.Contains(bareText)) 
             {
-                Console.WriteLine($"Duplicate entity {bareText} in {issueTitlePlain} #{eventCount}");
+                Console.WriteLine($"{fullFilename}({lineNumber+eventCount+5}): Duplicate entity <{bareText}> in {issueTitlePlain}");
             }
             else
             {
@@ -376,6 +385,8 @@ foreach (var entry in entries)
             entities = string.Join(" ", entityClasses),
         });
     }
+
+    lineNumber += entryLines.Length;
 }
 
 File.WriteAllLines(inputFilename, reformatted);

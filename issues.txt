@@ -1810,7 +1810,7 @@ House of Whispers #2
  The Power Divided
  December 2018
  House of Whispers: Vol 1: The Power Divided
- ## 2018.625: <Latoya> reawakens, <The Houseboat> fails to leave... ++ <Abel> <Alter Boi> <Cain> <The Dreaming> <Erzulie> <Goldie> <Gregory> <Habibi> <Latoya's father ??> <Lord Agwe> <Lumi> <Shakpana> <Uncle Monday>
+ ## 2018.625: <Latoya> reawakens, <The Houseboat> fails to leave... ++ <Abel> <Alter Boi> <Cain> <Damballah> <The Dreaming> <Erzulie> <Goldie> <Gregory> <Habibi> <Latoya's father ??> <Lord Agwé> <Lumi> <Ogun> <Shakpana> <Uncle Monday>
 
 The Dreaming #3
  Sandman Universe: The Dreaming
@@ -1826,7 +1826,7 @@ House of Whispers #3
  Walk on Gilded Splinters
  January 2019
  House of Whispers: Vol 1: The Power Divided
- ## 2018.635: <Maggie> and <Latoya> begin the spread ++ <Abel> <Cain> <The Dreaming> <Erzulie> <Goldie> <Gregory> <Merv> <Shakpana> <Turtle> <Uncle Monday>
+ ## 2018.635: <Maggie> and <Latoya> begin the spread ++ <Abel> <Cain> <The Dreaming> <Erzulie> <Goldie> <Gregory> <Lord Agwé> <Merv> <Shakpana> <Turtle> <Uncle Monday>
 
 The Dreaming #4
  Sandman Universe: The Dreaming
@@ -1848,7 +1848,7 @@ The Dreaming #5
  March 2019
  The Dreaming: Vol 1: Pathways and Emanations
  -# 1300 | ancient Japan: The <Baku> were <dreamt|Dream>
- ## 2018.65: <Dora> remembers, the Library is desecrated, <Lucien> falls, <Dream (Daniel)> walks away. ++ <Baku> <The Dreaming> <Eve> <The Fulcrum> <Glob> <The Gryphon> <The Hippogriff> <Judge Gallows> <Matthew> <Merv> <The Wyvern>
+ ## 2018.65: <Dora> remembers, the Library is desecrated, <Lucien> falls, <Dream (Daniel)> walks away. ++ <Baku> <The Dreaming> <Eve> <The Fulcrum> <Glob> <Goldie> <The Gryphon> <The Hippogriff> <Judge Gallows> <Lord Agwé> <Matthew> <Merv> <Shakpana> <Turtle> <Uncle Monday> <The Wyvern>
  ? (after egg hatched)
  ? 2018.65 aug 19
 
@@ -1857,7 +1857,7 @@ House of Whispers #5
  Rumors of Glory
  March 2019
  House of Whispers: Vol 1: The Power Divided
- ## 2018.642: <Shakpana> wields his power, <Turtle> finds a safe hiding spot. +++<Habibi> <Lumi> <Latoya> <Maggie> <Latoya's father ??> <Uncle Monday> <Erzulie> <Man with Swan's Arm>
+ ## 2018.642: <Shakpana> wields his power, <Turtle> finds a safe hiding spot. ++ <Erzulie> <Habibi> <Latoya's father ??> <Latoya> <Lord Agwé> <Lumi> <Maggie> <Man with Swan's Arm> <Uncle Monday>
  -# -200: <Shakpana> comes into being
  -# ~1790|: A prince is turned into a swan <Man with Swan's Arm>
  ? Judge gallows still running dreaming
@@ -1874,7 +1874,7 @@ House of Whispers #6
  Open the Unusual Door
  April 2019
  House of Whispers: Vol 1: The Power Divided
- ## 2018.643: <Uncle Monday> borrows a book, <Shakpana> is contained,  <The Houseboat> travels. ++ <Alter Boi> <Erzulie> <Habibi> <Latoya's father ??> <Latoya> <Lumi> <Maggie>
+ ## 2018.643: <Uncle Monday> borrows a book, <Shakpana> is contained,  <The Houseboat> travels. ++ <Alter Boi> <Damballah> <Erzulie> <Habibi> <Latoya's father ??> <Latoya> <Lord Agwé> <Lumi> <Maggie> <Ogun>
  -# ~1550| sixteenth century : <Uncle Monday> comes into being
  ? library not yet desecrated - before Dreaming #5
 
@@ -1895,7 +1895,7 @@ House of Whispers #7
  The Troubles I've Seen
  May 2019
  House of Whispers: Vol 2: Ananse
- # <Shakpana> finds a new host, A Boy dreams of <The Corinthian> ++ <Alter Boi> <Erzulie> <Latoya> <Lord Agwe> <Maggie> <Man with Swan's Arm> <Uncle Monday>
+ # <Shakpana> finds a new host, A Boy dreams of <The Corinthian> ++ <Alter Boi> <Ananse> <Erzulie> <Latoya> <Lord Agwé> <Maggie> <Man with Swan's Arm> <Uncle Monday>
 
 The Dreaming #8
  Sandman Universe: The Dreaming
@@ -1911,6 +1911,8 @@ House of Whispers #8
  Eight-Legged Griot
  June 2019
  House of Whispers: Vol 2: Ananse
+ # ... ++ <Ananse> <The Corinthian> <Erzulie> <Shakpana> <Uncle Monday>
+ ?? TODO
 
 The Dreaming #9
  Sandman Universe: The Dreaming
@@ -1925,6 +1927,8 @@ House of Whispers #9
  -
  July 2019
  House of Whispers: Vol 2: Ananse
+ # ... ++ <Ananse> <The Corinthian> <Erzulie> <Shakpana> <Uncle Monday>
+ ?? TODO
 
 The Dreaming #10
  Sandman Universe: The Dreaming
@@ -1939,6 +1943,8 @@ House of Whispers #10
  -
  August 2019
  House of Whispers: Vol 2: Ananse
+ # ... ++ <Ananse> <The Corinthian> <Damballah> <Erzulie> <Uncle Monday>
+ ?? TODO
 
 The Dreaming #11
  Sandman Universe: The Dreaming
@@ -1953,6 +1959,8 @@ House of Whispers #11
  -
  September 2019
  House of Whispers: Vol 2: Ananse
+ # ... ++ <Ananse> <The Corinthian> <Marinette Bwa Chech> <Uncle Monday>
+ ?? TODO
 
 The Dreaming #12
  Sandman Universe: The Dreaming
@@ -1966,6 +1974,8 @@ House of Whispers #12
  -
  October 2019
  House of Whispers: Vol 2: Ananse
+ # ... ++ <Ananse> <The Corinthian> <Erzulie> <Marinette Bwa Chech> <Uncle Monday>
+ ?? TODO
 
 The Dreaming #13
  Sandman Universe: The Dreaming
@@ -2352,7 +2362,7 @@ Nightmare Country #6
  Nightmare Country #6
  November 2022
  Nightmare Country: Vol 1
- ## 2022.8: <Thessaly> gets involved ++ <Robbie Greene>
+ ## 2022.8: <Thessaly> gets involved ++ <Los Angeles> <Robbie Greene>
  ? a couple of months after Flynn's death
 
 Dead Boy Detectives #1
@@ -2360,30 +2370,40 @@ Dead Boy Detectives #1
  Dead Boy Detectives #1
  February 2023
  --
+ # ... ++ <Charles Rowland> <Crystal> <Edwin Paine> <Jai Sirikul> <Los Angeles> <Melvin> <Tanya> <Thessaly>
+ ?? TODO
 
 Dead Boy Detectives #2
  Sandman Universe: Dead Boy Detectives
  Dead Boy Detectives #2
  March 2023
  --
+ # ... ++ <Charles Rowland> <Edwin Paine> <Jai Sirikul> <Los Angeles> <Melvin> <Tanya>
+ ?? TODO
 
 Dead Boy Detectives #3
  Sandman Universe: Dead Boy Detectives
  Dead Boy Detectives #3
  April 2023
  --
+ # ... ++ <Charles Rowland> <Edwin Paine> <Los Angeles>
+ ?? TODO
 
 Dead Boy Detectives #4
  Sandman Universe: Dead Boy Detectives
  Dead Boy Detectives #4
  May 2023
  --
+ # ... ++ <Charles Rowland> <Edwin Paine> <Los Angeles>
+ ?? TODO
 
 Dead Boy Detectives #5
  Sandman Universe: Dead Boy Detectives
  Dead Boy Detectives #5
  June 2023
  --
+ # ... ++ <Charles Rowland> <Edwin Paine> <Los Angeles>
+ ?? TODO
 
 Nightmare Country - The Glass House #1
  Sandman Universe: Nightmare Country - The Glass House
@@ -2391,6 +2411,7 @@ Nightmare Country - The Glass House #1
  June 2023
  --
  # ... ++ <Azazel> <The Corinthian> <Kells> <Ken> <Madison Flynn> <Max Lee> <Moroni> <The Smiling Man>
+ ?? TODO
  ? Flynn died last summer
 
 Dead Boy Detectives #6
@@ -2398,6 +2419,8 @@ Dead Boy Detectives #6
  Dead Boy Detectives #6
  July 2023
  --
+ # ... ++ <Charles Rowland> <Edwin Paine> <Los Angeles> <Thessaly>
+ ?? TODO
 
 Nightmare Country - The Glass House #2
  Sandman Universe: Nightmare Country - The Glass House
@@ -2405,4 +2428,5 @@ Nightmare Country - The Glass House #2
  July 2023
  --
  # ... ++ <Azazel> <The Corinthian> <Kells> <Madison Flynn> <Max Lee> <Moroni> <The Smiling Man>
+ ?? TODO
 

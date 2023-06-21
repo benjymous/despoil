@@ -2,7 +2,7 @@
  Amenadiel - Hugh member of the host of heaven
  Azazel - A demon, and former co-ruler of hell
  Baba Yaga - Ogress from folklore
- Balam
+ Balam - A demon,and love interest of Dora
  Beelzebub - A demon, and former co-ruler of hell
  Bita Ghūl - A cannibal
  Briadach the Blind - Son of Lilith, member of the Lilim
@@ -39,7 +39,7 @@
  Black Chest, the - Where the nightmares of The Dreaming reside
  Books of Ritual, the
  Bottled City - An ancient city, preserved for eternity
- Cerements, the
+ Cerements, the - Burial cloths
  Corinthian's Skull
  Eagle Stone - One of the Dreamstones
  Gates of Horn and Ivory, the - Gates to the Dreaming
@@ -50,7 +50,7 @@
  Merlintrove
  Moon, the
  Mundane Egg - An egg containing a universe
- Pocket Watch
+ Pocket Watch - Given to dream as a gift
  Porpentine, the
  Saeculum - A powerful object belonging to Time
  Sand Pouch - The pouch containing Dream's sand
@@ -69,27 +69,29 @@
  Boggart
  Cluracan
  Nuala
- Puck
- Titania
- Unseelie, the
+ Puck - A mischievous faerie
+ Titania - Queen of the Faeries
+ Unseelie, the - Evil malevolent faeries
 
 ::Gods, Deities, Endless, Magical beings and other Immortals
  Alderman, the
+ Ananse - West African Spider god of Stories
  Anubis - Egyptian God
  Anya - A Werewolf.  Vassily's wife
  Balder - Norse god of Light, Beauty and Wisdom
  Barnabas - A talking dog.  Associate of Destruction and Delirium
- Bernie Capax
+ Bernie Capax - Lived since the stone age, and had many identities
  Bes - Egyptian God
  Bhartari - Ancient King, ate a magic apple
  Calliope - Muse, Lover of Dream and Mother of Orpheus
  Celeste - A Werewolf.  Vassily's granddaughter
  Chaos
- Charles Rowland - A ghost, and Dead boy detective
+ Charles Rowland - A ghost, and Dead boy detective.  Died in 1990
  Charon - Boatman of the Styx
  Cronus - A titan
  Cu Chulainn - Ancient Irish demigod
  Daedalus - Craftsman and artist from Greek Mythology
+ Damballah - Voodoo Loa of the sky and creator
  Dark Moth - Alter ego of Wan
  David (Golem) - An animated statue, assists Thessaly
  Death - Member of the Endless
@@ -102,11 +104,11 @@
  Dream (cat) - Accompanies Dream during the events of Overture
  Dusk
  Eblis O'Shaughnessy - Golem created by the Endless
- Edwin Paine - A ghost, and Dead boy detective
- Erzulie
+ Edwin Paine - A ghost, and Dead boy detective.  Died in 1914
+ Erzulie - Voodoo Loa of Love
  Etain of the Second Look
- Fetch - A ghost.  Claims to have been killed by Thessaly
- Formalhaut
+ Fetch - A ghost.  Claims to have been killed by Thessaly many times
+ Formalhaut - Personification of A star 25 light years from Earth
  Gilles de Rais - Notorious child killer originating in 15th century France
  Glory - Glory of the First Circle
  Hel - Norse Death Goddess
@@ -114,18 +116,22 @@
  Icarus - Son of Daedalus.  Flew too close to the sun
  Ishtar - Babylonian goddess of love, fertility, and war
  Jacob Marley - A fictional ghost from A Christmas Carol
+ Jai Sirikul - A ghost
  Jormungand - The Norse World Serpent
  King Hades - The King of Hades
  Lady Bast - Egyptian Goddess
  Lilith - Adam's third wife, Mother of the Lilim
  Loki - Norse God of Mischief
- Lord Agwe
+ Lord Agwé - Voodoo Loa of the sea, fish and aquatic plants
  Mad Hettie - Immortal old woman residing in London
+ Marinette Bwa Chech - Voodoo Loa of power and violence
  Marjorie Blumfield - A ghost
+ Melvin - A ghost.  Died in the 70s
  Morrigan - Irish Death Goddess
  Nefertiti - Egyptian Queen
  Night - Mother of The Endless
  Odin - Leader of the Norse Gods
+ Ogun - West African God of War
  Order
  Orpheus - Son of Morpheus and Calliope
  Osiris - Egyptian lord of the Afterlife
@@ -134,17 +140,18 @@
  Queen Persephone - The Queen of Hades
  Ra - Egyptian Sun God
  Robert Gadling - Immortal due to a wager between Dream and Death
- Shakpana - God of illness and disease
+ Shakpana - Voodoo Loa of illness and disease
  Sigyn - Loki's Wife
  Susano-O-No-Mikoto - Japanese deity
  Swamp Thing - Humanoid plant elemental
  Tamara - A Werewolf.  Vassily's daughter
+ Tanya - A ghost.  Died in the 90s
  Tefé Holland
  Thessaly - Three thousand year old Witch
  Thor - Norse God
  Three Witches - Mother, Maiden, Crone.  Also The Fates or The Kindly Ones
  Time - Father of The Endless
- Uncle Monday
+ Uncle Monday - An Ancestral spirit
  Urania Blackwell - Element Girl
  Vassily - A Werewolf
  Wan - AI
@@ -193,6 +200,7 @@
  Land, the - A realm within the Dreaming.  Created for Alianora but later visited by Barbie
  Limbo - The afterlife for those who die in original sin
  London - Capital city of the UK
+ Los Angeles - City in California
  Lux - Lucifer's bar in Los Angeles
  Mayhew - City in upstate Gotham
  Naxos - Island in Greece
@@ -245,6 +253,7 @@
  Clarice Sackville - Magician and former lover of John Constantine
  Clark Kent - Superman
  Clement Thurso
+ Crystal - Friend of the Dead boy Detectives
  D.S. Dole - Police officer
  Daniel - Human child, and second lord of The Dreaming
  Dante Gabriel Rossetti - English poet
