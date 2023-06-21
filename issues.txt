@@ -1417,16 +1417,16 @@ The Sandman Endless Nights #1
  Chapter 1: Death in Venice
  September 2003
  The Sandman: Vol 11: Endless Nights, Death
- -# * May 1751: A Venician court live the same day over and over locked away on a small island
- -# 1993: <Sergei> has a brush with <Death> on a Venician island
- ## 2003: <Sergei> Returns to Venice, and re-encounters <Death>
+ -# * May 1751: A Venician court live the same day over and over locked away on a small island ++ <Venice>
+ -# 1993: <Sergei> has a brush with <Death> on a Venician island ++ <Venice> 
+ ## 2003: <Sergei> Returns to Venice, and re-encounters <Death> ++ <Venice>
 
 The Sandman Endless Nights #2
  The Sandman: Endless Nights
  Chapter 2: What I've Tasted of Desire
  September 2003
  The Sandman: Vol 11: Endless Nights
- ## 30 | pre-roman Britain: A woman makes a deal with <Desire>
+ ## 30 | pre-roman Britain: A woman makes a deal with <Desire> ++ <England>
 
 The Sandman Endless Nights #3
  The Sandman: Endless Nights
@@ -1435,6 +1435,8 @@ The Sandman Endless Nights #3
  The Sandman: Vol 11: Endless Nights
  -# -4500000000 | 4.5 billion years ago: <Dream> and <Killalla of the Glow> visit a conference of the Stars ++ <Death> <Delight> <Desire> <Despair> <Destiny> <Destruction> <Glory>
  ? Dream doesn't have ruby yet
+ ? "It would be several hundred million years before Death would cheer up, and longer than that before
+Delight became Delirium. The Despair we meet in this story is the first Despair."
 
 The Sandman Endless Nights #4
  The Sandman: Endless Nights
@@ -1455,14 +1457,15 @@ The Sandman Endless Nights #6
  Chapter 6: On the Peninsula
  September 2003
  The Sandman: Vol 11: Endless Nights
- ## 2003.2: An archaeologist encounters <Destruction> whilst investigating the future.  <Delirium> is kept safe
+ ## 2003.2: An archaeologist encounters <Destruction> whilst investigating the future. ++ <Delirium> <San Raphael Peninsula>
+ ? Sardinia
 
 The Sandman Endless Nights #7
  The Sandman: Endless Nights
  Chapter 7: Endless Nights
  September 2003
  The Sandman: Vol 11: Endless Nights
- ## 1994.87: <Destiny> takes a walk in his garden
+ ## 1994.87: <Destiny> takes a walk in <his garden|The Garden of Forking Ways>
  ? Dream's statue matches one seen in Kindly Ones 7 (#63)
 
 Lucifer #40
