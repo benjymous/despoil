@@ -193,12 +193,76 @@
   "cSpell.enableFiletypes": [
     "txt",
     "md",
-    "!cs"
   ],
   "cSpell.language": "en-GB",
+  "cSpell.ignorePaths": [
+    "package-lock.json",
+    "node_modules",
+    "vscode-extension",
+    ".git/objects",
+    ".vscode",
+    ".vscode-insiders",
+    "despoil/*"
+  ],
+  "todohighlight.keywords": [
+    {
+      "text": " ?? ",
+      "color": "#770",
+      "backgroundColor": "#220",
+      "overviewRulerColor": "#770",
+      "isWholeLine": true
+    },
+    {
+      "text": " ## ",
+      "color": "#9d9",
+      "backgroundColor": "#220",
+      "isWholeLine": false
+    },
+    {
+      "text": " #- ",
+      "color": "#6b6",
+      "backgroundColor": "#220",
+      "isWholeLine": false
+    },
+    {
+      "text": " -# ",
+      "color": "#494",
+      "backgroundColor": "#220",
+      "isWholeLine": false
+    },
+    {
+      "text": " -- ",
+      "color": "#373",
+      "backgroundColor": "#220",
+      "isWholeLine": false
+    },
+    {
+      "text": "# ... ",
+      "color": "#dd0",
+      "backgroundColor": "#220",
+      "overviewRulerColor": "#770",
+      "isWholeLine": true
+    },
+    {
+      "text": " ? ",
+      "color": "#999",
+      "backgroundColor": "#222",
+      "isWholeLine": true
+    },
+    {
+      "text": "<entity tags>",
+      "regex": {
+        "pattern": "<.*?>"
+      },
+      "color": "#59f",
+      "backgroundColor": "#222",
+      "isWholeLine": false
+    },
+  ],
   "editor.wrappingIndent": "deepIndent",
   "editor.wordWrap": "on",
   "editor.foldingStrategy": "indentation",
   "editor.showFoldingControls": "always",
-  "cSpell.showAutocompleteSuggestions": true
+  "cSpell.showAutocompleteSuggestions": true,
+  "files.autoSave": "onFocusChange"
 }

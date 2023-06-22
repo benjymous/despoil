@@ -59,7 +59,9 @@ foreach (var entry in entries)
     }
 
     reformatted.Add(entryLines[0]);
-    reformatted.AddRange(entryLines.Skip(1).Select(e => " " + Util.SortAndDedupeEntities(e)));
+    var reformattedEntryLines = entryLines.Skip(1).Select(e => " " + Util.SortAndDedupeEntities(e)).ToList();    
+    reformatted.AddRange(reformattedEntryLines);
+    if (reformattedEntryLines.Count() == 4) reformatted.Add(" ?? TODO");
     reformatted.Add("");
 
     if (entryLines.Length < 4)
@@ -241,7 +243,7 @@ foreach (var entry in entries)
 
             evBody = String.Join(":", bits.Skip(1));
         }
-        else if (ev.StartsWith("# ") || ev.StartsWith("- "))
+        else if (ev.StartsWith("#- ") || ev.StartsWith("-- "))
         {
             evBody = ev.Substring(2);
 

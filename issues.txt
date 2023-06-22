@@ -3,7 +3,7 @@ Welcome to Despoil!
  --
  August 2022
  --
- # Hello!  Welcome to [i][b]De[/b]spoil[/i] - The (hopefully) less spoilery Sandman Universe timeline.[br][br]Click any issue title to expand it, or in the menu on the right, expand the [b]'I have read...'[/b] section, and you can tick which collections (books), story threads (arcs) or individual issues of The Sandman (and other spin-offs within The Sandman Universe) that you have read.  You can then choose to see these events in order of publication (the default) or in chronological order.  You can also highlight any event containing a particular character / item / place using the [b]'Highlight'[/b] section, or by clicking any highlighted names within the text, which should help with those [i]"where did I see that character before?"[/i] moments.[br][br]Note that this doesn't take the Audible adaptation or Netflix show into account (yet), but making this friendly to those audiences is high on the todo list![br][br]The intention is, you shouldn't get accidentally spoiled by seeing anything from issues you haven't read, so if you really are a new reader, don't click more than you need to.[br][br]Have fun, and let me know if you have any problems - you can contact me or make a contribution via any of the links at the bottom of the menu. [br][br]-- [i]benjymous[/i]
+ #- Hello!  Welcome to [i][b]De[/b]spoil[/i] - The (hopefully) less spoilery Sandman Universe timeline.[br][br]Click any issue title to expand it, or in the menu on the right, expand the [b]'I have read...'[/b] section, and you can tick which collections (books), story threads (arcs) or individual issues of The Sandman (and other spin-offs within The Sandman Universe) that you have read.  You can then choose to see these events in order of publication (the default) or in chronological order.  You can also highlight any event containing a particular character / item / place using the [b]'Highlight'[/b] section, or by clicking any highlighted names within the text, which should help with those [i]"where did I see that character before?"[/i] moments.[br][br]Note that this doesn't take the Audible adaptation or Netflix show into account (yet), but making this friendly to those audiences is high on the todo list![br][br]The intention is, you shouldn't get accidentally spoiled by seeing anything from issues you haven't read, so if you really are a new reader, don't click more than you need to.[br][br]Have fun, and let me know if you have any problems - you can contact me or make a contribution via any of the links at the bottom of the menu. [br][br]-- [i]benjymous[/i]
 
 Sandman #1
  The Sandman: Master of Dreams
@@ -11,13 +11,13 @@ Sandman #1
  January 1989
  The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
  ## * June 1916: <Roderick Burgess> captures <Dream> by mistake ++ <Alexander Burgess> <Fawney Rig> <Helm|Helmet of Dreams> <Imprisonment of Dream> <John Hathaway> <Magdalene Grimoire> <Ruby Dreamstone|The Materioptikon> <Ruthven Sykes> <Sand Pouch> <Wych Cross>
- - <Unity Kincaid> falls deep asleep
+ -- <Unity Kincaid> falls deep asleep
  -# * June 1920: <John Hathaway> gives up
  -# * August 1926: <Alexander Burgess> learns <Dream>'s identity
  -# * 1930: <Ruthven Sykes> trades <Dream>'s <Helm> with a demon for a magical <Amulet> ++ <Choronzon>
- -# * 1936: <Ethel Cripps> steal <Dream>'s remaining artifacts, and the <Amulet>, leaving <Sykes|Ruthven Sykes> unprotected ++ <Ruby Dreamstone> <Sand Pouch>
+ -# * 1936: <Ethel Cripps> steals <Dream>'s remaining artifacts, and the <Amulet>, leaving <Sykes|Ruthven Sykes> unprotected ++ <Ruby Dreamstone> <Sand Pouch>
  -# * 1939.1: <Unity|Unity Kincaid> gives birth - the <baby|Miranda Walker> is adopted
- - <Wesley Dodds> - Golden age Sandman
+ -- <Wesley Dodds> - Golden age Sandman
  -# * 1947: <Roderick Burgess> dies ++ <Fawney Rig> <Wych Cross>
  -# * 1955: <Unity Kincaid> goes into a nursing home, and <Alexander Burgess> fails to make a bargain ++ <Dream> <Fawney Rig> <Paul McGuire> <Wych Cross>
  -# * 1968: <Alexander Burgess> and <Paul McGuire> host parties ++ <Fawney Rig> <Wych Cross>
@@ -74,7 +74,7 @@ Sandman #7
  July 1989
  The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
  ## 1989.27: <John Dee>'s madness spreads, but releasing the power leads to him returning back home ++ <Abel> <All Nite Diner> <Arkham Asylum> <Cain> <Destiny> <The Dreaming> <Eve> <Goldie> <Gotham City> <Gregory> <Ruby Dreamstone> <The Scarecrow>
- -# -4000000000 | aeons ago: <Dream> creates the <Ruby Dreamstone> from the fabric of his being
+ -# ~ -4000000000 | aeons ago: <Dream> creates the <Ruby Dreamstone> from the fabric of his being
  ? The introduction to Dolls House sets this as when the Earth was still cooling from a molten state
 
 Sandman #8
@@ -172,7 +172,7 @@ Sandman #18
  A Dream of a Thousand Cats
  August 1990
  The Sandman: Vol  3: Dream Country, The Sandman: Book 1
- - A Cat tells a tale of how things once were, where cats ruled the world ++ <Dream> <The Dreaming> <The Gryphon> <The Hippogriff> <The Wyvern>
+ -- A Cat tells a tale of how things once were, where cats ruled the world ++ <Dream> <The Dreaming> <The Gryphon> <The Hippogriff> <The Wyvern>
 
 Sandman #19
  The Sandman: Dream Country
@@ -181,7 +181,7 @@ Sandman #19
  The Sandman: Vol  3: Dream Country, The Sandman: Book 1
  ## * June 1593: <William Shakespeare>'s company perform for <Dream> and a host of Faeries.  <Robin Goodfellow|Puck> stays behind ++ <Auberon> <Hamnet Shakespeare> <Titania> <Wendel's Mound>
  -# * 1596: <Hamnet Shakespeare> dies.  Follows <Titania> to <Faerie>
- ? add more detail? **
+ ?? TODO add more detail?
 
 Sandman #20
  The Sandman: Dream Country
@@ -197,10 +197,10 @@ Books of Magic #1
  November 1990
  Books of Magic
  ## October 1993: <Tim Hunter> meets the <Phantom Stranger>, <John Constantine>, <Doctor Occult> and <Mister E> ++ <Yo-Yo>
- # The <Phantom Stranger> introduces <Tim|Tim Hunter> to the history of magic
- -# -10000000000 | ten billion years ago: <War in The Silver City> ++ <Gabriel> <Lucifer|Lucifer Morningstar> <Michael> <Raphael> <Saraquael> <The Silver City> <Uriel>
- -# -530000000 | 530 million years ago: First life crawls from the ocean on Earth, Demons leave the world
- -# -50000 | fifty thousand years ago: End of <Atlantis>
+ #- The <Phantom Stranger> introduces <Tim|Tim Hunter> to the history of magic
+ -# ~ -10000000000 | ten billion years ago: <War in The Silver City> ++ <Gabriel> <Lucifer|Lucifer Morningstar> <Michael> <Raphael> <Saraquael> <The Silver City> <Uriel>
+ -# ~ -530000000 | 530 million years ago: First life crawls from the ocean on Earth, Demons leave the world
+ -# ~ -50000 | fifty thousand years ago: End of <Atlantis>
 
 Sandman #21
  The Sandman: Season of Mists
@@ -208,12 +208,12 @@ Sandman #21
  December 1990
  The Sandman: Vol  4: Season of Mists, The Sandman: Book 2
  ## 1990.79: <Destiny> meets the <Gray Ladies|Three Witches> and calls a family meeting.  <Desire> stirs up trouble ++ <Death> <Delirium> <Despair> <Dream> <The Garden of Forking Ways>
- -# -15000000000 | beginning of time: <Destiny> comes into being
- -# -14000000000 | beginning of time: <Death> comes into being
- -# -14000000000 | beginning of time: <Dream> comes into being
- -# -12000000000 | beginning of time: <Desire> comes into being
- -# -12000000000 | beginning of time: <Despair> comes into being
- -# -11000000000 | beginning of time: <Delight|Delirium> comes into being
+ -# ~ -15000000000 | beginning of time: <Destiny> comes into being
+ -# ~ -14000000000 | beginning of time: <Death> comes into being
+ -# ~ -14000000000 | beginning of time: <Dream> comes into being
+ -# ~ -12000000000 | beginning of time: <Desire> comes into being
+ -# ~ -12000000000 | beginning of time: <Despair> comes into being
+ -# ~ -11000000000 | beginning of time: <Delight|Delirium> comes into being
  ? Dates based on Destruction's comment in #48
 
 Books of Magic #2
@@ -223,7 +223,7 @@ Books of Magic #2
  Books of Magic
  ## 1993.76 | October 1993: <John Constantine> takes <Tim> around the present world ++ <Dr Fate> <Yo-Yo> <Zatanna>
  -# ~ 1981 : <Tim Hunter> is born
- ? add more detail? **
+ ?? TODO add more detail?
  ? October because it's a halloween party - assuming all four volumes occur within a few days
  ? Tim is 12, born in 1981 according to other sources, so these must be 1993
 
@@ -233,7 +233,7 @@ Sandman #22
  January 1991
  The Sandman: Vol  4: Season of Mists, The Sandman: Book 2
  ## 1990.8: <Dream> prepares to say goodbye again, <Cain> has an unhappy time playing messenger, <Lyta>'s child is given a name, and <Hob> is given an unexpected gift ++ <Daniel> <The Dreaming> <The Fashion Thing> <Hell> <Lucien> <Lucifer> <Matthew> <Mazikeen> <Merv|Merv Pumpkinhead> <Nada>
- -# -9000000000 | ten billion years ago: <Lucifer> falls to <Hell> ++ <War in The Silver City>
+ -# ~ -9000000000 | ten billion years ago: <Lucifer> falls to <Hell> ++ <War in The Silver City>
  ? Daniel is a week old
 
 Books of Magic #3
@@ -242,7 +242,7 @@ Books of Magic #3
  January 1991
  Books of Magic
  ## 1993.77 | October 1993: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Abel> <Baba Yaga> <Cain> <Dr Rose> <Dream> <The Dreaming> <Etrigan> <Glory> <Goldie> <Hamnet Shakespeare> <Hell> <Mundane Egg> <Titania> <Yo-Yo>
- ? add more detail? **
+ ?? TODO add more detail?
 
 Sandman #23
  The Sandman: Season of Mists
@@ -258,11 +258,11 @@ Books of Magic #4
  Books of Magic
  ## 1993.78 | October 1993: <Mister E> takes <Tim> to see possible futures ++ <Yo-Yo>
  -# 2008: <The Great Clash> ++ <Etrigan> <John Constantine> <Mister E> <Tefé Holland> <Tim Hunter> <Zatanna>
- -# 2900 | thirtieth century: The magic is coming back
- -# 5900 | sixtieth century: The Earth is segregated from the rest of the universe
- -# 2000000 | in millions of years time: Only 50000 'people' remain.  Science and Magic have lost all meaning.
- -# 100000000010 | End of Time: <Death> locks the place behind her as she leaves ++ <Destiny> <End of Time>
- ? add more detail? **
+ -# ~ 2900 | thirtieth century: The magic is coming back
+ -# ~ 5900 | sixtieth century: The Earth is segregated from the rest of the universe
+ -# ~ 2000000 | in millions of years time: Only 50000 'people' remain.  Science and Magic have lost all meaning.
+ -# ~ 100000000010 | end of time: <Death> locks the place behind her as she leaves ++ <Destiny> <End of Time>
+ ?? TODO add more detail?
 
 Sandman #24
  The Sandman: Season of Mists
@@ -299,7 +299,7 @@ Mister E #1
  June 1991
  --
  -# ~1965 | 1960s: <Mister E> loses his eyes
- -# 100000000000 | end of time: <Mister E> Hallucinates at the end of time
+ -# ~ 100000000000 | end of time: <Mister E> Hallucinates at the end of time
 
 Sandman #28
  The Sandman: Season of Mists
@@ -359,7 +359,7 @@ Sandman Special
  November 1991
  The Sandman: Vol  6: Fables and Reflections, The Sandman: Book 2
  -# ~ -500: <Orpheus> ventures to the underworld to try and bring back his wife ++ <Aristaeus> <Calliope> <Cerberus> <Charon> <Death's House> <Death> <Delirium> <Desire> <Despair> <Destiny> <Destruction> <Dream> <The Dreaming> <Eurydice> <The Gryphon> <Hades> <The Hippogriff> <King Hades> <Orpheus and Eurydice> <Queen Persephone> <The Wyvern>
- ? add more detail? **
+ ?? TODO add more detail?
 
 Sandman #32
  The Sandman: A Game of You
@@ -431,14 +431,14 @@ Sandman #40
  August 1992
  The Sandman: Vol  6: Fables and Reflections, The Sandman: Book 3
  ## 1992.2: <Daniel> visits <The Dreaming> and hears some mysteries and secrets ++ <Abel> <Cain> <Eve> <Goldie> <Gregory> <The House of Mysteries> <The House of Secrets> <Lyta> <Matthew>
- -# -300002 | early man: <Adam>'s first wife <Lilith> is expelled from <Eden>
- -# -300001 | early man: <Adam> rejects his second wife ++ <Eden>
- -# -300000 | early man: <Adam> and his third wife, <Eve> eat from the <Tree of Knowledge> and are expelled from <Eden>
- -# -299000 | early man: <Eve> retreats to her cave
- -# -8000000000 | the oldest story: <Cain> and <Abel> come to <The Dreaming> ++ <Death> <Dream> <The Hippogriff> <The Wyvern>
+ -# ~ -300002 | early man: <Adam>'s first wife <Lilith> is expelled from <Eden>
+ -# ~ -300001 | early man: <Adam> rejects his second wife ++ <Eden>
+ -# ~ -300000 | early man: <Adam> and his third wife, <Eve> eat from the <Tree of Knowledge> and are expelled from <Eden>
+ -# ~ -299000 | early man: <Eve> retreats to her cave
+ -# ~ -8000000000 | the oldest story: <Cain> and <Abel> come to <The Dreaming> ++ <Death> <Dream> <The Hippogriff> <The Wyvern>
+ ?? TODO add more detail?
  ? Daniel is roughly 18 months old, so early 1992 if born late 1990 (#22)
  ? happens after Thessaly invited
- ? add more detail? **
  ? the 'oldest story' elements happen *before* Dream created the ruby
  ? unclear if Adam/Eve/Lilith belong within humanity's time frame
  ? where does Lyta live now?
@@ -460,7 +460,7 @@ Sandman #42
  October 1992
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
  ## 1992.46: It rains for weeks, <Delirium> comes to visit and <Dream> consults with <Desire> ++ <Abel> <The Dreaming> <Goldie> <The Gryphon> <The Hippogriff> <The House of Secrets> <Lucien> <Matthew> <Merv> <Nuala> <Taramis> <The Threshold> <The Wyvern>
- -# -300000000 | the dawn days of Earth: <Destruction> tells <Delirium> that things are changing
+ -# ~ -300000000 | the dawn days of Earth: <Destruction> tells <Delirium> that things are changing
 
 Sandman #43
  The Sandman: Brief Lives
@@ -519,7 +519,7 @@ Sandman #47
  March 1993
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
  ## 1992.58: <Dream> and <Delirium> traverse the maze of <Destiny>, while <Destruction> readies dinner ++ <Andros> <Barnabas> <The Garden of Forking Ways> <Kris> <Naxos>
- -# -13000000000 | beginning of time: <Destruction> comes into being
+ -# ~ -13000000000 | beginning of time: <Destruction> comes into being
  -# ~ 1690: <Destruction> abdicates his role <The Garden of Forking Ways> <Dream> <Death> <Delirium> <Desire>
  -# 1850 | some time in the 1800s: <Death> spends a day mortal as a peasant girl by the Yangtze River
  -# 1915.9: <Dream> returns in triumph from a far galaxy
@@ -533,7 +533,7 @@ Sandman #48
  April 1993
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
  ## 1992.6: Dinner isn't eaten, <Destruction> packs up and <Barnabas> is left behind ++ <Delirium> <Naxos>
- -# -1500000000 | aeons ago: <Death> helps <Destruction> feel less insignificant
+ -# ~ -1500000000 | aeons ago: <Death> helps <Destruction> feel less insignificant
 
 Death The High Cost of Living #2
  Death: The High Cost of Living
@@ -550,8 +550,8 @@ Sandman #49
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
  ## 1992.62: <Dream> makes good on his word to <Orpheus> ++ <Andros> <Barnabas> <Delirium> <Desire> <Despair> <The Gray Realm> <The Gryphon> <The Hippogriff> <Lord Ruthven> <Lucien> <Merv's Bats> <Merv> <Naxos> <Nuala> <The Threshold> <The Wyvern>
  -# 1991: <Calliope> visits <Orpheus> ++ <Naxos>
- -# -1000000010 | aeons ago: Three gods sought to usurp <Dream> ++ <The Dreaming>
- -# -1000000000 | aeons ago: <Dream> creates <The Gates of Horn and Ivory> and his <Helm>
+ -# ~ -1000000010 | aeons ago: Three gods sought to usurp <Dream> ++ <The Dreaming>
+ -# ~ -1000000000 | aeons ago: <Dream> creates <The Gates of Horn and Ivory> and his <Helm>
 
 Death The High Cost of Living #3
  Death: The High Cost of Living
@@ -623,8 +623,8 @@ Sandman #55
  -# ~ 1800 | approx 19th century: Burial rites, then stories from the <Necropolis Litharge> ++ <Hermas> <Mig> <Petrefax> <Scroyle>
  -# ~ 1750 | approx 18th century: <Billy Scutt> the hangman escapes the gallows ++ <Mig>
  -# ~ 1790 | approx 18th century: <Scroyle> meets <Destruction> who tells him a tale about the <First Necropolis> <Necropolis Litharge>
- -# -100001 | a hundred thousand years ago: The Endless arrive at the <First Necropolis> seeking <The Cerements> and <The Books of Ritual>.  <Destiny> destroys the city. ++ <Death> <Delirium> <Desire> <Destruction> <Dream>
- -# -100000 | a hundred thousand years ago: The village of <Litharge|Necropolis Litharge> gains a charter to become a Necropolis
+ -# ~ -100001 | a hundred thousand years ago: The Endless arrive at the <First Necropolis> seeking <The Cerements> and <The Books of Ritual>.  <Destiny> destroys the city. ++ <Death> <Delirium> <Desire> <Destruction> <Dream>
+ -# ~ -100000 | a hundred thousand years ago: The village of <Litharge|Necropolis Litharge> gains a charter to become a Necropolis
  -# ~ 1800 | approx 19th century: <Hermas> tells a tale of Mistress <Veltis>
  -# ~ 1700 | approx 18th century: A young <Veltis> accidentally encounters a room deep in the catacombs containing <The Cerements> and <The Books of Ritual> ++ <Hermas> <Klaproth> <Necropolis Litharge>
  ? Billy was a 'Resurrectionist' - https://en.wikipedia.org/wiki/Resurrectionists_in_the_United_Kingdom so 17th or 18th century.
@@ -647,7 +647,7 @@ Death Talks About Life
  Death Talks About Life
  January 1994
  Death
- - <Death> talks about safe sex and AIDS with the assistance of <John Constantine>
+ -- <Death> talks about safe sex and AIDS with the assistance of <John Constantine>
 
 Sandman #57
  The Sandman: The Kindly Ones
@@ -775,7 +775,7 @@ Sandman Midnight Theatre
  September 1995
  The Sandman: Deluxe Edition Book 1
  ## 1939.2: <Wesley Dodds> has a brief encounter with <Dream> ++ <Fawney Rig> <Roderick Burgess> <Wych Cross>
- ? add more detail? **
+ ?? TODO add more detail?
 
 Sandman #72
  The Sandman: The Wake
@@ -783,7 +783,7 @@ Sandman #72
  November 1995
  The Sandman: Vol 10: The Wake, The Sandman: Book 4
  ## 1995.052: While eulogies are given, <Dream (Daniel)> receives visitors, and is received in turn by his siblings ++ <The Alderman> <Alexander Burgess> <Alianora> <Anubis> <Barnabas> <The Cerements> <Cluracan> <Darkseid> <Death> <Delirium> <Desire> <Despair> <Destruction> <The Dreaming> <Duma> <Eblis O'Shaughnessy> <The Gryphon> <The Hippogriff> <Hob> <Jed> <John Dee> <Joshua Norton> <Lady Bast> <Lord Kilderkin|Order> <Lucien> <Lucifer> <Lyta> <Mad Hettie> <Matthew> <Mazikeen> <Merv> <Nuala> <Odin> <Orpheus> <Paul McGuire> <Pharamond> <Richard Madoc> <Rose> <Shivering Jemmy> <Thor> <Wesley Dodds> <The Wyvern>
- -# -100002 | a hundred thousand years ago: The first <Despair> was killed
+ -# ~ -100002 | a hundred thousand years ago: The first <Despair> was killed
  -# 1994.9 : <Jack Holdaway> Kills himself
  ? Date based on Despair's comments of remembering the first Despair
 
@@ -800,7 +800,7 @@ Sandman #74
  Exiles
  January 1996
  The Sandman: Vol 10: The Wake, The Sandman: Book 4
- -# -1000 | the soft places: An elderly man in ancient China is exiled from the Empire and wanders into a <Soft Place|Soft Places>.  He encounters <Dream> and <Dream (Daniel)> along the way.
+ -# ~ -1000 | the soft places: An elderly man in ancient China is exiled from the Empire and wanders into a <Soft Place|Soft Places>.  He encounters <Dream> and <Dream (Daniel)> along the way.
 
 Sandman #75
  The Sandman: Epilogue
@@ -808,7 +808,7 @@ Sandman #75
  March 1996
  The Sandman: Vol 10: The Wake, The Sandman: Book 4
  ## * November 1610: <William Shakespeare> completes his final play, and visits <Dream> in his castle. ++ <The Dreaming> <The Gryphon> <The Hippogriff> <The Wyvern>
- ? add more detail? **
+ ?? TODO add more detail?
 
 Death: The Time of Your Life #1
  Death: The Time of Your Life
@@ -836,7 +836,7 @@ Death: The Time of Your Life #3
  -# February 1995: <Hazel> makes a deal with <Death> ++ <Alvie>
  ## November 1995: <Boris> doesn't come back ++ <Death> <Foxglove> <Hazel>
 
-The Sandman: Book of Dreams #1
+The Sandman:  Book of Dreams Chapter 1
  The Sandman: Book of Dreams
  Masquerade and High Water
  August 1996
@@ -844,7 +844,7 @@ The Sandman: Book of Dreams #1
  ## ~ 1993|: <Desire> interferes with a recurring dream. ++ <Dream> <The Dreaming> <Lucien> <Matthew> <Merv>
  ? Set before dream dies.  Can't be between 1990-1992
 
-The Sandman: Book of Dreams #2
+The Sandman:  Book of Dreams Chapter 2
  The Sandman: Book of Dreams
  Chain Home, Low
  August 1996
@@ -854,14 +854,14 @@ The Sandman: Book of Dreams #2
  ## 1940: A German pilot attempts to bomb a target only seen in his dreams ++ <Fawney Rig>
  ? Set during Sandman #1
 
-The Sandman: Book of Dreams #3
+The Sandman:  Book of Dreams Chapter 3
  The Sandman: Book of Dreams
  Stronger Than Desire
  August 1996
  The Sandman: Book of Dreams
  ## *1108: A Lord makes a wager with <Desire>
 
-The Sandman: Book of Dreams #4
+The Sandman:  Book of Dreams Chapter 4
  The Sandman: Book of Dreams
  Each Damp Thing
  August 1996
@@ -869,15 +869,15 @@ The Sandman: Book of Dreams #4
  -# ~ 1970 |: <Cain> finds a black mirror within the ruined palace
  ## ~ 1993|: <The Dreaming> becomes solipsistic ++ <Abel> <Cain> <Dream> <The Fashion Thing> <Goldie> <Lucien> <Matthew> <Nuala>
 
-The Sandman: Book of Dreams #5
+The Sandman:  Book of Dreams Chapter 5
  The Sandman: Book of Dreams
  The Birth Day
  August 1996
  The Sandman: Book of Dreams
- ## -8000 | neolithic: A girl learns of herding in a <Dream>
+ ## ~ -8000 | neolithic: A girl learns of herding in a <Dream>
  ? earliest story in volume
 
-The Sandman: Book of Dreams #6
+The Sandman:  Book of Dreams Chapter 6
  The Sandman: Book of Dreams
  Splatter
  August 1996
@@ -885,28 +885,28 @@ The Sandman: Book of Dreams #6
  ## 1989.745: An author gets invited to a <Cereal Convention> ++ <The Corinthian> <Nimrod>
  ? Set during #14
 
-The Sandman: Book of Dreams #7
+The Sandman:  Book of Dreams Chapter 7
  The Sandman: Book of Dreams
  Seven Nights in Slumberland
  August 1996
  The Sandman: Book of Dreams
  ## 1905: Little Nemo dreams of <Desire> ++ <Death> <Delirium> <Despair> <Destiny> <Dream>
 
-The Sandman: Book of Dreams #8
+The Sandman:  Book of Dreams Chapter 8
  The Sandman: Book of Dreams
  Escape Artist
  August 1996
  The Sandman: Book of Dreams
  ## 1982: <Alvin|Wanda Mann> dwells on the past while waiting for the future ++ <Despair> <Eve> <Kansas> <Matthew>
 
-The Sandman: Book of Dreams #9
+The Sandman:  Book of Dreams Chapter 9
  The Sandman: Book of Dreams
  An Extra Smidgeon of Eternity
  August 1996
  The Sandman: Book of Dreams
  ## ~ 1985|: <Wanda> tells stories to a dying friend ++ <Death> <Delirium>
 
-The Sandman: Book of Dreams #10
+The Sandman:  Book of Dreams Chapter 10
  The Sandman: Book of Dreams
  The Writer's Child
  August 1996
@@ -914,20 +914,21 @@ The Sandman: Book of Dreams #10
  ## ~ 1990|: A child finds a story of admission ++ <Dream> <The Dreaming>
  ? after 1989 (rescue rangers)
 
-The Sandman: Book of Dreams #11
+The Sandman:  Book of Dreams Chapter 11
  The Sandman: Book of Dreams
  Endless Sestina
  August 1996
  The Sandman: Book of Dreams
+ ?? TODO
 
-The Sandman: Book of Dreams #12
+The Sandman:  Book of Dreams Chapter 12
  The Sandman: Book of Dreams
  The Gate of Gold
  August 1996
  The Sandman: Book of Dreams
  ## ~ 1990|: A doll seeks to save their charge from nightmares ++ <Dream> <The Dreaming> <The Gryphon> <The Hippogriff> <Matthew> <The Wyvern>
 
-The Sandman: Book of Dreams #13
+The Sandman:  Book of Dreams Chapter 13
  The Sandman: Book of Dreams
  A Bone Dry Place
  August 1996
@@ -935,7 +936,7 @@ The Sandman: Book of Dreams #13
  ## ~ 1993|: <Delirium> attempts a rescue  ++ <Barnabas> <Despair> <Destiny> <Dream>
  ? somewhere between #48-57
 
-The Sandman: Book of Dreams #14
+The Sandman:  Book of Dreams Chapter 14
  The Sandman: Book of Dreams
  The Witch's Heart
  August 1996
@@ -943,28 +944,28 @@ The Sandman: Book of Dreams #14
  ## ~ 1850 | nineteenth century : A witch seeks her heart's desire ++ <Desire>
  ? Date based purely on description of clock
 
-The Sandman: Book of Dreams #15
+The Sandman:  Book of Dreams Chapter 15
  The Sandman: Book of Dreams
  The Mender of Broken Dreams
  August 1996
  The Sandman: Book of Dreams
  ## ~ 1993|: The Mender of Broken Dreams comes to terms with their existence ++ <Death> <Dream> <Merv>
 
-The Sandman: Book of Dreams #16
+The Sandman:  Book of Dreams Chapter 16
  The Sandman: Book of Dreams
  Ain't You 'Most Done?
  August 1996
  The Sandman: Book of Dreams
  ## ~ 1993|: A man gets a final chance to dream ++ <Death> <Dream>
 
-The Sandman: Book of Dreams #17
+The Sandman:  Book of Dreams Chapter 17
  The Sandman: Book of Dreams
  Valóság and Élet
  August 1996
  The Sandman: Book of Dreams
  ## ~ 1650 | medieval times: A Fable about trapping the powers of <Dream> and <Death>
 
-The Sandman: Book of Dreams #18
+The Sandman:  Book of Dreams Chapter 18
  The Sandman: Book of Dreams
  Stopp't-Clockyard
  August 1996
@@ -991,7 +992,8 @@ Winter's Edge #2
  Death - A Winter's Tale
  January 1999
  The Sandman: Book 2
- # <Death> tells how she has changed after lessons learnt
+ #- <Death> tells how she has changed after lessons learnt
+ -# ~ -4250000000 | aeons ago: <Death> cheers up
 
 The Sandman Presents: Lucifer #1
  Lucifer: The Morningstar Option
@@ -1020,7 +1022,7 @@ The Sandman Presents: Love Street #1
  July 1999
  --
  ## * September 1999: <Oliver> dreams of <Fawney Rig> again, and visits an <old friend|Pamela> ++ <The Dreaming> <London>
- ## * July 1968: <Oliver> moves in with a teenage <John Constantine>  ++ <Abel> <Cain> <The Dreaming> <Estella> <London> <Lucien> <Lugweed> <Magpie> <Pamela> <Ravi|Bhartari>
+ ## * July 1968: <Oliver> moves in with a teenage <John Constantine>  ++ <Abel> <Cain> <The Dreaming> <Estella> <London> <Lucien> <Lugweed> <Magpie> <Pamela> <Ravi|Bhartari> <Terry>
  ? Oliver is nearly 15
 
 The Sandman Presents: Love Street #2
@@ -1028,17 +1030,17 @@ The Sandman Presents: Love Street #2
  Love Street Part 2
  August 1999
  --
- ## * August 1968: Dreams try to track their missing master ++ <Abel> <Cain> <The Dreaming> <Lucien> <Lugweed> <Magpie>
+ -# * August 1968: Dreams try to track their missing master ++ <Abel> <Cain> <The Dreaming> <Lucien> <Lugweed> <Magpie>
+ -- <John Constantine> goes places he shouldn't, <Ivan> summons something he shouldn't ++ <Alexander Burgess> <Estella> <Fawney Rig> <Oliver> <Paul McGuire> <Terry>
  ## * September 1999: <Oliver> tracks <Ravi> down.  <John Constantine> turns up too. ++ <London>
- ## 1969: <John Constantine> ++ <Alexander Burgess> <Ivan> <Paul McGuire>
- ?? TODO
 
 The Sandman Presents: Love Street #3
  Sandman Presents: Love Street
  Love Street Part 3
  September 1999
  --
- ?? TODO
+ -# * August 1968: <Oliver> and <Terry> see a vision of <Dream> ++ <Fawney Rig>
+ ## * September 1999: The old friends gather, trapped spirits are released ++ <Ivan> <London> <Magpie> <Nancy|Estella> <Oliver> <Pamela> <Ravi> <Terry>
 
 Dream Hunters
  The Sandman: Dream Hunters
@@ -1095,36 +1097,42 @@ Lucifer #1
  A Six Card Spread, Part 1 of 3
  June 2000
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  1: Devil in the Gateway
+ ?? TODO
 
 Lucifer #2
  Lucifer: A Six Card Spread
  A Six Card Spread, Part 2 of 3
  July 2000
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  1: Devil in the Gateway
+ ?? TODO
 
 Lucifer #3
  Lucifer: A Six Card Spread
  A Six Card Spread, Part 3 of 3
  August 2000
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  1: Devil in the Gateway
+ ?? TODO
 
 Lucifer #4
  Lucifer
  Born with the Dead
  September 2000
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  1: Devil in the Gateway
+ ?? TODO
 
 Lucifer #5
  Lucifer: The House of Windowless Rooms
  The House of Windowless Rooms: Part One
  October 2000
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  2: Children and Monsters
+ ?? TODO
 
 Lucifer #6
  Lucifer: The House of Windowless Rooms
  The House of Windowless Rooms: Part Two
  November 2000
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  2: Children and Monsters
+ ?? TODO
 
 Sandman Presents: Merv Pumpkinhead: Agent of D.R.E.A.M.
  Sandman Presents: Merv Pumpkinhead: Agent of D.R.E.A.M.
@@ -1138,54 +1146,63 @@ Lucifer #7
  The House of Windowless Rooms, Part 3 of 4
  December 2000
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  2: Children and Monsters
+ ?? TODO
 
 Lucifer #8
  Lucifer: The House of Windowless Rooms
  The House of Windowless Rooms, Part 4 of 4
  January 2001
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  2: Children and Monsters
+ ?? TODO
 
 Lucifer #9
  Lucifer: Children and Monsters
  Children and Monsters Prelude
  February 2001
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  2: Children and Monsters
+ ?? TODO
 
 Lucifer #10
  Children and Monsters
  Children and Monsters, Part 1 of 4
  March 2001
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  2: Children and Monsters
+ ?? TODO
 
 Lucifer #11
  Lucifer: Children and Monsters
  Children and Monsters, Part 2 of 4
  April 2001
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  2: Children and Monsters
+ ?? TODO
 
 Lucifer #12
  Lucifer: Children and Monsters
  Children and Monsters, Part 3 of 4
  May 2001
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  2: Children and Monsters
+ ?? TODO
 
 Lucifer #13
  Lucifer: Children and Monsters
  Children and Monsters, Part 4 of 4
  June 2001
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  2: Children and Monsters
+ ?? TODO
 
 Lucifer #14
  Lucifer
  The Seeds of Time
  July 2001
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  3: A Dalliance with the Damned
+ ?? TODO
 
 Lucifer #15
  Lucifer
  The Two-Edged Sword
  August 2001
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  3: A Dalliance with the Damned
+ ?? TODO
 
 Sandman Presents: The Dead Boy Detectives #1
  Sandman Presents: The Dead Boy Detectives
@@ -1200,6 +1217,7 @@ Lucifer #16
  The Ancestral Deed
  September 2001
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  3: A Dalliance with the Damned
+ ?? TODO
 
 Sandman Presents: The Dead Boy Detectives #2
  Sandman Presents: The Dead Boy Detectives
@@ -1215,6 +1233,7 @@ Lucifer #17
  A Dalliance with the Damned, Part 1 of 3
  October 2001
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  3: A Dalliance with the Damned
+ ?? TODO
 
 Sandman Presents: The Dead Boy Detectives #3
  Sandman Presents: The Dead Boy Detectives
@@ -1229,6 +1248,7 @@ Lucifer #18
  A Dalliance with the Damned, Part 2 of 3
  November 2001
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  3: A Dalliance with the Damned
+ ?? TODO
 
 Sandman Presents: The Dead Boy Detectives #4
  Sandman Presents: The Dead Boy Detectives
@@ -1242,13 +1262,14 @@ Lucifer #19
  A Dalliance with the Damned, Part 3 of 3
  December 2001
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  3: A Dalliance with the Damned
+ ?? TODO
 
 Sandman Presents: The Furies
  Sandman Presents: The Furies
  Sandman Presents: The Furies
  2002
  Sandman Presents: The Furies
- # 1998 : <Lyta> joins a troupe, hoping to forget ++ <Athens> <Cerberus> <Charlene> <Charon> <Cluracan> <Cronus> <Despair> <Dream (Daniel)> <The Dreaming> <The Furies> <Hades> <Hermes> <Worlds' End>
+ ## 1998 : <Lyta> joins a troupe, hoping to forget ++ <Athens> <Cerberus> <Charlene> <Charon> <Cluracan> <Cronus> <Despair> <Dream (Daniel)> <The Dreaming> <The Furies> <Hades> <Hermes> <Worlds' End>
  ? A three years after The Kindly Ones
 
 9-11 #1
@@ -1263,18 +1284,21 @@ Lucifer #20
  The Thunder Sermon
  January 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  3: A Dalliance with the Damned
+ ?? TODO
 
 Lucifer #21
  Lucifer: Paradiso
  Paradiso, Part 1 of 3
  February 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  4: The Divine Comedy
+ ?? TODO
 
 Lucifer #22
  Lucifer: Paradiso
  Paradiso, Part 2 of 3
  March 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  4: The Divine Comedy
+ ?? TODO
 
 Sandman Presents: The Thessaliad #1
  Sandman Presents: The Thessaliad
@@ -1288,6 +1312,7 @@ Lucifer #23
  Paradiso, Part 3 of 3
  April 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  4: The Divine Comedy
+ ?? TODO
 
 Sandman Presents: The Thessaliad #2
  Sandman Presents: The Thessaliad
@@ -1301,6 +1326,7 @@ Lucifer #24
  The Writing on the Wall
  May 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  4: The Divine Comedy
+ ?? TODO
 
 Sandman Presents: The Thessaliad #3
  Sandman Presents: The Thessaliad
@@ -1314,103 +1340,119 @@ Lucifer #25
  Purgatorio, Part 1 of 3
  June 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  4: The Divine Comedy
+ ?? TODO
 
 Sandman Presents: The Thessaliad #4
  Sandman Presents: The Thessaliad
  Part 4: Soul Food Or So Much for Clever Hidden Plans
  June 2002
  --
- # 2002: <Thessaly> has mercy ++ <Fetch> <Hel> <Jormungand> <Morrigan> <New York> <Osiris> <Pluto> <Space>
+ ## 2002: <Thessaly> has mercy ++ <Fetch> <Hel> <Jormungand> <Morrigan> <New York> <Osiris> <Pluto> <Space>
 
 Lucifer #26
  Lucifer: Purgatorio
  Purgatorio, Part 2 of 3
  July 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  4: The Divine Comedy
+ ?? TODO
 
 Lucifer #27
  Lucifer: Purgatorio
  Purgatorio, Part 3 of 3
  August 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  4: The Divine Comedy
+ ?? TODO
 
 Lucifer Nirvana
  Lucifer: Nirvana
  Lucifer Nirvana
  August 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol 11: Evensong
+ ?? TODO
 
 Lucifer #28
  Lucifer
  Breaking & Entering
  September 2002
  Lucifer: Book 2, Lucifer: Omnibus 1, Lucifer: Vol  4: The Divine Comedy
+ ?? TODO
 
 Lucifer #29
  Lucifer: Inferno
  Inferno, Part 1 of 4
  October 2002
  Lucifer: Book 3, Lucifer: Omnibus 1, Lucifer: Vol  5: Inferno
+ ?? TODO
 
 Lucifer #30
  Lucifer: Inferno
  Inferno, Part 2 of 4
  November 2002
  Lucifer: Book 3, Lucifer: Omnibus 1, Lucifer: Vol  5: Inferno
+ ?? TODO
 
 Lucifer #31
  Lucifer: Inferno
  Inferno, Part 3 of 4
  December 2002
  Lucifer: Book 3, Lucifer: Omnibus 1, Lucifer: Vol  5: Inferno
+ ?? TODO
 
 Lucifer #32
  Lucifer: Inferno
  Inferno, Part 4 of 4
  January 2003
  Lucifer: Book 3, Lucifer: Omnibus 1, Lucifer: Vol  5: Inferno
+ ?? TODO
 
 Lucifer #33
  Lucifer
  Bearing Gifts
  February 2003
  Lucifer: Book 3, Lucifer: Omnibus 1, Lucifer: Vol  5: Inferno
+ ?? TODO
 
 Lucifer #34
  Lucifer: Come to Judgment
  Come to Judgment, Part 1 of 2
  March 2003
  Lucifer: Book 3, Lucifer: Omnibus 1, Lucifer: Vol  5: Inferno
+ ?? TODO
 
 Lucifer #35
  Lucifer: Come to Judgment
  Come to Judgment, Part 2 of 2
  April 2003
  Lucifer: Book 3, Lucifer: Omnibus 1, Lucifer: Vol  5: Inferno
+ ?? TODO
 
 Lucifer #36
  Lucifer: Naglfar
  Naglfar, Part 1 of 5: The Muster
  May 2003
  Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  6: Mansions of the Silence
+ ?? TODO
 
 Lucifer #37
  Lucifer: Naglfar
  Naglfar, Part 2 of 5: The Voyage Out
  June 2003
  Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  6: Mansions of the Silence
+ ?? TODO
 
 Lucifer #38
  Lucifer: Naglfar
  Naglfar, Part 3 of 5: The Wrack
  July 2003
  Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  6: Mansions of the Silence
+ ?? TODO
 
 Lucifer #39
  Lucifer: Naglfar
  Naglfar, Part 4 of 5: The Deep
  August 2003
  Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  6: Mansions of the Silence
+ ?? TODO
 
 The Sandman Endless Nights #1
  The Sandman: Endless Nights
@@ -1418,7 +1460,7 @@ The Sandman Endless Nights #1
  September 2003
  The Sandman: Vol 11: Endless Nights, Death
  -# * May 1751: A Venician court live the same day over and over locked away on a small island ++ <Venice>
- -# 1993: <Sergei> has a brush with <Death> on a Venician island ++ <Venice> 
+ -# 1993: <Sergei> has a brush with <Death> on a Venician island ++ <Venice>
  ## 2003: <Sergei> Returns to Venice, and re-encounters <Death> ++ <Venice>
 
 The Sandman Endless Nights #2
@@ -1433,17 +1475,16 @@ The Sandman Endless Nights #3
  Chapter 3: The Heart of a Star
  September 2003
  The Sandman: Vol 11: Endless Nights
- -# -4500000000 | 4.5 billion years ago: <Dream> and <Killalla of the Glow> visit a conference of the Stars ++ <Death> <Delight> <Desire> <Despair> <Destiny> <Destruction> <Glory>
+ -# ~ -4500000000 | 4.5 billion years ago: <Dream> and <Killalla of the Glow> visit a conference of the Stars ++ <Death> <Delight> <Desire> <Despair> <Destiny> <Destruction> <Glory>
  ? Dream doesn't have ruby yet
- ? "It would be several hundred million years before Death would cheer up, and longer than that before
-Delight became Delirium. The Despair we meet in this story is the first Despair."
+ ? "It would be several hundred million years before Death would cheer up, and longer than that before Delight became Delirium. The Despair we meet in this story is the first Despair."
 
 The Sandman Endless Nights #4
  The Sandman: Endless Nights
  Chapter 4: Fifteen Portraits of Despair
  September 2003
  The Sandman: Vol 11: Endless Nights
- # Fifteen Portraits of <Despair>
+ #- Fifteen Portraits of <Despair>
 
 The Sandman Endless Nights #5
  The Sandman: Endless Nights
@@ -1458,7 +1499,6 @@ The Sandman Endless Nights #6
  September 2003
  The Sandman: Vol 11: Endless Nights
  ## 2003.2: An archaeologist encounters <Destruction> whilst investigating the future. ++ <Delirium> <San Raphael Peninsula>
- ? Sardinia
 
 The Sandman Endless Nights #7
  The Sandman: Endless Nights
@@ -1473,48 +1513,56 @@ Lucifer #40
  Naglfar, Conclusion: Full Fathom Five
  September 2003
  Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  6: Mansions of the Silence
+ ?? TODO
 
 Lucifer #41
  Lucifer
  Sisters of Mercy
  October 2003
  Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  6: Mansions of the Silence
+ ?? TODO
 
 Lucifer #42
  Lucifer: Brothers in Arms
  Brothers in Arms, Part 1 of 3
  November 2003
  Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  7: Exodus
+ ?? TODO
 
 Lucifer #43
  Lucifer: Brothers in Arms
  Brothers in Arms, Part 2 of 3
  December 2003
  Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  7: Exodus
+ ?? TODO
 
 Lucifer #44
  Lucifer: Brothers in Arms
  Brothers in Arms, Part 3 of 3
  January 2004
  Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  7: Exodus
+ ?? TODO
 
 Lucifer #45
  Lucifer
  Neutral Ground
  February 2004
  Lucifer: Book 3, Lucifer: Omnibus 2, Lucifer: Vol  8: The Wolf Beneath the Tree
+ ?? TODO
 
 Lucifer #46
  Lucifer: Stitchglass Slide / Wire, Briar, Limber Lock
  Stitchglass Slide I - The Weaving
  March 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  7: Exodus
+ ?? TODO
 
 Lucifer #47
  Lucifer: Stitchglass Slide / Wire, Briar, Limber Lock
  Wire, Briar, Limber Lock I - The Winnowing
  April 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  7: Exodus
+ ?? TODO
 
 Sandman Presents: Thessaly – Witch for Hire #1
  Sandman Presents: Thessaly – Witch for Hire
@@ -1528,6 +1576,7 @@ Lucifer #48
  Stitchglass Slide II - The War
  May 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  7: Exodus
+ ?? TODO
 
 Sandman Presents: Thessaly – Witch for Hire #2
  Sandman Presents: Thessaly – Witch for Hire
@@ -1541,10 +1590,11 @@ Lucifer #49
  Wire, Briar, Limber Lock II - The Widow
  June 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  7: Exodus
+ ?? TODO
 
 Sandman Presents: Thessaly – Witch for Hire #3
  Sandman Presents: Thessaly – Witch for Hire
- --
+ Something the Cat Dragged In or An Even Bigger Quest Than In the Last Story
  June 2004
  --
  ## 2004: <Thessaly> takes a grand tour, then returns for tea ++ <The Dreaming> <Fetch> <Lucien> <Merv>
@@ -1554,10 +1604,11 @@ Lucifer #50
  Lilith
  July 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  8: The Wolf Beneath the Tree
+ ?? TODO
 
 Sandman Presents: Thessaly – Witch for Hire #4
  Sandman Presents: Thessaly – Witch for Hire
- --
+ The Last Full Measure or What Are All These Dead Guys Doing in My Living Room
  July 2004
  --
  ## 2004: <Thessaly> is helped by nothing and no one ++ <Fetch>
@@ -1567,159 +1618,184 @@ Lucifer #51
  The Wolf Beneath the Tree: Part 1 of 4
  August 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  8: The Wolf Beneath the Tree
+ ?? TODO
 
 Lucifer #52
  Lucifer: The Wolf Beneath the Tree
  The Wolf Beneath the Tree: Part 2 of 4
  September 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  8: The Wolf Beneath the Tree
+ ?? TODO
 
 Lucifer #53
  Lucifer: The Wolf Beneath the Tree
  The Wolf Beneath the Tree: Part 3 of 4
  October 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  8: The Wolf Beneath the Tree
+ ?? TODO
 
 Lucifer #54
  Lucifer: The Wolf Beneath the Tree
  The Wolf Beneath the Tree: Part 4 of 4
  November 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  8: The Wolf Beneath the Tree
+ ?? TODO
 
 Lucifer #55
  Lucifer
  The Eighth Sin
  December 2004
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  9: Crux
+ ?? TODO
 
 Lucifer #56
  Lucifer: Crux
  Crux, Part 1 of 2
  January 2005
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  9: Crux
+ ?? TODO
 
 Lucifer #57
  Lucifer: Crux
  Crux, Part 2 of 2
  February 2005
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  9: Crux
+ ?? TODO
 
 Lucifer #58
  Lucifer
  The Yahweh Dance
  March 2005
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  9: Crux
+ ?? TODO
 
 Lucifer #59
  Lucifer: The Breach
  The Breach, Part 1 of 3
  April 2005
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  9: Crux
+ ?? TODO
 
 Lucifer #60
  Lucifer: The Breach
  The Breach, Part 2 of 3
  May 2005
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  9: Crux
+ ?? TODO
 
 Lucifer #61
  Lucifer: The Breach
  The Breach, Part 3 of 3
  June 2005
  Lucifer: Book 4, Lucifer: Omnibus 2, Lucifer: Vol  9: Crux
+ ?? TODO
 
 Lucifer #62
  Lucifer
  The Wheels of God
  July 2005
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 10: Morningstar
+ ?? TODO
 
 Lucifer #63
  Lucifer: Morningstar
  Morningstar, Part 1 of 6
  August 2005
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 10: Morningstar
+ ?? TODO
 
 Lucifer #64
  Lucifer: Morningstar
  Morningstar, Part 2 of 6
  September 2005
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 10: Morningstar
+ ?? TODO
 
 Lucifer #65
  Lucifer: Morningstar
  Morningstar, Part 3 of 6
  October 2005
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 10: Morningstar
+ ?? TODO
 
 Lucifer #66
  Lucifer
  The Beast Can't Take Your Call Right Now
  November 2005
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 10: Morningstar
+ ?? TODO
 
 Lucifer #67
  Lucifer: Morningstar
  Morningstar, Part 4 of 6
  December 2005
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 10: Morningstar
+ ?? TODO
 
 Lucifer #68
  Lucifer: Morningstar
  Morningstar, Part 5 of 6
  January 2006
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 10: Morningstar
+ ?? TODO
 
 Lucifer #69
  Lucifer: Morningstar
  Morningstar, Part 6 of 6
  February 2006
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 10: Morningstar
+ ?? TODO
 
 Lucifer #70
  Lucifer
  Fireside Tales
  March 2006
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 11: Evensong
+ ?? TODO
 
 Lucifer #71
  Lucifer: Evensong
  Evensong, Part 1 of 2
  April 2006
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 11: Evensong
+ ?? TODO
 
 Lucifer #72
  Lucifer: Evensong
  Evensong, Part 2 of 2
  May 2006
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 11: Evensong
+ ?? TODO
 
 Lucifer #73
  Lucifer
  The Gaudium Option
  June 2006
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 11: Evensong
+ ?? TODO
 
 Lucifer #74
  Lucifer
  Eve
  July 2006
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 11: Evensong
+ ?? TODO
 
 Lucifer #75
  Lucifer
  All We Need of Hell
  August 2006
  Lucifer: Book 5, Lucifer: Omnibus 2, Lucifer: Vol 11: Evensong
+ ?? TODO
 
 The Sandman Overture #1
  The Sandman: Overture
  Chapter One
  December 2013
  The Sandman: Overture
- -# -500000100 | half a billion years ago: Red furred humanoids, sapient plants and insect swarms dream ++ <Dream>
+ -# ~ -500000100 | half a billion years ago: Red furred humanoids, sapient plants and insect swarms dream ++ <Dream>
  -# 1915.1: An aspect of <Dream> dies, a hundred galaxies away, but transfer is interrupted
- # <Dream> confronts <The Corinthian>, and finds himself halfway across the universe
+ #- <Dream> confronts <The Corinthian>, and finds himself halfway across the universe
 
 The Sandman Overture #2
  The Sandman: Overture
@@ -1729,17 +1805,17 @@ The Sandman Overture #2
  -# 2015: <Dream (Daniel)> retrieves the <Saeculum> from <Mad Hettie>'s hiding place
  -# ~ 1760.1: <Mad Hettie> steals the <Saeculum> from <Dream>
  ## 1915.2: <Dream> has a meeting of aspects, then discovers a star has gone mad ++ <Glory>
- -# -500000050 | half a billion years ago: A <Vortex> was allowed to live ++ <Dream>
+ -# ~ -500000050 | half a billion years ago: A <Vortex> was allowed to live ++ <Dream>
 
 The Sandman Overture #3
  The Sandman: Overture
  Chapter Three
  September 2014
  The Sandman: Overture
- -# -1000000005 | aeons ago: <Dream> is imprisoned. ++ <Delirium> <The Dreaming>
- - <Delight> becomes <Delirium>
- - <Desire> creates <Alianora> who helps <Dream> escape ++ <The Dreaming> <The Gates of Horn and Ivory>
- - <Dream> creates <The Land> for <Alianora> ++ <The Dreaming>
+ -# ~ -1000000005 | aeons ago: <Dream> is imprisoned. ++ <Delirium> <The Dreaming>
+ -- <Delight> becomes <Delirium>
+ -- <Desire> creates <Alianora> who helps <Dream> escape ++ <The Dreaming> <The Gates of Horn and Ivory>
+ -- <Dream> creates <The Land> for <Alianora> ++ <The Dreaming>
  ? dream does have his ruby at this point
 
 The Sandman Overture #4
@@ -1747,12 +1823,12 @@ The Sandman Overture #4
  Chapter Four
  February 2015
  The Sandman: Overture
- -# -50000000000 | before the beginning: Before the beginning was the <Night>
- -# -20000000000 | in the beginning: In beginning there was <Time>
+ -# ~ -50000000000 | before the beginning: Before the beginning was the <Night>
+ -# ~ -20000000000 | in the beginning: In beginning there was <Time>
  -# 1915.3 | all times: <Dream> asks his father <Time> for help
  -# 1755 | before 1760: <Dream> borrows the <Saeculum>
  ## 1915.3: <Dream> visits the City of the Stars and is allowed in by <Formalhaut>
- -# -500000070 | half a billion years ago: <Dream> tried to understand a <Vortex> on a small blue world in the centre of the galaxy.  The world was destroyed, but not the sun
+ -# ~ -500000070 | half a billion years ago: <Dream> tried to understand a <Vortex> on a small blue world in the centre of the galaxy.  The world was destroyed, but not the sun
  -# 2015 | all times: <Dream (Daniel)> returns the <Saeculum> to <Time>
  -# 1915.3 | all times: <Time> shows <Dream> his spread of cards, and gives thanks for the return of the <Saeculum>
  -# 1915.3 | no time: <Formalhaut> traps <Dream> inside a black hole
@@ -1781,14 +1857,14 @@ The Sandman Overture #6
  The Sandman: Overture
  ## 1915.45: <Dream (cat)> takes the <Saeculum> and takes a few attempts to get things right ++ <Mad Hettie>
  ## 1915.6: The thousand dreams restart the universe.  Only <Dream> remembers.
- -# -500000045 | (or): A <Vortex> was destroyed ++ <Dream>
+ -# ~ -500000045 | (or): A <Vortex> was destroyed ++ <Dream>
 
 The Sandman Universe #1
  Sandman Universe
  The Sandman Universe
  October 2018
  Sandman Universe: The Dreaming: Vol 1: Pathways and Emanations, Sandman Universe: House of Whispers: Vol  1: The Power Divided
- ## 2018.610: <Dream (Daniel)> and <Lucifer> go missing, <Miranda|Miranda Walker> dreams of food, <Tim Hunter> starts again, <Latoya> finds a book and <Uncle Monday> is unchained. ++ <Abel> <Cain> <Dora> <Dr Rose> <The Dreaming> <Erzulie> <Eve> <Habibi> <Ivy Walker> <Lucien> <Lumi> <Maggie> <Matthew> <Merv> <Miranda Walker> <Rose Walker>
+ ## 2018.610: <Dream (Daniel)> and <Lucifer> go missing, <Miranda|Miranda Walker> dreams of food, <Tim Hunter> starts again, <Latoya|Latoya Thomas> finds a book and <Uncle Monday> is unchained. ++ <Abel> <Cain> <Dora> <Dr Rose> <The Dreaming> <Erzulie> <Eve> <Habibi|Habibi Thomas> <Ivy Walker> <Lucien> <Lumi|Lumi Thomas> <Maggie> <Matthew> <Merv> <Miranda Walker> <New Orleans> <Rose Walker>
  -# 1994.6: <Dora> is found by <Dream> ++ <The Dreaming> <Lucien>
 
 The Dreaming #1
@@ -1818,7 +1894,7 @@ House of Whispers #2
  The Power Divided
  December 2018
  Sandman Universe: House of Whispers: Vol 1: The Power Divided
- ## 2018.625: <Latoya> reawakens, <The Houseboat> fails to leave... ++ <Abel> <Alter Boi> <Cain> <Damballah> <The Dreaming> <Erzulie> <Goldie> <Gregory> <Habibi> <Latoya's father ??> <Lord Agwé> <Lumi> <Ogun> <Shakpana> <Uncle Monday>
+ ## 2018.625: <Latoya> reawakens, <The Houseboat> fails to leave... ++ <Abel> <Alter Boi> <Cain> <Damballah> <The Dreaming> <Erzulie> <Goldie> <Gregory> <Habibi> <Lord Agwé> <Lumi> <Mr Thomas> <Ogun> <Shakpana> <Uncle Monday>
 
 The Dreaming #3
  Sandman Universe: The Dreaming
@@ -1865,9 +1941,9 @@ House of Whispers #5
  Rumors of Glory
  March 2019
  Sandman Universe: House of Whispers: Vol 1: The Power Divided
- ## 2018.642: <Shakpana> wields his power, <Turtle> finds a safe hiding spot. ++ <Erzulie> <Habibi> <Latoya's father ??> <Latoya> <Lord Agwé> <Lumi> <Maggie> <Man with Swan's Arm> <Uncle Monday>
+ ## 2018.642: <Shakpana> wields his power, <Turtle> finds a safe hiding spot. ++ <Erzulie> <Habibi> <Latoya> <Lord Agwé> <Lumi> <Maggie> <Man with Swan's Arm> <Mr Thomas> <Uncle Monday>
  -# -200: <Shakpana> comes into being
- -# ~1790|: A prince is turned into a swan <Man with Swan's Arm>
+ -# ~1790|: A prince is turned into a swan ++ <Man with Swan's Arm>
  ? Judge gallows still running dreaming
 
 The Dreaming #6
@@ -1882,7 +1958,7 @@ House of Whispers #6
  Open the Unusual Door
  April 2019
  Sandman Universe: House of Whispers: Vol 1: The Power Divided
- ## 2018.643: <Uncle Monday> borrows a book, <Shakpana> is contained,  <The Houseboat> travels. ++ <Alter Boi> <Damballah> <Erzulie> <Habibi> <Latoya's father ??> <Latoya> <Lord Agwé> <Lumi> <Maggie> <Ogun>
+ ## 2018.643: <Uncle Monday> borrows a book, <Shakpana> is contained,  <The Houseboat> travels. ++ <Alter Boi> <Damballah> <Erzulie> <Habibi> <Latoya> <Lord Agwé> <Lumi> <Maggie> <Mr Thomas> <Ogun>
  -# ~1550| sixteenth century : <Uncle Monday> comes into being
  ? library not yet desecrated - before Dreaming #5
 
@@ -1903,7 +1979,7 @@ House of Whispers #7
  The Troubles I've Seen
  May 2019
  Sandman Universe: House of Whispers: Vol 2: Ananse
- # <Shakpana> finds a new host, A Boy dreams of <The Corinthian> ++ <Alter Boi> <Ananse> <Erzulie> <Latoya> <Lord Agwé> <Maggie> <Man with Swan's Arm> <Uncle Monday>
+ #- <Shakpana> finds a new host, A Boy dreams of <The Corinthian> ++ <Alter Boi> <Ananse> <Erzulie> <Latoya> <Lord Agwé> <Maggie> <Man with Swan's Arm> <Uncle Monday>
 
 The Dreaming #8
  Sandman Universe: The Dreaming
@@ -1919,7 +1995,7 @@ House of Whispers #8
  Eight-Legged Griot
  June 2019
  Sandman Universe: House of Whispers: Vol 2: Ananse
- # ... ++ <Ananse> <The Corinthian> <Erzulie> <Shakpana> <Uncle Monday>
+ #- ... ++ <Ananse> <The Corinthian> <Erzulie> <Shakpana> <Uncle Monday>
  ?? TODO
 
 The Dreaming #9
@@ -1935,7 +2011,7 @@ House of Whispers #9
  -
  July 2019
  Sandman Universe: House of Whispers: Vol 2: Ananse
- # ... ++ <Ananse> <The Corinthian> <Erzulie> <Shakpana> <Uncle Monday>
+ #- ... ++ <Ananse> <The Corinthian> <Erzulie> <Shakpana> <Uncle Monday>
  ?? TODO
 
 The Dreaming #10
@@ -1951,7 +2027,7 @@ House of Whispers #10
  -
  August 2019
  Sandman Universe: House of Whispers: Vol 2: Ananse
- # ... ++ <Ananse> <The Corinthian> <Damballah> <Erzulie> <Uncle Monday>
+ #- ... ++ <Ananse> <The Corinthian> <Damballah> <Erzulie> <Uncle Monday>
  ?? TODO
 
 The Dreaming #11
@@ -1967,7 +2043,7 @@ House of Whispers #11
  -
  September 2019
  Sandman Universe: House of Whispers: Vol 2: Ananse
- # ... ++ <Ananse> <The Corinthian> <Marinette Bwa Chech> <Uncle Monday>
+ #- ... ++ <Ananse> <The Corinthian> <Marinette Bwa Chech> <Uncle Monday>
  ?? TODO
 
 The Dreaming #12
@@ -1982,7 +2058,7 @@ House of Whispers #12
  -
  October 2019
  Sandman Universe: House of Whispers: Vol 2: Ananse
- # ... ++ <Ananse> <The Corinthian> <Erzulie> <Marinette Bwa Chech> <Uncle Monday>
+ #- ... ++ <Ananse> <The Corinthian> <Erzulie> <Marinette Bwa Chech> <Uncle Monday>
  ?? TODO
 
 The Dreaming #13
@@ -1997,6 +2073,7 @@ House of Whispers #13
  -
  November 2019
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
+ ?? TODO
 
 The Dreaming #14
  Sandman Universe: The Dreaming
@@ -2010,6 +2087,7 @@ House of Whispers #14
  -
  December 2019
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
+ ?? TODO
 
 The Sandman Presents: Hellblazer
  Sandman Universe: John Constantine Hellblazer
@@ -2031,6 +2109,7 @@ House of Whispers #15
  -
  January 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
+ ?? TODO
 
 Books of Magic #14
  Sandman Universe: Books of Magic
@@ -2069,6 +2148,7 @@ House of Whispers #16
  -
  February 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
+ ?? TODO
 
 John Constantine Hellblazer #2
  Sandman Universe: John Constantine Hellblazer
@@ -2089,6 +2169,7 @@ House of Whispers #17
  -
  March 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
+ ?? TODO
 
 John Constantine Hellblazer #3
  Sandman Universe: John Constantine Hellblazer
@@ -2109,6 +2190,7 @@ House of Whispers #18
  -
  April 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
+ ?? TODO
 
 John Constantine Hellblazer #4
  Sandman Universe: John Constantine Hellblazer
@@ -2123,13 +2205,14 @@ The Dreaming #19
  May 2020
  Sandman Universe: The Dreaming: Vol 3: One Magical Movement
  ## 2018.83: <Lucien> talks with <Hyperion Keter> after <Death>
- # The <Vortex> returns ++<Rose Walker>
+ #- The <Vortex> returns ++<Rose Walker>
 
 House of Whispers #19
  Sandman Universe: House of Whispers
  -
  May 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
+ ?? TODO
 
 John Constantine Hellblazer #5
  Sandman Universe: John Constantine Hellblazer
@@ -2144,7 +2227,7 @@ The Dreaming #20
  One Magical Movement Part Two
  June 2020
  Sandman Universe: The Dreaming: Vol 3: One Magical Movement
- ## 2018.85: Daniel returns, Wan makes a sacrifice
+ ## 2018.85: <Dream (Daniel)> returns, <Wan> makes a sacrifice
 
 John Constantine Hellblazer #6
  Sandman Universe: John Constantine Hellblazer
@@ -2159,12 +2242,14 @@ House of Whispers #20
  -
  July 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
+ ?? TODO
 
 House of Whispers #21
  Sandman Universe: House of Whispers
  -
  August 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
+ ?? TODO
 
 John Constantine Hellblazer #7
  Sandman Universe: John Constantine Hellblazer
@@ -2178,6 +2263,7 @@ House of Whispers #22
  -
  September 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
+ ?? TODO
 
 John Constantine Hellblazer #8
  Sandman Universe: John Constantine Hellblazer
@@ -2198,7 +2284,7 @@ The Dreaming: Waking Hours #1
  The Bard and the Bard, Part 1
  October 2020
  Sandman Universe: The Dreaming: Waking Hours
- # <Lindy|Lindy Morris> dreams of <The Empty House>, <Ruin> wakes up ++ <Dream (Daniel)> <Dream Shakespeares> <The Dreaming> <Jophiel> <Lindy's Baby> <Lucien>
+ #- <Lindy|Lindy Morris> dreams of <The Empty House>, <Ruin> wakes up ++ <Dream (Daniel)> <Dream Shakespeares> <The Dreaming> <Jophiel> <Lindy's Baby> <Lucien>
 
 John Constantine Hellblazer #10
  Sandman Universe: John Constantine Hellblazer
@@ -2212,7 +2298,7 @@ The Dreaming: Waking Hours #2
  The Bard and the Bard, Part 2
  November 2020
  Sandman Universe: The Dreaming: Waking Hours
- # <Lindy> is trapped amongst the <Dream Shakespeares>, <Ruin> and <Jophiel> seek assistance, <Dream (Daniel)> seeks answers. ++ <The Black Chest> <The Dreaming> <Endless Teeth> <Heather After> <Lindy's Baby> <Lucien>
+ #- <Lindy> is trapped amongst the <Dream Shakespeares>, <Ruin> and <Jophiel> seek assistance, <Dream (Daniel)> seeks answers. ++ <The Black Chest> <The Dreaming> <Endless Teeth> <Heather After> <Lindy's Baby> <Lucien>
  -# 2020 |: <Dream (Daniel)> creates <Ruin>, is disappointed ++ <Benedict> <Jophiel>
  ? Heather is Ethel Cripps's great granddaughter
 
@@ -2231,7 +2317,7 @@ The Dreaming: Waking Hours #3
  The Bard and the Bard, Part 3
  December 2020
  Sandman Universe: The Dreaming: Waking Hours
- # <Heather After> summons a fae, <Lindy> plans a play. ++ <Brute> <Dream (Daniel)> <Dream Shakespeares> <Endless Teeth> <Glob> <Jophiel> <Lindy's Baby> <Lucien> <Puck> <Ruin>
+ #- <Heather After> summons a fae, <Lindy> plans a play. ++ <Brute> <Dream (Daniel)> <Dream Shakespeares> <Endless Teeth> <Glob> <Jophiel> <Lindy's Baby> <Lucien> <Puck> <Ruin>
  ? Lindy is 30
 
 John Constantine Hellblazer #12
@@ -2246,21 +2332,21 @@ The Dreaming: Waking Hours #4
  The Bard and the Bard, Part 4
  January 2021
  Sandman Universe: The Dreaming: Waking Hours
- # <Lindy> doesn't find anything new, <Ruin> reaches the <Worlds' End>, but <Brute> and <Glob> drag him back. ++ <Dora> <Dream (Daniel)> <Dream Shakespeares> <Dream> <Heather After> <Jophiel> <Lindy's Baby> <Lucien> <Titania> <Todd>
+ #- <Lindy> doesn't find anything new, <Ruin> reaches the <Worlds' End>, but <Brute> and <Glob> drag him back. ++ <Dora> <Dream (Daniel)> <Dream Shakespeares> <Dream> <Heather After> <Jophiel> <Lindy's Baby> <Lucien> <Titania> <Todd>
 
 The Dreaming: Waking Hours #5
  Sandman Universe: The Dreaming - The Bard and the Bard
  The Bard and the Bard, Finale
  February 2021
  Sandman Universe: The Dreaming: Waking Hours
- # <Lindy> delivers, <Dora> fights back, <Ruin> is freed. ++ <Brute> <Dream (Daniel)> <Dream Shakespeares> <Glob> <Jophiel> <Kushiel> <Lindy's Baby> <Lucien> <Merlyn>
+ #- <Lindy> delivers, <Dora> fights back, <Ruin> is freed. ++ <Brute> <Dream (Daniel)> <Dream Shakespeares> <Glob> <Jophiel> <Kushiel> <Lindy's Baby> <Lucien> <Merlyn>
 
 The Dreaming: Waking Hours #6
  Sandman Universe: The Dreaming - Intermezzo
  Intermezzo, Part 1
  March 2021
  Sandman Universe: The Dreaming: Waking Hours
- # <Ruin> Moves in, <Benedict> moves out, <Heather After> gets caught, <John Constantine> offers advice, <Goldie> and <Matthew> get called upon. ++ <Azar> <Jophiel> <Lindy> <Puck> <Todd>
+ #- <Ruin> Moves in, <Benedict> moves out, <Heather After> gets caught, <John Constantine> offers advice, <Goldie> and <Matthew> get called upon. ++ <Azar> <Jophiel> <Lindy> <Puck> <Todd>
  -# ~ 2010: Teenage <Heather After> forbidden to perform magic by her parents ++ <Amulet>
  -# ~ 2020: <Heather After> is tutored by <John Constantine>
 
@@ -2269,7 +2355,7 @@ The Dreaming: Waking Hours #7
  Intermezzo, Part 2
  April 2021
  Sandman Universe: The Dreaming: Waking Hours
- # <Todd> and <Matthew> try to help, <Azar> sees the truth, and <Auberon> lifts the curse. ++ <Amulet> <Goldie> <Heather After> <Jophiel> <Puck> <Ruin>
+ #- <Todd> and <Matthew> try to help, <Azar> sees the truth, and <Auberon> lifts the curse. ++ <Amulet> <Goldie> <Heather After> <Jophiel> <Puck> <Ruin>
  ? Nurse Azar has true sight
  -# 2018.70: <Nuala> reveals a secret ++ <Faerie> <Titania>
 
@@ -2285,14 +2371,14 @@ The Dreaming: Waking Hours #8
  The Faerie Queen, Part 1
  May 2021
  Sandman Universe: The Dreaming: Waking Hours
- #  <Heather After> steps into <Faerie>, <Dream (Daniel)> broods, <Jophiel> is cast aside ++ <Azar> <Benedict> <The Dreaming> <Goldie> <Matthew> <Merv> <Ruin>
+ #-  <Heather After> steps into <Faerie>, <Dream (Daniel)> broods, <Jophiel> is cast aside ++ <Azar> <Benedict> <The Dreaming> <Goldie> <Matthew> <Merv> <Ruin>
 
 The Dreaming: Waking Hours #9
  Sandman Universe: The Dreaming - The Faerie Queen
  The Faerie Queen, Part 2
  June 2021
  Sandman Universe: The Dreaming: Waking Hours
- # <Ruin> and <Heather After> get distracted, <Jophiel> and <Auberon> get disguised. ++ <Faerie> <Queen Nuala|Nuala> <Titania> <The Unseelie>
+ #- <Ruin> and <Heather After> get distracted, <Jophiel> and <Auberon> get disguised. ++ <Faerie> <Queen Nuala|Nuala> <Titania> <The Unseelie>
  -# ~ 2005 : pre-teen <Heather After> visits elderly <Ethel Cripps> ++ <Amulet>
 
 The Dreaming: Waking Hours #10
@@ -2300,7 +2386,7 @@ The Dreaming: Waking Hours #10
  The Faerie Queen, Part 3
  July 2021
  Sandman Universe: The Dreaming: Waking Hours
- # <Heather After> is trapped, <Ruin> flips the cards ++ <Auberon> <Dream (Daniel)> <Faerie> <Jophiel> <Matthew> <Queen Nuala> <Titania> <The Unseelie>
+ #- <Heather After> is trapped, <Ruin> flips the cards ++ <Auberon> <Dream (Daniel)> <Faerie> <Jophiel> <Matthew> <Queen Nuala> <Titania> <The Unseelie>
  -# ~ 2005 : <Heather After> helps herself ++ <Paul McGuire>
 
 The Dreaming: Waking Hours #11
@@ -2308,7 +2394,7 @@ The Dreaming: Waking Hours #11
  The Faerie Queen, Part 4
  August 2021
  Sandman Universe: The Dreaming: Waking Hours
- # <Ruin> organises a release, <Auberon> and <Titania> make amends, <Heather After>'s true name doesn't matter. ++ <Benedict> <Dream (Daniel)> <Jophiel> <Nuala> <Puck> <The Unseelie>
+ #- <Ruin> organises a release, <Auberon> and <Titania> make amends, <Heather After>'s true name doesn't matter. ++ <Benedict> <Dream (Daniel)> <Jophiel> <Nuala> <Puck> <The Unseelie>
  -# 2018.8: <The Unseelie> take charge ++ <Faerie> <Nuala>
 
 The Dreaming: Waking Hours #12
@@ -2316,7 +2402,7 @@ The Dreaming: Waking Hours #12
  The Faerie Queen, Finale
  September 2021
  Sandman Universe: The Dreaming: Waking Hours
- # <The Unseelie> are trapped, <Heather After> returns home, <Jophiel> returns to the Host, <Ruin> and <Benedict> run from <Dream (Daniel)> ++ <Auberon> <Azar> <Faerie> <Nuala> <Titania> <Todd>
+ #- <The Unseelie> are trapped, <Heather After> returns home, <Jophiel> returns to the Host, <Ruin> and <Benedict> run from <Dream (Daniel)> ++ <Auberon> <Azar> <Faerie> <Nuala> <Titania> <Todd>
 
 Sandman Universe: Locke & Key: Hell and Gone #2
  Sandman Universe: Locke & Key
@@ -2324,7 +2410,7 @@ Sandman Universe: Locke & Key: Hell and Gone #2
  September 2021
  Sandman Universe: Locke & Key: Hell and Gone
  ## October 1927: <Mary Locke> Borrows a book, brings <Gilbert> along, makes <a key|The Key to Hell> and takes her brother backstage, <Etrigan> gets a promotion, the key is delivered, and <Chamberlin Locke> takes a ride. ++ <Alexander Burgess> <Azazel> <Beelzebub> <Choronzon> <The Corinthian> <Death> <The Dreaming> <Hell> <Jack Locke> <Lucien> <Lucifer>
- -# -9500000000 | ten billion years ago: <Mary Locke> delivers <The Key to Hell> ++ <The Silver City>
+ -# ~ -9500000000 | ten billion years ago: <Mary Locke> delivers <The Key to Hell> ++ <The Silver City>
 
 Nightmare Country #1
  Sandman Universe: Nightmare Country

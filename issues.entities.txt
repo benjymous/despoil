@@ -206,6 +206,7 @@
  Mayhew - City in upstate Gotham
  Naxos - Island in Greece
  Necropolis Litharge
+ New Orleans - City in Louisiana
  New York - City in the USA
  Ohio - State of the USA
  Paris - Capital city of France
@@ -214,6 +215,7 @@
  Ravenscar Hospital - Mental hospital
  Rome - Capital city of Italy
  San Francisco - City in California
+ San Raphael Peninsula - Sardinia, Italy
  Silver City, the - Home of the Angels
  Soft Places - Places where the boundary between reality and The Dreaming are less strong
  Space - No one can hear you scream
@@ -221,6 +223,7 @@
  Swartalfheim - Norse home of the Dwarves
  Threshold, the - Desire's Realm
  Tree of Knowledge
+ Venice - City in Italy
  Wendel's Mound - An ancient hill in England
  Worlds' End - A Free House at the End of all worlds
  Wych Cross - Town in East Sussex.  Location of Fawney Rig
@@ -274,7 +277,7 @@
  Foxglove - Hazel's partner.  Musician
  Freddie - A fisherman
  George - Housemate of Wanda
- Habibi
+ Habibi Thomas - Lumi's and Latoya's sister
  Hal Carter - Landlord and cabaret act
  Hamnet Shakespeare - William Shakespeare's Son
  Haroun Al Raschid - Caliph of Baghdad
@@ -305,16 +308,15 @@
  Kwaz Moto - Mr Flush's bodyguard
  Lady Johanna Constantine - Aristocrat and adventurer.  Ancestor of John Constantine
  Larry - Foxglove's manager
- Latoya
- Latoya's father ??
+ Latoya Thomas - Maggie's partner, Lumi and Habibi's older sister
  Lindy Morris
  Lindy's Baby
  Liza Ikumelo
  Lizzie Siddal - English 19th century artist and poet
  Lords Carnal
- Lumi
+ Lumi Thomas - Habibi and Latoya's sister
  Madison Flynn
- Maggie
+ Maggie - Latoya's partner
  Map - Magician and associate of John Constantine
  Marcia - Runaway child
  Marco Polo - Italian merchant and explorer
@@ -327,6 +329,7 @@
  Miranda Walker - Rose Walker's Mother
  Mister E
  Mr Holdaway
+ Mr Thomas - Latoya, Lumi and Habibi's father
  Mrs Robbins
  Nada - Queen of the first city, Lover of Dream
  Nat - Associate of John Constantine
@@ -358,6 +361,7 @@
  Sithcundman, the - Librarian of the Necropolis Litharge
  Suzy Linden - Child Black Orchid
  Sylvia Furnival
+ Terry - Housemate of Oliver and John Constantine in the 60s
  Theo
  Tiffany
  Tim Hunter - Boy Wizard
