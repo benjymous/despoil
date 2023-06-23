@@ -52,14 +52,14 @@ foreach (var entry in entries)
 
     var entryLines = entry.Split("\n").Select(e => e.Trim()).ToArray();
 
-    if (entryLines.Length == 1) 
+    if (entryLines.Length == 1)
     {
-        lineNumber ++;
+        lineNumber++;
         continue;
     }
 
     reformatted.Add(entryLines[0]);
-    var reformattedEntryLines = entryLines.Skip(1).Select(e => " " + Util.SortAndDedupeEntities(e)).ToList();    
+    var reformattedEntryLines = entryLines.Skip(1).Select(e => " " + Util.SortAndDedupeEntities(e)).ToList();
     reformatted.AddRange(reformattedEntryLines);
     if (reformattedEntryLines.Count() == 4) reformatted.Add(" ?? TODO");
     reformatted.Add("");
@@ -73,7 +73,7 @@ foreach (var entry in entries)
     {
         if (!(entryLines[i].StartsWith('#') || entryLines[i].StartsWith("-") || entryLines[i].StartsWith("?") || entryLines[i].StartsWith("!")))
         {
-            throw new Exception($"{fullFilename}({lineNumber+i}): {entryLines[0]}\n{entryLines[i]}' should start with #, -, ?, or !");
+            throw new Exception($"{fullFilename}({lineNumber + i}): {entryLines[0]}\n{entryLines[i]}' should start with #, -, ?, or !");
         }
     }
 
@@ -180,9 +180,9 @@ foreach (var entry in entries)
 
             entityClasses.Add(entity);
 
-            if (entryEntities.Contains(bareText)) 
+            if (entryEntities.Contains(bareText))
             {
-                Console.WriteLine($"{fullFilename}({lineNumber+eventCount+5}): Duplicate entity <{bareText}> in {issueTitlePlain}");
+                Console.WriteLine($"{fullFilename}({lineNumber + eventCount + 5}): Duplicate entity <{bareText}> in {issueTitlePlain}");
             }
             else
             {
@@ -214,12 +214,22 @@ foreach (var entry in entries)
             {
                 knownDate = false;
             }
-
-            currentDate = Util.ParseDate(dateStr);
-
+            try
+            {
+                currentDate = Util.ParseDate(dateStr);
+            }
+            catch (System.Exception)
+            {
+                Console.WriteLine($"Bad date: `{dateStr}`");
+                throw;
+            }
             if (dateStr.Contains("|"))
             {
                 dateStr = dateStr.Substring(dateStr.IndexOf("|") + 1);
+            }
+            else if (dateStr.Contains("!"))
+             {
+                dateStr = "";
             }
             else
             {
@@ -320,8 +330,8 @@ foreach (var entry in entries)
                     dateMarkers.Add(decadeKey, $"{decadeKey}s");
                 }
             }
-        } 
-        else if (currentDate > 10000) 
+        }
+        else if (currentDate > 10000)
         {
             centuryKey = 10000;
             if (!dateMarkers.ContainsKey(centuryKey))
@@ -371,7 +381,7 @@ foreach (var entry in entries)
         eventCount++;
 
         seenDates.Add(currentDate);
-        eventDates.Add((eventDates.Count + 1, currentDate));        
+        eventDates.Add((eventDates.Count + 1, currentDate));
 
         itemData.Add(new Item
         {
@@ -412,7 +422,7 @@ foreach (var collection in colNames)
 {
     if (collection == "--") continue;
 
-    string groupName =collection.Contains(":") ? collection.Split(':')[0] : collection;
+    string groupName = collection.Contains(":") ? collection.Split(':')[0] : collection;
 
     if (!collectionData.ContainsKey(groupName))
     {
@@ -425,7 +435,7 @@ foreach (var collection in colNames)
     collectionData[groupName].Add(new IssueGroup
     {
         id = $"col_{colIndex}",
-        name = collection.Contains(":") ? collection.Substring(collection.IndexOf(":")+2) : collection,
+        name = collection.Contains(":") ? collection.Substring(collection.IndexOf(":") + 2) : collection,
         index = colIndex,
         childdata = string.Join(",", colData.Select(x => x.Item2)),
         Issues = colData.Select(x => new Issue { id = x.Item2, body = x.Item1 }).ToArray()
@@ -484,14 +494,14 @@ var orderStyles = eventDates.Select(x => $".chron :nth-child({x.Item1}) {{ order
 //////////////////////////////////////
 
 var reverseAlias = entityAlias.Where(kvp => kvp.Key[0].IsUppercase()).GroupBy(x => Util.MoveThe(x.Value), x => Util.MoveThe(x.Key));
-var entityDict = entityData.ToDictionary(e => e.name, e=>e);
+var entityDict = entityData.ToDictionary(e => e.name, e => e);
 
 // foreach (var kvp in entityAlias)
 // {
 //     Console.WriteLine(kvp.Key + " => " + kvp.Value);
 // }
 
-try 
+try
 {
     var entityListIn = File.ReadAllLines("issues.entities.txt").Select(line => line.Trim());
     string currentGroup = "-";
@@ -506,7 +516,7 @@ try
         {
             var name = "";
             var notes = "";
-            if (line.Contains(" - ")) 
+            if (line.Contains(" - "))
             {
                 var bits = line.Split(" - ");
                 name = bits[0].Trim();
@@ -524,27 +534,27 @@ try
         }
     }
 }
-catch {}
+catch { }
 
 var entitiesByType = entityData.GroupBy(e => e.type);
 
 List<String> entityListOut = new();
 
-foreach (var group in entitiesByType.OrderBy(g => g.Key)) 
+foreach (var group in entitiesByType.OrderBy(g => g.Key))
 {
-    entityListOut.Add("::"+group.Key);
+    entityListOut.Add("::" + group.Key);
     foreach (var e in group)
     {
-       entityListOut.Add(" " + e.name + (string.IsNullOrWhiteSpace(e.notes) ? "" : " - "+e.notes));
+        entityListOut.Add(" " + e.name + (string.IsNullOrWhiteSpace(e.notes) ? "" : " - " + e.notes));
     }
     entityListOut.Add("");
 }
 File.WriteAllLines("issues.entities.txt", entityListOut);
 
-foreach (var reverse in reverseAlias) 
+foreach (var reverse in reverseAlias)
 {
     if (!string.IsNullOrWhiteSpace(entityDict[reverse.Key].notes)) entityDict[reverse.Key].notes += "\n";
-    entityDict[reverse.Key].notes += "( " +string.Join(", ", reverse) + " )";
+    entityDict[reverse.Key].notes += "( " + string.Join(", ", reverse) + " )";
 }
 
 //////////////////////////////////////
@@ -555,11 +565,11 @@ var source = File.ReadAllText("template.html");
 
 var model = new Model
 {
-    InlineStyles = $"<style>{string.Join(" ",colourStyles)} {string.Join(" ",orderStyles)}</style>",
-    Collections = collectionData.Select(x => new IssueGroupParent { name = x.Key, Groups = x.Value.ToArray()}).ToArray(),
-    Threads = threadData.Select(x => new IssueGroupParent { name = x.Key, Groups = x.Value.ToArray()}).OrderBy(x => x.name, new GroupComparer()).ToArray(),
+    InlineStyles = $"<style>{string.Join(" ", colourStyles)} {string.Join(" ", orderStyles)}</style>",
+    Collections = collectionData.Select(x => new IssueGroupParent { name = x.Key, Groups = x.Value.ToArray() }).ToArray(),
+    Threads = threadData.Select(x => new IssueGroupParent { name = x.Key, Groups = x.Value.ToArray() }).OrderBy(x => x.name, new GroupComparer()).ToArray(),
     Issues = issueData.ToArray(),
-    EntityGroups = entitiesByType.Select( x => new EntityGroup { name = x.Key, Entities = x.ToArray(), issues = string.Join(" ", x.Select(e => e.issues))}).OrderBy(g => g.name).ToArray(),
+    EntityGroups = entitiesByType.Select(x => new EntityGroup { name = x.Key, Entities = x.ToArray(), issues = string.Join(" ", x.Select(e => e.issues)) }).OrderBy(g => g.name).ToArray(),
     Items = itemData.ToArray(),
     AllIssues = string.Join(" ", issueOrder.Select(x => "ei_" + x))
 };
@@ -581,8 +591,10 @@ if (parser.TryParse(source, out var template, out var error))
     Console.WriteLine($"Rendering html output");
     var rendered = Util.RemoveEmptyLines(template.Render(context));
 
-    Console.WriteLine($"Writing to {outPath}");
-    File.WriteAllText(Path.Combine(outPath, "index.html"), rendered, System.Text.Encoding.UTF8);
+    Console.WriteLine($"Writing output");
+    var outFile = Path.Combine(outPath, "index.html");
+    File.WriteAllText(outFile, rendered, System.Text.Encoding.UTF8);
+    Console.WriteLine($"Written to {outFile}");
 }
 else
 {

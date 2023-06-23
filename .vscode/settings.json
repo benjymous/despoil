@@ -192,7 +192,7 @@
   "cSpell.checkOnlyEnabledFileTypes": true,
   "cSpell.enableFiletypes": [
     "txt",
-    "md",
+    "md"
   ],
   "cSpell.language": "en-GB",
   "cSpell.ignorePaths": [
@@ -204,49 +204,50 @@
     ".vscode-insiders",
     "despoil/*"
   ],
+  "cSpell.showAutocompleteSuggestions": true,
   "todohighlight.keywords": [
     {
       "text": " ?? ",
-      "color": "#770",
-      "backgroundColor": "#220",
-      "overviewRulerColor": "#770",
-      "isWholeLine": true
+      "color": "#db0",
+      "backgroundColor": "rgba(0,0,0,0)",
+      "overviewRulerColor": "#970",
+      "isWholeLine": true,
     },
     {
       "text": " ## ",
       "color": "#9d9",
-      "backgroundColor": "#220",
+      "backgroundColor": "rgba(0,0,0,0)",
       "isWholeLine": false
     },
     {
       "text": " #- ",
       "color": "#6b6",
-      "backgroundColor": "#220",
+      "backgroundColor": "rgba(0,0,0,0)",
       "isWholeLine": false
     },
     {
       "text": " -# ",
       "color": "#494",
-      "backgroundColor": "#220",
+      "backgroundColor": "rgba(0,0,0,0)",
       "isWholeLine": false
     },
     {
       "text": " -- ",
       "color": "#373",
-      "backgroundColor": "#220",
+      "backgroundColor": "rgba(0,0,0,0)",
       "isWholeLine": false
     },
     {
       "text": "# ... ",
       "color": "#dd0",
-      "backgroundColor": "#220",
+      "backgroundColor": "rgba(0,0,0,0)",
       "overviewRulerColor": "#770",
       "isWholeLine": true
     },
     {
       "text": " ? ",
-      "color": "#999",
-      "backgroundColor": "#222",
+      "color": "#bbb",
+      "backgroundColor": "rgba(255,255,255,0.05)",
       "isWholeLine": true
     },
     {
@@ -255,14 +256,21 @@
         "pattern": "<.*?>"
       },
       "color": "#59f",
-      "backgroundColor": "#222",
+      "backgroundColor": "rgba(0,0,0,0)",
       "isWholeLine": false
-    },
+    }
   ],
   "editor.wrappingIndent": "deepIndent",
   "editor.wordWrap": "on",
   "editor.foldingStrategy": "indentation",
   "editor.showFoldingControls": "always",
-  "cSpell.showAutocompleteSuggestions": true,
-  "files.autoSave": "onFocusChange"
+  "files.autoSave": "onFocusChange",
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": "\\.txt$",
+        "cmd": "build"
+      }
+    ]
+  }
 }

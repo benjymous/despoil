@@ -1,0 +1,35 @@
+Decimal years
+
+.00 - 001 - Jan  1
+.10 - 036 - Feb  4
+.20 - 073 - Mar 13
+.30 - 109 - Apr 20
+.40 - 145 - May 25
+.50 - 182 - Jun 30
+.60 - 218 - Aug  6
+.70 - 257 - Sep 14
+.80 - 292 - Oct 18
+.90 - 328 - Nov 23
+.99 - 365 - Dec 31
+
+Spring - 0.16 - 0.41
+Summer - 0.42 - 0.67
+Autumn - 0.68 - 0.92
+Winter - 0.93 - 0.99 .. 0.00 - 0.15
+
+
+Season of Mists Dating
+
+#14: Rose is 21.  Late autumn - 1989.75
+#16: unity dies - 1989.77
+
+#57 - No Obvious datings
+#58 - same day as #57 - 3 years after #28         - 1993.80 -- 1994.25
+#59 - snowing, so winter                            1993.93 -- 1994.15 
+#60 - Rose is 25, nearly 26 - 4-5 years since #14 - 1993.25 -- 1994.25
+#61 - 4 years since Unity died (#16)              - 1993.50 -- 1994.00
+#62 - Over 5 years since September 1988           - 1993.80 -- 1994.60
+
+
+
+                                                    1993.93 -- 1994.00

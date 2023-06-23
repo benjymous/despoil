@@ -60,7 +60,7 @@ namespace despoil
             {                
                 date = date.Substring(0, date.IndexOf("|"));
             }
-            date = date.Replace("~", "").Trim();
+            date = date.Replace("~", "").Replace("!", "").Trim();
             if (date.Contains(" "))
             {
                 var bits = date.Split(' ');

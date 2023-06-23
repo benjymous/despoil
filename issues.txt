@@ -19,14 +19,17 @@ Sandman #1
  -# * 1939.1: <Unity|Unity Kincaid> gives birth - the <baby|Miranda Walker> is adopted
  -- <Wesley Dodds> - Golden age Sandman
  -# * 1947: <Roderick Burgess> dies ++ <Fawney Rig> <Wych Cross>
- -# * 1955: <Unity Kincaid> goes into a nursing home, and <Alexander Burgess> fails to make a bargain ++ <Dream> <Fawney Rig> <Paul McGuire> <Wych Cross>
+ -# * 1863: <Roderick Burgess> is born
+ -# * 1955: <Unity Kincaid> goes into a nursing home, and <Alexander Burgess> fails to make a bargain ++ <Dream> <Fawney Rig> <Paul McGuire> <Wych Cross Nursing Home> <Wych Cross>
  -# * 1968: <Alexander Burgess> and <Paul McGuire> host parties ++ <Fawney Rig> <Wych Cross>
  -# * 1970: <Alexander Burgess> abandons the order ++ <Fawney Rig> <Paul McGuire> <Wych Cross>
  -# * 1972: <Alexander Burgess> again fails to bargain with <Dream> ++ <Fawney Rig> <Paul McGuire> <Wych Cross>
  -# * 1978: <Alexander Burgess> hasn't had a good night's sleep in decades ++ <Dream> <Fawney Rig> <Paul McGuire> <Wych Cross>
  -# * 1982: <Alexander Burgess> makes threats ++ <Dream> <Fawney Rig> <Paul McGuire> <Wych Cross>
- -# * September 1988: <Dream> is released by accident, and puts a curse on <Alexander Burgess>.  <Unity> awakens ++ <The Dreaming> <Fawney Rig> <Paul McGuire> <Wych Cross>
+ -# * 1988.70 | September 1988: <Dream> is released by accident, and puts a curse on <Alexander Burgess>.  <Unity> awakens ++ <The Dreaming> <Fawney Rig> <Paul McGuire> <Wych Cross Nursing Home> <Wych Cross>
  ? September 1988 is the date on the newspaper
+ ? September 14 1988 given in Kindly Ones #9
+ ? Roderick was 53 in 1916, assuming Ethel to be 26, born 1890 (based on 'half his age' comment in Waking Hours #9)
 
 Sandman #2
  The Sandman: Master of Dreams
@@ -440,7 +443,7 @@ Sandman #40
  ? Daniel is roughly 18 months old, so early 1992 if born late 1990 (#22)
  ? happens after Thessaly invited
  ? the 'oldest story' elements happen *before* Dream created the ruby
- ? unclear if Adam/Eve/Lilith belong within humanity's time frame
+ ? unclear if Adam/Eve/Lilith belong within humanity's time frame - comments that Eve is *not* Cain/Abel's actual mother
  ? where does Lyta live now?
 
 Sandman #41
@@ -520,7 +523,7 @@ Sandman #47
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
  ## 1992.58: <Dream> and <Delirium> traverse the maze of <Destiny>, while <Destruction> readies dinner ++ <Andros> <Barnabas> <The Garden of Forking Ways> <Kris> <Naxos>
  -# ~ -13000000000 | beginning of time: <Destruction> comes into being
- -# ~ 1690: <Destruction> abdicates his role <The Garden of Forking Ways> <Dream> <Death> <Delirium> <Desire>
+ -# ~ 1690: <Destruction> abdicates his role ++ <Death> <Delirium> <Desire> <Dream> <The Garden of Forking Ways>
  -# 1850 | some time in the 1800s: <Death> spends a day mortal as a peasant girl by the Yangtze River
  -# 1915.9: <Dream> returns in triumph from a far galaxy
  -# 1995.03: <Dream in white|Daniel> stands before <The Corinthian>
@@ -584,7 +587,7 @@ Sandman #52
  August 1993
  The Sandman: Vol  8: Worlds' End, The Sandman: Book 3
  ## * June 1993 | many times: <Cluracan> tells his tale ++ <Brant> <Charlene> <Klaproth>
- -# ~790|twelve hundred years ago: The city of <Aurelia of the Plains> has real influence and class
+ -# ~ 790 | twelve hundred years ago: The city of <Aurelia of the Plains> has real influence and class
  -# 1993.3: <Lady Titania|Titania> sends <Cluracan> to visit the <Lords Carnal> in the city of <Aurelia of the Plains> ++ <Dream> <The Dreaming> <Faerie> <Nuala>
  ? occurs somewhere between end of Season of Mists and beginning of Kindly Ones
 
@@ -654,7 +657,7 @@ Sandman #57
  The Kindly Ones: 1
  February 1994
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1994.7: <Three Witches> make a start, <Matthew> makes enquiries, <Dream> remakes <The Corinthian>, <Lyta> is made a job offer, and <Daniel> makes a disappearance ++ <Carla> <Eric|Eric Needham> <Eve> <The Gryphon> <The Hippogriff> <Lucien> <Lucifer> <Lux> <Mazikeen> <Merv's Bats> <Merv> <Nuala> <The Wyvern>
+ ## 1994.7: <Three Witches> make a start, <Matthew> makes enquiries, <Dream> remakes <The Corinthian>, <Lyta> is made a job offer, and <Daniel> makes a disappearance ++ <Carla> <Eric|Eric Needham> <Eve> <The Gryphon> <The Hippogriff> <Los Angeles> <Lucien> <Lucifer> <Lux> <Mazikeen> <Merv's Bats> <Merv> <Nuala> <The Wyvern>
  -# ~ 1960: <Lyta> is born
  -# * 1987: <Hector Hall> dies
  -# * 1988: <Lyta> and <Hector Hall> marry
@@ -664,7 +667,8 @@ Sandman #58
  The Kindly Ones: 2
  March 1994
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1994.72: <Lyta> talks to the police,  <Cluracan> talks to his sister, but releases his <nemesis|Cluracan's Nemesis>, and <Dream> allows them to leave ++ <Carla> <The Gryphon> <The Hippogriff> <Lord Ruthven> <Nuala> <Three Witches> <The Wyvern>
+ ## 1994.72: <Lyta> talks to the police,  <Cluracan> talks to his sister, but releases his <nemesis|Cluracan's Nemesis>, and <Dream> allows them to leave ++ <Carla> <The Gryphon> <The Hippogriff> <Lord Ruthven> <Los Angeles> <Nuala> <Three Witches> <The Wyvern>
+ ? Lyta has hardly been out of the house in 3 years
  ? 3 years after #28 (end of season of mists)  - late 1994
  ? Several months #52 (Cluracan's tale) - mid 1993
 
@@ -673,16 +677,17 @@ Sandman #59
  The Kindly Ones: 3
  April 1994
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1994.75: <Daniel> enters the fire, <Hob> comes out of the cold, <Destiny> sees himself, <Desire> sees no one else, and <Lyta> tries to stay strong ++ <Carla> <Corinthian's Skull> <Delirium> <Despair> <Dream> <Eric> <Fellowes|Puck> <The Garden of Forking Ways> <The Gray Realm> <Loki> <Pinkerton|Loki> <Puck> <Swartalfheim> <The Threshold>
- ? Hob is ~630 years old
+ ## 1994.75: <Daniel> enters the fire, <Hob> comes out of the cold, <Destiny> sees himself, <Desire> sees no one else, and <Lyta> tries to stay strong ++ <Carla> <Corinthian's Skull> <Delirium's Realm> <Delirium> <Despair> <Dream> <Eric> <Fellowes|Puck> <The Garden of Forking Ways> <The Gray Realm> <Loki> <London> <Los Angeles> <Pinkerton|Loki> <Puck> <Swartalfheim> <The Threshold>
+ ? Hob is ~630-635 years old
  ? Snowing, so winter
+ ? Delirium realises Barnabus is missing
 
 Sandman #60
  The Sandman: The Kindly Ones
  The Kindly Ones: 4
  June 1994
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1994.78: <Remiel> makes an offer, <Lyta> goes on a walk, <Rose> is watched, <Matthew> misses <Nuala>, <The Corinthian> reawakens ++ <Abel> <Abudah> <Azazel> <Bottled City> <Corinthian's Skull> <Dream> <Duma> <Hell> <Lucien> <Lucifer> <Lux> <Mazikeen> <Merv's Bats> <Merv> <Pocket Watch> <Vixen LaBitch|Hal Carter>
+ ## 1994.78: <Remiel> makes an offer, <Lyta> goes on a walk, <Rose> is watched, <Matthew> misses <Nuala>, <The Corinthian> reawakens ++ <Abel> <Abudah> <Azazel> <Bottled City> <Corinthian's Skull> <Dream> <Duma> <Hell> <Los Angeles> <Lucien> <Lucifer> <Lux> <Mazikeen> <Merv's Bats> <Merv> <Pocket Watch> <Vixen LaBitch|Hal Carter>
  ? Rose is 25, nearly 26 - so 4-5 years since #14
 
 Sandman #61
@@ -698,7 +703,8 @@ Sandman #62
  The Kindly Ones: 6
  August 1994
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1994.83: <Rose> returns to England, <Alexander Burgess> still sleeps ++ <Jack Holdaway> <Paul McGuire>
+ ## 1994.83: <Rose> returns to England, <Alexander Burgess> still sleeps ++ <Jack Holdaway> <Paul McGuire> <Wych Cross Nursing Home> <Wych Cross>
+ ?? over 5 years since September 1988 - so some time between oct 93 and aug 94  - so probably 1994.6?
 
 Sandman #63
  The Sandman: The Kindly Ones
@@ -713,7 +719,7 @@ Sandman #64
  The Kindly Ones: 8
  November 1994
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1994.88: <Dream> goes about his duties but is visited by <Delirium>.  <Rose> and <Jack|Jack Holdaway> get close, <Matthew> and <The Corinthian> make a discovery, <The Gryphon> comes to an end and <The Kindly Ones|Three Witches> give some advice ++ <Abel> <Borghal Rantipole> <Cain> <Green Nightmares> <The Hippogriff> <Lord Ruthven> <Lucifer> <Lux> <Lyta> <Man with Swan's Arm> <Mazikeen> <Merv> <Nuala> <Odin> <Thessaly> <The Wyvern>
+ ## 1994.88: <Dream> goes about his duties but is visited by <Delirium>.  <Rose> and <Jack|Jack Holdaway> get close, <Matthew> and <The Corinthian> make a discovery, <The Gryphon> comes to an end and <The Kindly Ones|Three Witches> give some advice ++ <Abel> <Borghal Rantipole> <Cain> <Green Nightmares> <The Hippogriff> <Lord Ruthven> <Los Angeles> <Lucifer> <Lux> <Lyta> <Man with Swan's Arm> <Mazikeen> <Merv> <Nuala> <Odin> <Thessaly> <The Wyvern>
  ? same green nightmares last seen in #11
 
 Sandman #65
@@ -735,21 +741,21 @@ Sandman #67
  The Kindly Ones: 11
  February 1995
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1994.96: <The Corinthian> brings <Daniel> home, <Nuala> is sorry, <Rose> is late, <Dream> receives his scars, Angels keep their faith ++ <Cain> <Destiny> <Duma> <The Furies> <The Garden of Forking Ways> <Goldie> <The Hippogriff> <Lucien> <Lux> <Lyta> <Mazikeen> <Remiel> <Thessaly> <The Wyvern>
+ ## 1994.96: <The Corinthian> brings <Daniel> home, <Nuala> is sorry, <Rose> is late, <Dream> receives his scars, Angels keep their faith ++ <Cain> <Destiny> <Duma> <The Furies> <The Garden of Forking Ways> <Goldie> <The Hippogriff> <Los Angeles> <Lucien> <Lux> <Lyta> <Mazikeen> <Remiel> <Thessaly> <The Wyvern>
 
 Sandman #68
  The Sandman: The Kindly Ones
  The Kindly Ones: 12
  May 1995
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1995.00: <Dream> and <Daniel> speak, <Borghal Rantipole> swims, and <Matthew> helps. ++ <The Corinthian> <Death> <Delirium> <Eagle Stone> <The Furies> <Lucien> <Lucifer> <Lux> <Mazikeen> <Vixen LaBitch|Hal Carter>
+ ## 1995.00: <Dream> and <Daniel> speak, <Borghal Rantipole> swims, and <Matthew> helps. ++ <The Corinthian> <Death> <Delirium> <Eagle Stone> <The Furies> <Los Angeles> <Lucien> <Lucifer> <Lux> <Mazikeen> <Vixen LaBitch|Hal Carter>
 
 Sandman #69
  The Sandman: The Kindly Ones
  The Kindly Ones: 13
  July 1995
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1995.02: <Death> makes some pigeons, The first <Dream> comes to an end, <Delirium> finds a friend, <Lucifer> calls it a day (again), <Hal> is late, and <Alexander Burgess>, <Lyta> and <Daniel> all awake ++ <Barnabas> <Cluracan> <The Corinthian> <End of the First Dream> <Loki> <Lucien> <Lux> <Matthew> <Mazikeen> <Nuala> <Puck> <Titania>
+ ## 1995.02: <Death> makes some pigeons, The first <Dream> comes to an end, <Delirium> finds a friend, <Lucifer> calls it a day (again), <Hal> is late, and <Alexander Burgess>, <Lyta> and <Daniel> all awake ++ <Barnabas> <Cluracan> <The Corinthian> <End of the First Dream> <Loki> <Los Angeles> <Lucien> <Lux> <Matthew> <Mazikeen> <Nuala> <Puck> <Titania>
 
 Sandman #70
  The Sandman: The Wake
@@ -841,7 +847,7 @@ The Sandman:  Book of Dreams Chapter 1
  Masquerade and High Water
  August 1996
  The Sandman: Book of Dreams
- ## ~ 1993|: <Desire> interferes with a recurring dream. ++ <Dream> <The Dreaming> <Lucien> <Matthew> <Merv>
+ ## ! 1993 : <Desire> interferes with a recurring dream. ++ <Dream> <The Dreaming> <Lucien> <Matthew> <Merv>
  ? Set before dream dies.  Can't be between 1990-1992
 
 The Sandman:  Book of Dreams Chapter 2
@@ -866,8 +872,8 @@ The Sandman:  Book of Dreams Chapter 4
  Each Damp Thing
  August 1996
  The Sandman: Book of Dreams
- -# ~ 1970 |: <Cain> finds a black mirror within the ruined palace
- ## ~ 1993|: <The Dreaming> becomes solipsistic ++ <Abel> <Cain> <Dream> <The Fashion Thing> <Goldie> <Lucien> <Matthew> <Nuala>
+ -# ! 1970 : <Cain> finds a black mirror within the ruined palace
+ ## ! 1993 : <The Dreaming> becomes solipsistic ++ <Abel> <Cain> <Dream> <The Fashion Thing> <Goldie> <Lucien> <Matthew> <Nuala>
 
 The Sandman:  Book of Dreams Chapter 5
  The Sandman: Book of Dreams
@@ -904,14 +910,14 @@ The Sandman:  Book of Dreams Chapter 9
  An Extra Smidgeon of Eternity
  August 1996
  The Sandman: Book of Dreams
- ## ~ 1985|: <Wanda> tells stories to a dying friend ++ <Death> <Delirium>
+ ## ! 1985 : <Wanda> tells stories to a dying friend ++ <Death> <Delirium>
 
 The Sandman:  Book of Dreams Chapter 10
  The Sandman: Book of Dreams
  The Writer's Child
  August 1996
  The Sandman: Book of Dreams
- ## ~ 1990|: A child finds a story of admission ++ <Dream> <The Dreaming>
+ ## ! 1990 : A child finds a story of admission ++ <Dream> <The Dreaming>
  ? after 1989 (rescue rangers)
 
 The Sandman:  Book of Dreams Chapter 11
@@ -926,14 +932,14 @@ The Sandman:  Book of Dreams Chapter 12
  The Gate of Gold
  August 1996
  The Sandman: Book of Dreams
- ## ~ 1990|: A doll seeks to save their charge from nightmares ++ <Dream> <The Dreaming> <The Gryphon> <The Hippogriff> <Matthew> <The Wyvern>
+ ## ! 1990 : A doll seeks to save their charge from nightmares ++ <Dream> <The Dreaming> <The Gryphon> <The Hippogriff> <Matthew> <The Wyvern>
 
 The Sandman:  Book of Dreams Chapter 13
  The Sandman: Book of Dreams
  A Bone Dry Place
  August 1996
  The Sandman: Book of Dreams
- ## ~ 1993|: <Delirium> attempts a rescue  ++ <Barnabas> <Despair> <Destiny> <Dream>
+ ## ! 1993 : <Delirium> attempts a rescue  ++ <Barnabas> <Despair> <Destiny> <Dream>
  ? somewhere between #48-57
 
 The Sandman:  Book of Dreams Chapter 14
@@ -949,14 +955,14 @@ The Sandman:  Book of Dreams Chapter 15
  The Mender of Broken Dreams
  August 1996
  The Sandman: Book of Dreams
- ## ~ 1993|: The Mender of Broken Dreams comes to terms with their existence ++ <Death> <Dream> <Merv>
+ ## ! 1993 : The Mender of Broken Dreams comes to terms with their existence ++ <Death> <Dream> <Merv>
 
 The Sandman:  Book of Dreams Chapter 16
  The Sandman: Book of Dreams
  Ain't You 'Most Done?
  August 1996
  The Sandman: Book of Dreams
- ## ~ 1993|: A man gets a final chance to dream ++ <Death> <Dream>
+ ## ! 1993 : A man gets a final chance to dream ++ <Death> <Dream>
 
 The Sandman:  Book of Dreams Chapter 17
  The Sandman: Book of Dreams
@@ -1000,21 +1006,21 @@ The Sandman Presents: Lucifer #1
  The Morningstar Option, Part 1
  March 1999
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  1: Devil in the Gateway
- ## 1999.2: <Lucifer> looks for wishes, and <Rachel Begai>'s is granted ++ <Amenadiel> <Briadach the Blind> <Hell> <Lux> <Mahu> <Mazikeen>
+ ## 1999.2: <Lucifer> looks for wishes, and <Rachel Begai>'s is granted ++ <Amenadiel> <Briadach the Blind> <Hell> <Los Angeles> <Lux> <Mahu> <Mazikeen>
 
 The Sandman Presents: Lucifer #2
  Lucifer: The Morningstar Option
  The Morningstar Option, Part 2
  April 1999
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  1: Devil in the Gateway
- ## 1999.2: <Rachel|Rachel Begai> is taken, <Lucifer> finds out far down, and <Pharamond> provides his usual service ++ <Briadach the Blind> <Duma> <Hell> <Lux> <Mahu> <Mazikeen> <Remiel>
+ ## 1999.2: <Rachel|Rachel Begai> is taken, <Lucifer> finds out far down, and <Pharamond> provides his usual service ++ <Briadach the Blind> <Duma> <Hell> <Los Angeles> <Lux> <Mahu> <Mazikeen> <Remiel>
 
 The Sandman Presents: Lucifer #3
  Lucifer: The Morningstar Option
  The Morningstar Option, Part 3
  May 1999
  Lucifer: Book 1, Lucifer: Omnibus 1, Lucifer: Vol  1: Devil in the Gateway
- ## 1999.2: The darkness is reached, <Rachel> provides guidance, and <Lucifer> gets what he requested ++ <Amenadiel> <Lux> <Mahu> <Mazikeen>
+ ## 1999.2: The darkness is reached, <Rachel> provides guidance, and <Lucifer> gets what he requested ++ <Amenadiel> <Los Angeles> <Lux> <Mahu> <Mazikeen>
 
 The Sandman Presents: Love Street #1
  Sandman Presents: Love Street
@@ -1943,7 +1949,7 @@ House of Whispers #5
  Sandman Universe: House of Whispers: Vol 1: The Power Divided
  ## 2018.642: <Shakpana> wields his power, <Turtle> finds a safe hiding spot. ++ <Erzulie> <Habibi> <Latoya> <Lord Agwé> <Lumi> <Maggie> <Man with Swan's Arm> <Mr Thomas> <Uncle Monday>
  -# -200: <Shakpana> comes into being
- -# ~1790|: A prince is turned into a swan ++ <Man with Swan's Arm>
+ -# ! 1790 : A prince is turned into a swan ++ <Man with Swan's Arm>
  ? Judge gallows still running dreaming
 
 The Dreaming #6
@@ -2299,7 +2305,7 @@ The Dreaming: Waking Hours #2
  November 2020
  Sandman Universe: The Dreaming: Waking Hours
  #- <Lindy> is trapped amongst the <Dream Shakespeares>, <Ruin> and <Jophiel> seek assistance, <Dream (Daniel)> seeks answers. ++ <The Black Chest> <The Dreaming> <Endless Teeth> <Heather After> <Lindy's Baby> <Lucien>
- -# 2020 |: <Dream (Daniel)> creates <Ruin>, is disappointed ++ <Benedict> <Jophiel>
+ -# ! 2020 : <Dream (Daniel)> creates <Ruin>, is disappointed ++ <Benedict> <Jophiel>
  ? Heather is Ethel Cripps's great granddaughter
 
 John Constantine Hellblazer #11
@@ -2347,8 +2353,9 @@ The Dreaming: Waking Hours #6
  March 2021
  Sandman Universe: The Dreaming: Waking Hours
  #- <Ruin> Moves in, <Benedict> moves out, <Heather After> gets caught, <John Constantine> offers advice, <Goldie> and <Matthew> get called upon. ++ <Azar> <Jophiel> <Lindy> <Puck> <Todd>
- -# ~ 2010: Teenage <Heather After> forbidden to perform magic by her parents ++ <Amulet>
+ -# ~ 2005: Teenage <Heather After> forbidden to perform magic by her parents ++ <Amulet>
  -# ~ 2020: <Heather After> is tutored by <John Constantine>
+ ? Not clear how old Heather actually is, so teenage date is total guess based on assumed age of Ethel in flashback in #9
 
 The Dreaming: Waking Hours #7
  Sandman Universe: The Dreaming - Intermezzo
@@ -2379,7 +2386,8 @@ The Dreaming: Waking Hours #9
  June 2021
  Sandman Universe: The Dreaming: Waking Hours
  #- <Ruin> and <Heather After> get distracted, <Jophiel> and <Auberon> get disguised. ++ <Faerie> <Queen Nuala|Nuala> <Titania> <The Unseelie>
- -# ~ 2005 : pre-teen <Heather After> visits elderly <Ethel Cripps> ++ <Amulet>
+ -# ~ 2000 : pre-teen <Heather After> visits elderly <Ethel Cripps> ++ <Amulet>
+ ? Not clear how old Heather actually is, date is total guess.  Ethel would be ~110 in 2000 (assuming born in 1890).  Ethel says she was half Roderick's age when they had their affair.
 
 The Dreaming: Waking Hours #10
  Sandman Universe: The Dreaming - The Faerie Queen
@@ -2387,7 +2395,8 @@ The Dreaming: Waking Hours #10
  July 2021
  Sandman Universe: The Dreaming: Waking Hours
  #- <Heather After> is trapped, <Ruin> flips the cards ++ <Auberon> <Dream (Daniel)> <Faerie> <Jophiel> <Matthew> <Queen Nuala> <Titania> <The Unseelie>
- -# ~ 2005 : <Heather After> helps herself ++ <Paul McGuire>
+ -# ~ 2000 : <Heather After> helps herself ++ <Paul McGuire>
+ ? assuming not long after previous flashback.   Paul was 20-ish in 1955, so would be 65-ish in 2000
 
 The Dreaming: Waking Hours #11
  Sandman Universe: The Dreaming - The Faerie Queen
