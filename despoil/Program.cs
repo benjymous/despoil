@@ -61,26 +61,31 @@ foreach (var entry in entries)
     reformatted.Add(entryLines[0]);
     var reformattedEntryLines = entryLines.Skip(1).Select(e => " " + Util.SortAndDedupeEntities(e)).ToList();
     reformatted.AddRange(reformattedEntryLines);
-    if (reformattedEntryLines.Count() == 4) reformatted.Add(" ?? TODO");
+    if (reformattedEntryLines.Count() == 4)
+    {
+        reformatted.Add(" ?? TODO");
+        lineNumber++;
+    }
     reformatted.Add("");
 
     if (entryLines.Length < 4)
     {
-        throw new Exception("Error with " + entryLines[0]);
+        Console.WriteLine($"{fullFilename}({lineNumber}): Error: not enough lines in entry");
+        throw new InvalidDataException();
     }
 
     for (int i = 5; i < entryLines.Length; i++)
     {
         if (!(entryLines[i].StartsWith('#') || entryLines[i].StartsWith("-") || entryLines[i].StartsWith("?") || entryLines[i].StartsWith("!")))
         {
-            throw new Exception($"{fullFilename}({lineNumber + i}): {entryLines[0]}\n{entryLines[i]}' should start with #, -, ?, or !");
+            Console.WriteLine($"{fullFilename}({lineNumber + i}): Error: '{entryLines[i]}' should start with #, -, ?, or !");
+            throw new InvalidDataException();
         }
     }
 
     var entryEvents = entryLines.Skip(5).ToList();
     if (entryEvents.Count == 0)
     {
-        //Console.WriteLine($"Skipping {entryLines[0]} - {entryLines[2]}");
         lineNumber += entryLines.Length;
         continue;
     }
@@ -124,7 +129,15 @@ foreach (var entry in entries)
     {
         HashSet<string> entryEntities = new HashSet<string>();
 
-        if (e.StartsWith("?")) continue;
+        if (e.StartsWith("?"))
+        {
+            if (e.StartsWith("??") && (!(e == "?? TODO")))
+            {
+                Console.WriteLine($"{fullFilename}({lineNumber + 5 + entryEvents.IndexOf(e)}): Info: '{e}'");
+            }
+            continue;
+
+        }
 
         var ev = e;
 
@@ -182,7 +195,7 @@ foreach (var entry in entries)
 
             if (entryEntities.Contains(bareText))
             {
-                Console.WriteLine($"{fullFilename}({lineNumber + eventCount + 5}): Duplicate entity <{bareText}> in {issueTitlePlain}");
+                Console.WriteLine($"{fullFilename}({lineNumber + eventCount + 5}): Warning: Duplicate entity <{bareText}> in {issueTitlePlain}");
             }
             else
             {
@@ -220,7 +233,7 @@ foreach (var entry in entries)
             }
             catch (System.Exception)
             {
-                Console.WriteLine($"Bad date: `{dateStr}`");
+                Console.WriteLine($"{fullFilename}({lineNumber + eventCount + 5}): Error: Bad date: `{dateStr}`");
                 throw;
             }
             if (dateStr.Contains("|"))
@@ -228,12 +241,12 @@ foreach (var entry in entries)
                 dateStr = dateStr.Substring(dateStr.IndexOf("|") + 1);
             }
             else if (dateStr.Contains("!"))
-             {
+            {
                 dateStr = "";
             }
             else
             {
-                dateStr = dateStr.Replace("~", "approx");
+                dateStr = dateStr.Replace("~", "approx ");
 
                 if (dateStr.Contains("."))
                 {
@@ -250,6 +263,7 @@ foreach (var entry in entries)
                     dateStr += " AD";
                 }
             }
+            dateStr = dateStr.Replace("  ", " ");
 
             evBody = String.Join(":", bits.Skip(1));
         }

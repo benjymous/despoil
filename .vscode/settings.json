@@ -88,6 +88,7 @@
     "Lilim",
     "Lindy",
     "linespace",
+    "Lisabet",
     "Litharge",
     "Liza",
     "Lugweed",
@@ -264,13 +265,6 @@
   "editor.wordWrap": "on",
   "editor.foldingStrategy": "indentation",
   "editor.showFoldingControls": "always",
-  "files.autoSave": "onFocusChange",
-  "emeraldwalk.runonsave": {
-    "commands": [
-      {
-        "match": "\\.txt$",
-        "cmd": "build"
-      }
-    ]
-  }
+  "files.autoSave": "afterDelay",
+  "problems.showCurrentInStatus": true
 }

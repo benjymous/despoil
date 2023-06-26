@@ -17,19 +17,57 @@ Summer - 0.42 - 0.67
 Autumn - 0.68 - 0.92
 Winter - 0.93 - 0.99 .. 0.00 - 0.15
 
+1 week  = 0.02
+1 day   = 0.003
+1 month = 0.08
 
 Season of Mists Dating
 
-#14: Rose is 21.  Late autumn - 1989.75
-#16: unity dies - 1989.77
+#01 PN01 - September 1988                              - 1988.70 
 
-#57 - No Obvious datings
-#58 - same day as #57 - 3 years after #28         - 1993.80 -- 1994.25
-#59 - snowing, so winter                            1993.93 -- 1994.15 
-#60 - Rose is 25, nearly 26 - 4-5 years since #14 - 1993.25 -- 1994.25
-#61 - 4 years since Unity died (#16)              - 1993.50 -- 1994.00
-#62 - Over 5 years since September 1988           - 1993.80 -- 1994.60
+#14: Rose is 21.  Late autumn                          - 1989.75
+
+#16: unity dies                                        - 1989.77
+
+#25 SM04 - December 1990                               - 1990.95
+
+#28 SM07 - December 1990
+
+#37 GY37 - Autumn 1991                                 - 1991.75
+
+#40 Daniel is roughly 18 months old, so early 1992
+                              if born late 1990 (#22)  - 1992.20
+#41 BL01 - Spring [1992]                               - 1992.30
+
+#51 WE01 - June 1993                                   - 1993.45
+
+#57 KO01 - No Obvious dates (a few years since #12 
+                                           - 1989.73)
+#58 KO02 - same day as #57 - 3 years after #28         - 1993.80 -- 1994.25  = KO01 + 0.001
+#59 KO03 - snowing, so winter.  Barnabas lost          - 1993.93 -- 1994.15  = KO01 + 0.005
+#60 KO04 - Rose is 25, nearly 26 - 4-5 years since #14 - 1993.25 -- 1994.25
+#61 KO05 - 4 years since Unity died (#16)              - 1993.50 -- 1994.00
+#62 KO06 - Over 5 years since September 1988           - 1993.80 -- 1994.60
+#63 KO07
+#64 KO08 - events over a week                                                = KO07 .. KO07 + 0.02
+#65
+#66
+#67 KO11 - Barnabas with old man                                             = KO03 + 0.02
+#68
+#69 KO13 - Delirium lost Barnabas for two weeks.  
+                     With old man less than week                             = KO03 + 0.04 
+
+#73 WK04 - 94 years till next meeting                   - 1995.3 -- 1995.7    
 
 
+Endless nights #7 - during #63
 
-                                                    1993.93 -- 1994.00
+Dreaming #7 Ivy walker conceived - end of #64
+            Ivy Walker born - +9mo
+Wake #3 Jack dies - end of #64
+
+Worlds End 01 -  tale of cities - during #67
+Worlds End 06 - funeral - during #70
+
+Brief lives 7 - dream in white - during #69
+                                              

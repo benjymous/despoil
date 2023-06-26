@@ -7,9 +7,26 @@
       "label": "build",
       "command": "dotnet run --project ./despoil/despoil.csproj",
       "type": "shell",
-      "args": [
-      ],
+      "args": [],
       "group": "build",
+      "problemMatcher": [
+        {
+          "owner": "Despoil",
+          "fileLocation": "absolute",
+          "severity": "error",
+          "pattern": [
+            {
+              "file": 1,
+              "line": 2,
+              "severity": 3,
+              "message": 4,              
+              "regexp": "(^.+)\\((.+)\\): (.+): (.+)"
+            }
+          ]
+        }
+        
+        
+      ]
     }
   ]
 }
