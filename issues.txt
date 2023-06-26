@@ -20,7 +20,7 @@ Sandman #1
  -- <Wesley Dodds> - Golden age Sandman
  -# * 1947: <Roderick Burgess> dies ++ <Fawney Rig> <Wych Cross>
  -# * 1863: <Roderick Burgess> is born
- -# * 1955: <Unity Kincaid> goes into a nursing home, and <Alexander Burgess> fails to make a bargain ++ <Dream> <Fawney Rig> <Paul McGuire> <Wych Cross Nursing Home> <Wych Cross>
+ -# * 1955: <Unity Kincaid> goes into a <nursing home|Wych Cross Nursing Home>, and <Alexander Burgess> fails to make a bargain ++ <Dream> <Fawney Rig> <Paul McGuire>  <Wych Cross>
  -# * 1968: <Alexander Burgess> and <Paul McGuire> host parties ++ <Fawney Rig> <Wych Cross>
  -# * 1970: <Alexander Burgess> abandons the order ++ <Fawney Rig> <Paul McGuire> <Wych Cross>
  -# * 1972: <Alexander Burgess> again fails to bargain with <Dream> ++ <Fawney Rig> <Paul McGuire> <Wych Cross>
@@ -36,7 +36,7 @@ Sandman #2
  2. Imperfect Hosts
  February 1989
  The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
- ## 1988.7: <Dream> is found, <John Dee> receives a visitor, <Goldie> hatches and the <Three Witches> answer questions ++ <Abel> <Cain> <The Dreaming> <Ethel Cripps> <Eve> <The Fashion Thing> <The Gates of Horn and Ivory> <Gregory> <The House of Mysteries> <The House of Secrets> <Lucien>
+ ## 1988.7: <Dream> is found, <John Dee> receives a visitor, <Goldie> hatches and the <Three Witches> answer questions ++ <Abel> <Cain> <The Dreaming> <Ethel Cripps> <Eve> <The Fashion Thing> <The Gates of Horn and Ivory> <Gregory> <The House of Mystery> <The House of Secrets> <Lucien>
 
 Sandman #3
  The Sandman: Master of Dreams
@@ -99,7 +99,7 @@ Sandman #10
  1. The Doll's House
  November 1989
  The Sandman: Vol  2: The Doll's House, The Sandman: Book 1
- ## 1989.71: <Desire> plots, <Rose Walker> travels, <Dream> observes, <Unity|Unity Kincaid> reveals, and <The Corinthian> kills again ++ <Abel> <Brute> <Despair> <The Dreaming> <England> <Fiddler's Green> <Glob> <Goldie> <Lucien> <Miranda Walker> <Mr Holdaway> <Three Witches> <The Threshold> <Vortex> <Wych Cross Nursing Home> <Wych Cross>
+ ## 1989.71: <Desire> plots, <Rose Walker> travels, <Dream> observes, <Unity|Unity Kincaid> reveals, and <The Corinthian> kills again ++ <Abel> <Brute> <Despair> <The Dreaming> <England> <Fiddler's Green> <Glob> <Goldie> <The House of Secrets> <Lucien> <Miranda Walker> <Mr Holdaway> <Three Witches> <The Threshold> <Vortex> <Wych Cross Nursing Home> <Wych Cross>
  -# 1968: <Rose Walker> is born ++ <Miranda Walker>
  ? p36 in vol 2
  ? Rose is 21.
@@ -202,7 +202,6 @@ Sandman #19
  The Sandman: Vol  3: Dream Country, The Sandman: Book 1
  ## * June 1593: <William Shakespeare>'s company perform for <Dream> and a host of Faeries.  <Robin Goodfellow|Puck> stays behind ++ <Auberon> <Hamnet Shakespeare> <Titania> <Wendel's Mound>
  -# * 1596: <Hamnet Shakespeare> dies.  Follows <Titania> to <Faerie>
- ?? TODO add more detail?
 
 Sandman #20
  The Sandman: Dream Country
@@ -242,9 +241,8 @@ Books of Magic #2
  The Shadow World
  December 1990
  Books of Magic
- ## 1993.76 | October 1993: <John Constantine> takes <Tim> around the present world ++ <Dr Fate> <Yo-Yo> <Zatanna>
+ ## 1993.76 | October 1993: <John Constantine> takes <Tim> around the present world ++ <Bewitched> <Dr Fate> <New York> <San Francisco> <Washington DC> <Yo-Yo> <Zatanna>
  -# ~1981 : <Tim Hunter> is born
- ?? TODO add more detail?
  ? October because it's a halloween party - assuming all four volumes occur within a few days
  ? Tim is 12, born in 1981 according to other sources, so these must be 1993
 
@@ -262,8 +260,7 @@ Books of Magic #3
  The Land of Summer's Twilight
  January 1991
  Books of Magic
- ## 1993.77 | October 1993: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Abel> <Baba Yaga> <Cain> <Dr Rose> <Dream> <The Dreaming> <Etrigan> <Glory> <Goldie> <Hamnet Shakespeare> <Hell> <Mundane Egg> <Titania> <Yo-Yo>
- ?? TODO add more detail?
+ ## 1993.77 | October 1993: <Doctor Occult> takes <Tim> on a trip around mystic realms ++ <Abel> <Baba Yaga> <Cain> <Dr Rose> <Dream> <The Dreaming> <Etrigan> <Glory> <Goldie> <Hamnet Shakespeare> <Hell> <The House of Mystery> <The House of Secrets> <Mundane Egg> <Titania> <Yo-Yo>
 
 Sandman #23
  The Sandman: Season of Mists
@@ -283,7 +280,6 @@ Books of Magic #4
  -# ~5900 | sixtieth century: The Earth is segregated from the rest of the universe
  -# ~2000000 | in millions of years time: Only 50000 'people' remain.  Science and Magic have lost all meaning.
  -# ~100000000010 | end of time: <Death> locks the place behind her as she leaves ++ <Destiny> <End of Time>
- ?? TODO add more detail?
 
 Sandman #24
  The Sandman: Season of Mists
@@ -379,7 +375,7 @@ Sandman Special
  The Song of Orpheus
  November 1991
  The Sandman: Vol  6: Fables and Reflections, The Sandman: Book 2
- -# ~-500: <Orpheus> ventures to the underworld to try and bring back his wife ++ <Aristaeus> <Calliope> <Cerberus> <Charon> <Death's House> <Death> <Delirium> <Desire> <Despair> <Destiny> <Destruction> <Dream> <The Dreaming> <Eurydice> <The Gryphon> <Hades> <The Hippogriff> <King Hades> <Orpheus and Eurydice> <Queen Persephone> <The Wyvern>
+ -# ~-500: <Orpheus> ventures to the underworld to try and bring back <his wife|Eurydice>  ++ <Aristaeus> <Calliope> <Cerberus> <Charon> <Death's House> <Death> <Delirium> <Desire> <Despair> <Destiny> <Destruction> <Dream> <The Dreaming> <The Gryphon> <Hades> <The Hippogriff> <King Hades> <Orpheus and Eurydice> <Queen Persephone> <Slim and Wandsworth> <The Wyvern>
  ?? TODO add more detail?
 
 Sandman #32
@@ -451,7 +447,7 @@ Sandman #40
  The Parliament of Rooks
  August 1992
  The Sandman: Vol  6: Fables and Reflections, The Sandman: Book 3
- ## 1992.2: <Daniel> visits <The Dreaming> and hears some mysteries and secrets ++ <Abel> <Cain> <Eve> <Goldie> <Gregory> <The House of Mysteries> <The House of Secrets> <Los Angeles> <Lyta> <Matthew>
+ ## 1992.2: <Daniel> visits <The Dreaming> and hears some mysteries and secrets ++ <Abel> <Cain> <Eve> <Goldie> <Gregory> <The House of Mystery> <The House of Secrets> <Los Angeles> <Lyta> <Matthew>
  -# ~-300002 | early man: <Adam>'s first wife <Lilith> is expelled from <Eden>
  -# ~-300001 | early man: <Adam> rejects his second wife ++ <Eden>
  -# ~-300000 | early man: <Adam> and his third wife, <Eve> eat from the <Tree of Knowledge> and are expelled from <Eden>
@@ -530,8 +526,8 @@ Death The High Cost of Living #1
  The Spirit of the Stairway
  March 1993
  Death
- ## June 1992: <Mad Hettie> performs a ritual
- ## July 1992: <Sexton Furnival> tries to say goodbye, but is found by <Didi|Death>.  <Mad Hettie> comes to visit ++ <Mrs Robbins> <Sylvia Furnival>
+ ## June 1992: <Mad Hettie> performs a ritual ++ <London>
+ ## July 1992: <Sexton Furnival> tries to say goodbye, but is found by <Didi|Death>.  <Mad Hettie> comes to visit ++ <Mrs Robbins> <New York> <Slim and Wandsworth> <Sylvia Furnival>
  ? Mad Hettie is 250, so date ~1992
 
 Sandman #47
@@ -561,7 +557,7 @@ Death The High Cost of Living #2
  A Night to Remember
  April 1993
  Death
- ## July 1992: <Mister E> and <Theo> are on the hunt.  <Sexton|Sexton Furnival> and <Didi> encounter <Hazel> and <Foxglove>
+ ## July 1992: <Mister E> and <Theo> are on the hunt.  <Sexton|Sexton Furnival> and <Didi> encounter <Hazel> and <Foxglove> ++ <New York>
  ? Hazel's baby due any day
 
 Sandman #49
@@ -569,7 +565,7 @@ Sandman #49
  Brief Lives part 9
  May 1993
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
- ## 1992.62: <Dream> makes good on his word to <Orpheus> ++ <Andros> <Barnabas> <Delirium> <Desire> <Despair> <The Gray Realm> <The Gryphon> <The Hippogriff> <Lord Ruthven> <Lucien> <Merv's Bats> <Merv> <Naxos> <Nuala> <The Threshold> <The Wyvern>
+ ## 1992.62: <Dream> makes good on his word to <Orpheus> ++ <Andros> <Barnabas> <Delirium> <Desire> <Despair> <The Dreaming> <The Gray Realm> <The Gryphon> <The Hippogriff> <Lord Ruthven> <Lucien> <Merv's Bats> <Merv> <Naxos> <Nuala> <The Threshold> <The Wyvern>
  -# 1991: <Calliope> visits <Orpheus> ++ <Naxos>
  -# ~-1000000010 | aeons ago: Three gods sought to usurp <Dream> ++ <The Dreaming>
  -# ~-1000000000 | aeons ago: <Dream> creates <The Gates of Horn and Ivory> and his <Helm>
@@ -579,7 +575,7 @@ Death The High Cost of Living #3
  The High Cost of Living
  May 1993
  Death
- ## July 1992: <Mad Hettie> comes to the rescue, <Mister E> makes another appearance, <Didi> makes an exit, and a missing heart is found ++ <Mrs Robbins> <Sexton>
+ ## July 1992: <Mad Hettie> comes to the rescue, <Mister E> makes another appearance, <Didi> makes an exit, and a missing heart is found ++ <Mrs Robbins> <New York> <Sexton>
 
 Sandman #50
  The Sandman: Distant Mirrors
@@ -739,7 +735,7 @@ Sandman #63
  The Kindly Ones: 7
  September 1994
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1994.86: <Thessaly> tracks down <Lyta>, who tracks down <The Furies|Three Witches>.  <Odin> confronts <Dream> and <Delirium> asks for help. <Gilbert> expresses his concern ++ <Destiny> <The Garden of Forking Ways> <The Gryphon> <The Hippogriff> <Los Angeles> <Rose> <The Wyvern>
+ ## 1994.86: <Thessaly> tracks down <Lyta>, who tracks down <The Furies|Three Witches>.  <Odin> confronts <Dream> and <Delirium> asks for help. <Gilbert> expresses his concern ++ <Destiny> <The Dreaming> <The Garden of Forking Ways> <The Gryphon> <The Hippogriff> <Los Angeles> <Rose> <The Wyvern>
  ? p168 in vol9
  ? Dream's statue matches the one in Endless Nights Destiny story
 
@@ -748,7 +744,7 @@ Sandman #64
  The Kindly Ones: 8
  November 1994
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1994.88: <Dream> goes about his duties but is visited by <Delirium>.  <Rose> and <Jack|Jack Holdaway> get close, <Matthew> and <The Corinthian> make a discovery, <The Gryphon> comes to an end and <The Kindly Ones|Three Witches> give some advice ++ <Abel> <Borghal Rantipole> <Cain> <Green Nightmares> <The Hippogriff> <Lord Ruthven> <Los Angeles> <Lucifer> <Lux> <Lyta> <Man with Swan's Arm> <Mazikeen> <Merv> <Nuala> <Odin> <Thessaly> <The Wyvern>
+ ## 1994.88: <Dream> goes about his duties but is visited by <Delirium>.  <Rose> and <Jack|Jack Holdaway> get close, <Matthew> and <The Corinthian> make a discovery, <The Gryphon> comes to an end and <The Kindly Ones|Three Witches> give some advice ++ <Abel> <Borghal Rantipole> <Cain> <The Dreaming> <Green Nightmares> <The Hippogriff> <Lord Ruthven> <Los Angeles> <Lucifer> <Lux> <Lyta> <Man with Swan's Arm> <Mazikeen> <Merv> <Nuala> <Odin> <Thessaly> <The Wyvern>
  ? p193 in vol9
  ? same green nightmares last seen in #11
 
@@ -767,7 +763,7 @@ Sandman #66
  The Kindly Ones: 10
  January 1995
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1994.94: <Puck> goes away, <Loki> returns, <The Furies> continue, <Nuala> breaks convention, <Rose> flies home, and <Dream> leaves ++ <Abel> <Abudah> <Aristaeus> <Borghal Rantipole> <Cluracan> <The Corinthian> <Daniel> <Delirium> <Faerie> <Lord Ruthven> <Lucien> <Merv's Bats> <Merv> <Odin> <Sigyn> <Swartalfheim> <Thor> <Titania>
+ ## 1994.94: <Puck> goes away, <Loki> returns, <The Furies> continue, <Nuala> breaks convention, <Rose> flies home, and <Dream> leaves ++ <Abel> <Abudah> <Aristaeus> <Borghal Rantipole> <Cluracan> <The Corinthian> <Daniel> <Delirium> <The Dreaming> <Faerie> <Lord Ruthven> <Lucien> <Merv's Bats> <Merv> <Odin> <Sigyn> <Swartalfheim> <Thor> <Titania>
  ? p243 in vol9
 
 Sandman #67
@@ -785,7 +781,7 @@ Sandman #68
  The Kindly Ones: 12
  May 1995
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1995.00: <Dream> and <Daniel> speak, <Borghal Rantipole> swims, and <Matthew> helps. ++ <The Corinthian> <Death> <Delirium> <Eagle Stone> <The Furies> <Helmet of Dreams> <Los Angeles> <Lucien> <Lucifer> <Lux> <Mazikeen> <Sand Pouch> <Vixen LaBitch|Hal Carter>
+ ## 1995.00: <Dream> and <Daniel> speak, <Borghal Rantipole> swims, and <Matthew> helps. ++ <The Corinthian> <Death> <Delirium> <The Dreaming> <Eagle Stone> <The Furies> <Helmet of Dreams> <Los Angeles> <Lucien> <Lucifer> <Lux> <Mazikeen> <Sand Pouch> <Vixen LaBitch|Hal Carter>
  ? p293 in vol9
 
 Sandman #69
@@ -793,7 +789,7 @@ Sandman #69
  The Kindly Ones: 13
  July 1995
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1995.02: <Death> asks for pigeons, The first <Dream> comes to an end, <Delirium> finds a friend, <Lucifer> calls it a day (again), <Hal> is late, and <Alexander Burgess>, <Lyta> and <Daniel> all awake ++ <Barnabas> <Cluracan> <The Corinthian> <End of the First Dream> <The Furies> <Loki> <Los Angeles> <Lucien> <Lux> <Matthew> <Mazikeen> <Nuala> <Puck> <Titania> <Wych Cross Nursing Home> <Wych Cross>
+ ## 1995.02: <Death> asks for pigeons, The first <Dream> comes to an end, <Delirium> finds a friend, <Lucifer> calls it a day (again), <Hal> is late, and <Alexander Burgess>, <Lyta> and <Daniel> all awake ++ <Barnabas> <Cluracan> <The Corinthian> <The Dreaming> <End of the First Dream> <The Furies> <Loki> <Los Angeles> <Lucien> <Lux> <Matthew> <Mazikeen> <Nuala> <Puck> <Titania> <Wych Cross Nursing Home> <Wych Cross>
  ? p318 in vol9
 
 Sandman #70
@@ -840,7 +836,7 @@ Sandman #73
  The Wake: An Epilogue - Sunday Mourning
  December 1995
  The Sandman: Vol 10: The Wake, The Sandman: Book 4
- ## 1995.3: <Hob> has a miserable time at a Renaissance Festival, and turns down <Death>'s offer ++ <Destruction> <Dream>
+ ## 1995.5: <Hob> has a miserable time at a Renaissance Festival, and turns down <Death>'s offer ++ <Destruction> <Dream>
  ? Ch1/2/3 happened in January,  meeting in 94 years, so must be currently mid-1995
 
 Sandman #74
@@ -848,15 +844,16 @@ Sandman #74
  Exiles
  January 1996
  The Sandman: Vol 10: The Wake, The Sandman: Book 4
- -# ~-1000 | the soft places: An elderly man in ancient China is exiled from the Empire and wanders into a <Soft Place|Soft Places>.  He encounters <Dream> and <Dream (Daniel)> along the way.
+ -# ~-1000 | the soft places: An elderly man in ancient China is exiled from the Empire and wanders into a <Soft Place|Soft Places>.  He encounters <Dream> and <Dream (Daniel)> along the way. ++ <China>
+ -# ~1993 | the soft places: <Dream> mourns for his son in the <Soft Places>
+ -# ~1996 | the soft places: <Dream (Daniel)> visits the <Soft Places>
 
 Sandman #75
  The Sandman: Epilogue
  The Tempest
  March 1996
  The Sandman: Vol 10: The Wake, The Sandman: Book 4
- ## * November 1610: <William Shakespeare> completes his final play, and visits <Dream> in his castle. ++ <The Dreaming> <The Gryphon> <The Hippogriff> <The Wyvern>
- ?? TODO add more detail?
+ ## * November 1610: <William Shakespeare> completes his final play, and visits <Dream> in his castle. ++ <Anne Hathaway> <The Dreaming> <The Gryphon> <The Hippogriff> <Judith Shakespeare> <Stratford upon Avon> <The Wyvern>
 
 Death: The Time of Your Life #1
  Death: The Time of Your Life
@@ -865,14 +862,14 @@ Death: The Time of Your Life #1
  Death
  -# 1992.75 | July 1992: <Hazel> gives birth to <Alvie>
  -# 1993: <Foxglove> is the Queen of acoustic rock and roll
- ## November 1995: <Foxglove> gets a blind date, <Alvie> has an escape, <Larry> has a message, <Hazel> goes with <Death>
+ ## November 1995: <Foxglove> gets a blind date, <Alvie> has an escape, <Larry|Larry Morth> has a message, <Hazel> goes with <Death> ++ <Los Angeles> <New York>
 
 Death: The Time of Your Life #2
  Death: The Time of Your Life
  Chapter Two: Imaginary Solutions
  May 1996
  Death
- ## November 1995: <Foxglove> hears the news ++ <Boris> <Death> <Hazel> <Larry>
+ ## November 1995: <Foxglove> hears the news ++ <Boris> <Death> <Hazel> <Larry> <Los Angeles> <New York> <The Sunless Lands>
  -# 1989.24: <Donna|Foxglove> splits from abusive relationship with <Judy>
  -# 1989.8: <Hazel> meets <Foxglove> ++ <Sylvia Furnival>
 
@@ -882,7 +879,8 @@ Death: The Time of Your Life #3
  June 1996
  Death
  -# February 1995: <Hazel> makes a deal with <Death> ++ <Alvie>
- ## November 1995: <Boris> doesn't come back ++ <Death> <Foxglove> <Hazel>
+ ## November 1995: <Boris> doesn't come back ++ <Death> <Foxglove> <Hazel> <Los Angeles> <The Sunless Lands>
+ -# ~1997: <Foxglove> gives it up, and they take on new identities <Alive> <Hazel>
 
 The Sandman:  Book of Dreams Chapter 1
  The Sandman: Book of Dreams
@@ -967,7 +965,7 @@ The Sandman:  Book of Dreams Chapter 11
  Endless Sestina
  August 1996
  The Sandman: Book of Dreams
- ?? TODO
+ -- A poem about the Endless
 
 The Sandman:  Book of Dreams Chapter 12
  The Sandman: Book of Dreams

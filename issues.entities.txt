@@ -1,3 +1,6 @@
+::-
+ Alive
+
 ::Angels, Demons and monsters
  Amenadiel - Hugh member of the host of heaven
  Azazel - A demon, and former co-ruler of hell
@@ -142,6 +145,7 @@
  Robert Gadling - Immortal due to a wager between Dream and Death
  Shakpana - Voodoo Loa of illness and disease
  Sigyn - Loki's Wife
+ Slim and Wandsworth - Death's pet goldfish
  Susano-O-No-Mikoto - Japanese deity
  Swamp Thing - Humanoid plant elemental
  Tamara - A Werewolf.  Vassily's daughter
@@ -167,7 +171,9 @@
  Atlanta - City in the state of Georgia
  Atlantis - An ancient, advanced, lost civilisation
  Aurelia of the Plains - One of the greatest cities of The Plains
+ Bewitched - A Black Magic club in San Francisco
  Chicago - City in the state of Illinois
+ China
  Death's House
  Delirium's Realm
  Dream Dome, the - Hector Hall's isolated 'island' in the dreaming
@@ -192,7 +198,7 @@
  Hades - Underworld of Greek Mythology
  Hell - Originally Lucifer's Realm
  Hong Kong - City and Special Administrative Region of China
- House of Mysteries, the - Cain's home in The Dreaming
+ House of Mystery, the - Cain's home in The Dreaming
  House of Secrets, the - Abel's home in The Dreaming
  Houseboat, the - Home of Erzulie
  Invisible College
@@ -220,10 +226,13 @@
  Soft Places - Places where the boundary between reality and The Dreaming are less strong
  Space - No one can hear you scream
  St Hilarion's - Boarding School
+ Stratford upon Avon - Town in England
+ Sunless Lands, the - Death's Realm
  Swartalfheim - Norse home of the Dwarves
  Threshold, the - Desire's Realm
  Tree of Knowledge
  Venice - City in Italy
+ Washington DC - Capital City of the USA
  Wendel's Mound - An ancient hill in England
  Worlds' End - A Free House at the End of all worlds
  Wych Cross - Town in East Sussex.  Location of Fawney Rig
@@ -237,6 +246,7 @@
  Alter Boi - Human avatar of Erzulie
  Alvie - Hazel's son
  Andros - Custodian of Orpheus
+ Anne Hathaway - William Shakespeare's Wife
  Anne Morris - Lindy's Baby
  Azar - Nurse.  Has true sight
  Barbie - Dreams of The Land
@@ -301,6 +311,7 @@
  John Dee - Doctor Destiny, Child of Ethel Cripps and Roderick Burgess
  John Hathaway - Affiliate of Roderick Burgess
  Joshua Norton - Emperor of the United States
+ Judith Shakespeare - William Shakespeare's Daughter
  Judy Talbot - one of John Dee's diner victims
  K-Mag
  Kells - Madison's friend
@@ -310,7 +321,7 @@
  Kris - Andros' son-in-law
  Kwaz Moto - Mr Flush's bodyguard
  Lady Johanna Constantine - Aristocrat and adventurer.  Ancestor of John Constantine
- Larry - Foxglove's manager
+ Larry Morth - Foxglove's manager
  Latoya Thomas - Maggie's partner, Lumi and Habibi's older sister
  Lindy Morris - A Scholar of Shakespeare
  Liza Ikumelo

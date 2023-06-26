@@ -195,7 +195,7 @@ foreach (var entry in entries)
 
             if (entryEntities.Contains(bareText))
             {
-                Console.WriteLine($"{fullFilename}({lineNumber + eventCount + 5}): Warning: Duplicate entity <{bareText}> in {issueTitlePlain}");
+                Console.WriteLine($"{fullFilename}({lineNumber + eventCount + 5}): Warning: Duplicate entity <{bareText}>");
             }
             else
             {

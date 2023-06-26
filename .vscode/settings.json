@@ -109,6 +109,7 @@
     "Mikoto",
     "Morningstar",
     "Morrigan",
+    "Morth",
     "Nada",
     "Naga",
     "Naglfar",
@@ -267,4 +268,5 @@
   "editor.showFoldingControls": "always",
   "files.autoSave": "afterDelay",
   "problems.showCurrentInStatus": true
+  
 }
