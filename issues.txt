@@ -20,7 +20,7 @@ Sandman #1
  -- <Wesley Dodds> - Golden age Sandman
  -# * 1947: <Roderick Burgess> dies ++ <Fawney Rig> <Wych Cross>
  -# * 1863: <Roderick Burgess> is born
- -# * 1955: <Unity Kincaid> goes into a <nursing home|Wych Cross Nursing Home>, and <Alexander Burgess> fails to make a bargain ++ <Dream> <Fawney Rig> <Paul McGuire>  <Wych Cross>
+ -# * 1955: <Unity Kincaid> goes into a <nursing home|Wych Cross Nursing Home>, and <Alexander Burgess> fails to make a bargain ++ <Dream> <Fawney Rig> <Paul McGuire> <Wych Cross>
  -# * 1968: <Alexander Burgess> and <Paul McGuire> host parties ++ <Fawney Rig> <Wych Cross>
  -# * 1970: <Alexander Burgess> abandons the order ++ <Fawney Rig> <Paul McGuire> <Wych Cross>
  -# * 1972: <Alexander Burgess> again fails to bargain with <Dream> ++ <Fawney Rig> <Paul McGuire> <Wych Cross>
@@ -53,7 +53,7 @@ Sandman #4
  4. A Hope in Hell
  April 1989
  The Sandman: Vol  1: Preludes and Nocturnes, The Sandman: Book 1
- ## 1989.2: <Dream> visits <Lucifer Morningstar> in <Hell> to recover his <Helm>.  <John Dee> receives a gift  ++ <Amulet> <Arkham Asylum> <Azazel> <Beelzebub> <Choronzon> <The Dreaming> <Etrigan> <Gotham City> <Nada>
+ ## 1989.2: <Dream> visits <Lucifer Morningstar> in <Hell> to recover his <Helm>.  <John Dee> receives a gift ++ <Amulet> <Arkham Asylum> <Azazel> <Beelzebub> <Choronzon> <The Dreaming> <Etrigan> <Gotham City> <Nada>
 
 Sandman #5
  The Sandman: Master of Dreams
@@ -351,7 +351,9 @@ Sandman #30
  August
  September 1991
  The Sandman: Vol  6: Fables and Reflections, The Sandman: Book 2
- -# 5: Roman Emperor <Caesar Augustus> spends a day as a beggar ++ <Aristaeus> <Dream> <Rome>
+ -# -47 | 47bce: A sixteen year <Caius Octavius|Caesar Augustus> lies awake.
+ -# 7 | 7ce: Roman Emperor <Caesar Augustus> spends a day as a beggar ++ <Aristaeus> <Dream> <Lycius> <Rome>
+ -# 60 | 60ce: <Lycius> writes his memoirs
 
 Mister E #4
  Others: Mister E
@@ -375,7 +377,7 @@ Sandman Special
  The Song of Orpheus
  November 1991
  The Sandman: Vol  6: Fables and Reflections, The Sandman: Book 2
- -# ~-500: <Orpheus> ventures to the underworld to try and bring back <his wife|Eurydice>  ++ <Aristaeus> <Calliope> <Cerberus> <Charon> <Death's House> <Death> <Delirium> <Desire> <Despair> <Destiny> <Destruction> <Dream> <The Dreaming> <The Gryphon> <Hades> <The Hippogriff> <King Hades> <Orpheus and Eurydice> <Queen Persephone> <Slim and Wandsworth> <The Wyvern>
+ -# ~-500: <Orpheus> ventures to the underworld to try and bring back <his wife|Eurydice> ++ <Aristaeus> <Calliope> <Cerberus> <Charon> <Death's House> <Death> <Delirium> <Desire> <Despair> <Destiny> <Destruction> <Dream> <The Dreaming> <The Gryphon> <Hades> <The Hippogriff> <King Hades> <Orpheus and Eurydice> <Queen Persephone> <Slim and Wandsworth> <The Wyvern>
  ?? TODO add more detail?
 
 Sandman #32
@@ -503,7 +505,7 @@ Vertigo Preview #1
  Fear of Falling
  December 1992
  The Sandman: Vol  6: Fables and Reflections, The Sandman: Book 3
- ## 1992: <Dream> and <Matthew> help out a playwright to reconsider his options
+ ## 1992: <Dream> and <Matthew> help out a playwright to reconsider his options ++ <New York>
 
 Sandman #45
  The Sandman: Brief Lives
@@ -789,7 +791,7 @@ Sandman #69
  The Kindly Ones: 13
  July 1995
  The Sandman: Vol  9: The Kindly Ones, The Sandman: Book 4
- ## 1995.02: <Death> asks for pigeons, The first <Dream> comes to an end, <Delirium> finds a friend, <Lucifer> calls it a day (again), <Hal> is late, and <Alexander Burgess>, <Lyta> and <Daniel> all awake ++ <Barnabas> <Cluracan> <The Corinthian> <The Dreaming> <End of the First Dream> <The Furies> <Loki> <Los Angeles> <Lucien> <Lux> <Matthew> <Mazikeen> <Nuala> <Puck> <Titania> <Wych Cross Nursing Home> <Wych Cross>
+ ## 1995.02: <Death> feeds the pigeons, The first <Dream> comes to an end, <Delirium> finds a friend, <Lucifer> calls it a day (again), <Hal> is late, and <Alexander Burgess>, <Lyta> and <Daniel> all awake ++ <Barnabas> <Cluracan> <The Corinthian> <The Dreaming> <End of the First Dream> <The Furies> <Loki> <Los Angeles> <Lucien> <Lux> <Matthew> <Mazikeen> <Nuala> <Puck> <Titania> <Wych Cross Nursing Home> <Wych Cross>
  ? p318 in vol9
 
 Sandman #70
@@ -880,7 +882,7 @@ Death: The Time of Your Life #3
  Death
  -# February 1995: <Hazel> makes a deal with <Death> ++ <Alvie>
  ## November 1995: <Boris> doesn't come back ++ <Death> <Foxglove> <Hazel> <Los Angeles> <The Sunless Lands>
- -# ~1997: <Foxglove> gives it up, and they take on new identities <Alive> <Hazel>
+ -# ~1997: <Foxglove> reveals all, then disappears to anonymity ++ <Alvie> <Hazel>
 
 The Sandman:  Book of Dreams Chapter 1
  The Sandman: Book of Dreams
@@ -979,7 +981,7 @@ The Sandman:  Book of Dreams Chapter 13
  A Bone Dry Place
  August 1996
  The Sandman: Book of Dreams
- ## ! 1993 : <Delirium> attempts a rescue  ++ <Barnabas> <Despair> <Destiny> <Dream>
+ ## ! 1993 : <Delirium> attempts a rescue ++ <Barnabas> <Despair> <Destiny> <Dream>
  ? somewhere between #48-57
 
 The Sandman:  Book of Dreams Chapter 14
@@ -1068,7 +1070,7 @@ The Sandman Presents: Love Street #1
  July 1999
  --
  ## * September 1999: <Oliver> dreams of <Fawney Rig> again, and visits an <old friend|Pamela> ++ <The Dreaming> <London>
- ## * July 1968: <Oliver> moves in with a teenage <John Constantine>  ++ <Abel> <Cain> <The Dreaming> <Estella> <London> <Lucien> <Lugweed> <Magpie> <Pamela> <Ravi|Bhartari> <Terry>
+ ## * July 1968: <Oliver> moves in with a teenage <John Constantine> ++ <Abel> <Cain> <The Dreaming> <Estella> <London> <Lucien> <Lugweed> <Magpie> <Pamela> <Ravi|Bhartari> <Terry>
  ? Oliver is nearly 15
 
 The Sandman Presents: Love Street #2
@@ -2222,7 +2224,7 @@ John Constantine Hellblazer #3
  A Green and Pleasant Land, Part Three
  March 2020
  Sandman Universe: John Constantine Hellblazer: Vol 1: Marks of Woe
- ## 2019: <Noah> makes a mistake, <Derek> finds forgiveness  ++ <John Constantine> <London> <Nat> <Old Constantine>
+ ## 2019: <Noah> makes a mistake, <Derek> finds forgiveness ++ <John Constantine> <London> <Nat> <Old Constantine>
 
 The Dreaming #18
  Sandman Universe: The Dreaming

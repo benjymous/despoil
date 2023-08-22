@@ -93,6 +93,7 @@
     "Liza",
     "Lugweed",
     "Lumi",
+    "Lycius",
     "Lyta",
     "Madoc",
     "Mahu",
@@ -120,6 +121,7 @@
     "Nite",
     "Nuala",
     "O'Shaughnessy",
+    "Octavius",
     "Ogun",
     "Paradiso",
     "Petrefax",
@@ -192,10 +194,7 @@
     "Ziggy"
   ],
   "cSpell.checkOnlyEnabledFileTypes": true,
-  "cSpell.enableFiletypes": [
-    "txt",
-    "md"
-  ],
+  "cSpell.enableFiletypes": ["txt", "md"],
   "cSpell.language": "en-GB",
   "cSpell.ignorePaths": [
     "package-lock.json",
@@ -213,7 +212,7 @@
       "color": "#db0",
       "backgroundColor": "rgba(0,0,0,0)",
       "overviewRulerColor": "#970",
-      "isWholeLine": true,
+      "isWholeLine": true
     },
     {
       "text": " ## ",
@@ -267,6 +266,5 @@
   "editor.foldingStrategy": "indentation",
   "editor.showFoldingControls": "always",
   "files.autoSave": "afterDelay",
-  "problems.showCurrentInStatus": true
-  
+  "diffEditor.experimental.useVersion2": true
 }
