@@ -93,7 +93,15 @@ foreach (var entry in entries)
     var thread = entryLines[1].Trim();
     var issueTitle = $"<span class='itemIssue'>{entryLines[0].Trim()}</span><span class='itemTitle'>{entryLines[2]}</span>";
     var issueTitlePlain = $"{entryLines[0].Trim()} - {entryLines[2]}";
-    currentDate = Util.ParseDate(entryLines[3]);
+    try
+    {
+        currentDate = Util.ParseDate(entryLines[3]);
+    }
+    catch (Exception)
+    {
+        Console.WriteLine($"{fullFilename}({lineNumber + 3}): Error: '{entryLines[3]}' bad date");
+        throw new InvalidDataException();
+    }
 
     if (!threads.ContainsKey(thread))
     {

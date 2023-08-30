@@ -369,7 +369,7 @@ Sandman #31
  The Sandman: Vol  6: Fables and Reflections, The Sandman: Book 2
  -# * September 1859: <Despair> challenges <Dream> to redeem <Joshua Norton> ++ <San Francisco>
  -# * September 1864: Emperor <Joshua Norton> makes <Mark Twain> the official storyteller of America ++ <Delirium> <Dream> <San Francisco>
- -# * September 1875: <Desire> fails to tempt <Joshua Norton> ++ <Dream> <San Francisco>
+ -# * September 1875: <Desire> fails to tempt <Joshua Norton> ++ <The Cobweb Palace> <Dream> <The King of Pain> <San Francisco>
  -# * January 1880: <Joshua Norton> dies, but never despaired ++ <Death> <Despair> <Dream> <San Francisco>
 
 Sandman Special
@@ -386,6 +386,7 @@ Sandman #32
  November 1991
  The Sandman: Vol  5: A Game of You, The Sandman: Book 2
  ## 1991.6: <Wanda|Wanda Mann> borrows some milk, <Martin Tenbones> makes a delivery, and  <The Cuckoo> begins its influence ++ <Barbie> <Dream> <The Dreaming> <Foxglove> <George> <Hazel|Hazel McNamara> <The Land> <Luz> <Matthew> <New York> <The Porpentine> <Prinado> <Thessaly> <Wilkinson>
+ ? dated 'Early September 1991' in Audible narration
 
 Sandman #33
  The Sandman: A Game of You
@@ -2510,13 +2511,14 @@ Nightmare Country #6
  Sandman Universe: Nightmare Country: Vol 1
  ## 2022.8: <Thessaly> gets involved ++ <Los Angeles> <Robbie Greene>
  ? a couple of months after Flynn's death
+ ? same apartment as dead boy detectives / thessaly special
 
 Dead Boy Detectives #1
  Sandman Universe: Dead Boy Detectives
  Swords of Arkhane / The Client / *(The Bigger Boat) / "Oh."
  February 2023
  Sandman Universe: Dead Boy Detectives
- ## 2023.1: <Charles Rowland> and <Edwin Paine> look for a missing person ++ <Jai Sirikul> <Los Angeles> <Melvin> <Tanya> <Thessaly>
+ ## 2022.75: <Charles Rowland> and <Edwin Paine> look for a missing person ++ <Jai Sirikul> <Los Angeles> <Melvin> <Tanya> <Thessaly>
  ? some time between Nightmare County #6 and Glass House #3
 
 Dead Boy Detectives #2
@@ -2524,35 +2526,35 @@ Dead Boy Detectives #2
  Who Says? / The Pink House / This Black Magic Shit / The Brainstorm
  March 2023
  Sandman Universe: Dead Boy Detectives
- ## 2023.1: <Charles Rowland> and <Edwin Paine> widen their search parameters... ++ <Jai Sirikul> <Los Angeles> <Melvin> <Tanya>
+ ## 2022.75: <Charles Rowland> and <Edwin Paine> widen their search parameters... ++ <Jai Sirikul> <Los Angeles> <Melvin> <Tanya>
 
 Dead Boy Detectives #3
  Sandman Universe: Dead Boy Detectives
  Little Golden Boys / Pim
  April 2023
  Sandman Universe: Dead Boy Detectives
- ## 2023.1: <Charles Rowland> sleeps and <Melvin> takes things into his own hands ++ <Crystal> <Edwin Paine> <Jai Sirikul> <Los Angeles> <Tanya> <Thessaly>
+ ## 2022.75: <Charles Rowland> sleeps and <Melvin> takes things into his own hands ++ <Crystal> <Edwin Paine> <Jai Sirikul> <Los Angeles> <Tanya> <Thessaly>
 
 Dead Boy Detectives #4
  Sandman Universe: Dead Boy Detectives
  The Second Death of Jai Sirikul
  May 2023
  Sandman Universe: Dead Boy Detectives
- ## 2023.1: <Charles Rowland> gets worse, and <Jai Sirikul> disappears ++ <Edwin Paine> <Los Angeles> <Melvin> <Tanya> <Thessaly>
+ ## 2022.75: <Charles Rowland> gets worse, and <Jai Sirikul> disappears ++ <Edwin Paine> <Los Angeles> <Melvin> <Tanya> <Thessaly>
 
 Dead Boy Detectives #5
  Sandman Universe: Dead Boy Detectives
  Approaching the Palace / Kids
  June 2023
  Sandman Universe: Dead Boy Detectives
- ## 2023.1: <Charles Rowland> and <Edwin Paine> are asked to break the circle ++ <Crystal> <Los Angeles> <Melvin> <Tanya> <Thessaly>
+ ## 2022.75: <Charles Rowland> and <Edwin Paine> are asked to break the circle ++ <Crystal> <Los Angeles> <Melvin> <Tanya> <Thessaly>
 
 Nightmare Country - The Glass House #1
  Sandman Universe: Nightmare Country - The Glass House
  The Glass House #1
  June 2023
  --
- ## 2023.3: <Max Lee> gains entry to <an exclusive club|The King of Pain> ++ <Azazel> <The Corinthian> <Kells> <Ken> <Madison Flynn> <Moroni> <San Francisco> <The Smiling Man>
+ ## 2023.3: <Max Lee> gains entry to <an exclusive club|The King of Pain (club)> ++ <Azazel> <The Corinthian> <Don Runyan> <Kells> <Ken> <Madison Flynn> <Moroni> <San Francisco> <The Smiling Man>
  ? Flynn died last summer
 
 Dead Boy Detectives #6
@@ -2560,21 +2562,43 @@ Dead Boy Detectives #6
  The Plan / Kids (Part II) / The End?
  July 2023
  Sandman Universe: Dead Boy Detectives
- ## 2023.1: <Thessaly> adjusts the rules ++ <Charles Rowland> <Death> <Edwin Paine> <Los Angeles> <Melvin> <Tanya>
- ? before Glass House #3
+ ## 2022.75: <Thessaly> adjusts the rules ++ <Charles Rowland> <Death> <Edwin Paine> <Los Angeles> <Melvin> <Tanya>
+ ? before Nightmare Country #6
 
 Nightmare Country - The Glass House #2
  Sandman Universe: Nightmare Country - The Glass House
  The Glass House #2
  July 2023
  --
- ## 2023.3: <The Corinthian> is tempted ++ <Azazel> <Kells> <The King of Pain> <Madison Flynn> <Max Lee> <Moroni> <San Francisco> <The Smiling Man>
+ ## 2023.3: <The Corinthian> is tempted ++ <Azazel> <Kells> <The King of Pain (club)> <Madison Flynn> <Max Lee> <Moroni> <San Francisco> <The Smiling Man>
 
 Nightmare Country - The Glass House #3
  Sandman Universe: Nightmare Country - The Glass House
  The Glass House #3
- July 2023
+ August 2023
  --
- ## 2023.3: <Thessaly> offers to help ++ <Azazel> <Bill Teague> <The Corinthian> <Kells> <The King of Pain> <Lucien> <Madison Flynn> <Max Lee> <Moroni> <Robbie Greene> <San Francisco> <The Smiling Man>
+ ## 2023.3: <Thessaly> offers to help ++ <Azazel> <Bill Teague> <The Corinthian> <Don Runyan> <Kells> <The King of Pain (club)> <Lucien> <Madison Flynn> <Max Lee> <Moroni> <Robbie Greene> <San Francisco> <The Smiling Man>
  ? After Dead Boy Detectives #6
+
+Sandman Universe Special - Thessaly
+ Sandman Universe: Special - Thessaly
+ Thessaly
+ August 2023
+ --
+ ## 2022.9: <Thessaly> is given a warning ++ <Ambrose> <Brett> <Calliope> <Los Angeles> <Mike> <Tommi>
+ -# ~-1980 | long ago: <Thessaly> avenges her people
+ -# ~1000 | long ago: <Thessaly> consults a fortune teller
+ -# 1992.3: <Thessaly> and <Dream> are swept up in a thing. ++ <The Dreaming>
+ -# ~1692 | seventeenth century: <Thessaly> watches the women burn
+ -# 1992: <Desire> interferes in the affairs of <Thessaly> and <Dream>
+ ? Between Dead Boy Detectives #6 and Glass House #3
+ ? a few weeks after Nightmare Country #6
+
+Nightmare Country - The Glass House #4
+ Sandman Universe: Nightmare Country - The Glass House
+ The Glass House #4
+ September 2023
+ --
+ ## 2023.3: <Lucien> provides an exit ++ <Azazel> <Bill Teague> <The Corinthian> <Don Runyan> <Dream (Daniel)> <The Dreaming> <The King of Pain (club)> <Madison Flynn> <Matthew> <Max Lee> <Merv Pumpkinhead> <Moroni> <San Francisco> <Thessaly>
+ ? Runyan dies
 

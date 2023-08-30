@@ -144,6 +144,7 @@
     "Remiel",
     "Rickard",
     "Rumors",
+    "Runyan",
     "Rustichello",
     "Ruthven",
     "Saeculum",
@@ -176,6 +177,7 @@
     "Thurso",
     "timespans",
     "Tiqqun",
+    "Tommi",
     "Unseelie",
     "upstate",
     "Urania",
@@ -266,5 +268,6 @@
   "editor.foldingStrategy": "indentation",
   "editor.showFoldingControls": "always",
   "files.autoSave": "afterDelay",
-  "diffEditor.experimental.useVersion2": true
+  "diffEditor.experimental.useVersion2": true,
+  "liveServer.settings.root": "/out/"
 }
