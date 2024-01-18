@@ -440,10 +440,10 @@ Sandman #39
  Soft Places
  July 1992
  The Sandman: Vol  6: Fables and Reflections, The Sandman: Book 3
- -# * 1273: <Marco Polo> gets lost ++ <Dream> <Gilbert> <Rustichello da Pisa> <Soft Places>
- -# ~1300: <Rustichello da Pisa> makes an escape ++ <Gilbert> <Marco Polo> <Soft Places>
- -# * 1992.1: <Gilbert> takes a day off ++ <Marco Polo> <Rustichello da Pisa> <Soft Places>
- -# * 1988.68: <Dream> receives and returns a favour ++ <Marco Polo> <Soft Places>
+ -# * 1273: <Marco Polo> gets lost ++ <Dream> <Gilbert> <Gobi Desert> <Rustichello da Pisa> <Soft Places>
+ -# ~1300: <Rustichello da Pisa> makes an escape ++ <Gilbert> <Gobi Desert> <Marco Polo> <Soft Places>
+ -# * 1992.1: <Gilbert> takes a day off ++ <Gobi Desert> <Marco Polo> <Rustichello da Pisa> <Soft Places>
+ -# * 1988.68: <Dream> receives and returns a favour ++ <Gobi Desert> <Marco Polo> <Soft Places>
 
 Sandman #40
  The Sandman: Convergence
@@ -469,7 +469,7 @@ Sandman #41
  September 1992
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
  ## 1992.3 | spring 1992: <Orpheus> sings to the sunrise, <Delirium> gatecrashes a party, and visits <Despair> by way of <Desire> ++ <Andros> <The Gray Realm> <Kris> <London> <Naxos> <The Threshold>
- -# ~1665: <Despair> and <Destruction> visit London during the plague
+ -# * 1665: <Despair> and <Destruction> visit <London> during the plague
  -# * 1760: <Lady Johanna Constantine> is born
  -# * 1859: <Lady Johanna Constantine> dies
  ? Mentions it's a Spring day
@@ -498,7 +498,8 @@ Sandman #44
  December 1992
  The Sandman: Vol  7: Brief Lives, The Sandman: Book 3
  ## 1992.5 | midsummer 1992: <The Alderman> bites off his shadow, <Bernie Capax> is missed, <Etain|Etain of the Second Look> goes into hiding and <Ruby DeLonge> is lost ++ <Delirium> <Dream> <Ishtar> <Lucien> <New York> <Tiffany>
- -# 1685: <Dream> answers <Destruction>'s call and <The Corinthian> has a snack ++ <Invisible College>
+ -# * 1675: <Dream> answers <Destruction>'s call and <The Corinthian> has a snack ++ <Invisible College>
+ ? 1675 date given in Audible narration
  ? Midsummer
 
 Vertigo Preview #1
@@ -1118,7 +1119,8 @@ Sandman Presents: Petrefax #1
  Travels In Malegrise Part 1
  March 2000
  --
- ?? TODO
+ ? <Petrefax> officiates over an unusual funeral. ++ <Calcinia Smith> <Malegrise>
+ ? No year, but mentioned that it is April
 
 Sandman Presents: Petrefax #2
  Sandman Presents: Petrefax
@@ -2145,6 +2147,7 @@ The Sandman Presents: Hellblazer
  Sandman Universe: John Constantine Hellblazer: Vol 1: Marks of Woe
  -# 2008: <The Great Clash> (from <John Constantine>'s POV) ++ <Chas> <Mister E> <Old Constantine> <Tim Hunter>
  ## 2019: <John Constantine> awakes at <Ravenscar Hospital> and returns to <London>. ++ <Chas> <Old Constantine>
+ ? 2019 specified when JC looks at a newspaper
 
 The Dreaming #15
  Sandman Universe: The Dreaming
@@ -2165,15 +2168,16 @@ Books of Magic #14
  Bad Influences
  January 2020
  Sandman Universe: John Constantine Hellblazer: Vol 1: Marks of Woe, Sandman Universe: Books of Magic: Vol 3: Dwelling in Possibility
- ## 2019: <Tim Hunter> is tested by <John Constantine>.  <The Vestibulan> gets trapped. ++ <Bita Ghūl> <London> <Maz Ghūl>
+ ## 2019.5: <Tim Hunter> is tested by <John Constantine>.  <The Vestibulan> gets trapped. ++ <Bita Ghūl> <London> <Maz Ghūl>
+ ? A little time after arriving in 2019, since hair grown back
 
 John Constantine Hellblazer #1
  Sandman Universe: John Constantine Hellblazer
  A Green and Pleasant Land, Part One
  January 2020
  Sandman Universe: John Constantine Hellblazer: Vol 1: Marks of Woe
- ## * 2019: <John Constantine> meets <Nat> and <Barry the Traffic>. <K-Mag> makes a proposition. ++ <Derek|Derek the Beggar> <London> <Noah|Noah Ikumelo>
- ? Nat states it's 2019
+ ## * 2019.7: <John Constantine> meets <Nat> and <Barry the Traffic>. <K-Mag> makes a proposition. ++ <Derek|Derek the Beggar> <London> <Noah|Noah Ikumelo>
+ ? Nat states it's 2019.  Trees in park look autumnal
 
 The Dreaming #16
  Sandman Universe: The Dreaming
@@ -2204,7 +2208,7 @@ John Constantine Hellblazer #2
  A Green and Pleasant Land, Part Two
  February 2020
  Sandman Universe: John Constantine Hellblazer: Vol 1: Marks of Woe
- ## 2019: <The Vestibulan> finds entertainment,  <D.S. Dole> makes a threat, and <Noah> asks for a chance. ++ <Derek the Beggar> <John Constantine> <K-Mag> <London> <Nat>
+ ## 2019.71: <The Vestibulan> finds entertainment,  <D.S. Dole> makes a threat, and <Noah> asks for a chance. ++ <Derek the Beggar> <John Constantine> <K-Mag> <London> <Nat>
 
 The Dreaming #17
  Sandman Universe: The Dreaming
@@ -2225,7 +2229,7 @@ John Constantine Hellblazer #3
  A Green and Pleasant Land, Part Three
  March 2020
  Sandman Universe: John Constantine Hellblazer: Vol 1: Marks of Woe
- ## 2019: <Noah> makes a mistake, <Derek> finds forgiveness ++ <John Constantine> <London> <Nat> <Old Constantine>
+ ## 2019.72: <Noah> makes a mistake, <Derek> finds forgiveness ++ <John Constantine> <London> <Nat> <Old Constantine>
 
 The Dreaming #18
  Sandman Universe: The Dreaming
@@ -2246,7 +2250,8 @@ John Constantine Hellblazer #4
  Scrubbing Up, Part One
  April 2020
  Sandman Universe: John Constantine Hellblazer: Vol 1: Marks of Woe
- ## 2020: <Tommy Willowtree> makes an entrance ++ <John Constantine> <London> <Noah> <The Vestibulan>
+ ## 2020.2: <Tommy Willowtree> makes an entrance ++ <John Constantine> <London> <Noah> <The Vestibulan>
+ ? assume it's spring 2020 now - leaves on trees again!
 
 The Dreaming #19
  Sandman Universe: The Dreaming
@@ -2269,7 +2274,7 @@ John Constantine Hellblazer #5
  May 2020
  Sandman Universe: John Constantine Hellblazer: Vol 1: Marks of Woe
  -# 2015: <Tommy Willowtree> is given charge of the <Merlintrove> ++ <Clarice Sackville> <Map>
- ## 2020: <Tommy Willowtree> is appointed ++ <Barry the Traffic> <Clarice Sackville> <John Constantine> <Nat> <Old Constantine> <The Vestibulan>
+ ## 2020.21: <Tommy Willowtree> is appointed ++ <Barry the Traffic> <Clarice Sackville> <John Constantine> <Nat> <Old Constantine> <The Vestibulan>
 
 The Dreaming #20
  Sandman Universe: The Dreaming
@@ -2284,7 +2289,7 @@ John Constantine Hellblazer #6
  June 2020
  Sandman Universe: John Constantine Hellblazer: Vol 1: Marks of Woe
  -# 2013: <Liza Ikumelo> and <Noah> get involved in an incident
- ## 2020: <Noah> releases a malevolent spirit.++ <D.S. Dole> <John Constantine>
+ ## 2020.25: <Noah> releases a malevolent spirit.++ <D.S. Dole> <John Constantine>
 
 House of Whispers #20
  Sandman Universe: House of Whispers
@@ -2305,7 +2310,8 @@ John Constantine Hellblazer #7
  Britannia, Rule the Waves, Part One
  August 2020
  Sandman Universe: John Constantine Hellblazer: Vol 2: The Best Version of You
- ## 2020: <Freddie> goes fishing. ++ <John Constantine> <Old Constantine>
+ ## 2020.5: <Freddie> goes fishing. ++ <John Constantine> <Old Constantine>
+ ? assuming another jump, as it's a new arc
 
 House of Whispers #22
  Sandman Universe: House of Whispers
@@ -2319,14 +2325,14 @@ John Constantine Hellblazer #8
  Britannia, Rule the Waves, Part Two
  September 2020
  Sandman Universe: John Constantine Hellblazer: Vol 2: The Best Version of You
- ## 2020: <Freddie> meets the fishes. ++ <John Constantine>
+ ## 2020.52: <Freddie> meets the fishes. ++ <John Constantine>
 
 John Constantine Hellblazer #9
  Sandman Universe: John Constantine Hellblazer
  The Favourite
  October 2020
  Sandman Universe: John Constantine Hellblazer: Vol 2: The Best Version of You
- ## 2020: <John Constantine> tells a tale of Royals and Horses. ++ <Bita Ghūl> <Nat> <Old Constantine> <Tommy Willowtree>
+ ## 2020.6: <John Constantine> tells a tale of Royals and Horses. ++ <Bita Ghūl> <Nat> <Old Constantine> <Tommy Willowtree>
 
 The Dreaming: Waking Hours #1
  Sandman Universe: The Dreaming - The Bard and the Bard
@@ -2340,7 +2346,7 @@ John Constantine Hellblazer #10
  The Wake-Up Call
  November 2020
  Sandman Universe: John Constantine Hellblazer: Vol 2: The Best Version of You
- ## 2020: <John Constantine> is hunted in his <dreams|The Dreaming>. ++ <Clement Thurso> <Nat> <Noah> <Old Constantine> <Tommy Willowtree> <The Vestibulan>
+ ## 2020.7: <John Constantine> is hunted in his <dreams|The Dreaming>. ++ <Clement Thurso> <Nat> <Noah> <Old Constantine> <Tommy Willowtree> <The Vestibulan>
 
 The Dreaming: Waking Hours #2
  Sandman Universe: The Dreaming - The Bard and the Bard
@@ -2359,7 +2365,7 @@ John Constantine Hellblazer #11
  -# 1002: <Rawhead-and-Bloody-Bones> was born.
  -# 2000 | early 21st century: <John Constantine> imprisons <Rawhead-and-Bloody-Bones> for ten years ++ <Liza Ikumelo>
  -# 2012: <Rawhead-and-Bloody-Bones> takes <Clement Thurso>'s face.
- ## 2020: <John Constantine> makes a giant discovery ++ <Barry the Traffic>
+ ## 2020.71: <John Constantine> makes a giant discovery ++ <Barry the Traffic>
 
 The Dreaming: Waking Hours #3
  Sandman Universe: The Dreaming - The Bard and the Bard
@@ -2371,10 +2377,10 @@ The Dreaming: Waking Hours #3
 
 John Constantine Hellblazer #12
  Sandman Universe: John Constantine Hellblazer
- This Sceptred Isle, Conclusion
+ This Sceptred Isle, Part Two
  January 2021
  Sandman Universe: John Constantine Hellblazer: Vol 2: The Best Version of You
- ## 2020: <Tommy Willowtree> and <Nat> try to make a difference.  <John Constantine> twists everything. ++ <Barry the Traffic> <K-Mag> <Noah> <Old Constantine> <The Vestibulan>
+ ## 2020.72: <Tommy Willowtree> and <Nat> try to make a difference.  <John Constantine> twists everything. ++ <Barry the Traffic> <K-Mag> <Noah> <Old Constantine> <The Vestibulan>
 
 The Dreaming: Waking Hours #4
  Sandman Universe: The Dreaming - The Bard and the Bard
@@ -2553,7 +2559,7 @@ Nightmare Country - The Glass House #1
  Sandman Universe: Nightmare Country - The Glass House
  The Glass House #1
  June 2023
- --
+ Sandman Universe: Nightmare Country - The Glass House
  ## 2023.3: <Max Lee> gains entry to <an exclusive club|The King of Pain (club)> ++ <Azazel> <The Corinthian> <Don Runyan> <Kells> <Ken> <Madison Flynn> <Moroni> <San Francisco> <The Smiling Man>
  ? Flynn died last summer
 
@@ -2569,15 +2575,15 @@ Nightmare Country - The Glass House #2
  Sandman Universe: Nightmare Country - The Glass House
  The Glass House #2
  July 2023
- --
- ## 2023.3: <The Corinthian> is tempted ++ <Azazel> <Kells> <The King of Pain (club)> <Madison Flynn> <Max Lee> <Moroni> <San Francisco> <The Smiling Man>
+ Sandman Universe: Nightmare Country - The Glass House
+ ## 2023.31: <The Corinthian> is tempted ++ <Azazel> <Kells> <The King of Pain (club)> <Madison Flynn> <Max Lee> <Moroni> <San Francisco> <The Smiling Man>
 
 Nightmare Country - The Glass House #3
  Sandman Universe: Nightmare Country - The Glass House
  The Glass House #3
  August 2023
- --
- ## 2023.3: <Thessaly> offers to help ++ <Azazel> <Bill Teague> <The Corinthian> <Don Runyan> <Kells> <The King of Pain (club)> <Lucien> <Madison Flynn> <Max Lee> <Moroni> <Robbie Greene> <San Francisco> <The Smiling Man>
+ Sandman Universe: Nightmare Country - The Glass House
+ ## 2023.32: <Thessaly> offers to help ++ <Azazel> <Bill Teague> <The Corinthian> <Don Runyan> <Kells> <The King of Pain (club)> <Lucien> <Madison Flynn> <Max Lee> <Moroni> <Robbie Greene> <San Francisco> <The Smiling Man>
  ? After Dead Boy Detectives #6
 
 Sandman Universe Special - Thessaly
@@ -2598,7 +2604,32 @@ Nightmare Country - The Glass House #4
  Sandman Universe: Nightmare Country - The Glass House
  The Glass House #4
  September 2023
- --
- ## 2023.3: <Lucien> provides an exit ++ <Azazel> <Bill Teague> <The Corinthian> <Don Runyan> <Dream (Daniel)> <The Dreaming> <The King of Pain (club)> <Madison Flynn> <Matthew> <Max Lee> <Merv Pumpkinhead> <Moroni> <San Francisco> <Thessaly>
+ Sandman Universe: Nightmare Country - The Glass House
+ ## 2023.33: <Lucien> provides an exit ++ <Azazel> <Bill Teague> <The Corinthian> <Don Runyan> <Dream (Daniel)> <The Dreaming> <The King of Pain (club)> <Madison Flynn> <Matthew> <Max Lee> <Merv Pumpkinhead> <Moroni> <San Francisco> <Thessaly>
  ? Runyan dies
+
+Nightmare Country - The Glass House #5
+ Sandman Universe: Nightmare Country - The Glass House
+ The Glass House #5
+ October 2023
+ Sandman Universe: Nightmare Country - The Glass House
+ ## 2023.34: <Thessaly> summons <The King of Pain>.  <The Corinthian> prepares to kill again ++ <Azazel> <Bill Teague> <Kells> <The King of Pain (club)> <Madison Flynn> <Max Lee> <Moroni> <San Francisco>
+ -# * September 1875: <Desire> spills some backstory ++ <The King of Pain> <San Francisco>
+
+Nightmare Country - The Glass House #6
+ Sandman Universe: Nightmare Country - The Glass House
+ The Glass House #5
+ December 2023
+ Sandman Universe: Nightmare Country - The Glass House
+ ## 2023.35: <Dream (Daniel)> calls for a pause ++ <Azazel> <Bill Teague> <The Corinthian> <The Dreaming> <Kells> <The King of Pain (club)> <Lucien> <Madison Flynn> <Matthew> <Max Lee> <Moroni> <Mr Agony> <Mr Ecstasy> <The Smiling Man> <Thessaly>
+
+John Constantine Hellblazer: Dead In America #1
+ Sandman Universe: John Constantine Hellblazer
+ Dead in America: Part One
+ January 2024
+ --
+ -# 2020.9: <John Constantine> is thirsty ++ <Los Angeles>
+ ## 2020.8: <John Constantine> Seeks answers, but is recruited for another task ++ <Dream (Daniel)> <Florida> <Louisiana> <Nat> <Noah> <Swamp Thing>
+ ? Carries on after previous Hellblazer run - random date until season can be established
+ ? 17 days since end of John Constantine Hellblazer #12
 
