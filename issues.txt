@@ -1930,7 +1930,7 @@ House of Whispers #1
  Broken Telephone
  November 2018
  Sandman Universe: House of Whispers: Vol 1: The Power Divided
- ## 2018.615: <Shakpana> breaks through,  <The Houseboat> arrives in <The Dreaming>. ++ <Abel> <Alter Boi> <Cain> <Erzulie> <Goldie> <Habibi> <Latoya> <Lumi> <Maggie> <Uncle Monday>
+ ## 2018.615: <Shakpana> breaks through,  <The Houseboat|The House of Whispers> arrives in <The Dreaming>. ++ <Abel> <Alter Boi> <Cain> <Erzulie> <Goldie> <Habibi> <Latoya> <Lumi> <Maggie> <Uncle Monday>
 
 The Dreaming #2
  Sandman Universe: The Dreaming
@@ -2121,10 +2121,10 @@ The Dreaming #13
 
 House of Whispers #13
  Sandman Universe: House of Whispers
- -
+ Wicked Burn, Part One
  November 2019
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
- ?? TODO
+ #- <Erzulie> and <Ogun> plant a tree
 
 The Dreaming #14
  Sandman Universe: The Dreaming
@@ -2135,10 +2135,10 @@ The Dreaming #14
 
 House of Whispers #14
  Sandman Universe: House of Whispers
- -
+ Wicked Burn, Part Two
  December 2019
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
- ?? TODO
+ #- <Erzulie> and <Ogun> help start a fire ++ <Damballah>
 
 The Sandman Presents: Hellblazer
  Sandman Universe: John Constantine Hellblazer
@@ -2158,10 +2158,14 @@ The Dreaming #15
 
 House of Whispers #15
  Sandman Universe: House of Whispers
- -
+ The Doors of His Face
  January 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
- ?? TODO
+ ## 2021: <The Corinthian> takes charge of <The House of Watchers>, <Damballah> and <Ogun> take charge of <The House of Whispers>, <Erzulie> takes another charge ++ <Aesop> <John Constantine> <Poquita>
+ -# -564: <Aesop> is caught by <Despair> at the moment of his death, put in charge of <The House of Watchers> ++ <Dream>
+ -# ~1995: <Ananse> discovers <The House of Watchers> and transports it to his lair ++ <Aesop>
+ ? Ananse shown stealing The House of Watchers after guns exist, so assuming end of 20th century
+ ? John Constantine Cameo- retcon this to be inside/after the Dead in America arc.  He doesn't seem 'sick' Phones Papa Midnight?   After Dead In America #2, or whole arc?
 
 Books of Magic #14
  Sandman Universe: Books of Magic
@@ -2198,17 +2202,18 @@ The Dreaming #16
 
 House of Whispers #16
  Sandman Universe: House of Whispers
- -
+ The Fire in Your Eyes
  February 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
- ?? TODO
+ ## 2021: <The Corinthian> takes on a new <Form|Cat Thing> ++ <Damballah> <Erzulie> <Ogun> <Papa Midnight> <Poquita>
+ -# ~1800: <Papa Midnight> summons <Ananse> and becomes immortal.
 
 John Constantine Hellblazer #2
  Sandman Universe: John Constantine Hellblazer
  A Green and Pleasant Land, Part Two
  February 2020
  Sandman Universe: John Constantine Hellblazer: Vol 1: Marks of Woe
- ## 2019.71: <The Vestibulan> finds entertainment,  <D.S. Dole> makes a threat, and <Noah> asks for a chance. ++ <Derek the Beggar> <John Constantine> <K-Mag> <London> <Nat>
+ ## 2019.71: <The Vestibulan> finds entertainment, <D.S. Dole> makes a threat, and <Noah> asks for a chance. ++ <Derek the Beggar> <John Constantine> <K-Mag> <London> <Nat>
 
 The Dreaming #17
  Sandman Universe: The Dreaming
@@ -2219,10 +2224,10 @@ The Dreaming #17
 
 House of Whispers #17
  Sandman Universe: House of Whispers
- -
+ In the Desert on a Horse with No Name
  March 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
- ?? TODO
+ ## 2021: ... ++ <Aesop> <Cat Thing> <Erzulie> <The House of Watchers> <Papa Midnight> <Poquita> <Rafe>
 
 John Constantine Hellblazer #3
  Sandman Universe: John Constantine Hellblazer
@@ -2240,10 +2245,10 @@ The Dreaming #18
 
 House of Whispers #18
  Sandman Universe: House of Whispers
- -
+ Heart of Glass
  April 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
- ?? TODO
+ ## 2021: <Erzulie> reassembles.  <Poquita> confronts her past ++ <Cat Thing> <The Corinthian> <Rafe>
 
 John Constantine Hellblazer #4
  Sandman Universe: John Constantine Hellblazer
@@ -2263,10 +2268,10 @@ The Dreaming #19
 
 House of Whispers #19
  Sandman Universe: House of Whispers
- -
+ So Our Souls May Fly
  May 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
- ?? TODO
+ ## 2021: <Papa Midnight> and <Aesop> perform a ritual.  <Poquita> and <Rafe> enter another realm ++ <Ananse> <Cat Thing> <The Corinthian> <Damballah> <Erzulie> <Guinée> <The House of Whispers> <Ogun>
 
 John Constantine Hellblazer #5
  Sandman Universe: John Constantine Hellblazer
@@ -2293,17 +2298,18 @@ John Constantine Hellblazer #6
 
 House of Whispers #20
  Sandman Universe: House of Whispers
- -
+ I Will Meet Thee, Sister, in the Land of Souls
  July 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
- ?? TODO
+ ## 2021: <Erzulie> is trapped, <Poquita> watches, <Ananse> torments ++ <Cat Thing> <Damballah> <Guinée> <The House of Watchers> <The House of Whispers> <Ogun> <Papa Midnight> <Rafe>
+ -# 1817: <Lord Agwé> rescues enslaved souls of the sea ++ <Immamou> <Joseph Johnson> <London>
 
 House of Whispers #21
  Sandman Universe: House of Whispers
- -
+ Down Among the Dead Men
  August 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
- ?? TODO
+ ## 2021: <Papa Midnight> retraces his steps. <Immamou> returns  ++ <Ananse> <Damballah> <Erzulie> <Guinée> <The House of Whispers> <Ogun>
 
 John Constantine Hellblazer #7
  Sandman Universe: John Constantine Hellblazer
@@ -2315,10 +2321,10 @@ John Constantine Hellblazer #7
 
 House of Whispers #22
  Sandman Universe: House of Whispers
- -
+ Throw Your Hat upon the Water
  September 2020
  Sandman Universe: House of Whispers: Vol 3: Watching the Watchers
- ?? TODO
+ ## 2021: <Joseph Johnson> sails down and finds <what was lost|Lord Agwé> ++ <Aesop> <Cat Thing> <Damballah> <Erzulie> <The House of Watchers> <Immamou> <Ogun> <Papa Midnight> <Poquita> <Rafe>
 
 John Constantine Hellblazer #8
  Sandman Universe: John Constantine Hellblazer
