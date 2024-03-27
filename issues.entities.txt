@@ -55,6 +55,7 @@
  Porpentine, the
  Saeculum - A powerful object belonging to Time
  Sand Pouch - The pouch containing Dream's sand
+ Sibylline books - Books of prophecy
 
 ::Events
  Cereal Convention
@@ -80,6 +81,7 @@
  Ananse - West African Spider god of Stories
  Anubis - Egyptian God
  Anya - A Werewolf.  Vassily's wife
+ Apollo - Greek god of archery, music, dance, truth and prophecy
  Balder - Norse god of Light, Beauty and Wisdom
  Barnabas - A talking dog.  Associate of Destruction and Delirium
  Bernie Capax - Lived since the stone age, and had many identities
@@ -175,6 +177,7 @@
  Chicago - City in the state of Illinois
  China
  Cobweb Palace, the - Bar in San Francisco
+ Cumae - Ancient Greek colony on the mainland of Italy
  Death's House
  Delirium's Realm
  Dream Dome, the - Hector Hall's isolated 'island' in the dreaming
@@ -277,6 +280,7 @@
  Chiron - A centaur
  Clarice Sackville - Magician and former lover of John Constantine
  Clark Kent - Superman
+ Claudius - Roman Emperor
  Clement Thurso
  Crystal - Friend of the Dead boy Detectives
  D.S. Dole - Police officer
@@ -290,6 +294,7 @@
  Dr Crow - A Scientist
  Dr Fate
  Dr Rose - An 'associate' of Doctor Occult
+ Elliot Garner - Doctor Diablo
  Erasmus Fry - Author
  Eric Needham - Lyta's date (and Black Spider in DC universe)
  Estella - Housemate of Oliver and John Constantine in the 60s
@@ -338,6 +343,7 @@
  Liza Ikumelo
  Lizzie Siddal - English 19th century artist and poet
  Lords Carnal
+ Lucius Tarquinius Superbus - Last king of Rome
  Lumi Thomas - Habibi and Latoya's sister
  Lycius
  Madison Flynn
@@ -408,7 +414,8 @@
  Abel - Cain's Brother
  Abudah - Member of Merv's crew
  Alianora - Former lover of Dream
- Aristaeus - One of Dream's former Ravens.  Also former Greek god.
+ American Dream, the - An actual dream, in the Waking world
+ Aristaeus - One of Dream's former Ravens.  Also former Greek god
  Baku - Eater of dreams
  Borghal Rantipole - A small but highly conscientious nightmare,  tasked with helping Delirium
  Brute - A nightmare
