@@ -7,7 +7,7 @@ body {
   margin: 0px;
   overflow: hidden;
   height: 100vh;
-  font-family: "Quicksand", Helvetica, Century Gothic, sans-serif !important;
+  font-family: Helvetica, Century Gothic, sans-serif !important;
 }
 
 .row {
@@ -189,7 +189,6 @@ span.entity:hover {
   overflow-y: auto;
   overflow-y: overlay;
   scrollbar-width: thin;
-  /*content-visibility: auto;*/
 }
 
 .event {
@@ -397,7 +396,7 @@ label {
   cursor: pointer;
 }
 
-input:checked + label {
+input:checked+label {
   text-shadow: 0px 0px 8px #7b1fa290;
 }
 
@@ -466,7 +465,7 @@ input:checked + label {
   transition: 0.4s;
 }
 
-input:checked + .slider:before {
+input:checked+.slider:before {
   -webkit-transform: translateX(26px);
   -ms-transform: translateX(26px);
   transform: translateX(26px);
@@ -487,14 +486,17 @@ input:checked + .slider:before {
   width: 8px;
   border: 5px black;
 }
+
 ::-webkit-scrollbar-track {
   border-radius: 20px;
   border: 5px black;
 }
+
 ::-webkit-scrollbar-thumb {
   background: rgba(0, 0, 0, 0.2);
   border-radius: 20px;
 }
+
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(0, 0, 0, 0.5);
 }

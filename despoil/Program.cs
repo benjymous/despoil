@@ -1,5 +1,4 @@
 ﻿using System.Text.RegularExpressions;
-using System.IO;
 using despoil;
 using Fluid;
 
@@ -61,7 +60,7 @@ foreach (var entry in entries)
     reformatted.Add(entryLines[0]);
     var reformattedEntryLines = entryLines.Skip(1).Select(e => " " + Util.SortAndDedupeEntities(e)).ToList();
     reformatted.AddRange(reformattedEntryLines);
-    if (reformattedEntryLines.Count() == 4)
+    if (reformattedEntryLines.Count == 4)
     {
         reformatted.Add(" ?? TODO");
         lineNumber++;
@@ -160,7 +159,7 @@ foreach (var entry in entries)
             var entity = "";
             var alias = "";
 
-            if (bareText.Contains("|"))
+            if (bareText.Contains('|'))
             {
                 var bits = bareText.Split("|");
                 bareText = bits[0];
@@ -226,7 +225,7 @@ foreach (var entry in entries)
             var bits = ev.Split(':');
             dateStr = bits[0].Substring(2);
 
-            if (dateStr.Contains("*"))
+            if (dateStr.Contains('*'))
             {
                 dateStr = dateStr.Replace("*", "");
                 knownDate = true;
@@ -244,11 +243,11 @@ foreach (var entry in entries)
                 Console.WriteLine($"{fullFilename}({lineNumber + eventCount + 5}): Error: Bad date: `{dateStr}`");
                 throw;
             }
-            if (dateStr.Contains("|"))
+            if (dateStr.Contains('|'))
             {
                 dateStr = dateStr.Substring(dateStr.IndexOf("|") + 1);
             }
-            else if (dateStr.Contains("!"))
+            else if (dateStr.Contains('!'))
             {
                 dateStr = "";
             }
@@ -256,12 +255,12 @@ foreach (var entry in entries)
             {
                 dateStr = dateStr.Replace("~", "approx ");
 
-                if (dateStr.Contains("."))
+                if (dateStr.Contains('.'))
                 {
-                    dateStr = dateStr.Substring(0, (dateStr.IndexOf(".")));
+                    dateStr = dateStr.Substring(0, dateStr.IndexOf("."));
                 }
 
-                if (dateStr.Contains("-"))
+                if (dateStr.Contains('-'))
                 {
                     dateStr = dateStr.Replace("-", "");
                     dateStr += " BC";
@@ -273,7 +272,7 @@ foreach (var entry in entries)
             }
             dateStr = dateStr.Replace("  ", " ");
 
-            evBody = String.Join(":", bits.Skip(1));
+            evBody = string.Join(":", bits.Skip(1));
         }
         else if (ev.StartsWith("#- ") || ev.StartsWith("-- "))
         {
@@ -345,7 +344,7 @@ foreach (var entry in entries)
 
             if (currentDate >= 1900 && currentDate < 3000)
             {
-                decadeKey = ((int)currentDate / 10) * 10;
+                decadeKey = (int)currentDate / 10 * 10;
 
                 if (!dateMarkers.ContainsKey(decadeKey))
                 {
@@ -432,7 +431,7 @@ foreach (var marker in dateMarkers)
     itemData.Add(new Item
     {
         type = "Date",
-        entities = String.Join(" ", dateAppearance[marker.Key].Select(x => "ei_" + x)),
+        entities = string.Join(" ", dateAppearance[marker.Key].Select(x => "ei_" + x)),
         body = marker.Value
     });
 }
@@ -445,7 +444,7 @@ foreach (var collection in colNames)
 {
     if (collection == "--") continue;
 
-    string groupName = collection.Contains(":") ? collection.Split(':')[0] : collection;
+    string groupName = collection.Contains(':') ? collection.Split(':')[0] : collection;
 
     if (!collectionData.ContainsKey(groupName))
     {
@@ -458,7 +457,7 @@ foreach (var collection in colNames)
     collectionData[groupName].Add(new IssueGroup
     {
         id = $"col_{colIndex}",
-        name = collection.Contains(":") ? collection.Substring(collection.IndexOf(":") + 2) : collection,
+        name = collection.Contains(':') ? collection.Substring(collection.IndexOf(":") + 2) : collection,
         index = colIndex,
         childdata = string.Join(",", colData.Select(x => x.Item2)),
         Issues = colData.Select(x => new Issue { id = x.Item2, body = x.Item1 }).ToArray()
@@ -469,7 +468,7 @@ foreach (var thread in threads)
 {
     if (thread.Key == "--") continue;
 
-    string groupName = thread.Key.Contains(":") ? thread.Key.Split(':')[0] : thread.Key;
+    string groupName = thread.Key.Contains(':') ? thread.Key.Split(':')[0] : thread.Key;
 
     if (!threadData.ContainsKey(groupName))
     {
@@ -489,7 +488,7 @@ foreach (var thread in threads)
     threadData[groupName].Add(new IssueGroup
     {
         id = key,
-        name = thread.Key.Contains(":") ? thread.Key.Split(":")[1] : thread.Key,
+        name = thread.Key.Contains(':') ? thread.Key.Split(":")[1] : thread.Key,
         index = 0,
         childdata = childKeys,
         Issues = thread.Value.Select(x => new Issue { id = $"{key}_{idx++}", body = x }).ToArray()
@@ -559,7 +558,7 @@ catch { }
 
 var entitiesByType = entityData.GroupBy(e => e.type);
 
-List<String> entityListOut = new();
+List<string> entityListOut = new();
 
 foreach (var group in entitiesByType.OrderBy(g => g.Key))
 {
@@ -614,7 +613,7 @@ foreach (var item in itemData)
 
 var groups = itemData.Select(i => i.issueLane).Distinct();
 
-List<String> issueListOut = new();
+List<string> issueListOut = new();
 
 foreach (var group in groups)
 {

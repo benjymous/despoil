@@ -1,9 +1,8 @@
-﻿namespace despoil
+﻿namespace despoil;
+
+public class Issue
 {
-    public class Issue
-    {
-        public string id { get; set; } = string.Empty;
-        public string body { get; set; } = string.Empty;
-        public string hash { get; set; } = string.Empty;
-    }
+    public string id { get; set; } = string.Empty;
+    public string body { get; set; } = string.Empty;
+    public string hash { get; set; } = string.Empty;
 }

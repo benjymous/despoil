@@ -237,7 +237,7 @@ addScrollMarkers = function () {
 
   highlights.forEach(function (span) {
 
-    if(span.offsetHeight == 0) return;
+    if (span.offsetHeight == 0) return;
 
     var spanTop = span.offsetTop
     var spanBottom = spanTop + span.offsetHeight - 100;

@@ -32,8 +32,8 @@
 ::Lane_Others
  Others: Mister E
  The Sandman: Book of Dreams
- Dust Covers
- Dream States
+ Others: Dust Covers
+ Others: Dream States
  Others: The Children's Crusade
 
 ::Lane_Presents
