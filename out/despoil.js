@@ -192,6 +192,18 @@ changeOrder = function () {
   updateMarkers()
 }
 
+changeLanes = function () {
+  const checkBox = document.getElementById("lanes")
+
+  const mainDiv = document.getElementById("main")
+
+  if (checkBox.checked) {
+    mainDiv.classList.add('lanes')
+  } else {
+    mainDiv.classList.remove('lanes')
+  }
+}
+
 var markerEvent = null
 updateMarkers = function () {
 

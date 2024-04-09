@@ -3,12 +3,12 @@ html {
 }
 
 body {
-  background: #EDE7F6;
+  background: #ede7f6;
   margin: 0px;
   overflow: hidden;
   height: 100vh;
-  font-family: 'Quicksand',Helvetica,Century Gothic,sans-serif !important;
-} 
+  font-family: "Quicksand", Helvetica, Century Gothic, sans-serif !important;
+}
 
 .row {
   height: calc(100% - 70px);
@@ -20,13 +20,11 @@ body {
   display: block;
 }
 
-
 .col-menu {
   background: white;
   font-size: smaller;
   float: right;
-  width: 25%;
-  min-width: 300px;
+  width: 300px;
   margin-bottom: 75px;
   height: 100%;
   overflow-y: scroll;
@@ -70,29 +68,29 @@ body {
 }
 
 button {
-  font-family: 'Quicksand',Helvetica,Century Gothic,sans-serif !important;
+  font-family: "Quicksand", Helvetica, Century Gothic, sans-serif !important;
   cursor: pointer;
 }
 
 .blockButton {
   border: none;
   border-radius: 8px;
-  background-color: #5E35B1;
+  background-color: #5e35b1;
   color: white;
   font-weight: 700 !important;
   padding: 10px;
   box-shadow: 1px 1px 0px rgb(0 0 0 / 20%);
   text-decoration: none !important;
   margin: 2px;
-  transition: .4s;
+  transition: 0.4s;
 }
 
 .blockButton:hover {
-	background-color: #4A148C;
+  background-color: #4a148c;
 }
 
 .blockButton:active {
-  background-color: #AA00FF;
+  background-color: #aa00ff;
   box-shadow: 0px 0px 0px rgb(0 0 0 / 20%);
 }
 
@@ -134,7 +132,6 @@ button {
 
 .opacity1 {
   opacity: 1;
-  /*margin-top: 0 !important;*/
 }
 
 span.itemTitle {
@@ -142,10 +139,6 @@ span.itemTitle {
   display: list-item;
   list-style-type: none;
   margin-left: 25px;
-}
-
-span.itemBody {
-  line-height: 24px;
 }
 
 span.entity {
@@ -176,7 +169,7 @@ span.right {
 }
 
 .entity_hidden {
-  display: none
+  display: none;
 }
 
 .entity_active {
@@ -208,6 +201,8 @@ span.entity:hover {
   border-right: 25px !important;
   border-left: 25px !important;
 
+  line-height: 24px;
+
   padding: 30px 15px 15px 15px;
   margin: 4px;
   width: calc(75% - 70px);
@@ -217,8 +212,40 @@ span.entity:hover {
   transition: all 0.25s ease-in-out;
 }
 
+.lanes .Lane0 {
+  width: 300px;
+  margin-left: 0%;
+}
+
+.lanes .Lane1 {
+  width: 300px;
+  margin-left: 10%;
+}
+
+.lanes .Lane2 {
+  width: 300px;
+  margin-left: 20%;
+}
+
+.lanes .Lane3 {
+  width: 300px;
+  margin-left: 30%;
+}
+
+.lanes .Lane4 {
+  width: 300px;
+  margin-left: 40%;
+}
+
+.lanes .Lane5 {
+  width: 300px;
+  margin-left: 50%;
+}
+
 .slim {
   font-size: 70%;
+  line-height: 16px;
+
   background-color: #fff5;
   border-width: 1px;
   border-radius: 5px;
@@ -227,13 +254,12 @@ span.entity:hover {
   padding: 5px 15px 5px 15px !important;
 
   box-shadow: 1px 1px 8px 0px rgb(0 0 0 / 25%);
-
 }
 
 .issueToggle {
   width: 90%;
   margin: 15px 5% 3px 5%;
-  background: #D1C4E9;
+  background: #d1c4e9;
   box-shadow: 10px 10px 15px 0px rgb(0 0 0 / 25%);
 }
 
@@ -246,10 +272,10 @@ span.entity:hover {
 }
 
 .event_highlight {
-  width: calc(75% - 61px);
+  width: calc(75% - 61px) !important;
   border-width: 5px !important;
   border-radius: 8px;
-  margin: 8px;
+  margin: 8px !important;
   box-shadow: 5px 5px 8px 4px rgb(0 0 0 / 50%);
 }
 
@@ -258,7 +284,7 @@ span.entity:hover {
 }
 
 .itemRow_highlight {
-  background: #D1C4E9;
+  background: #d1c4e9;
   padding: 0px;
   margin: 2px 0px 2px 12px;
   border-radius: 8px;
@@ -273,7 +299,7 @@ span.entity:hover {
   padding: 0px 20px 0px 20px;
   font-weight: lighter;
   height: 100%;
-  transform: translateY(15%)
+  transform: translateY(15%);
 }
 
 .knownDate {
@@ -281,14 +307,13 @@ span.entity:hover {
 }
 
 .box div.itemSubtitle {
-  /*width: 400px;*/
   text-align: right;
   font-size: 9px;
   position: relative;
-  float: right;
   padding: 0px;
   margin-left: 0px;
-  margin-top: -15px;
+  margin-top: -20px;
+  line-height: 10px;
 }
 
 .slim .itemSubtitle {
@@ -330,13 +355,12 @@ details {
 /* Style the navigation menu */
 .topNavigation {
   overflow: hidden;
-  background-color: #4A148C;
+  background-color: #4a148c;
   position: relative;
   margin-bottom: 10px;
 
   box-shadow: 0px 2px 8px 0px rgb(0 0 0 / 50%);
 }
-
 
 /* Style navigation menu links */
 .topNavigation a {
@@ -346,8 +370,8 @@ details {
   font-size: 18px;
   display: block;
   white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .topNavigation img {
@@ -358,25 +382,24 @@ details {
 
 /* Style the hamburger menu */
 .topNavigation a.icon {
-  background-color: #6A1B9A;
+  background-color: #6a1b9a;
   display: block;
   position: absolute;
   right: 0;
   top: 0;
 }
 
-.topNavigation a.icon:hover{
-  background-color: #7B1FA2;
+.topNavigation a.icon:hover {
+  background-color: #7b1fa2;
 }
 
-label { 
-  cursor: pointer; 
+label {
+  cursor: pointer;
 }
 
-input:checked + label { 
+input:checked + label {
   text-shadow: 0px 0px 8px #7b1fa290;
 }
-
 
 /* scroll markers */
 
@@ -399,9 +422,6 @@ input:checked + label {
   border-radius: 3px;
   min-height: 6px;
 }
-
-
-
 
 /* slider switch */
 
@@ -427,12 +447,12 @@ input:checked + label {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #673AB7;
-  transition: .4s;
+  background-color: #673ab7;
+  transition: 0.4s;
 }
 
 .slider:hover {
-  background-color: #4A148C;
+  background-color: #4a148c;
 }
 
 .slider:before {
@@ -443,10 +463,10 @@ input:checked + label {
   left: 4px;
   bottom: 4px;
   background-color: white;
-  transition: .4s;
+  transition: 0.4s;
 }
 
-input:checked+.slider:before {
+input:checked + .slider:before {
   -webkit-transform: translateX(26px);
   -ms-transform: translateX(26px);
   transform: translateX(26px);
@@ -460,10 +480,6 @@ input:checked+.slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
-
-
-
-
 
 /* scrollbars */
 

@@ -1,215 +1,290 @@
 <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#4A148C" />
+    <link href="style.css" rel="stylesheet" />
 
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#4A148C">
-  <link href='style.css' rel='stylesheet'>
+    {{InlineStyles}}
 
-  {{InlineStyles}}
+    <script src="despoil.js" defer></script>
+    <title>
+      Despoil - The (hopefully) less spoilery Sandman Universe timeline
+    </title>
+  </head>
 
-  <script src='despoil.js' defer></script>
-  <title>Despoil - The (hopefully) less spoilery Sandman Universe timeline</title>
-</head>
+  <body>
+    <div class="topNavigation">
+      <img src="img/icon.png" title="arwk?" />
+      <a href="#home"
+        ><i><b>De</b>spoil</i> - The (hopefully) less spoilery Sandman Universe
+        timeline</a
+      >
+      <a href="javascript:void(0);" class="icon" onclick="toggleMenu()">
+        <img src="img/menu.svg" width="12" />
+      </a>
+    </div>
+    <div class="row">
+      <div class="col-menu" id="menu">
+        <small>
+          <table>
+            <tr>
+              <td>Publication Date</td>
+              <td>
+                <label class="switch">
+                  <input type="checkbox" id="order" onclick="changeOrder()" />
+                  <span class="slider round"></span>&nbsp;
+                </label>
+              </td>
+              <td>Chronological</td>
+            </tr>
 
-<body>
-  <div class='topNavigation'>
-    <img src='img/icon.png' title='arwk?'>
-    <a href='#home'><i><b>De</b>spoil</i> - The (hopefully) less spoilery Sandman Universe timeline</a>
-    <a href='javascript:void(0);' class='icon' onclick='toggleMenu()'>
-      <img src="img/menu.svg" width="12">
-    </a>
-  </div>
-  <div class='row'>
-    <div class='col-menu' id='menu'>
-      <span>
-        Publication date
-        <label class='switch'>
-          <input type='checkbox' id='order' onclick='changeOrder()'>
-          <span class='slider round'></span>&nbsp;
-        </label>
-        Chronological
-      </span>
-      <details open>
-        <summary>I have read...</summary>
-        <button class="blockButton" onclick='showNone()'>Nothing</button> - <button class="blockButton"
-          onclick='showAll()'>Everything</button><br>
-        <details>
-          <summary>Collections</summary>
+            <tr>
+              <td></td>
+              <td>
+                <label class="switch">
+                  <input type="checkbox" id="lanes" onclick="changeLanes()" />
+                  <span class="slider round"></span>&nbsp;
+                </label>
+              </td>
+              <td>timelines</td>
+            </tr>
+          </table>
+        </small>
 
-          {% for collectionGroup in Collections %}
-          <details>
-
-            <summary><b>{{collectionGroup.name}}</b></summary>
-
-            {% for collection in collectionGroup.Groups %}
-            <details>
-              <summary>
-                <input type='checkbox' class='checkRoot' id='check_{{collection.id}}'
-                  onclick='setChildren("{{collection.id}}")' data-children='{{collection.childdata}}' />
-                <label for='check_col_{{collection.index}}'>{{collection.name}}</label><br>
-              </summary>
-
-              {% for issue in collection.Issues %}
-              <input type='checkbox' class='check_{{issue.id}}' id='check_coll_{{collection.index}}_{{issue.id}}'
-                onclick='setChecked("check_coll_{{collection.index}}_", "{{issue.id}}")' />
-              <label for='check_coll_{{collection.index}}_{{issue.id}}'>{{issue.body}}</label><br>
-              {% endfor %}
-
-            </details>
-            {% endfor %}
-
-          </details>
-          {% endfor %}
-
-        </details>
-        <details>
-          <summary>Story Threads</summary>
-
-          {% for threadGroup in Threads %}
-          <details>
-
-            <summary>
-              <b>{{threadGroup.name}}</b>
-            </summary>
-
-            {% for thread in threadGroup.Groups %}
-            <details>
-              <summary>
-
-                <input type='checkbox' class='checkRoot' id='check_{{thread.id}}' onclick='setChildren("{{thread.id}}")'
-                  data-children='{{thread.childdata}}' />
-                <label for='check_{{thread.id}}'>
-                  <div class="{{thread.id}} thread_marker"></div>{{thread.name}}
-                </label><br>
-              </summary>
-
-              {% for issue in thread.Issues %}
-              <input type='checkbox' class='check_{{issue.id}}' id='check_thread_{{issue.id}}'
-                onclick='setChecked("check_thread_", "{{issue.id}}")' />
-              <label for='check_thread_{{issue.id}}'>{{issue.body}}</label><br>
-              {% endfor %}
-
-            </details>
-            {% endfor %}
-
-          </details>
-          {% endfor %}
-
-        </details>
-        <details>
-          <summary>Individual issues</summary>
-
-          {% for issue in Issues %}
-          <input type='checkbox' class='check_issue check_{{issue.id}}' id='check_issue_{{issue.id}}'
-            data-hash="{{issue.hash}}" onclick='setChecked("check_issue_", "{{issue.id}}")' />
-          <label for='check_issue_{{issue.id}}'>{{issue.body}}</label><br>
-          {% endfor %}
-
-        </details>
-      </details>
-      <div class='entity_hidden {{AllIssues}}'>
         <details open>
-          <summary>Highlight...</summary>
-          <button class="blockButton" onclick='highlightNone()'>Clear Highlights</button>
+          <summary>I have read...</summary>
+          <button class="blockButton" onclick="showNone()">Nothing</button> -
+          <button class="blockButton" onclick="showAll()">Everything</button
+          ><br />
+          <details>
+            <summary>Collections</summary>
 
-          {% for entityGroup in EntityGroups %}
-          <div class='entity_hidden {{entityGroup.issues}}'>
-            <details open>
-              <summary>{{entityGroup.name}}</summary>
+            {% for collectionGroup in Collections %}
+            <details>
+              <summary><b>{{collectionGroup.name}}</b></summary>
 
-              {% for entity in entityGroup.Entities %}
-              <div class='entity_hidden {{entity.issues}}' title="{{entity.notes}}">
-                <input type='checkbox' class='check_entity' id='check_{{entity.id}}' onclick='setPushed("{{entity.id}}")'>
-                <label for='check_{{entity.id}}'>{{entity.name}} <span class="small">({{entity.count}})</span></label><br>
-              </div>
+              {% for collection in collectionGroup.Groups %}
+              <details>
+                <summary>
+                  <input
+                    type="checkbox"
+                    class="checkRoot"
+                    id="check_{{collection.id}}"
+                    onclick='setChildren("{{collection.id}}")'
+                    data-children="{{collection.childdata}}"
+                  />
+                  <label for="check_col_{{collection.index}}"
+                    >{{collection.name}}</label
+                  ><br />
+                </summary>
+
+                {% for issue in collection.Issues %}
+                <input
+                  type="checkbox"
+                  class="check_{{issue.id}}"
+                  id="check_coll_{{collection.index}}_{{issue.id}}"
+                  onclick='setChecked("check_coll_{{collection.index}}_", "{{issue.id}}")'
+                />
+                <label for="check_coll_{{collection.index}}_{{issue.id}}"
+                  >{{issue.body}}</label
+                ><br />
+                {% endfor %}
+              </details>
               {% endfor %}
-
             </details>
-          </div>
-          {% endfor %}
+            {% endfor %}
+          </details>
+          <details>
+            <summary>Story Threads</summary>
 
+            {% for threadGroup in Threads %}
+            <details>
+              <summary>
+                <b>{{threadGroup.name}}</b>
+              </summary>
+
+              {% for thread in threadGroup.Groups %}
+              <details>
+                <summary>
+                  <input
+                    type="checkbox"
+                    class="checkRoot"
+                    id="check_{{thread.id}}"
+                    onclick='setChildren("{{thread.id}}")'
+                    data-children="{{thread.childdata}}"
+                  />
+                  <label for="check_{{thread.id}}">
+                    <div class="{{thread.id}} thread_marker"></div>
+                    {{thread.name}} </label
+                  ><br />
+                </summary>
+
+                {% for issue in thread.Issues %}
+                <input
+                  type="checkbox"
+                  class="check_{{issue.id}}"
+                  id="check_thread_{{issue.id}}"
+                  onclick='setChecked("check_thread_", "{{issue.id}}")'
+                />
+                <label for="check_thread_{{issue.id}}">{{issue.body}}</label
+                ><br />
+                {% endfor %}
+              </details>
+              {% endfor %}
+            </details>
+            {% endfor %}
+          </details>
+          <details>
+            <summary>Individual issues</summary>
+
+            {% for issue in Issues %}
+            <input
+              type="checkbox"
+              class="check_issue check_{{issue.id}}"
+              id="check_issue_{{issue.id}}"
+              data-hash="{{issue.hash}}"
+              onclick='setChecked("check_issue_", "{{issue.id}}")'
+            />
+            <label for="check_issue_{{issue.id}}">{{issue.body}}</label><br />
+            {% endfor %}
+          </details>
         </details>
+        <div class="entity_hidden {{AllIssues}}">
+          <details open>
+            <summary>Highlight...</summary>
+            <button class="blockButton" onclick="highlightNone()">
+              Clear Highlights
+            </button>
+
+            {% for entityGroup in EntityGroups %}
+            <div class="entity_hidden {{entityGroup.issues}}">
+              <details open>
+                <summary>{{entityGroup.name}}</summary>
+
+                {% for entity in entityGroup.Entities %}
+                <div
+                  class="entity_hidden {{entity.issues}}"
+                  title="{{entity.notes}}"
+                >
+                  <input
+                    type="checkbox"
+                    class="check_entity"
+                    id="check_{{entity.id}}"
+                    onclick='setPushed("{{entity.id}}")'
+                  />
+                  <label for="check_{{entity.id}}"
+                    >{{entity.name}}
+                    <span class="small">({{entity.count}})</span></label
+                  ><br />
+                </div>
+                {% endfor %}
+              </details>
+            </div>
+            {% endfor %}
+          </details>
+        </div>
+
+        <div class="spacer"></div>
+
+        <div class="menuFooter">
+          <span>
+            <a
+              href="https://ko-fi.com/benjymous"
+              title="Donate on ko-fi"
+              target="_blank"
+              ><img src="img/kofi.svg"
+            /></a>
+            <a
+              href="https://www.amazon.co.uk/hz/wishlist/ls/1TPNWT6HBPTYZ?ref_=wl_share"
+              target="_blank"
+              title="My Amazon Wishlist"
+              ><img src="img/amazon.svg"
+            /></a>
+            <a
+              href="https://twitter.com/benjymous"
+              title="Follow me on Twitter"
+              target="_blank"
+              ><img src="img/twitter.svg"
+            /></a>
+            <a
+              href="https://www.reddit.com/r/Sandman/comments/wdr1r0/announcing_despoil_the_hopefully_less_spoilery/"
+              title="Discuss on reddit"
+              target="_blank"
+              ><img src="img/reddit.svg"
+            /></a>
+            <a
+              href="https://github.com/benjymous/despoil"
+              title="Contribute on github"
+              target="_blank"
+              ><img src="img/github.svg"
+            /></a>
+          </span>
+          <div class="footerDate">
+            Last updated: {{ "now" | time_zone: 'Europe/London' | date:
+            "%Y-%b-%d %H:%M" }}
+          </div>
+        </div>
       </div>
+      <div class="container">
+        <div class="scroll-marker"></div>
+        <div id="main" class="box">
+          {% for item in Items %} {% case item.type %} {% when "Intro" %}
 
-      <div class="spacer"></div>
+          <span class="intro" id="intro_{{item.id}}"
+            >{{item.body}}<span class="right"
+              ><button class="blockButton" onclick='hideIntro("{{item.id}}")'>
+                Hide
+              </button></span
+            ></span
+          >
 
-      <div class="menuFooter">
-        <span>
-          <a href="https://ko-fi.com/benjymous" title="Donate on ko-fi" target="_blank"><img src="img/kofi.svg"></a>
-          <a href="https://www.amazon.co.uk/hz/wishlist/ls/1TPNWT6HBPTYZ?ref_=wl_share" target="_blank"
-            title="My Amazon Wishlist"><img src="img/amazon.svg"></a>
-          <a href="https://twitter.com/benjymous" title="Follow me on Twitter" target="_blank"><img
-              src="img/twitter.svg"></a>
-          <a href="https://www.reddit.com/r/Sandman/comments/wdr1r0/announcing_despoil_the_hopefully_less_spoilery/"
-            title="Discuss on reddit" target="_blank"><img src="img/reddit.svg"></a>
-          <a href="https://github.com/benjymous/despoil" title="Contribute on github" target="_blank"><img
-              src="img/github.svg"></a>
-        </span>
-        <div class="footerDate">Last updated: {{ "now" | time_zone: 'Europe/London' | date: "%Y-%b-%d %H:%M" }}</div>
+          {% when "Issue" %}
+          <div class="itemRow {{item.id}}_outer">
+            <button
+              class="top issueToggle {{item.threadkey}}_f {{item.id}}"
+              onclick='toggleIssue("{{item.id}}")'
+            >
+              {{item.subtitle}}
+            </button>
+          </div>
+
+          {% when "Item" %}
+
+          <div class="itemRow {{item.id}}_outer hidden">
+            <div class="{{item.dateclass}}" title="{{item.dateval}}">
+              {{item.date}}
+            </div>
+
+            {% if item.slim %}
+
+            <div
+              class="event slim {{item.threadkey}} {{item.issueLaneId}}  {{item.id}} {{item.entities}}"
+            >
+              <div class="itemSubtitle">{{item.subtitle}}</div>
+              <span class="itemBody">{{item.body}}</span>
+            </div>
+
+            {% else %}
+
+            <div
+              class="event {{item.threadkey}} {{item.issueLaneId}} {{item.id}} {{item.entities}}"
+            >
+              <div class="itemSubtitle">{{item.subtitle}}</div>
+              <span class="itemBody">{{item.body}}</span>
+            </div>
+
+            {% endif %}
+          </div>
+
+          {% when "Date" %}
+
+          <div class="dateMarker hidden {{item.entities}}">
+            <div>{{item.body}}</div>
+          </div>
+
+          {% endcase %} {% endfor %}
+        </div>
       </div>
-
     </div>
-    <div class='container'>
-      <div class='scroll-marker'></div>
-      <div id='main' class='box'>
-
-        {% for item in Items %}
-
-        {% case item.type %}
-
-        {% when "Intro" %}
-
-        <span class='intro' id='intro_{{item.id}}'>{{item.body}}<span class='right'><button class="blockButton"
-              onclick='hideIntro("{{item.id}}")'>Hide</button></span></span>
-
-        {% when "Issue" %}
-        <div class='itemRow {{item.id}}_outer'>
-          <button class='top issueToggle {{item.threadkey}} {{item.id}}' onclick='toggleIssue("{{item.id}}")'>
-            {{item.subtitle}}
-          </button>
-        </div>
-
-        {% when "Item" %}
-
-
-        <div class='itemRow {{item.id}}_outer hidden'>
-          <div class='{{item.dateclass}}' title='{{item.dateval}}'>{{item.date}}</div>
-
-          {% if item.slim %}
-
-          <div class='event slim {{item.threadkey}} {{item.id}} {{item.entities}}'>
-            <div class='itemSubtitle'>{{item.subtitle}}</div>
-            <span class='itemBody'>{{item.body}}</span>
-          </div>
-
-          {% else %}
-
-          <div class='event {{item.threadkey}} {{item.id}} {{item.entities}}'>
-            <div class='itemSubtitle'>{{item.subtitle}}</div>
-            <span class='itemBody'>{{item.body}}</span>
-          </div>
-
-          {% endif %}
-
-        </div>
-
-
-
-        {% when "Date" %}
-
-        <div class='dateMarker hidden {{item.entities}}'>
-          <div>
-            {{item.body}}
-          </div>
-        </div>
-
-        {% endcase %}
-
-        {% endfor %}
-
-      </div>
-    </div>
-  </div>
-</body>
-
+  </body>
 </html>

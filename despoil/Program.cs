@@ -221,7 +221,7 @@ foreach (var entry in entries)
         var evBody = "";
         var slimEvent = ev.StartsWith("-");
 
-        if (ev.StartsWith("## ") || (ev.StartsWith("-# ")))
+        if (ev.StartsWith("## ") || ev.StartsWith("-# "))
         {
             var bits = ev.Split(':');
             dateStr = bits[0].Substring(2);
@@ -412,6 +412,7 @@ foreach (var entry in entries)
             id = thread != "--" ? issueId : Util.MakeId(evBody.Trim()),
             body = evBody.Trim(),
             subtitle = $"{entryLines[3]} - {issueTitle}",
+            issueLaneGroup = entryLines[1],
             threadkey = entryThreadKey,
             dateval = currentDate,
             date = dateStr.Trim(),
@@ -479,7 +480,10 @@ foreach (var thread in threads)
 
     var childKeys = string.Join(",", Enumerable.Range(0, thread.Value.Count).Select(i => $"{key}_{i}"));
 
-    colourStyles.Add($".{key} {{ border-color: {Util.Rainbow(threads.Count + 5, threadIdx++)}; }} ");
+    var color = Util.Rainbow(threads.Count + 5, threadIdx++);
+
+    colourStyles.Add($".{key} {{ border-color: {color}; }} ");
+    colourStyles.Add($".{key}_f {{ border-color: {color}; background: {color}22; }} ");
 
     int idx = 0;
     threadData[groupName].Add(new IssueGroup
@@ -517,11 +521,6 @@ var orderStyles = eventDates.Select(x => $".chron :nth-child({x.Item1}) {{ order
 
 var reverseAlias = entityAlias.Where(kvp => kvp.Key[0].IsUppercase()).GroupBy(x => Util.MoveThe(x.Value), x => Util.MoveThe(x.Key));
 var entityDict = entityData.ToDictionary(e => e.name, e => e);
-
-// foreach (var kvp in entityAlias)
-// {
-//     Console.WriteLine(kvp.Key + " => " + kvp.Value);
-// }
 
 try
 {
@@ -578,6 +577,59 @@ foreach (var reverse in reverseAlias)
     if (!string.IsNullOrWhiteSpace(entityDict[reverse.Key].notes)) entityDict[reverse.Key].notes += "\n";
     entityDict[reverse.Key].notes += "( " + string.Join(", ", reverse) + " )";
 }
+
+//////////////////////////////////////
+
+Dictionary<string, string> laneDict = new();
+List<string> allLaneGroups = new();
+
+try
+{
+    var laneListIn = File.ReadAllLines("issues.lanes.txt").Select(line => line.Trim());
+    string currentGroup = "";
+    foreach (var line in laneListIn)
+    {
+        if (string.IsNullOrWhiteSpace(line)) continue;
+        if (line.StartsWith("::"))
+        {
+            currentGroup = line.Substring(2).Trim();
+        }
+        else
+        {
+            var title = line.Trim();
+            laneDict[title] = currentGroup;
+            if (!allLaneGroups.Contains(currentGroup)) allLaneGroups.Add(currentGroup);
+        }
+    }
+}
+catch { }
+
+
+
+foreach (var item in itemData)
+{
+    item.issueLane = laneDict.ContainsKey(item.issueLaneGroup) ? laneDict[item.issueLaneGroup] : "--";
+    item.issueLaneId = "Lane" + allLaneGroups.IndexOf(item.issueLane).ToString();
+}
+
+var groups = itemData.Select(i => i.issueLane).Distinct();
+
+List<String> issueListOut = new();
+
+foreach (var group in groups)
+{
+    issueListOut.Add("::" + group);
+
+    foreach (var v in itemData.Where(i => i.issueLane == group).Select(i => i.issueLaneGroup).Where(v => !string.IsNullOrWhiteSpace(v) && v != "--").Distinct())
+    {
+        issueListOut.Add(" " + v);
+    }
+
+    issueListOut.Add("");
+
+}
+
+File.WriteAllLines("issues.lanes.txt", issueListOut);
 
 //////////////////////////////////////
 
